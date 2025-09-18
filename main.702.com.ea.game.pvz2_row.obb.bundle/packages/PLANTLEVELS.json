@@ -1,0 +1,4238 @@
+{
+    "#comment": "Plant leveling data!  Beware ye all who enter here!",
+    "objects": [
+        {
+            "aliases": ["sunflower"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "SunflowerSunProduction",
+                        "SubType": "SunProducer",
+                        "Type": "Power",
+                        "Values": ["SunProducer50"]
+                    }
+                ],
+                "TypeName": "sunflower",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["sunshroom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [25]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "SunshroomGrowthStages",
+                        "SubType": "SunshroomGrowth",
+                        "Type": "Power",
+                        "Values": ["SunshroomGrowthLevel1"]
+                    }
+                ],
+                "TypeName": "sunshroom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["peashooter"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "SubType": "0",
+                        "Type": "ActionDamage",
+                        "Values": [20]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "peashooter",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["thymewarp"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "thymewarp",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["wallnut"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "AlmanacStatEntries": [
+                    {
+                        "LevelToUnlock": 0,
+                        "StatName": "Cost",
+                        "StatType": "suncost",
+                        "StatValue": "suncost0"
+                    }
+                ],
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "WallnutShield",
+                        "SubType": "Shield",
+                        "Type": "Power",
+                        "Values": ["Shield8000"]
+                    }
+                ],
+                "TypeName": "wallnut",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["intensivecarrot"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "intensivecarrot",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["bloomerang"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "bloomerang",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["cabbagepult"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "cabbagepult",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["potatomine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [25]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "potatomine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["iceburg"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "ActionExplodeType",
+                        "SubType": "0",
+                        "Values": ["enemy"]
+                    }
+                ],
+                "TypeName": "iceburg",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["gravebuster"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "gravebuster",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["bonkchoy"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "bonkchoy",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["twinsunflower"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "TwinsunSunProduction",
+                        "SubType": "SunProducer",
+                        "Type": "Power",
+                        "Values": ["SunProducer50"]
+                    }
+                ],
+                "TypeName": "twinsunflower",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["repeater"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "repeater",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["kernelpult"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "kernelpult",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["snapdragon"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "snapdragon",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["spikeweed"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "spikeweed",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["coconutcannon"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [400]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "coconutcannon",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["cherry_bomb"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "cherry_bomb",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["springbean"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "springbean",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["spikerock"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [250]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "spikerock",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["threepeater"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [300]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "threepeater",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["splitpea"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "splitpea",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["chilibean"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "chilibean",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["lightningreed"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "lightningreed",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["tallnut"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "TallnutShield",
+                        "SubType": "Shield",
+                        "Type": "Power",
+                        "Values": ["Shield12000"]
+                    }
+                ],
+                "TypeName": "tallnut",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["peapod"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "peapod",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["melonpult"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [325]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "melonpult",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["wintermelon"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [500]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "wintermelon",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["puffshroom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "puffshroom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["fumeshroom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "fumeshroom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["sunbean"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "sunbean",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["lilypad"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [25]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "lilypad",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["tanglekelp"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [25]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "tanglekelp",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["bowlingbulb"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "bowlingbulb",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["guacodile"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "guacodile",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["banana"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [500]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "banana",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["laser_bean"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "laser_bean",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["blover"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "blover",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["citron"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "citron",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["empea"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [25]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "empea",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["holonut"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "holonut",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["magnifyinggrass"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "magnifyinggrass",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["powerplant"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "powerplant",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["hotpotato"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "hotpotato",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["pepperpult"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "pepperpult",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["chardguard"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "chardguard",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["stunion"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [25]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "stunion",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["xshot"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "xshot",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["redstinger"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "redstinger",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["akee"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "akee",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["endurian"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "endurian",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["stallia"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "stallia",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["goldleaf"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [],
+                "TypeName": "goldleaf",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["phatbeet"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "phatbeet",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["celerystalker"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "celerystalker",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["sporeshroom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "sporeshroom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["garlic"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "garlic",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["primalpeashooter"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "primalpeashooter",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["primalwallnut"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "WallnutShield",
+                        "SubType": "Shield",
+                        "Type": "Power",
+                        "Values": ["Shield8000"]
+                    }
+                ],
+                "TypeName": "primalwallnut",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["perfumeshroom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "perfumeshroom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["primalsunflower"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "PrimalSunflowerSunProduction",
+                        "SubType": "SunProducer",
+                        "Type": "Power",
+                        "Values": ["SunProducer75"]
+                    }
+                ],
+                "TypeName": "primalsunflower",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["primalpotatomine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "primalpotatomine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["moonflower"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "moonflower",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["shadowshroom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "shadowshroom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["dusklobber"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "dusklobber",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["nightshade"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "nightshade",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["grimrose"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "grimrose",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["goldbloom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "goldbloom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["electriccurrant"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "electriccurrant",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["snowpea"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "snowpea",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["powerlily"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [60]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "powerlily",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["squash"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "squash",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["torchwood"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "TypeName": "torchwood",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["jalapeno"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "jalapeno",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["starfruit"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 200,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "starfruit",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["hypnoshroom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "hypnoshroom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["peanut"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "peanut",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["chomper"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "chomper",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["homingthistle"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [250]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "homingthistle",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["ghostpepper"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "ghostpepper",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["sweetpotato"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "sweetpotato",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["sapfling"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "sapfling",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["hurrikale"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "hurrikale",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["firepeashooter"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "firepeashooter",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["dandelion"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [275]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 150,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "dandelion",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["lavaguava"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "lavaguava",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["toadstool"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "toadstool",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["strawburst"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [400]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "strawburst",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["cactus"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "cactus",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["electricblueberry"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "electricblueberry",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["jackolantern"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [225]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "jackolantern",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["grapeshot"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "grapeshot",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["coldsnapdragon"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "coldsnapdragon",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["shrinkingviolet"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "shrinkingviolet",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["bloominghearts"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 150,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "bloominghearts",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["escaperoot"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Context": "Potatomine",
+                        "Name": "EscapeRoot_PotatoMineDamage",
+                        "SubType": "DamageRadius",
+                        "Type": "Power",
+                        "Values": ["PotatoMineDamageLvl1"]
+                    }
+                ],
+                "TypeName": "escaperoot",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["applemortar"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [250]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "applemortar",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["bombegranate"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 200,
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "bombegranate",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["imitater"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "imitater",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["wasabiwhip"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "wasabiwhip",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["magnetshroom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "magnetshroom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["explodeonut"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "explodeonut",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["aloe"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 150,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "aloe",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["marigold"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [],
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "TypeName": "marigold",
+                "UsesLeveling": false,
+                "LevelCap": 1
+            }
+        },
+        {
+            "aliases": ["kiwibeast"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "kiwibeast",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["missiletoe"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [500]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "missiletoe",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["parsnip"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "parsnip",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["witchhazel"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "witchhazel",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["hotdate"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 200,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "hotdate",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["caulipower"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [250]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "caulipower",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["solartomato"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 150,
+                "StringStats": [
+                    {
+                        "Name": "SolarTomatoSunProduction",
+                        "SubType": "SunProducer",
+                        "Type": "Power",
+                        "Values": ["SunProducer50"]
+                    }
+                ],
+                "TypeName": "solartomato",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["electricpeashooter"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "electricpeashooter",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["electricitea"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "electricitea",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["hollyknight"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "hollyknight",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["hollybarrierleaf"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "hollybarrierleaf",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["hollybarrierleafplantfood"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "hollybarrierleafplantfood",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["filamint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [100000]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "filamint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["peppermint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "peppermint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["wintermint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [100000]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "wintermint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["enlightenmint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [100000]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "enlightenmint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["reinforcemint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [100000]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "reinforcemint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["bombardmint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "bombardmint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["ailmint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [100000]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "ailmint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["enchantmint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [100000]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "enchantmint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["containmint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [100000]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "containmint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["enforcemint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "enforcemint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["armamint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "armamint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["concealmint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [10000]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "concealmint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["spearmint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "spearmint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["shadowpeashooter"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [],
+                "TypeName": "shadowpeashooter",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["poisonpeashooter"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "TypeName": "poisonpeashooter",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["slingpea"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "slingpea",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["appeasemint"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [100000]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "appeasemint",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["minipeashooter"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [25]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "minipeashooter",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["snappea"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "snappea",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["burnade"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "StringStats": [],
+                "TypeName": "burnade",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["zoybeanpod"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "zoybeanpod",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["dazeychain"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "dazeychain",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["blastberry"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "blastberry",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["pokra"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "pokra",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["imppear"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "imppear",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["pyrevine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "StringStats": [
+                    {
+                        "Context": "Normal",
+                        "Name": "PyreVine_WarmingRadius",
+                        "SubType": "WarmingRadius",
+                        "Type": "Power",
+                        "Values": ["PyreVineWarmingRadiusLvl1"]
+                    }
+                ],
+                "TypeName": "pyrevine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["pumpkin"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "StringStats": [
+                    {
+                        "Context": "Normal",
+                        "Name": "PumpkinShield",
+                        "SubType": "Shield",
+                        "Type": "Power",
+                        "Values": ["Shield8000"]
+                    }
+                ],
+                "TypeName": "pumpkin",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["icebloom"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "TypeName": "icebloom",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["ultomato"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [250]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 100,
+                "TypeName": "ultomato",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["dartichoke"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [225]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "dartichoke",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["gumnut"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 200,
+                "TypeName": "gumnut",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["shinevine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Context": "PhatbeetOuterPF",
+                        "Name": "Shinevine_PFSunProduction",
+                        "SubType": "SunProducer",
+                        "Type": "Power",
+                        "Values": ["SunProducer100"]
+                    }
+                ],
+                "TypeName": "shinevine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["tumbleweed"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "TypeName": "tumbleweed",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["puffball"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "TypeName": "puffball",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["stickybombrice"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [225]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "stickybombrice",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["olivepit"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "TypeName": "olivepit",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["murkadamia"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "AlmanacStatEntries": [
+                    {
+                        "LevelToUnlock": 0,
+                        "StatName": "Cost",
+                        "StatType": "suncost",
+                        "StatValue": "suncost0"
+                    }
+                ],
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "PlantfoodShield",
+                        "SubType": "Shield",
+                        "Type": "Power",
+                        "Values": ["Shield2000"]
+                    }
+                ],
+                "TypeName": "murkadamia",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["explodeovine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Context": "Normal",
+                        "Name": "ExplodeOVineShield",
+                        "SubType": "Shield",
+                        "Type": "Power",
+                        "Values": ["Shield1500"]
+                    }
+                ],
+                "TypeName": "explodeovine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["turkeypult"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "turkeypult",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["headbutter"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "headbutter",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["boingsetta"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "boingsetta",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["boomflower"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [350]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [],
+                "TypeName": "boomflower",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["hocus"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "TypeName": "hocus",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["gloomvine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "gloomvine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["draftodil"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "draftodil",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["pvine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "pvine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["inferno"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [200]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Context": "Normal",
+                        "Name": "Inferno_WarmingRadius",
+                        "SubType": "WarmingRadius",
+                        "Type": "Power",
+                        "Values": ["PyreVineWarmingRadiusLvl1"]
+                    }
+                ],
+                "TypeName": "inferno",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["solarsage"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "solarsage",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["powervine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "powervine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["noctarine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "noctarine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["noctarinecloud"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "noctarinecloud",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["heathseeker"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "heathseeker",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["iceweed"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "iceweed",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["tigergrass"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "tigergrass",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["teleportatomine"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [75]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "teleportatomine",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["buttercup"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [25]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "buttercup",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["blockoli"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [150]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "BlockoliShield",
+                        "SubType": "Shield",
+                        "Type": "Power",
+                        "Values": ["Shield8000"]
+                    }
+                ],
+                "TypeName": "blockoli",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["bramblebush"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [125]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Area",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "bramblebush",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["rhubarbarian"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [100]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "rhubarbarian",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["megagatling"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [400]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "megagatling",
+                "UsesLeveling": false
+            }
+        },
+        {
+            "aliases": ["levitater"],
+            "objclass": "PlantLevelStats",
+            "objdata": {
+                "FloatStats": [
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    }
+                ],
+                "LevelCap": 1,
+                "LevelCoins": [],
+                "LevelXP": [],
+                "PlantTier": [1],
+                "SeedPacketCost": 250,
+                "StringStats": [
+                    {
+                        "Name": "Range",
+                        "Values": [""]
+                    }
+                ],
+                "TypeName": "levitater",
+                "UsesLeveling": false
+            }
+        }
+    ],
+    "version": 1
+}
