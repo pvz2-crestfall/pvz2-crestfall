@@ -291,7 +291,7 @@
                     {
                         "Name": "ActionChillDuration",
                         "SubType": "0",
-                        "Values": [15]
+                        "Values": [30]
                     },
                     {
                         "Name": "ActionFreezeDuration",
