@@ -9,6 +9,14 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
                     }
                 ],
                 "LevelCap": 1,
@@ -35,6 +43,14 @@
                     {
                         "Name": "Cost",
                         "Values": [25]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
                     }
                 ],
                 "LevelCap": 1,
@@ -67,6 +83,26 @@
                         "SubType": "0",
                         "Type": "ActionDamage",
                         "Values": [20]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "PlantFoodDurationSeconds",
+                        "Values": [2]
                     }
                 ],
                 "LevelCap": 1,
@@ -91,6 +127,10 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [60]
                     }
                 ],
                 "LevelCap": 1,
@@ -161,6 +201,18 @@
                     {
                         "Name": "Cost",
                         "Values": [100]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "IntensiveCarrot_TargetHealth",
+                        "Values": [0.5]
                     }
                 ],
                 "LevelCap": 1,
@@ -185,6 +237,26 @@
                         "SubType": "0",
                         "Type": "ActionDamage",
                         "Values": [30]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Bloomerang_HitCount",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [450]
+                    },
+                    {
+                        "Name": "Bloomerang_PlantfoodProjectileCount",
+                        "Values": [16]
                     }
                 ],
                 "LevelCap": 1,
@@ -219,6 +291,38 @@
                         "Name": "ActionSplashDamage",
                         "SubType": "0",
                         "Values": [15]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [200]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [310]
+                    },
+                    {
+                        "Name": "PlantFoodPlayCount",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "ActionCooldownMin",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ActionCooldownMax",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -255,6 +359,10 @@
                     {
                         "Name": "Potatomine_ArmingTime",
                         "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
                     }
                 ],
                 "LevelCap": 1,
@@ -1177,6 +1285,34 @@
                     {
                         "Name": "Cost",
                         "Values": [0]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "PlantFoodDurationSeconds",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "Puffshroom_ExpirationDurationSeconds",
+                        "Values": [60]
                     }
                 ],
                 "LevelCap": 1,
@@ -1201,6 +1337,26 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "PlantFoodPlayCount",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [1500]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [40]
                     }
                 ],
                 "LevelCap": 1,
@@ -1225,6 +1381,30 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "Sunbean_SunPerHitpoint",
+                        "Values": [0.2]
+                    },
+                    {
+                        "Name": "Sunbean_MaxSunPerZombie",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Sunbean_MaxSunPerZombieOnPlantfoodBurst",
+                        "Values": [600]
                     }
                 ],
                 "LevelCap": 1,
@@ -1243,6 +1423,14 @@
                     {
                         "Name": "Cost",
                         "Values": [25]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -1261,6 +1449,34 @@
                     {
                         "Name": "Cost",
                         "Values": [25]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "TangleKelp_SlapDamage",
+                        "Values": [400]
+                    },
+                    {
+                        "Name": "TangleKelp_MaxNormalWaterKills",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "TangleKelp_MinPlantfoodWaterKills",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "TangleKelp_MaxPlantfoodWaterKills",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -1285,6 +1501,26 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageSmall",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "ActionDamageMedium",
+                        "Values": [120]
+                    },
+                    {
+                        "Name": "ActionDamageLarge",
+                        "Values": [180]
                     }
                 ],
                 "LevelCap": 1,
@@ -1309,6 +1545,26 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [150]
                     }
                 ],
                 "LevelCap": 1,
@@ -1333,6 +1589,26 @@
                     {
                         "Name": "Cost",
                         "Values": [500]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "Values": [1200]
+                    },
+                    {
+                        "Name": "ActionCooldownMin",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionCooldownMax",
+                        "Values": [20]
                     }
                 ],
                 "LevelCap": 1,
@@ -1357,6 +1633,22 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [1800]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [40]
                     }
                 ],
                 "LevelCap": 1,
@@ -1381,6 +1673,10 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -1405,6 +1701,30 @@
                     {
                         "Name": "PacketCooldown",
                         "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [350]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [800]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [220]
+                    },
+                    {
+                        "Name": "Citron_ChargeTimeMultiplier",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [2500]
                     }
                 ],
                 "LevelCap": 1,
@@ -1429,6 +1749,22 @@
                     {
                         "Name": "Cost",
                         "Values": [25]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "EMPeach_ActivationRadius",
+                        "Values": [200]
                     }
                 ],
                 "LevelCap": 1,
@@ -1447,6 +1783,22 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [2000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Infinut_DelayBeforeRegenFromDamage",
+                        "Values": [15]
                     }
                 ],
                 "LevelCap": 1,
@@ -1465,6 +1817,30 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [550]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [650]
+                    },
+                    {
+                        "Name": "MagnifyingGrass_SunMoneyPerShot",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "MagnifyingGrass_PlantFoodBeamDPS",
+                        "Values": [200]
                     }
                 ],
                 "LevelCap": 1,
@@ -1489,6 +1865,22 @@
                     {
                         "Name": "PacketCooldown",
                         "Values": [10]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "TileTurnip_FirstNonFreeCost",
+                        "Values": [250]
+                    },
+                    {
+                        "Name": "TileTurnip_NumberOfFreeTiles",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "TileTurnip_CostMultiplier",
+                        "Values": [2]
                     }
                 ],
                 "LevelCap": 1,
@@ -1506,6 +1898,22 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "HotPotato_ProximityDPS",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "HotPotato_CanRemoveOctopus",
                         "Values": [0]
                     }
                 ],
@@ -1531,6 +1939,26 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [310]
                     }
                 ],
                 "LevelCap": 1,
@@ -1555,6 +1983,22 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [1500]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [60]
+                    },
+                    {
+                        "Name": "ChardGuard_PushesPerLeaf",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -1573,6 +2017,22 @@
                     {
                         "Name": "Cost",
                         "Values": [25]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "Stunion_PoisonDPS",
+                        "Values": [0]
                     }
                 ],
                 "LevelCap": 1,
@@ -1597,6 +2057,26 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [650]
+                    },
+                    {
+                        "Name": "XShot_PlantFoodProjectileCount",
+                        "Values": [15]
                     }
                 ],
                 "LevelCap": 1,
@@ -1621,6 +2101,22 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "LeftActionDamage",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "CenterActionDamage",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -1645,6 +2141,34 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [60]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [450]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [310]
+                    },
+                    {
+                        "Name": "Akee_NormalProjectileBounceCount",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "Akee_PFProjectileBounceCount",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -1669,6 +2193,22 @@
                     {
                         "Name": "Cost",
                         "Values": [100]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [3000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [30]
                     }
                 ],
                 "LevelCap": 1,
@@ -1693,6 +2233,26 @@
                     {
                         "Name": "Cost",
                         "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Stallia_Knockback",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "Stallia_StallDuration",
+                        "Values": [12]
+                    },
+                    {
+                        "Name": "Stallia_PlantfoodStallDuration",
+                        "Values": [18]
                     }
                 ],
                 "LevelCap": 1,
@@ -1717,6 +2277,10 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [30]
                     }
                 ],
                 "LevelCap": 1,
@@ -1736,6 +2300,14 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -1760,6 +2332,22 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [1200]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "CeleryStalker_PlantFoodPlantsToSpawn",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -1784,6 +2372,26 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [1800]
                     }
                 ],
                 "LevelCap": 1,
@@ -1808,6 +2416,18 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [600]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
                     }
                 ],
                 "LevelCap": 1,
@@ -1832,6 +2452,30 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "ActionSplashDamagePF",
+                        "Values": [0]
                     }
                 ],
                 "LevelCap": 1,
@@ -1856,6 +2500,14 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [4000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -1882,6 +2534,14 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [20]
                     }
                 ],
                 "LevelCap": 1,
@@ -1906,6 +2566,14 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -1932,6 +2600,22 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [300]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "PrimalPotatoMine_ArmingTime",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -1956,6 +2640,22 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Moonflower_SunPerNeighbor",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "Moonflower_MaxSunProduction",
+                        "Values": [100]
                     }
                 ],
                 "LevelCap": 1,
@@ -1974,6 +2674,26 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "ShadowShroom_PoisonDPS",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "ShadowShroom_PoisonDuration",
+                        "Values": [30]
                     }
                 ],
                 "LevelCap": 1,
@@ -1998,6 +2718,34 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [310]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionSplashDamagePF",
+                        "Values": [300]
                     }
                 ],
                 "LevelCap": 1,
@@ -2022,6 +2770,46 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "ActionDamageUpgraded",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [600]
+                    },
+                    {
+                        "Name": "Nightshade_MeleeDamage",
+                        "Values": [200]
+                    },
+                    {
+                        "Name": "Nightshade_PFMeleeDamage",
+                        "Values": [600]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "ActionXVelocityPlantfood",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "ActionXVelocityUpgraded",
+                        "Values": [333]
                     }
                 ],
                 "LevelCap": 1,
@@ -2046,6 +2834,22 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Grimrose_SlapDamage",
+                        "Values": [600]
                     }
                 ],
                 "LevelCap": 1,
@@ -2070,6 +2874,10 @@
                     {
                         "Name": "Cost",
                         "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [75]
                     }
                 ],
                 "LevelCap": 1,
@@ -2088,6 +2896,30 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [200]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [48]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [80]
+                    },
+                    {
+                        "Name": "CurrantWallDamage",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "CurrantWallDamagePF",
+                        "Values": [80]
                     }
                 ],
                 "LevelCap": 1,
@@ -2177,6 +3009,10 @@
                     {
                         "Name": "PacketCooldown",
                         "Values": [60]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [175]
                     }
                 ],
                 "LevelCap": 1,
@@ -2235,6 +3071,22 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [2000]
+                    },
+                    {
+                        "Name": "ActionDamageExplosion",
+                        "Values": [450]
+                    },
+                    {
+                        "Name": "ActionDamageEaten",
+                        "Values": [10]
                     }
                 ],
                 "LevelCap": 1,
@@ -2254,6 +3106,14 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [35]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [1800]
                     }
                 ],
                 "LevelCap": 1,
@@ -2278,6 +3138,26 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [80]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [650]
                     }
                 ],
                 "LevelCap": 1,
@@ -2303,6 +3183,18 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "Hypnoshroom_HealPercentage",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
                     }
                 ],
                 "LevelCap": 1,
@@ -2327,6 +3219,26 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [4000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
                     }
                 ],
                 "LevelCap": 1,
@@ -2351,6 +3263,22 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Chomper_ChewTimeSeconds",
+                        "Values": [17]
+                    },
+                    {
+                        "Name": "Chomper_GobbleCapacity",
+                        "Values": [2]
                     }
                 ],
                 "LevelCap": 1,
@@ -2375,6 +3303,26 @@
                     {
                         "Name": "Cost",
                         "Values": [250]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
                     }
                 ],
                 "LevelCap": 1,
@@ -2399,6 +3347,26 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [160]
                     }
                 ],
                 "LevelCap": 1,
@@ -2423,6 +3391,18 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [4000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
                     }
                 ],
                 "LevelCap": 1,
@@ -2447,6 +3427,26 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionCooldownMax",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ActionCooldownMin",
+                        "Values": [2.85]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [310]
                     }
                 ],
                 "LevelCap": 1,
@@ -2471,6 +3471,18 @@
                     {
                         "Name": "Cost",
                         "Values": [100]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Hurrikale_BlowDuration",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "Hurrikale_ChillDuration",
+                        "Values": [8]
                     }
                 ],
                 "LevelCap": 1,
@@ -2495,6 +3507,38 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "ActionXVelocityPlasma",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [225]
+                    },
+                    {
+                        "Name": "ActionDamagePlasma",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "FirePeashooter_PercentChanceOfPlasmaPea",
+                        "Values": [0]
                     }
                 ],
                 "LevelCap": 1,
@@ -2519,6 +3563,22 @@
                     {
                         "Name": "Cost",
                         "Values": [275]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [100]
                     }
                 ],
                 "LevelCap": 1,
@@ -2544,6 +3604,26 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "LavaGuava_ExplosionDamage",
+                        "Values": [200]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [25]
                     }
                 ],
                 "LevelCap": 1,
@@ -2568,6 +3648,22 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Toadstool_PFAmountOfSunProducedPerZombie",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "Toadstool_ChewTimeSeconds",
+                        "Values": [30]
                     }
                 ],
                 "LevelCap": 1,
@@ -2592,6 +3688,18 @@
                     {
                         "Name": "Cost",
                         "Values": [400]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [310]
                     }
                 ],
                 "LevelCap": 1,
@@ -2616,6 +3724,34 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [60]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "Cactus_SpikeDamage",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Cactus_PFSpikeDamage",
+                        "Values": [20]
                     }
                 ],
                 "LevelCap": 1,
@@ -2640,6 +3776,30 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [45]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ElectricBlueberry_WeightTargetNormalZombie",
+                        "Values": [55]
+                    },
+                    {
+                        "Name": "ElectricBlueberry_WeightTargetOtherZombie",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "ElectricBlueberry_WeightTargetGargantuarZombie",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -2664,6 +3824,30 @@
                     {
                         "Name": "Cost",
                         "Values": [225]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "JackOLantern_FlamethrowerDPS",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "JackOLantern_GridLengthOfFlamethrower",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "GridItemDamage",
+                        "Values": [120]
                     }
                 ],
                 "LevelCap": 1,
@@ -2682,6 +3866,14 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [35]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [1800]
                     }
                 ],
                 "LevelCap": 1,
@@ -2706,6 +3898,14 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
                     }
                 ],
                 "LevelCap": 1,
@@ -2730,6 +3930,18 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ShrinkingViolet_DamageMultiplier",
+                        "Values": [2]
                     }
                 ],
                 "LevelCap": 1,
@@ -2754,6 +3966,22 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [310]
                     }
                 ],
                 "LevelCap": 1,
@@ -2779,6 +4007,22 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "EscapeRoot_TimeUntilArmed",
+                        "Values": [10]
                     }
                 ],
                 "LevelCap": 1,
@@ -2806,6 +4050,42 @@
                     {
                         "Name": "Cost",
                         "Values": [250]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [8]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "ActionStunDuration",
+                        "Values": [0.75]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "ActionSplashDamagePF",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [310]
+                    },
+                    {
+                        "Name": "ActionStunDurationPF",
+                        "Values": [0.5]
                     }
                 ],
                 "LevelCap": 1,
@@ -2830,6 +4110,18 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [35]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [1800]
+                    },
+                    {
+                        "Name": "GridItemDamage",
+                        "Values": [200]
                     }
                 ],
                 "LevelCap": 1,
@@ -2879,6 +4171,26 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [75]
+                    },
+                    {
+                        "Name": "WasabiWhip_TargetCount",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -2903,6 +4215,30 @@
                     {
                         "Name": "Cost",
                         "Values": [100]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "MagnetShroom_DestroyPulledObjectsTime",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "MagnetShroom_GridSquareRangeHeight",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "MagnetShroom_GridSquareRangeWidth",
+                        "Values": [7]
                     }
                 ],
                 "LevelCap": 1,
@@ -2921,6 +4257,18 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [3000]
                     }
                 ],
                 "LevelCap": 1,
@@ -2946,6 +4294,30 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Aloe_HealCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Aloe_TargetHPHealAmount",
+                        "Values": [500]
+                    },
+                    {
+                        "Name": "Aloe_PFTargetHPHealPercent",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -2984,6 +4356,34 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [2000]
+                    },
+                    {
+                        "Name": "KiwiBeast_GrowthStageOneDamage",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "KiwiBeast_GrowthStageTwoDamage",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "KiwiBeast_GrowthStageThreeDamage",
+                        "Values": [70]
+                    },
+                    {
+                        "Name": "KiwiBeast_PlantfoodDamage",
+                        "Values": [350]
                     }
                 ],
                 "LevelCap": 1,
@@ -3008,6 +4408,38 @@
                     {
                         "Name": "Cost",
                         "Values": [500]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "Values": [1200]
+                    },
+                    {
+                        "Name": "MissileToe_ChillDuration",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "MissileToe_FreezeDuration",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "ActionCooldownMin",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionCooldownMax",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "MissileToe_NumPlantFoodRockets",
+                        "Values": [4]
                     }
                 ],
                 "LevelCap": 1,
@@ -3032,6 +4464,22 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [80]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [300]
                     }
                 ],
                 "LevelCap": 1,
@@ -3056,6 +4504,42 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [1200]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [2400]
+                    },
+                    {
+                        "Name": "ActionCooldownMin",
+                        "Values": [17.25]
+                    },
+                    {
+                        "Name": "ActionCooldownMax",
+                        "Values": [18.25]
+                    },
+                    {
+                        "Name": "WitchHazel_BasicTransformationLevel",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "WitchHazel_PlantfoodTransformationLevel",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -3080,6 +4564,22 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [2000]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [1000]
                     }
                 ],
                 "LevelCap": 1,
@@ -3105,6 +4605,34 @@
                     {
                         "Name": "Cost",
                         "Values": [250]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [45]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Caulipower_WeightTargetNormalZombie",
+                        "Values": [55]
+                    },
+                    {
+                        "Name": "Caulipower_WeightTargetOtherZombie",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "Caulipower_WeightTargetGargantuarZombie",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Caulipower_HealPercentage",
+                        "Values": [0.5]
                     }
                 ],
                 "LevelCap": 1,
@@ -3129,6 +4657,34 @@
                     {
                         "Name": "Cost",
                         "Values": [100]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [3000]
+                    },
+                    {
+                        "Name": "SolarTomato_SolarFlareStunDuration",
+                        "Values": [8]
+                    },
+                    {
+                        "Name": "SolarTomato_SolarFlareDamage",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "SolarTomato_ExplosionWidth",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "SolarTomato_ExplosionHeight",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -3156,6 +4712,62 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfoodProjectile",
+                        "Values": [350]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfoodSubProjectile",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [180]
+                    },
+                    {
+                        "Name": "ActionXVelocityPF",
+                        "Values": [450]
+                    },
+                    {
+                        "Name": "ActionXVelocityPFSub",
+                        "Values": [250]
+                    },
+                    {
+                        "Name": "ElectricPeashooter_BoltDamage",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ElectricPeashooter_BoltCount",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "ElectricPeashooter_PFProjectileSpawnCount",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ElectricPeashooter_PFSubProjectileSpawnCount",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "ElectricPeashooter_BoltRange",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "ElectricPeashooter_BoltFrequency",
+                        "Values": [0.5]
                     }
                 ],
                 "LevelCap": 1,
@@ -3180,6 +4792,50 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ActionDamageExplosion",
+                        "Values": [950]
+                    },
+                    {
+                        "Name": "Electricitea_BoltRange",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "ActionCooldownMax",
+                        "Values": [0.5]
+                    },
+                    {
+                        "Name": "ActionCooldownMaxPF",
+                        "Values": [0.1]
+                    },
+                    {
+                        "Name": "Electricitea_ElectricBurstNumBounces",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "Electricitea_ElectricBurstBoltCount",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [570]
                     }
                 ],
                 "LevelCap": 1,
@@ -3205,6 +4861,54 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [3000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Holly_AttackDamage",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "Holly_ProjectileDamage",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "Holly_ProjectileDamagePF",
+                        "Values": [200]
+                    },
+                    {
+                        "Name": "Holly_Knockback",
+                        "Values": [64]
+                    },
+                    {
+                        "Name": "Holly_KnockbackPF",
+                        "Values": [64]
+                    },
+                    {
+                        "Name": "Holly_BarrierLeafHitpoints",
+                        "Values": [1500]
+                    },
+                    {
+                        "Name": "Holly_BarrierLeafDamage",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "Holly_BarrierLeafHitpointsPF",
+                        "Values": [2500]
+                    },
+                    {
+                        "Name": "Holly_BarrierLeafDamagePF",
+                        "Values": [40]
                     }
                 ],
                 "LevelCap": 1,
@@ -3228,6 +4932,18 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [3000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "StartingCooldown",
                         "Values": [0]
                     }
                 ],
@@ -3253,6 +4969,18 @@
                     {
                         "Name": "Cost",
                         "Values": [0]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [3000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [0]
                     }
                 ],
                 "LevelCap": 1,
@@ -3277,6 +5005,38 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [100000]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Filamint_PlantLifetime",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "Filamint_NumShotBounces",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "Filamint_BounceDamagePercent",
+                        "Values": [0.5]
+                    },
+                    {
+                        "Name": "Filamint_BounceDelay",
+                        "Values": [0.5]
+                    },
+                    {
+                        "Name": "Filamint_DecayDelay",
+                        "Values": [0.5]
                     }
                 ],
                 "LevelCap": 1,
@@ -3301,6 +5061,30 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [300]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Peppermint_PlantLifetime",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "Peppermint_FireDuration",
+                        "Values": [3.5]
+                    },
+                    {
+                        "Name": "Peppermint_FireDamageTick",
+                        "Values": [0.49]
+                    },
+                    {
+                        "Name": "Peppermint_FireDamagePerTick",
+                        "Values": [100]
                     }
                 ],
                 "LevelCap": 1,
@@ -3325,6 +5109,22 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [100000]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Wintermint_PlantLifetime",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Wintermint_ChillDuration",
+                        "Values": [10]
                     }
                 ],
                 "LevelCap": 1,
@@ -3349,6 +5149,18 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [100000]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Enlightenmint_PlantLifetime",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -3374,6 +5186,22 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [100000]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Reinforcemint_PlantLifetime",
+                        "Values": [8]
+                    },
+                    {
+                        "Name": "Reinforcemint_KnockbackDistance",
+                        "Values": [90]
                     }
                 ],
                 "LevelCap": 1,
@@ -3398,6 +5226,22 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [300]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Bombardmint_PlantLifetime",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "Bombardmint_NumExplosions",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -3422,6 +5266,26 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [100000]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Ailmint_PlantLifetime",
+                        "Values": [11]
+                    },
+                    {
+                        "Name": "Ailmint_PoisonDuration",
+                        "Values": [12]
+                    },
+                    {
+                        "Name": "Ailmint_PoisonDamage",
+                        "Values": [50]
                     }
                 ],
                 "LevelCap": 1,
@@ -3446,6 +5310,26 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [100000]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Enchantmint_PlantLifetime",
+                        "Values": [11]
+                    },
+                    {
+                        "Name": "Enchantmint_NumHypnotizeTargets",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "Enchantmint_HealPercentage",
+                        "Values": [0.5]
                     }
                 ],
                 "LevelCap": 1,
@@ -3470,6 +5354,22 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [100000]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Containmint_PlantLifetime",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Containmint_StunDuration",
+                        "Values": [4]
                     }
                 ],
                 "LevelCap": 1,
@@ -3494,6 +5394,22 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [300]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Enforcemint_PlantLifetime",
+                        "Values": [8]
+                    },
+                    {
+                        "Name": "Enforcemint_NumShrinkTargets",
+                        "Values": [10]
                     }
                 ],
                 "LevelCap": 1,
@@ -3518,6 +5434,34 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [300]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Armamint_PlantLifetime",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "Armamint_StunDuration",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "Armamint_NumProjectiles",
+                        "Values": [4]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "Values": [1200]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [1200]
                     }
                 ],
                 "LevelCap": 1,
@@ -3542,6 +5486,22 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [10000]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Concealmint_PlantLifetime",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "Concealmint_NumSwallowTargets",
+                        "Values": [6]
                     }
                 ],
                 "LevelCap": 1,
@@ -3566,6 +5526,26 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [300]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Spearmint_PlantLifetime",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "Spearmint_NumPlantsToSpawn",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Spearmint_LevelOfSpawnedPlants",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -3590,6 +5570,46 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "ActionDamageBoosted",
+                        "Values": [70]
+                    },
+                    {
+                        "Name": "ActionDamagePlantFood",
+                        "Values": [500]
+                    },
+                    {
+                        "Name": "ShadowPeashooter_PoweredAttackSlowDuration",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ShadowPeashooter_PoweredAttackSlowMinimumDuration",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "ShadowPeashooter_PoweredAttackDecayPerZombieHit",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "ShadowPeashooter_ShadowBoostedZombieSwallows",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
                     }
                 ],
                 "LevelCap": 1,
@@ -3610,6 +5630,78 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_MaxStacks",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_PoisonDPSPerStack",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_SpeedPercentDecreasePerStack",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_PoisonAndSlowDuration",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_PlantfoodPoisonDPS",
+                        "Values": [75]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_PlantfoodSpeedPercentDecrease",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_PlantfoodPoisonAndSlowDuration",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_PlantfoodKnockBackDistance",
+                        "Values": [60]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_PlantfoodKnockBackTime",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_PlantfoodKnockBackHeight",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_GridItemLifetime",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_GridItemPoisonAndSlowDuration",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_GridItemSpeedPercentDebuff",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "PoisonPeashooter_GridItemPoisonDPS",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
                     }
                 ],
                 "LevelCap": 1,
@@ -3629,6 +5721,46 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [8]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionStunDuration",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "ActionSplashDamagePF",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "ActionStunDurationPF",
+                        "Values": [0.5]
                     }
                 ],
                 "LevelCap": 1,
@@ -3654,6 +5786,34 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [100000]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [85]
+                    },
+                    {
+                        "Name": "Appeasemint_PlantLifetime",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "Appeasemint_NumberOfProjectiles",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "Appeasemint_NumberOfChildProjectiles",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageChildProjectiles",
+                        "Values": [100]
                     }
                 ],
                 "LevelCap": 1,
@@ -3678,6 +5838,22 @@
                     {
                         "Name": "Cost",
                         "Values": [25]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
                     }
                 ],
                 "LevelCap": 1,
@@ -3702,6 +5878,34 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "SnapPea_ChewTimeSeconds",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamageZombieHead",
+                        "Values": [400]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -3727,6 +5931,14 @@
                     {
                         "Name": "Cost",
                         "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
                     }
                 ],
                 "LevelCap": 1,
@@ -3746,6 +5958,30 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ZoybeanPod_ZombieLevel",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "ZoybeanPod_PlantFoodZombieLevel",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "ZoybeanPod_CycleTime",
+                        "Values": [18]
                     }
                 ],
                 "LevelCap": 1,
@@ -3770,6 +6006,74 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Reincarnation_WhiteActionDamage",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "Reincarnation_PinkActionDamage",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "Reincarnation_RedActionDamage",
+                        "Values": [60]
+                    },
+                    {
+                        "Name": "Reincarnation_WhiteResidualStun",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "Reincarnation_PinkResidualStun",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "Reincarnation_RedResidualStun",
+                        "Values": [4]
+                    },
+                    {
+                        "Name": "Reincarnation_WhiteCooldownMin",
+                        "Values": [1.25]
+                    },
+                    {
+                        "Name": "Reincarnation_WhiteCooldownMax",
+                        "Values": [1.5]
+                    },
+                    {
+                        "Name": "Reincarnation_PinkCooldownMin",
+                        "Values": [1.25]
+                    },
+                    {
+                        "Name": "Reincarnation_PinkCooldownMax",
+                        "Values": [1.5]
+                    },
+                    {
+                        "Name": "Reincarnation_RedCooldownMin",
+                        "Values": [1.25]
+                    },
+                    {
+                        "Name": "Reincarnation_RedCooldownMax",
+                        "Values": [1.5]
+                    },
+                    {
+                        "Name": "Reincarnation_WhitePuffXVelocity",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "Reincarnation_PinkPuffXVelocity",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "Reincarnation_RedPuffXVelocity",
                         "Values": [150]
                     }
                 ],
@@ -3796,6 +6100,46 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [200]
+                    },
+                    {
+                        "Name": "Blastberry_NormalBombletCount",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Blastberry_NormalBombletDamage",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Blastberry_NormalSplashRadius",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "Blastberry_PFBombletCount",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Blastberry_PFBombletDamage",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Blastberry_PFSplashRadius",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "Blastberry_PFGrenadeCount",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -3821,6 +6165,58 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [7]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [7]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [60]
+                    },
+                    {
+                        "Name": "ActionDamageProjectile",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [500]
+                    },
+                    {
+                        "Name": "FinalStrikeVelocity",
+                        "Values": [533]
+                    },
+                    {
+                        "Name": "PFStrikeVelocity",
+                        "Values": [533]
+                    },
+                    {
+                        "Name": "Pokra_StrikeSlowDuration",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "Pokra_FinalStrikeSlowDuration",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "Pokra_PFStrikeSlowDuration",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Pokra_TimeBetweenAttacks",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PlantFoodPlayCount",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -3846,6 +6242,22 @@
                     {
                         "Name": "Cost",
                         "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ImpPear_ImpIndigestion",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ImpPear_PFZombiesImped",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -3871,6 +6283,30 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PyreVine_FlamethrowerDPS",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "PyreVine_GridLengthOfFlamethrower",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "PyreVine_PFFlameDamage",
+                        "Values": [1800]
                     }
                 ],
                 "LevelCap": 1,
@@ -3899,6 +6335,18 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [12]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [12]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [4000]
                     }
                 ],
                 "LevelCap": 1,
@@ -3927,6 +6375,42 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "ActionChillDurationNormal",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "ActionFreezeDurationNormal",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "ActionChillDurationLocal",
+                        "Values": [8]
+                    },
+                    {
+                        "Name": "ActionFreezeDurationLocal",
+                        "Values": [7]
+                    },
+                    {
+                        "Name": "ActionDamageLocal",
+                        "Values": [200]
+                    },
+                    {
+                        "Name": "IceBloom_IceBlockHealth",
+                        "Values": [200]
                     }
                 ],
                 "LevelCap": 1,
@@ -3946,6 +6430,46 @@
                     {
                         "Name": "Cost",
                         "Values": [250]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [6.5]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [1800]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Ultomato_HitpointsUpgrade2",
+                        "Values": [400]
+                    },
+                    {
+                        "Name": "Ultomato_HitpointsUpgrade3",
+                        "Values": [500]
+                    },
+                    {
+                        "Name": "Ultomato_CostPerExistingPlant",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "Ultomato_BeamDPSUpgrade1",
+                        "Values": [350]
+                    },
+                    {
+                        "Name": "Ultomato_BeamDPSUpgrade2",
+                        "Values": [750]
+                    },
+                    {
+                        "Name": "Ultomato_BeamDPSUpgrade3",
+                        "Values": [1600]
                     }
                 ],
                 "LevelCap": 1,
@@ -3965,6 +6489,50 @@
                     {
                         "Name": "Cost",
                         "Values": [225]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [8.5]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [75]
+                    },
+                    {
+                        "Name": "ActionDamagePerfectPlantfood",
+                        "Values": [225]
+                    },
+                    {
+                        "Name": "ActionDamagePerfect",
+                        "Values": [225]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [750]
+                    },
+                    {
+                        "Name": "PerfectXVelocity",
+                        "Values": [850]
+                    },
+                    {
+                        "Name": "Dartichoke_OutOfAmmoSadSeconds",
+                        "Values": [3.25]
+                    },
+                    {
+                        "Name": "Dartichoke_MaxAmmo",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "Dartichoke_NormalBoostChance",
+                        "Values": [0.3]
                     }
                 ],
                 "LevelCap": 1,
@@ -3990,6 +6558,30 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [12]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [12]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Gumnut_BaseGumHealth",
+                        "Values": [8000]
+                    },
+                    {
+                        "Name": "Gumnut_ZombieGumHealth",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Gumnut_PFZombiesGummed",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -4009,6 +6601,34 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Shinevine_FlashDamage",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Shinevine_PFFlashDamage",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionStunDuration",
+                        "Values": [1.05]
+                    },
+                    {
+                        "Name": "ActionStunDurationPF",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ShineVine_SunProductionModifier",
+                        "Values": [25]
                     }
                 ],
                 "LevelCap": 1,
@@ -4100,6 +6720,22 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "Puffball_DecayPoisonDPS",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "StunDuration",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -4119,6 +6755,46 @@
                     {
                         "Name": "Cost",
                         "Values": [225]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StickyBombRice_CreatedBombTimer",
+                        "Values": [1.25]
+                    },
+                    {
+                        "Name": "StickyBombRice_CreatedBombExplodeRadius",
+                        "Values": [1.5]
+                    },
+                    {
+                        "Name": "StickyBombRice_CreatedBombBaseDamage",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "StickyBombRice_CreatedBombPropagationMultiplier",
+                        "Values": [0.15]
+                    },
+                    {
+                        "Name": "StickyBombRice_PlantfoodCreatedBombTimer",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "StickyBombRice_PlantfoodCreatedBombExplodeRadius",
+                        "Values": [1.5]
+                    },
+                    {
+                        "Name": "StickyBombRice_PlantfoodCreatedBombBaseDamage",
+                        "Values": [120]
+                    },
+                    {
+                        "Name": "StickyBombRice_PlantfoodCreatedBombPropagationMultiplier",
+                        "Values": [0.15]
                     }
                 ],
                 "LevelCap": 1,
@@ -4144,6 +6820,30 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [7]
+                    },
+                    {
+                        "Name": "OlivePit_PitCapacity",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "OlivePit_ChewTime",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "OlivePit_OilSpitRecharge",
+                        "Values": [7]
+                    },
+                    {
+                        "Name": "OlivePit_OilSpitDuration",
+                        "Values": [6]
                     }
                 ],
                 "LevelCap": 1,
@@ -4171,6 +6871,34 @@
                     {
                         "Name": "Cost",
                         "Values": [100]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [13]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [2500]
+                    },
+                    {
+                        "Name": "Murkadamia_MurkRegenerationDPS",
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "Murkadamia_MurkArmorMax",
+                        "Values": [2500]
+                    },
+                    {
+                        "Name": "Murkadamia_MurkArmorInitial",
+                        "Values": [1500]
+                    },
+                    {
+                        "Name": "Murkadamia_MurkReflectionDamage",
+                        "Values": [0.25]
                     }
                 ],
                 "LevelCap": 1,
@@ -4198,6 +6926,38 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [1500]
+                    },
+                    {
+                        "Name": "ExplodeOVine_PlantingExplosion",
+                        "Values": [900]
+                    },
+                    {
+                        "Name": "ExplodeOVine_Explosion",
+                        "Values": [1800]
+                    },
+                    {
+                        "Name": "ExplodeOVine_PFExplosion",
+                        "Values": [1800]
+                    },
+                    {
+                        "Name": "ExplodeOVine_ExplosionKnockbackRange",
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "ExplodeOVine_ExplosionKnockbackDistance",
+                        "Values": [50]
                     }
                 ],
                 "LevelCap": 1,
@@ -4226,6 +6986,34 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "PlantFoodDurationSeconds",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "Turkeypult_TurkeyLevel",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "Turkeypult_PlantfoodTurkeysToLaunch",
+                        "Values": [6]
                     }
                 ],
                 "LevelCap": 1,
@@ -4251,6 +7039,50 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [7]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [900]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "PlantFoodPlayCount",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "Headbutter_ButterChance",
+                        "Values": [0.1]
+                    },
+                    {
+                        "Name": "Headbutter_MinButterQuantity",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "Headbutter_MaxButterQuantity",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "Headbutter_ButterDuration",
+                        "Values": [8]
+                    },
+                    {
+                        "Name": "Headbutter_PFButterQuantity",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ActionDamageButter",
+                        "Values": [40]
                     }
                 ],
                 "LevelCap": 1,
@@ -4276,6 +7108,66 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionCooldownMax",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [1000]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [10000]
+                    },
+                    {
+                        "Name": "ActionChillDurationNormal",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionChillDurationPF",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Boingsetta_ZombieDamagePF",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "Boingsetta_KnockbackTime",
+                        "Values": [0.5]
+                    },
+                    {
+                        "Name": "Boingsetta_KnockbackTimePF",
+                        "Values": [0.5]
+                    },
+                    {
+                        "Name": "Boingsetta_KnockbackHeight",
+                        "Values": [130]
+                    },
+                    {
+                        "Name": "Boingsetta_KnockbackHeightPF",
+                        "Values": [130]
+                    },
+                    {
+                        "Name": "Boingsetta_KnockbackOffset",
+                        "Values": [75]
+                    },
+                    {
+                        "Name": "Boingsetta_KnockbackOffsetPF",
+                        "Values": [125]
                     }
                 ],
                 "LevelCap": 1,
@@ -4301,6 +7193,34 @@
                     {
                         "Name": "Cost",
                         "Values": [350]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "BoomFlower_NormalBalloonDamage",
+                        "Values": [575]
+                    },
+                    {
+                        "Name": "BoomFlower_NormalBalloonSplashDamage",
+                        "Values": [575]
+                    },
+                    {
+                        "Name": "BoomFlower_PFBalloonSplashDamage",
+                        "Values": [875]
+                    },
+                    {
+                        "Name": "BoomFlower_NormalRechargeSeconds",
+                        "Values": [3.25]
                     }
                 ],
                 "LevelCap": 1,
@@ -4321,6 +7241,30 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Hocus_TeleportRechargeTime",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Hocus_TeleportDamage",
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "Hocus_PFZombiesTeleported",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -4340,6 +7284,14 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [250]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -4365,6 +7317,58 @@
                     {
                         "Name": "Cost",
                         "Values": [100]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Draftodil_SlowdownPercentage",
+                        "Values": [0.5]
+                    },
+                    {
+                        "Name": "Draftodil_LightweightZombieFlickChance",
+                        "Values": [0.5]
+                    },
+                    {
+                        "Name": "Draftodil_PFLightweightZombieFlickChance",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "Draftodil_PFShots",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionCooldownMin",
+                        "Values": [1.35]
+                    },
+                    {
+                        "Name": "ActionCooldownMax",
+                        "Values": [1.5]
+                    },
+                    {
+                        "Name": "ActionStunDuration",
+                        "Values": [0.35]
+                    },
+                    {
+                        "Name": "ActionStunDurationPF",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [115]
                     }
                 ],
                 "LevelCap": 1,
@@ -4390,6 +7394,34 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "PVine_ActionDamageBonus",
+                        "Values": [1.5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "PlantFoodDurationSeconds",
+                        "Values": [2]
                     }
                 ],
                 "LevelCap": 1,
@@ -4415,6 +7447,38 @@
                     {
                         "Name": "Cost",
                         "Values": [200]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [22]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [22]
+                    },
+                    {
+                        "Name": "Inferno_TornadoDuration",
+                        "Values": [1.2]
+                    },
+                    {
+                        "Name": "Inferno_PFTornadoDuration",
+                        "Values": [3.2]
+                    },
+                    {
+                        "Name": "Inferno_CycloneZombieCap",
+                        "Values": [6]
                     }
                 ],
                 "LevelCap": 1,
@@ -4443,6 +7507,42 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [300]
+                    },
+                    {
+                        "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "SolarSageEnlightened_Infectivity",
+                        "Values": [0.1]
+                    },
+                    {
+                        "Name": "SolarSageEnlightened_InfectivityRange",
+                        "Values": [0.5]
+                    },
+                    {
+                        "Name": "SolarSageEnlightened_InfectivityCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "SolarSageEnlightened_SunProductionTimer",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "SolarSageEnlightened_SunProductionTimerCap",
+                        "Values": [60]
+                    },
+                    {
+                        "Name": "SolarSage_InfectivityPercentagePF",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -4468,6 +7568,42 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [250]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [55]
+                    },
+                    {
+                        "Name": "PlantFoodPlayCount",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "PowerVine_NetworkShots",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "PowerVine_NetworkedPlantfoodPlayCount",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "PowerVine_EmpBurstActivationRadius",
+                        "Values": [200]
                     }
                 ],
                 "LevelCap": 1,
@@ -4493,6 +7629,66 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "Noctarine_PoweredActionDamage",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "NoctarineCloud_ActionDamage",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "NoctarineCloud_PoweredActionDamage",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "NoctarineCloud_GasDamageBonus",
+                        "Values": [1.5]
+                    },
+                    {
+                        "Name": "NoctarineCloud_PoweredGasDamageBonus",
+                        "Values": [2.1]
+                    },
+                    {
+                        "Name": "NoctarineCloud_GasDuration",
+                        "Values": [10.5]
+                    },
+                    {
+                        "Name": "NoctarineCloud_PoweredGasDuration",
+                        "Values": [15.5]
+                    },
+                    {
+                        "Name": "NoctarineCloud_PoweredSlowDuration",
+                        "Values": [15.5]
+                    },
+                    {
+                        "Name": "NoctarineCloud_PoweredExplosionChance",
+                        "Values": [0.25]
+                    },
+                    {
+                        "Name": "NoctarineCloud_CorpseExplosionDamage",
+                        "Values": [0.1]
+                    },
+                    {
+                        "Name": "NoctarineCloud_CorpseExplosionGridSquareHeight",
+                        "Values": [1.25]
+                    },
+                    {
+                        "Name": "NoctarineCloud_CorpseExplosionGridSquareWidth",
+                        "Values": [1.25]
                     }
                 ],
                 "LevelCap": 1,
@@ -4517,6 +7713,18 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [3000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "StartingCooldown",
                         "Values": [0]
                     }
                 ],
@@ -4543,6 +7751,26 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "HeathSeeker_ActionDamagePiercing",
+                        "Values": [190]
+                    },
+                    {
+                        "Name": "HeathSeeker_ActionDamagePrimary",
+                        "Values": [560]
+                    },
+                    {
+                        "Name": "HeathSeeker_MaxTargets",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -4568,6 +7796,50 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "Iceweed_HitPointsUpgraded",
+                        "Values": [900]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Iceweed_PFBladeDamage",
+                        "Values": [190]
+                    },
+                    {
+                        "Name": "ActionChillDuration",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ActionFreezeDuration",
+                        "Values": [4]
+                    },
+                    {
+                        "Name": "Iceweed_PFSpikeDamage",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "Iceweed_PFBladeDistance",
+                        "Values": [9]
+                    },
+                    {
+                        "Name": "Iceweed_PFBladeKnockback",
+                        "Values": [9]
                     }
                 ],
                 "LevelCap": 1,
@@ -4593,6 +7865,54 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [7]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [7]
+                    },
+                    {
+                        "Name": "Tigergrass_TigerAttackDamage",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "Tigergrass_TigerPFAttackDamage",
+                        "Values": [122]
+                    },
+                    {
+                        "Name": "TigerGrass_TigerHealing",
+                        "Values": [70]
+                    },
+                    {
+                        "Name": "TigerGrass_TigerRegenTime",
+                        "Values": [6]
+                    },
+                    {
+                        "Name": "TigerGrass_GrowthTime",
+                        "Values": [25]
+                    },
+                    {
+                        "Name": "TigerGrass_TigerHealth",
+                        "Values": [525]
+                    },
+                    {
+                        "Name": "TigerGrass_TigerPFHealth",
+                        "Values": [1606]
+                    },
+                    {
+                        "Name": "TigerGrass_GlobalGrowthMultiplier",
+                        "Values": [1.75]
+                    },
+                    {
+                        "Name": "TigerGrass_PounceDamageMultiplier",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -4618,6 +7938,26 @@
                     {
                         "Name": "Cost",
                         "Values": [75]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "TeleportatoMine_ArmTime",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "TeleportatoMine_TeleportationUnitLimit",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -4643,6 +7983,42 @@
                     {
                         "Name": "Cost",
                         "Values": [25]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [900]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "Buttercup_ButterLifetime",
+                        "Values": [120]
+                    },
+                    {
+                        "Name": "Buttercup_PFButterLifetime",
+                        "Values": [150]
+                    },
+                    {
+                        "Name": "Buttercup_ButterConditionDuration",
+                        "Values": [8]
+                    },
+                    {
+                        "Name": "Buttercup_PFButterConditionDuration",
+                        "Values": [12]
                     }
                 ],
                 "LevelCap": 1,
@@ -4668,6 +8044,34 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [6000]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [95]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [285]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [12]
+                    },
+                    {
+                        "Name": "Blockoli_ShieldSmashStunDuration",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "Blockoli_ShieldSmashCooldown",
+                        "Values": [13]
                     }
                 ],
                 "LevelCap": 1,
@@ -4695,6 +8099,30 @@
                     {
                         "Name": "Cost",
                         "Values": [125]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [1500]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "PlantFoodDurationSeconds",
+                        "Values": [4]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [30]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [60]
+                    },
+                    {
+                        "Name": "BrambleBush_TrapNumber",
+                        "Values": [3]
                     }
                 ],
                 "LevelCap": 1,
@@ -4720,6 +8148,46 @@
                     {
                         "Name": "Cost",
                         "Values": [100]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [900]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "Rhubarbarian_InitialSmashDamage",
+                        "Values": [190]
+                    },
+                    {
+                        "Name": "ActionStunDuration",
+                        "Values": [0.75]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Rhubarbarian_LifespanTimer",
+                        "Values": [16]
+                    },
+                    {
+                        "Name": "Rhubarbarian_TimerPauseDuration",
+                        "Values": [0.5]
+                    },
+                    {
+                        "Name": "Rhubarbarian_LeapStunDuration",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "Rhubarbarian_InitialStunDuration",
+                        "Values": [5]
                     }
                 ],
                 "LevelCap": 1,
@@ -4745,6 +8213,34 @@
                     {
                         "Name": "Cost",
                         "Values": [400]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [733]
+                    },
+                    {
+                        "Name": "PlantFoodDurationSeconds",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "MegaGatling_ChanceToPF",
+                        "Values": [2]
                     }
                 ],
                 "LevelCap": 1,
@@ -4770,6 +8266,46 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Levitater_LevitateAttackCoolDown",
+                        "Values": [12]
+                    },
+                    {
+                        "Name": "Levitater_ZombieFloatTime",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Levitater_ZombieFloatTimePF",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Levitater_ChanceTo2ndLevitate",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "Levitater_ChanceToLevitatePF",
+                        "Values": [32]
+                    },
+                    {
+                        "Name": "Levitater_ChanceTo2ndLevitatePF",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "Levitater_FlickHeight",
+                        "Values": [-20]
                     }
                 ],
                 "LevelCap": 1,
