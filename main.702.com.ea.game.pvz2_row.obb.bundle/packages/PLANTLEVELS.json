@@ -122,7 +122,19 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [50]
+                        "Values": [75]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [16]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [16]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [4000]
                     }
                 ],
                 "LevelCap": 1,
@@ -167,6 +179,12 @@
                     {
                         "Name": "Cost",
                         "Values": [175]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "SubType": "0",
+                        "Type": "ActionDamage",
+                        "Values": [30]
                     }
                 ],
                 "LevelCap": 1,
@@ -190,7 +208,17 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [100]
+                        "Values": [175]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "SubType": "0",
+                        "Values": [40]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "SubType": "0",
+                        "Values": [15]
                     }
                 ],
                 "LevelCap": 1,
@@ -215,6 +243,18 @@
                     {
                         "Name": "Cost",
                         "Values": [25]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "Potatomine_ArmingTime",
+                        "Values": [10]
                     }
                 ],
                 "LevelCap": 1,
@@ -238,6 +278,29 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionChillDuration",
+                        "SubType": "0",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionFreezeDuration",
+                        "SubType": "0",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "ActionExplodeRadius",
+                        "SubType": "0",
                         "Values": [0]
                     }
                 ],
@@ -264,6 +327,18 @@
                     {
                         "Name": "Cost",
                         "Values": [0]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "Gravebuster_EatTime",
+                        "Values": [4]
                     }
                 ],
                 "LevelCap": 1,
@@ -287,7 +362,31 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [250]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [600]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "PlantFoodPlayCount",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "SubType": "1",
+                        "Type": "ActionDamage",
+                        "Values": [60]
+                    },
+                    {
+                        "Name": "ActionDamage",
+                        "SubType": "0",
+                        "Type": "ActionDamage",
+                        "Values": [25]
                     }
                 ],
                 "LevelCap": 1,
@@ -311,7 +410,19 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [100]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [0]
                     }
                 ],
                 "LevelCap": 1,
@@ -337,7 +448,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [200]
+                        "Values": [150]
                     }
                 ],
                 "LevelCap": 1,
@@ -1659,6 +1770,47 @@
                     {
                         "Name": "Cost",
                         "Values": [150]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
+                        "SubType": "0",
+                        "Type": "ActionDamage",
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "SubType": "3",
+                        "Type": "ActionDamage",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "SubType": "0",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "ActionXVelocityFreezing",
+                        "SubType": "2",
+                        "Type": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "SnowPea_PercentChanceOfFreezingPea",
+                        "Values": [0]
+                    },
+                    {
+                        "Name": "ActionDamageFreezing",
+                        "SubType": "2",
+                        "Type": "ActionDamage",
+                        "Values": [20]
                     }
                 ],
                 "LevelCap": 1,
