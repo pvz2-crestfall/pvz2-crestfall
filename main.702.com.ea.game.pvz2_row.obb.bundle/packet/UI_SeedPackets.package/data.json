@@ -1,0 +1,1786 @@
+{
+	"#split_label": true,
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768,
+			384
+		],
+		"format": 0
+	},
+	"subgroup": {
+		"UI_SeedPackets": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"IMAGE_UI_PACKETS_AILMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/ailmint.png",
+					"additional": {
+						"x": 15,
+						"y": 4
+					}
+				},
+				"IMAGE_UI_PACKETS_AKEE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/akee.png",
+					"additional": {
+						"x": 21,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_ALOE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/aloe.png",
+					"additional": {
+						"x": 13
+					}
+				},
+				"IMAGE_UI_PACKETS_APPEASEMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/appeasemint.png",
+					"additional": {
+						"x": 15,
+						"y": 20
+					}
+				},
+				"IMAGE_UI_PACKETS_APPLEMORTAR": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/applemortar.png",
+					"additional": {
+						"x": 21,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_ARMAMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/armamint.png",
+					"additional": {
+						"x": 13,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_BANANA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/banana.png",
+					"additional": {
+						"x": 18
+					}
+				},
+				"IMAGE_UI_PACKETS_BEACH": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/beach.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_BLASTBERRY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/blastberry.png",
+					"additional": {
+						"x": 14,
+						"y": 24
+					}
+				},
+				"IMAGE_UI_PACKETS_BLOCKOLI": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/blockoli.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_BLOOMERANG": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/bloomerang.png",
+					"additional": {
+						"x": 17,
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_BLOOMINGHEARTS": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/bloominghearts.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_BLOVER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/blover.png",
+					"additional": {
+						"x": 23,
+						"y": 21
+					}
+				},
+				"IMAGE_UI_PACKETS_BOINGSETTA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/boingsetta.png",
+					"additional": {
+						"x": 15,
+						"y": 11
+					}
+				},
+				"IMAGE_UI_PACKETS_BOMBARDMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/bombardmint.png",
+					"additional": {
+						"x": 14,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_BOMBEGRANATE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/bombegranate.png",
+					"additional": {
+						"x": 19,
+						"y": 2
+					}
+				},
+				"IMAGE_UI_PACKETS_BONKCHOY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/bonkchoy.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_BOOMFLOWER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/boomflower.png",
+					"additional": {
+						"x": 15,
+						"y": 18
+					}
+				},
+				"IMAGE_UI_PACKETS_BOOST": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/boost.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_BOWLINGBULB": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/bowlingbulb.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_BRAMBLEBUSH": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/bramblebush.png",
+					"additional": {
+						"x": 15,
+						"y": 36
+					}
+				},
+				"IMAGE_UI_PACKETS_BUTTERCUP": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/buttercup.png",
+					"additional": {
+						"x": 18
+					}
+				},
+				"IMAGE_UI_PACKETS_CABBAGEPULT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/cabbagepult.png",
+					"additional": {
+						"x": 14,
+						"y": 20
+					}
+				},
+				"IMAGE_UI_PACKETS_CACTUS": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/cactus.png",
+					"additional": {
+						"x": 16
+					}
+				},
+				"IMAGE_UI_PACKETS_CAULIPOWER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/caulipower.png",
+					"additional": {
+						"x": 15,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_CELERYSTALKER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/celerystalker.png",
+					"additional": {
+						"x": 15,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_CHARDGUARD": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/chardguard.png",
+					"additional": {
+						"x": 14,
+						"y": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_CHERRY_BOMB": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/cherry_bomb.png",
+					"additional": {
+						"x": 18
+					}
+				},
+				"IMAGE_UI_PACKETS_CHILIBEAN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/chilibean.png",
+					"additional": {
+						"x": 26,
+						"y": 2
+					}
+				},
+				"IMAGE_UI_PACKETS_CHOMPER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/chomper.png",
+					"additional": {
+						"x": 15,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_CITRON": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/citron.png",
+					"additional": {
+						"x": 21,
+						"y": 4
+					}
+				},
+				"IMAGE_UI_PACKETS_COCONUTCANNON": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/coconutcannon.png",
+					"additional": {
+						"x": 14,
+						"y": 11
+					}
+				},
+				"IMAGE_UI_PACKETS_COLDSNAPDRAGON": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/coldsnapdragon.png",
+					"additional": {
+						"x": 28
+					}
+				},
+				"IMAGE_UI_PACKETS_CONCEALMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/concealmint.png",
+					"additional": {
+						"x": 17,
+						"y": 2
+					}
+				},
+				"IMAGE_UI_PACKETS_CONTAINMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/containmint.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_COOLDOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/cooldown.png",
+					"additional": {
+						"x": 3,
+						"y": 8
+					}
+				},
+				"IMAGE_UI_PACKETS_COWBOY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/cowboy.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_DANDELION": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/dandelion.png",
+					"additional": {
+						"x": 28
+					}
+				},
+				"IMAGE_UI_PACKETS_DARK": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/dark.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_DARTICHOKE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/dartichoke.png",
+					"additional": {
+						"x": 17
+					}
+				},
+				"IMAGE_UI_PACKETS_DAZEYCHAIN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/dazeychain.png",
+					"additional": {
+						"x": 14,
+						"y": 4
+					}
+				},
+				"IMAGE_UI_PACKETS_DINO": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/dino.png",
+					"additional": {
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_DOTS_BOTTOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/dots_bottom.png",
+					"additional": {
+						"x": 13,
+						"y": 136
+					}
+				},
+				"IMAGE_UI_PACKETS_DOTS_LEFT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/dots_left.png",
+					"additional": {
+						"x": 13,
+						"y": 33
+					}
+				},
+				"IMAGE_UI_PACKETS_DOTS_RIGHT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/dots_right.png",
+					"additional": {
+						"x": 219,
+						"y": 74
+					}
+				},
+				"IMAGE_UI_PACKETS_DRAFTODIL": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/draftodil.png",
+					"additional": {
+						"x": 17,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_DUSKLOBBER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/dusklobber.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_EGYPT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/egypt.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_EIGHTIES": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/eighties.png",
+					"additional": {
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_ELECTRICBLUEBERRY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/electricblueberry.png",
+					"additional": {
+						"x": 16,
+						"y": 4
+					}
+				},
+				"IMAGE_UI_PACKETS_ELECTRICCURRANT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/electriccurrant.png",
+					"additional": {
+						"x": 24
+					}
+				},
+				"IMAGE_UI_PACKETS_ELECTRICITEA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/electricitea.png",
+					"additional": {
+						"x": 14,
+						"y": 20
+					}
+				},
+				"IMAGE_UI_PACKETS_ELECTRICPEASHOOTER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/electricpeashooter.png",
+					"additional": {
+						"x": 13
+					}
+				},
+				"IMAGE_UI_PACKETS_EMPEA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/empea.png",
+					"additional": {
+						"x": 34
+					}
+				},
+				"IMAGE_UI_PACKETS_EMPTY_PACKET": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/empty_packet.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_ENCHANTMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/enchantmint.png",
+					"additional": {
+						"x": 16,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_ENDURIAN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/endurian.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_ENFORCEMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/enforcemint.png",
+					"additional": {
+						"x": 15,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_ENLIGHTENMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/enlightenmint.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_ESCAPEROOT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/escaperoot.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_EXPLODEONUT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/explodeonut.png",
+					"additional": {
+						"x": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_EXPLODEOVINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/explodeovine.png",
+					"additional": {
+						"x": 15,
+						"y": 52
+					}
+				},
+				"IMAGE_UI_PACKETS_FILAMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/filamint.png",
+					"additional": {
+						"x": 14,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_FIREPEASHOOTER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/firepeashooter.png",
+					"additional": {
+						"x": 12,
+						"y": 18
+					}
+				},
+				"IMAGE_UI_PACKETS_FUMESHROOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/fumeshroom.png",
+					"additional": {
+						"x": 15,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_FUTURE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/future.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_GARLIC": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/garlic.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_GHOSTPEPPER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/ghostpepper.png",
+					"additional": {
+						"x": 27
+					}
+				},
+				"IMAGE_UI_PACKETS_GLOOMVINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/gloomvine.png",
+					"additional": {
+						"x": 14,
+						"y": 76
+					}
+				},
+				"IMAGE_UI_PACKETS_GOLDBLOOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/goldbloom.png",
+					"additional": {
+						"x": 15,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_GOLDLEAF": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/Goldleaf.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_GRAPESHOT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/grapeshot.png",
+					"additional": {
+						"x": 15,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_GRAVEBUSTER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/gravebuster.png",
+					"additional": {
+						"x": 16
+					}
+				},
+				"IMAGE_UI_PACKETS_GRIMROSE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/grimrose.png",
+					"additional": {
+						"x": 15,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_GUACODILE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/guacodile.png",
+					"additional": {
+						"x": 14,
+						"y": 29
+					}
+				},
+				"IMAGE_UI_PACKETS_GUMNUT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/gumnut.png",
+					"additional": {
+						"x": 13,
+						"y": 9
+					}
+				},
+				"IMAGE_UI_PACKETS_HEADBUTTER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/headbutter.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_HEATHSEEKER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/heathseeker.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_HOCUS": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/hocus.png",
+					"additional": {
+						"x": 15,
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_HOLLYKNIGHT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/hollyknight.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_HOLONUT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/holonut.png",
+					"additional": {
+						"x": 9,
+						"y": 7
+					}
+				},
+				"IMAGE_UI_PACKETS_HOMELESS": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/homeless.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_HOMINGTHISTLE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/homingthistle.png",
+					"additional": {
+						"x": 15,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_HOTDATE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/hotdate.png",
+					"additional": {
+						"x": 15,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_HOTPOTATO": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/hotpotato.png",
+					"additional": {
+						"x": 14,
+						"y": 8
+					}
+				},
+				"IMAGE_UI_PACKETS_HURRIKALE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/hurrikale.png",
+					"additional": {
+						"x": 13
+					}
+				},
+				"IMAGE_UI_PACKETS_HYPNOSHROOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/hypnoshroom.png",
+					"additional": {
+						"x": 19,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_ICEAGE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/iceage.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_ICEBLOOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/icebloom.png",
+					"additional": {
+						"x": 16,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_ICEBURG": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/iceburg.png",
+					"additional": {
+						"x": 20,
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_ICEWEED": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/iceweed.png",
+					"additional": {
+						"x": 14,
+						"y": 32
+					}
+				},
+				"IMAGE_UI_PACKETS_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/icon.png",
+					"additional": {
+						"x": 163,
+						"y": 9
+					}
+				},
+				"IMAGE_UI_PACKETS_ICON_PREMIUM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/icon_premium.png",
+					"additional": {
+						"x": 162,
+						"y": 8
+					}
+				},
+				"IMAGE_UI_PACKETS_ICYCURRANT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/icycurrant.png",
+					"additional": {
+						"x": 16,
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_IMITATER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/imitater.png",
+					"additional": {
+						"x": 21
+					}
+				},
+				"IMAGE_UI_PACKETS_IMPPEAR": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/imppear.png",
+					"additional": {
+						"x": 16
+					}
+				},
+				"IMAGE_UI_PACKETS_INFERNO": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/inferno.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_INTENSIVECARROT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/intensivecarrot.png",
+					"additional": {
+						"x": 37,
+						"y": 6
+					}
+				},
+				"IMAGE_UI_PACKETS_JACKOLANTERN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/jackolantern.png",
+					"additional": {
+						"x": 15,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_JALAPENO": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/jalapeno.png",
+					"additional": {
+						"x": 38
+					}
+				},
+				"IMAGE_UI_PACKETS_KERNELPULT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/kernelpult.png",
+					"additional": {
+						"x": 14,
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_KIWIBEAST": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/kiwibeast.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_LASER_BEAN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/laser_bean.png",
+					"additional": {
+						"x": 37,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_LAVAGUAVA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/lavaguava.png",
+					"additional": {
+						"x": 29,
+						"y": 2
+					}
+				},
+				"IMAGE_UI_PACKETS_LEVEL_TAB_BRONZE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/level_tab_bronze.png",
+					"additional": {
+						"x": 152,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_LEVEL_TAB_GOLD": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/level_tab_gold.png",
+					"additional": {
+						"x": 153,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_LEVEL_TAB_MASTERY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/level_tab_mastery.png",
+					"additional": {
+						"x": 146
+					}
+				},
+				"IMAGE_UI_PACKETS_LEVEL_TAB_SILVER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/level_tab_silver.png",
+					"additional": {
+						"x": 153,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_LEVITATER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/levitater.png",
+					"additional": {
+						"x": 15,
+						"y": 41
+					}
+				},
+				"IMAGE_UI_PACKETS_LIGHTNINGREED": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/lightningreed.png",
+					"additional": {
+						"x": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_LILYPAD": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/lilypad.png",
+					"additional": {
+						"x": 17,
+						"y": 31
+					}
+				},
+				"IMAGE_UI_PACKETS_LOCKED": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/locked.png",
+					"additional": {
+						"x": 149,
+						"y": 73
+					}
+				},
+				"IMAGE_UI_PACKETS_LOCK_SMALL": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/lock_small.png",
+					"additional": {
+						"x": 173,
+						"y": 49
+					}
+				},
+				"IMAGE_UI_PACKETS_LOSTCITY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/lostcity.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_MAGNETSHROOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/magnetshroom.png",
+					"additional": {
+						"x": 27
+					}
+				},
+				"IMAGE_UI_PACKETS_MAGNIFYINGGRASS": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/magnifyinggrass.png",
+					"additional": {
+						"x": 27,
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_MARIGOLD": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/marigold.png",
+					"additional": {
+						"x": 22,
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_MEGAGATLING": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/megagatling.png",
+					"additional": {
+						"x": 15,
+						"y": 12
+					}
+				},
+				"IMAGE_UI_PACKETS_MELONPULT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/Melonpult.png",
+					"additional": {
+						"x": 14,
+						"y": 20
+					}
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_BANNER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_banner.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_COLD": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_cold.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_DEFENSE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_defense.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_ELECTRICITY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_electricity.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_EXPLOSIVE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_explosive.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_FIRE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_fire.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_LOBBER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_lobber.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_MAGIC": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_magic.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_MELEE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_melee.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_PEASHOOTER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_peashooter.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_POISON": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_poison.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_SHADOW": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_shadow.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_SHARP": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_sharp.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_SLOW": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_slow.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_SUN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_sun.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MINTFAM_TRAP": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/mintfam_trap.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_MISSILETOE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/missiletoe.png",
+					"additional": {
+						"x": 14,
+						"y": 4
+					}
+				},
+				"IMAGE_UI_PACKETS_MODERNDAY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/modernday.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_MOONFLOWER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/moonflower.png",
+					"additional": {
+						"x": 14,
+						"y": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_MURKADAMIA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/murkadamia.png",
+					"additional": {
+						"x": 24,
+						"y": 28
+					}
+				},
+				"IMAGE_UI_PACKETS_NIGHTSHADE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/nightshade.png",
+					"additional": {
+						"x": 15,
+						"y": 2
+					}
+				},
+				"IMAGE_UI_PACKETS_NOCTARINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/noctarine.png",
+					"additional": {
+						"x": 14,
+						"y": 2
+					}
+				},
+				"IMAGE_UI_PACKETS_OLIVEPIT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/olivepit.png",
+					"additional": {
+						"x": 15,
+						"y": 26
+					}
+				},
+				"IMAGE_UI_PACKETS_PARSNIP": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/parsnip.png",
+					"additional": {
+						"x": 14,
+						"y": 7
+					}
+				},
+				"IMAGE_UI_PACKETS_PEANUT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/peanut.png",
+					"additional": {
+						"x": 18
+					}
+				},
+				"IMAGE_UI_PACKETS_PEAPOD": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/peapod.png",
+					"additional": {
+						"x": 17,
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_PEASHOOTER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/peashooter.png",
+					"additional": {
+						"x": 18,
+						"y": 10
+					}
+				},
+				"IMAGE_UI_PACKETS_PEPPERMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/peppermint.png",
+					"additional": {
+						"x": 15,
+						"y": 20
+					}
+				},
+				"IMAGE_UI_PACKETS_PEPPERPULT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/pepperpult.png",
+					"additional": {
+						"x": 13,
+						"y": 6
+					}
+				},
+				"IMAGE_UI_PACKETS_PERFUMESHROOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/perfumeshroom.png",
+					"additional": {
+						"x": 19,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_PHATBEET": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/phatbeet.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_PIRATE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/pirate.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_POISONPEASHOOTER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/poisonpeashooter.png",
+					"additional": {
+						"x": 14,
+						"y": 28
+					}
+				},
+				"IMAGE_UI_PACKETS_POKRA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/pokra.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_POTATOMINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/potatomine.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_POWERLILY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/powerlily.png",
+					"additional": {
+						"x": 18,
+						"y": 26
+					}
+				},
+				"IMAGE_UI_PACKETS_POWERPLANT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/powerplant.png",
+					"additional": {
+						"x": 25
+					}
+				},
+				"IMAGE_UI_PACKETS_POWERVINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/powervine.png",
+					"additional": {
+						"x": 14,
+						"y": 33
+					}
+				},
+				"IMAGE_UI_PACKETS_PRICE_TAB": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/price_tab.png",
+					"additional": {
+						"x": 139,
+						"y": 68
+					}
+				},
+				"IMAGE_UI_PACKETS_PRICE_TAB_PREMIUM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/price_tab_premium.png",
+					"additional": {
+						"x": 140,
+						"y": 68
+					}
+				},
+				"IMAGE_UI_PACKETS_PRICE_TAB_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/price_tab_selected.png",
+					"additional": {
+						"x": 139,
+						"y": 68
+					}
+				},
+				"IMAGE_UI_PACKETS_PRIMALPEASHOOTER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/primalpeashooter.png",
+					"additional": {
+						"x": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_PRIMALPOTATOMINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/primalpotatomine.png",
+					"additional": {
+						"x": 15,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_PRIMALSUNFLOWER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/primalsunflower.png",
+					"additional": {
+						"x": 14,
+						"y": 2
+					}
+				},
+				"IMAGE_UI_PACKETS_PRIMALWALLNUT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/primalwallnut.png",
+					"additional": {
+						"x": 18,
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_PUFFBALL": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/puffball.png",
+					"additional": {
+						"x": 15,
+						"y": 24
+					}
+				},
+				"IMAGE_UI_PACKETS_PUFFSHROOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/puffshroom.png",
+					"additional": {
+						"x": 23,
+						"y": 20
+					}
+				},
+				"IMAGE_UI_PACKETS_PUMPKIN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/pumpkin.png",
+					"additional": {
+						"x": 14,
+						"y": 25
+					}
+				},
+				"IMAGE_UI_PACKETS_PVINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/pvine.png",
+					"additional": {
+						"x": 15,
+						"y": 39
+					}
+				},
+				"IMAGE_UI_PACKETS_PYREVINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/pyrevine.png",
+					"additional": {
+						"x": 15,
+						"y": 24
+					}
+				},
+				"IMAGE_UI_PACKETS_READY": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/ready.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_READY_PREMIUM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/ready_premium.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_REDSTINGER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/redstinger.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_REINFORCEMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/reinforcemint.png",
+					"additional": {
+						"x": 13,
+						"y": 12
+					}
+				},
+				"IMAGE_UI_PACKETS_REPEATER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/repeater.png",
+					"additional": {
+						"x": 19,
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_RHUBARBARIAN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/rhubarbarian.png",
+					"additional": {
+						"x": 13,
+						"y": 10
+					}
+				},
+				"IMAGE_UI_PACKETS_SAPFLING": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/sapfling.png",
+					"additional": {
+						"x": 13,
+						"y": 6
+					}
+				},
+				"IMAGE_UI_PACKETS_SELECT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/select.png",
+					"additional": {
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/selected.png",
+					"additional": {
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_SELECTED_PREMIUM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/selected_premium.png",
+					"additional": {
+						"y": 6
+					}
+				},
+				"IMAGE_UI_PACKETS_SHADOWPEASHOOTER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/shadowpeashooter.png",
+					"additional": {
+						"x": 31
+					}
+				},
+				"IMAGE_UI_PACKETS_SHADOWSHROOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/shadowshroom.png",
+					"additional": {
+						"x": 15,
+						"y": 10
+					}
+				},
+				"IMAGE_UI_PACKETS_SHINEVINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/shinevine.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_SHRINKINGVIOLET": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/shrinkingviolet.png",
+					"additional": {
+						"x": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_SLINGPEA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/slingpea.png",
+					"additional": {
+						"x": 15,
+						"y": 35
+					}
+				},
+				"IMAGE_UI_PACKETS_SNAPDRAGON": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/snapdragon.png",
+					"additional": {
+						"x": 25,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_SNAPPEA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/snappea.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_SNOWPEA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/snowpea.png",
+					"additional": {
+						"x": 5,
+						"y": 7
+					}
+				},
+				"IMAGE_UI_PACKETS_SOLARSAGE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/solarsage.png",
+					"additional": {
+						"x": 13
+					}
+				},
+				"IMAGE_UI_PACKETS_SOLARTOMATO": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/solartomato.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_SPEARMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/spearmint.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_SPIKEROCK": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/spikerock.png",
+					"additional": {
+						"x": 14,
+						"y": 53
+					}
+				},
+				"IMAGE_UI_PACKETS_SPIKEWEED": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/spikeweed.png",
+					"additional": {
+						"x": 14,
+						"y": 62
+					}
+				},
+				"IMAGE_UI_PACKETS_SPLITPEA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/splitpea.png",
+					"additional": {
+						"x": 16,
+						"y": 12
+					}
+				},
+				"IMAGE_UI_PACKETS_SPORESHROOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/sporeshroom.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_SPRINGBEAN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/springbean.png",
+					"additional": {
+						"x": 43,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_SQUASH": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/squash.png",
+					"additional": {
+						"x": 24,
+						"y": 2
+					}
+				},
+				"IMAGE_UI_PACKETS_STALLIA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/stallia.png",
+					"additional": {
+						"x": 15,
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_STARFRUIT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/starfruit.png",
+					"additional": {
+						"x": 14,
+						"y": 10
+					}
+				},
+				"IMAGE_UI_PACKETS_STICKYBOMBRICE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/stickybombrice.png",
+					"additional": {
+						"x": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_STRAWBURST": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/strawburst.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_STUNION": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/stunion.png",
+					"additional": {
+						"x": 14,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_SUNBEAN": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/sunbean.png",
+					"additional": {
+						"x": 27,
+						"y": 7
+					}
+				},
+				"IMAGE_UI_PACKETS_SUNFLOWER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/sunflower.png",
+					"additional": {
+						"x": 25,
+						"y": 5
+					}
+				},
+				"IMAGE_UI_PACKETS_SUNSHROOM": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/sunshroom.png",
+					"additional": {
+						"x": 29,
+						"y": 34
+					}
+				},
+				"IMAGE_UI_PACKETS_SWEETPOTATO": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/sweetpotato.png",
+					"additional": {
+						"x": 35,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_TACTICALCUKE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tacticalcuke.png",
+					"additional": {
+						"x": 35,
+						"y": 3
+					}
+				},
+				"IMAGE_UI_PACKETS_TALLNUT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tallnut.png",
+					"additional": {
+						"x": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_TANGLEKELP": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tanglekelp.png",
+					"additional": {
+						"x": 14
+					}
+				},
+				"IMAGE_UI_PACKETS_TELEPORTATOMINE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/teleportatomine.png",
+					"additional": {
+						"x": 14,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_THREEPEATER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/threepeater.png",
+					"additional": {
+						"x": 5,
+						"y": 2
+					}
+				},
+				"IMAGE_UI_PACKETS_THYMEWARP": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/thymewarp.png",
+					"additional": {
+						"x": 25
+					}
+				},
+				"IMAGE_UI_PACKETS_TIGERGRASS": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tigergrass.png",
+					"additional": {
+						"x": 18,
+						"y": 24
+					}
+				},
+				"IMAGE_UI_PACKETS_TOADSTOOL": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/toadstool.png",
+					"additional": {
+						"x": 14,
+						"y": 8
+					}
+				},
+				"IMAGE_UI_PACKETS_TOOLS_POWERTILE_ALPHA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets_tools/powertile_alpha.png",
+					"additional": {
+						"x": 78,
+						"y": 29
+					}
+				},
+				"IMAGE_UI_PACKETS_TOOLS_POWERTILE_BETA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets_tools/powertile_beta.png",
+					"additional": {
+						"x": 78,
+						"y": 29
+					}
+				},
+				"IMAGE_UI_PACKETS_TOOLS_POWERTILE_DELTA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets_tools/powertile_delta.png",
+					"additional": {
+						"x": 79,
+						"y": 29
+					}
+				},
+				"IMAGE_UI_PACKETS_TOOLS_POWERTILE_EPSILON": {
+					"type": "Image",
+					"path": "images/initial/UI/packets_tools/powertile_epsilon.png",
+					"additional": {
+						"x": 79,
+						"y": 28
+					}
+				},
+				"IMAGE_UI_PACKETS_TOOLS_POWERTILE_GAMMA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets_tools/powertile_gamma.png",
+					"additional": {
+						"x": 78,
+						"y": 29
+					}
+				},
+				"IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB1": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tools_projectile_bowlingbulb1.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB2": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tools_projectile_bowlingbulb2.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB3": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tools_projectile_bowlingbulb3.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB_EXPLODE": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tools_projectile_bowlingbulb_explode.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB_MEGA": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tools_projectile_bowlingbulb_mega.png",
+					"additional": null
+				},
+				"IMAGE_UI_PACKETS_TOOLS_TOP": {
+					"type": "Image",
+					"path": "images/initial/UI/packets_tools/top.png",
+					"additional": {
+						"x": 13,
+						"y": 33
+					}
+				},
+				"IMAGE_UI_PACKETS_TORCHWOOD": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/torchwood.png",
+					"additional": {
+						"x": 15,
+						"y": 20
+					}
+				},
+				"IMAGE_UI_PACKETS_TUMBLEWEED": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/tumbleweed.png",
+					"additional": {
+						"x": 15,
+						"y": 6
+					}
+				},
+				"IMAGE_UI_PACKETS_TURKEYPULT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/turkeypult.png",
+					"additional": {
+						"x": 15,
+						"y": 15
+					}
+				},
+				"IMAGE_UI_PACKETS_TWINSUNFLOWER": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/twinsunflower.png",
+					"additional": {
+						"x": 15,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_ULTOMATO": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/ultomato.png",
+					"additional": {
+						"x": 14,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_WALLNUT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/wallnut.png",
+					"additional": {
+						"x": 20,
+						"y": 10
+					}
+				},
+				"IMAGE_UI_PACKETS_WASABIWHIP": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/wasabiwhip.png",
+					"additional": {
+						"x": 13
+					}
+				},
+				"IMAGE_UI_PACKETS_WINTERMELON": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/wintermelon.png",
+					"additional": {
+						"x": 14,
+						"y": 20
+					}
+				},
+				"IMAGE_UI_PACKETS_WINTERMINT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/wintermint.png",
+					"additional": {
+						"x": 29,
+						"y": 19
+					}
+				},
+				"IMAGE_UI_PACKETS_WITCHHAZEL": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/witchhazel.png",
+					"additional": {
+						"x": 16
+					}
+				},
+				"IMAGE_UI_PACKETS_XSHOT": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/xshot.png",
+					"additional": {
+						"x": 11,
+						"y": 1
+					}
+				},
+				"IMAGE_UI_PACKETS_ZOYBEANPOD": {
+					"type": "Image",
+					"path": "images/initial/UI/packets/zoybeanpod.png",
+					"additional": {
+						"x": 14,
+						"y": 14
+					}
+				},
+				"IMAGE_UI_STOREMULTI_SEEDPACKETICON": {
+					"type": "Image",
+					"path": "images/initial/UI/storemulti/SeedPacketIcon.png",
+					"additional": null
+				},
+				"IMAGE_UI_STOREMULTI_SEEDPACKETMINIICON": {
+					"type": "Image",
+					"path": "images/initial/UI/storemulti/SeedPacketMiniIcon.png",
+					"additional": null
+				},
+				"IMAGE_UI_STOREMULTI_SEEDPACKETMINIICONPREMIUM": {
+					"type": "Image",
+					"path": "images/initial/UI/storemulti/SeedPacketMiniIconPremium.png",
+					"additional": null
+				}
+			}
+		}
+	}
+}
