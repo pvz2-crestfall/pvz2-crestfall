@@ -1,0 +1,15 @@
+{
+    "#comment": "Free remove Upgrade to Master button file",
+    "version": 1,
+    "objects": [
+        {
+            "objclass": "PlantMasteryProperties",
+            "objdata": {
+                "AlmanacDataEntries": [],
+                "LevelCap": 0,
+                "LevelCoins": [999999],
+                "LevelXP": [999999]
+            }
+        }
+    ]
+}
