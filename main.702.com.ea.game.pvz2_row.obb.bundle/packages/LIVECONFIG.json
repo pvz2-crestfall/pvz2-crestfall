@@ -1132,7 +1132,7 @@
 					},
 					{
 						"Key": "RentPlantsInSeedChooser",
-						"Enabled": true,
+						"Enabled": false,
 						"DisplayName": "Rent Plants In Seed Chooser",
 						"Category": "live"
 					},
@@ -1186,13 +1186,13 @@
 					},
 					{
 						"Key": "EnableRewardedOffersForApple",
-						"Enabled": true,
+						"Enabled": false,
 						"DisplayName": "Enable tapjoy offers for Apple",
 						"Category": "live"
 					},
 					{
 						"Key": "EnableRewardedOffersForAndroid",
-						"Enabled": true,
+						"Enabled": false,
 						"DisplayName": "Enable tapjoy offers for Android",
 						"Category": "live"
 					}
