@@ -75,10 +75,32 @@
                         "Values": [75]
                     },
                     {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
                         "Name": "ActionDamageNormal",
-                        "SubType": "0",
-                        "Type": "ActionDamage",
                         "Values": [20]
+                    },
+                    {
+                        "Name": "ActionDamagePF",
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [333]
+                    },
+                    {
+                        "Name": "PlantFoodDurationSeconds",
+                        "Values": [2]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -147,6 +169,10 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [4000]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -193,10 +219,32 @@
                         "Values": [175]
                     },
                     {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Bloomerang_HitCount",
+                        "Values": [3]
+                    },
+                    {
                         "Name": "ActionDamageNormal",
-                        "SubType": "0",
-                        "Type": "ActionDamage",
                         "Values": [30]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [450]
+                    },
+                    {
+                        "Name": "Bloomerang_PlantfoodProjectileCount",
+                        "Values": [16]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -223,7 +271,15 @@
                         "Values": [175]
                     },
                     {
-                        "Name": "ActionDamage",
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Values": [40]
                     },
@@ -231,6 +287,30 @@
                         "Name": "ActionSplashDamage",
                         "SubType": "0",
                         "Values": [15]
+                    },
+                    {
+                        "Name": "ActionDamagePlantfood",
+                        "Values": [200]
+                    },
+                    {
+                        "Name": "ActionXVelocity",
+                        "Values": [310]
+                    },
+                    {
+                        "Name": "PlantFoodPlayCount",
+                        "Values": [1]
+                    },
+                    {
+                        "Name": "ActionCooldownMin",
+                        "Values": [2.7]
+                    },
+                    {
+                        "Name": "ActionCooldownMax",
+                        "Values": [3]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -267,6 +347,10 @@
                     {
                         "Name": "Potatomine_ArmingTime",
                         "Values": [10]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -314,6 +398,10 @@
                         "Name": "ActionExplodeRadius",
                         "SubType": "0",
                         "Values": [0]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -351,6 +439,10 @@
                     {
                         "Name": "Gravebuster_EatTime",
                         "Values": [4]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -399,6 +491,10 @@
                         "SubType": "0",
                         "Type": "ActionDamage",
                         "Values": [25]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -435,6 +531,10 @@
                     {
                         "Name": "StartingCooldown",
                         "Values": [0]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -2165,6 +2265,10 @@
                         "SubType": "2",
                         "Type": "ActionDamage",
                         "Values": [20]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,

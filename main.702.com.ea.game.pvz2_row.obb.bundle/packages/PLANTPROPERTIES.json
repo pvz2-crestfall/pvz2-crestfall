@@ -228,7 +228,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -2,
+                        "Value": -0.6,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -434,7 +434,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -4,
+                        "Value": -0.75,
                         "CooldownDurationSeconds": 28800
                     },
                     {
@@ -1983,7 +1983,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -5,
+                        "Value": -1,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -2116,7 +2116,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -10,
+                        "Value": -0.5,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -3483,7 +3483,7 @@
                     },
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -5,
+                        "Value": -0.5,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -4889,7 +4889,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -7,
+                        "Value": -0.5,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
