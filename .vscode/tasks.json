@@ -1,0 +1,20 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "buildobb",
+            "type": "process",
+            "command": "../../../SEN/launcher.exe",
+            "args": [
+                "-method",
+                "popcap.rsb.build_project",
+                "-source",
+                "${cwd}/main.702.com.ea.game.pvz2_row.obb.bundle",
+                "-generic",
+                "0n"
+            ]
+        }
+    ]
+}

@@ -9,6 +9,18 @@
                     {
                         "Name": "Cost",
                         "Values": [50]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "Hitpoints",
+                        "Values": [300]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
