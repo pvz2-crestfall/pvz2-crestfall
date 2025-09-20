@@ -635,6 +635,10 @@
                     {
                         "Name": "Kernelpult_ButterDuration",
                         "Values": [8]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -667,6 +671,10 @@
                     {
                         "Name": "PacketCooldown",
                         "Values": [5]
+                    },
+                    {
+                        "Name": "PlantTier",
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -2314,7 +2322,7 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [25]
                     },
                     {
                         "Name": "StartingCooldown",
