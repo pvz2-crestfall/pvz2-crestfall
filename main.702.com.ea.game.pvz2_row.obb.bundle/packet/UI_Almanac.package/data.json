@@ -1,0 +1,326 @@
+{
+	"#split_label": true,
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768,
+			384
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"UI_Almanac": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"IMAGE_UI_ALMANAC_ALMANAC_BOOST": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_boost.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PIERCE": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_pierce.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_108X108": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_108x108.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_117X105": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_117x105.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_121X145": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_121x145.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_30X29": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_30x29.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_30X30": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_30x30.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_33X35": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_33x35.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_33X36": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_33x36.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_41X38": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_41x38.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_42X40": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_42x40.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_44X40": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_44x40.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_44X48": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_44x48.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_44X49": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_44x49.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_46X47": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_46x47.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_49X76": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_49x76.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_54X43": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_54x43.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_54X55": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_54x55.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_56X54": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_56x54.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_62X76": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_62x76.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_67X73": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_67x73.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_68X92": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_68x92.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_68X92_2": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_68x92_2.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_71X101": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_71x101.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_71X54": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_71x54.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_71X57": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_71x57.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_84X56": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_84x56.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_84X84": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_84x84.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_88X112": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_88x112.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_89X66": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/almanac_planttab_upgrade/almanac_planttab_upgrade_89x66.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_CARD_PLANT_SCROLLBAR": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/card_plant_scrollbar.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_CARD_ZOMBIE_SCROLLBAR": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/card_zombie_scrollbar.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_CHECKBOX_DISABLED": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/checkbox_disabled.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_CHECKBOX_ENABLED": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/checkbox_enabled.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_GENERAL_FUELBAR_FILL": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/general/fuelbar_fill.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_GENERAL_SCROLLBAR": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/general/scrollbar.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_GENERAL_SCROLLBAR_BKGD": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/general/scrollbar_bkgd.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_PLANTS_DAMAGE_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/plants/damage_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_PLANTS_PLANT_FUELBAR": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/plants/plant_fuelbar.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_PLANTS_POWERAREA_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/plants/powerarea_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_PLANTS_RANGE_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/plants/range_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_PLANTS_RECHARGE_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/plants/recharge_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_PLANTS_TOUGHNESS_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/plants/toughness_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_PLANTS_VARIABLE_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/plants/variable_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_PLANT_SELECT_PKT": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/plant-select-pkt.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_SCROLL_SLIDER": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/scroll_slider.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_SELECTOR_BKGD": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/selector_bkgd.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_TABS_CLOSE_TAB": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/tabs/close_tab.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_TABS_CLOSE_TAB_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/tabs/close_tab_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_TABS_PLANTS_ACTIVE": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/tabs/plants_active.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_TABS_PLANTS_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/tabs/plants_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_TABS_UPGRADES_ACTIVE": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/tabs/upgrades_active.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_TABS_UPGRADES_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/tabs/upgrades_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_TABS_ZOMBIES_ACTIVE": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/tabs/zombies_active.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_TABS_ZOMBIES_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/tabs/zombies_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_UPGRADE_SCROLL_CTA": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/upgrade_scroll_cta.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ZOMBIES_ZOMBIESPEED_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/zombies/zombiespeed_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ZOMBIES_ZOMBIETOUGHNESS_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/zombies/zombietoughness_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ZOMBIES_ZOMBIE_FUELBAR": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/zombies/zombie_fuelbar.png",
+					"additional": null
+				},
+				"IMAGE_UI_ALMANAC_ZOMBIE_SEED_PKT": {
+					"type": "Image",
+					"path": "images/initial/UI/almanac/zombie-seed-pkt.png",
+					"additional": null
+				}
+			}
+		}
+	}
+}

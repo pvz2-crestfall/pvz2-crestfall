@@ -1,0 +1,1262 @@
+{
+	"#split_label": true,
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768,
+			384
+		],
+		"format": 0
+	},
+	"subgroup": {
+		"UI_AlwaysLoaded": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_UI_GENERIC_CHECK_MARK_ANIM": {
+					"type": "PopAnim",
+					"path": "images/initial/UI/Generic/check_mark_anim"
+				},
+				"POPANIM_UI_LEVELING_UPGRADE_BADGE": {
+					"type": "PopAnim",
+					"path": "images/initial/UI/leveling/upgrade_badge"
+				},
+				"POPANIM_UI_HUD_EVENTBUTTON_HUD_PULSE_NOBUTTON": {
+					"type": "PopAnim",
+					"path": "images/initial/UI/hud_eventbutton/hud_pulse_nobutton"
+				},
+				"POPANIM_UI_EYEBALL_ICON": {
+					"type": "PopAnim",
+					"path": "images/initial/UI/eyeball_icon"
+				},
+				"IMAGE_UI_CLAIM_SMALL": {
+					"type": "Image",
+					"path": "images/initial/UI/claim_small.png",
+					"additional": null
+				},
+				"IMAGE_UI_COINS_STACK_0": {
+					"type": "Image",
+					"path": "images/initial/UI/coins/Stack_0.png",
+					"additional": null
+				},
+				"IMAGE_UI_COINS_STACK_1": {
+					"type": "Image",
+					"path": "images/initial/UI/coins/Stack_1.png",
+					"additional": null
+				},
+				"IMAGE_UI_COINS_STACK_2": {
+					"type": "Image",
+					"path": "images/initial/UI/coins/Stack_2.png",
+					"additional": null
+				},
+				"IMAGE_UI_COINS_STACK_3": {
+					"type": "Image",
+					"path": "images/initial/UI/coins/Stack_3.png",
+					"additional": null
+				},
+				"IMAGE_UI_COINS_STACK_4": {
+					"type": "Image",
+					"path": "images/initial/UI/coins/Stack_4.png",
+					"additional": null
+				},
+				"IMAGE_UI_COINS_STACK_5": {
+					"type": "Image",
+					"path": "images/initial/UI/coins/Stack_5.png",
+					"additional": null
+				},
+				"IMAGE_UI_COINS_STACK_6": {
+					"type": "Image",
+					"path": "images/initial/UI/coins/Stack_6.png",
+					"additional": null
+				},
+				"IMAGE_UI_COINS_STACK_7": {
+					"type": "Image",
+					"path": "images/initial/UI/coins/Stack_7.png",
+					"additional": null
+				},
+				"IMAGE_UI_CONVEYOR_CONVEYOR_BELT": {
+					"type": "Image",
+					"path": "images/initial/UI/conveyor/conveyor_belt.png",
+					"additional": null
+				},
+				"IMAGE_UI_CONVEYOR_CONVEYOR_SIDE": {
+					"type": "Image",
+					"path": "images/initial/UI/conveyor/conveyor_side.png",
+					"additional": null
+				},
+				"IMAGE_UI_CONVEYOR_CONVEYOR_TOP": {
+					"type": "Image",
+					"path": "images/initial/UI/conveyor/conveyor_top.png",
+					"additional": null
+				},
+				"IMAGE_UI_COSTUME_INDICATOR": {
+					"type": "Image",
+					"path": "images/initial/UI/costume_indicator.png",
+					"additional": null
+				},
+				"IMAGE_UI_EMPOWERMINTS_HUD_MENUS_MINT_CURRENCY_COUNTER": {
+					"type": "Image",
+					"path": "images/initial/UI/empowermints/hud_menus/mint_currency_counter.png",
+					"additional": null
+				},
+				"IMAGE_UI_EMPOWERMINTS_HUD_MENUS_MINT_CURRENCY_COUNTER_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/empowermints/hud_menus/mint_currency_counter_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_ENERGY_ENERGY_ICON_01": {
+					"type": "Image",
+					"path": "images/initial/UI/energy/energy_icon_01.png",
+					"additional": null
+				},
+				"IMAGE_UI_ENERGY_EVENT_ENERGY_ICON_BUNDLE_LARGE_01": {
+					"type": "Image",
+					"path": "images/initial/UI/energy/event_energy_icon_bundle_large_01.png",
+					"additional": null
+				},
+				"IMAGE_UI_ENERGY_EVENT_ENERGY_ICON_BUNDLE_SMALL_01": {
+					"type": "Image",
+					"path": "images/initial/UI/energy/event_energy_icon_bundle_small_01.png",
+					"additional": null
+				},
+				"IMAGE_UI_FUEL_FUEL_ICON_BASIC": {
+					"type": "Image",
+					"path": "images/initial/UI/fuel/fuel_icon_basic.png",
+					"additional": null
+				},
+				"IMAGE_UI_FUEL_STACK01": {
+					"type": "Image",
+					"path": "images/initial/UI/fuel/Stack01.png",
+					"additional": null
+				},
+				"IMAGE_UI_FUEL_STACK02": {
+					"type": "Image",
+					"path": "images/initial/UI/fuel/Stack02.png",
+					"additional": null
+				},
+				"IMAGE_UI_FUEL_STACK03": {
+					"type": "Image",
+					"path": "images/initial/UI/fuel/Stack03.png",
+					"additional": null
+				},
+				"IMAGE_UI_FUEL_STACK04": {
+					"type": "Image",
+					"path": "images/initial/UI/fuel/Stack04.png",
+					"additional": null
+				},
+				"IMAGE_UI_GEMS_STACK_1": {
+					"type": "Image",
+					"path": "images/initial/UI/gems/Stack_1.png",
+					"additional": null
+				},
+				"IMAGE_UI_GEMS_STACK_2": {
+					"type": "Image",
+					"path": "images/initial/UI/gems/Stack_2.png",
+					"additional": null
+				},
+				"IMAGE_UI_GEMS_STACK_3": {
+					"type": "Image",
+					"path": "images/initial/UI/gems/Stack_3.png",
+					"additional": null
+				},
+				"IMAGE_UI_GEMS_STACK_4": {
+					"type": "Image",
+					"path": "images/initial/UI/gems/Stack_4.png",
+					"additional": null
+				},
+				"IMAGE_UI_GEMS_STACK_5": {
+					"type": "Image",
+					"path": "images/initial/UI/gems/Stack_5.png",
+					"additional": null
+				},
+				"IMAGE_UI_GEMS_STACK_6": {
+					"type": "Image",
+					"path": "images/initial/UI/gems/Stack_6.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_4PXDIVIDER": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/4pxdivider.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_ARROW_DOWN_ORANGE": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/Arrow_Down_Orange.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_ARROW_LEFT_GREEN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/Arrow_Left_Green.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_ARROW_RIGHT_GREEN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/Arrow_Right_Green.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_ARROW_UP_GREEN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/Arrow_Up_Green.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_AUDIO_BAR": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/audio-bar.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_AUDIO_FILL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/audio-fill.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BLUETAB_ACTIVE": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/bluetab_active.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BLUETAB_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/bluetab_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BROWNBUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/BrownButton.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BROWNBUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/BrownButton_Down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_COIN_BUY_NORMAL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_coin_buy_normal.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_COIN_BUY_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_coin_buy_selected.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_HUD_QUESTS_LOCKED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_hud_quests_locked.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_HUD_QUESTS_NORMAL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_hud_quests_normal.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_HUD_QUESTS_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_hud_quests_selected.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_HUD_ZG_LOCKED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_hud_zg_locked.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_HUD_ZG_NORMAL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_hud_zg_normal.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_HUD_ZG_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_hud_zg_selected.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_PREMIUM_NORMAL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_premium_normal.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_PREMIUM_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_premium_selected.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_TICKETS_NORMAL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_tickets_normal.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTONS_TICKETS_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/buttons_tickets_selected.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTON_ARROW_LEFT": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/button_arrow_left.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTON_ARROW_RIGHT": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/button_arrow_right.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTON_GENERIC_CURRENCY_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/button_generic_currency_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTON_GENERIC_CURRENCY_NORMAL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/button_generic_currency_normal.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTON_HUD_MINIGAMES_ALT_NORMAL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/button_hud_minigames_alt_normal.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTON_HUD_MINIGAMES_ALT_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/button_hud_minigames_alt_selected.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTON_HUD_MINIGAMES_LOCKED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/button_hud_minigames_locked.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTON_HUD_MINIGAMES_NORMAL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/button_hud_minigames_normal.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_BUTTON_HUD_MINIGAMES_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/button_hud_minigames_selected.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_CHECK_MARK_SM": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/check_mark_sm.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_CLOSE_BTN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/close_btn.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_CLOSE_CIRCLE": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/close_circle.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_CLOSE_CIRCLE_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/close_circle_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_CLOSE_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/close_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_COIN_ICON_SMALL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/coin_icon_small.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_CONTENT_WELL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/content_well.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_COUNTER_BG": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/counter_bg.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_EDGE_GRADIENT": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/edge_gradient.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_EDGE_GRADIENT_BOTTOM": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/edge_gradient_bottom.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_EDGE_GRADIENT_LEFT": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/edge_gradient_left.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_EDGE_GRADIENT_TOP": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/edge_gradient_top.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_ENERGY_REFRESH_TIMER_BACKGROUND": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/energy_refresh_timer_background.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_EVENT_ENERGY_ICON_SMALL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/event_energy_icon_small.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GEMSBUYBUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/GemsBuyButton.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GEMSBUYBUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/GemsBuyButton_Down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GEM_ICON_SMALL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/gem_icon_small.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GREENBUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/GreenButton.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GREENBUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/GreenButton_Down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GREENBUYBUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/GreenBuyButton.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GREENBUYBUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/GreenBuyButton_Down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GREENTAB_ACTIVE": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/greentab_active.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GREENTAB_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/greentab_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_GUARANTEED_BG": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/guaranteed_bg.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_INFO_BUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/info_button_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_INFO_BUTTON_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/info_button_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_JALAPENO_DIFFICULTY_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/jalapeno_difficulty_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_JALAPENO_DIFFICULTY_ICON_BG": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/jalapeno_difficulty_icon_bg.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_LEAF_BACKDROP": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/leaf_backdrop.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_LOD_PINATA": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/lod_pinata.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_MINT_ICON_SMALL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/mint_icon_small.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_NAVDOT": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/navdot.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_NAVDOT_FILL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/navdot_fill.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_NAVDOT_FILL_FLAT": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/navdot_fill_flat.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_POPUP_9SLICE": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/popup_9slice.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_POPUP_CARET": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/popup_caret.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_PURPLEBUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/PurpleButton.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_PURPLEBUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/PurpleButton_Down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_SM_PURPLE_BTN_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/sm_purple_btn_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_SM_PURPLE_BTN_NORMAL": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/sm_purple_btn_normal.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_STAR_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/star-icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_XP_PROGRESS_BAR": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/xp_progress_bar.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_XP_PROGRESS_BAR_FILL_GREEN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/xp_progress_bar_fill_green.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_XP_PROGRESS_BAR_FILL_YELLOW": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/xp_progress_bar_fill_yellow.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_XP_PROGRESS_ICON_GREEN": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/xp_progress_icon_green.png",
+					"additional": null
+				},
+				"IMAGE_UI_GENERIC_XP_PROGRESS_ICON_YELLOW": {
+					"type": "Image",
+					"path": "images/initial/UI/Generic/xp_progress_icon_yellow.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_BIRTHDAYZ_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_birthdayz_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_BIRTHDAYZ_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_birthdayz_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_CARNIVAL_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_carnival_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_CARNIVAL_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_carnival_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_FEASTIVUS_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_feastivus_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_FEASTIVUS_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_feastivus_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_FOODFIGHT_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_foodfight_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_FOODFIGHT_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_foodfight_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_LUCKOTHEZOMBIE_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_luckothezombie_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_LUCKOTHEZOMBIE_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_luckothezombie_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_LUNARNEWYEAR_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_lunarnewyear_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_LUNARNEWYEAR_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_lunarnewyear_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_SPORTZBALL_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_sportzball_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_SPORTZBALL_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_sportzball_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_SPRINGENING_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_springening_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_SPRINGENING_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_springening_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_SUMMERNIGHTS_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_summernights_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_SUMMERNIGHTS_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_summernights_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_VALENBRAINZ_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_valenbrainz_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_EVENTBUTTON_EVENT_ICON_VALENBRAINZ_UP": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_eventbutton/event_icon_valenbrainz_up.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_2X": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/2x.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_2X_SELECTED": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/2x_selected.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_ALERT_RING": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/alert_ring.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_BACKGROUND_3SLICE": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/background_3slice.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_APPLY_CONDITION_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_apply_condition_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_BACKGROUND": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_background.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_FAILED": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_failed.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_GENERAL_PROGRESS": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_general_progress.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_PLANT_COUNT_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_plant_count_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_PLANT_LOST_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_plant_lost_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_SUCCESS": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_success.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_SUN_PRODUCED_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_sun_produced_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_SUN_SPENT_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_sun_spent_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_SUN_TIMER_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_sun_timer_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_ZOMBIE_HEAD": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_zombie_head.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_CHALLENGE_ZOMBIE_TICK": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/challenge_zombie_tick.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_COIN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/coin.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_COIN_BG": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/coin_bg.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_COIN_BUY": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/coin_buy.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_COIN_BUY_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/coin_buy_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_DEMO": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/demo.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_GEM": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/gem.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_MINT": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/mint.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_NOTIFICATION_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/Notification_Icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PAUSE_BUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/pause_button.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PAUSE_BUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/pause_button_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PLANTFOOD_BANK": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/plantfood_bank.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PLANTFOOD_BANK_COLLECT": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/plantfood_bank_collect.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PLANTFOOD_BANK_FILLED_SLOT": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/plantfood_bank_filled_slot.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PLANTFOOD_BANK_FILLING_SLOT": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/plantfood_bank_filling_slot.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PLANTFOOD_BUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/plantfood_button.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PLANTFOOD_BUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/plantfood_button_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PLANTFOOD_BUY_CONFIRMATION": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/plantfood_buy_confirmation.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_BAR_UPGRADE_ARROW_GREEN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_bar_upgrade_arrow_green.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_BAR_UPGRADE_ARROW_YELLOW": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_bar_upgrade_arrow_yellow.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_BAR_UPGRADE_BACKGROUND": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_bar_upgrade_background.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_BAR_UPGRADE_GREEN_FILL": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_bar_upgrade_green_fill.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_BAR_UPGRADE_YELLOW_FILL": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_bar_upgrade_yellow_fill.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_METER": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_meter.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_METER_FILL": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_meter_fill.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_METER_FILL_ZOMBOSS_BONUS": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_meter_fill_zomboss_bonus.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_METER_FLAG_DEFAULT": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_meter_flag_default.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_METER_FLAG_POLE": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_meter_flag_pole.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_METER_ZOMBIEHEAD": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_meter_zombiehead.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_METER_ZOMBOSS_FILL": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_meter_zomboss_fill.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_METER_ZOMBOSS_HEAD": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_meter_zomboss_head.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_PROGRESS_METER_ZOMBOSS_NOTCH": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/progress_meter_zomboss_notch.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_RECYCLE_SHOVEL_BUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/recycle_shovel_button.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_RECYCLE_SHOVEL_BUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/recycle_shovel_button_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SCORE_METER_BG": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/score_meter_bg.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SCORE_METER_BG_TEXT": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/score_meter_bg_text.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SCORE_METER_FILL": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/score_meter_fill.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SCORE_METER_HIGHLIGHT": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/score_meter_highlight.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SHOVEL_BUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/shovel_button.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SHOVEL_BUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/shovel_button_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SHOVEL_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/shovel_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SPROUT_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/sprout_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SPROUT_ICON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/sprout_icon_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SPROUT_ICON_NOPLUS": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/sprout_icon_noplus.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SUN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/sun.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_SUN_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/sun_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_TICKET_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/ticket_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_VIEWZOMBIES_BUTTON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/viewzombies_button.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_VIEWZOMBIES_BUTTON_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/viewzombies_button_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_ZOMBOSS_HEALTH_METER_SKULL_ICON": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/zomboss_health_meter_skull_icon.png",
+					"additional": null
+				},
+				"IMAGE_UI_HUD_INGAME_ZOMBOSS_PROGRESS_METER": {
+					"type": "Image",
+					"path": "images/initial/UI/hud_ingame/zomboss_progress_meter.png",
+					"additional": null
+				},
+				"IMAGE_UI_ICON_WATCH_VIDEO": {
+					"type": "Image",
+					"path": "images/initial/UI/icon_watch_video.png",
+					"additional": null
+				},
+				"IMAGE_UI_JOUST_HUD_MENUS_GAUNTLET_CURRENCY_COUNTER": {
+					"type": "Image",
+					"path": "images/initial/UI/joust/hud_menus/gauntlet_currency_counter.png",
+					"additional": null
+				},
+				"IMAGE_UI_JOUST_HUD_MENUS_GAUNTLET_CURRENCY_COUNTER_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/joust/hud_menus/gauntlet_currency_counter_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_LEVELING_PROGRESS_BG": {
+					"type": "Image",
+					"path": "images/initial/UI/leveling/progress_bg.png",
+					"additional": null
+				},
+				"IMAGE_UI_LEVELING_PROGRESS_FILL": {
+					"type": "Image",
+					"path": "images/initial/UI/leveling/progress_fill.png",
+					"additional": null
+				},
+				"IMAGE_UI_LOCK_SMALL": {
+					"type": "Image",
+					"path": "images/initial/UI/lock_small.png",
+					"additional": null
+				},
+				"IMAGE_UI_LOCK_SMALL_GOLD": {
+					"type": "Image",
+					"path": "images/initial/UI/lock_small_gold.png",
+					"additional": null
+				},
+				"IMAGE_UI_MINTS_STACK_1": {
+					"type": "Image",
+					"path": "images/initial/UI/mints/Stack_1.png",
+					"additional": null
+				},
+				"IMAGE_UI_MINTS_STACK_2": {
+					"type": "Image",
+					"path": "images/initial/UI/mints/Stack_2.png",
+					"additional": null
+				},
+				"IMAGE_UI_MINTS_STACK_3": {
+					"type": "Image",
+					"path": "images/initial/UI/mints/Stack_3.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_BORDER_BOTTOM": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/border_bottom.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_BORDER_CORNER_BOTTOMLEFT": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/border_corner_bottomleft.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_BORDER_CORNER_BOTTOMRIGHT": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/border_corner_bottomright.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_BORDER_CORNER_TOPLEFT": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/border_corner_topleft.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_BORDER_CORNER_TOPRIGHT": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/border_corner_topright.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_BORDER_LEFT": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/border_left.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_BORDER_RIGHT": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/border_right.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_BORDER_TOP": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/border_top.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWERUP_BEGHOULED_SHOCK": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/powerup_beghouled_shock.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWERUP_BEGHOULED_SHOCK_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/powerup_beghouled_shock_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWERUP_BORDER": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/powerup_border.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWERUP_COST": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/powerup_cost.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWERUP_FRAME": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/powerup_frame.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWERUP_FRAME_MINIGAMES": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/powerup_frame_minigames.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWERUP_INVENTORY_BG": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/powerup_inventory_bg.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_BEGHOULEDFILL": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_beghouledfill.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_BEGHOULEDFILL_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_beghouledfill_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_BEGHOULEDSHOVEL": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_beghouledshovel.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_BEGHOULEDSHOVEL_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_beghouledshovel_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_BEGHOULEDSHUFFLE": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_beghouledshuffle.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_BEGHOULEDSHUFFLE_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_beghouledshuffle_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_FLAMETHROWER": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_flamethrower.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_FLAMETHROWER_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_flamethrower_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_ICE": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_ice.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_ICE_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_ice_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_SHOCK": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_shock.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_SHOCK_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_shock_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_SWEEP": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_sweep.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_SWEEP_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_sweep_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_VASEBREAKERBUTTER": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_vasebreakerbutter.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_VASEBREAKERBUTTER_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_vasebreakerbutter_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_VASEBREAKERMOVE": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_vasebreakermove.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_VASEBREAKERMOVE_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_vasebreakermove_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_VASEBREAKERREVEAL": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_vasebreakerreveal.png",
+					"additional": null
+				},
+				"IMAGE_UI_POWERUPS_POWER_VASEBREAKERREVEAL_DOWN": {
+					"type": "Image",
+					"path": "images/initial/UI/powerups/power_vasebreakerreveal_down.png",
+					"additional": null
+				},
+				"IMAGE_UI_RED_FLAG": {
+					"type": "Image",
+					"path": "images/initial/UI/red_flag.png",
+					"additional": null
+				},
+				"IMAGE_UI_SUNFLOWER": {
+					"type": "Image",
+					"path": "images/initial/UI/sunflower.png",
+					"additional": null
+				},
+				"IMAGE_UI_TICKETS_STACK_1": {
+					"type": "Image",
+					"path": "images/initial/UI/tickets/Stack_1.png",
+					"additional": null
+				},
+				"IMAGE_UI_TICKETS_STACK_2": {
+					"type": "Image",
+					"path": "images/initial/UI/tickets/Stack_2.png",
+					"additional": null
+				},
+				"IMAGE_UI_TICKETS_STACK_3": {
+					"type": "Image",
+					"path": "images/initial/UI/tickets/Stack_3.png",
+					"additional": null
+				},
+				"IMAGE_UI_TICKETS_STACK_4": {
+					"type": "Image",
+					"path": "images/initial/UI/tickets/Stack_4.png",
+					"additional": null
+				}
+			}
+		}
+	}
+}

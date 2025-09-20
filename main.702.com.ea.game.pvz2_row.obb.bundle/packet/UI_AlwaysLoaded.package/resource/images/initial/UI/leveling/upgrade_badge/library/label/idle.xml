@@ -1,0 +1,2398 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/idle" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="idle">
+            <layers>
+                <DOMLayer name="56">
+                    <frames>
+                        <DOMFrame index="0" duration="12">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_33x36" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="190.800003" ty="213.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="55">
+                    <frames>
+                        <DOMFrame index="0" duration="10">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_41x38" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="193.550003" ty="218.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="54">
+                    <frames>
+                        <DOMFrame index="0" duration="16">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_46x47" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="118.349998" ty="140.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="53">
+                    <frames>
+                        <DOMFrame index="0" duration="14">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_44x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="130.399994" ty="135.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="52">
+                    <frames>
+                        <DOMFrame index="0" duration="12">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_44x48" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="136.500000" ty="128.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="51">
+                    <frames>
+                        <DOMFrame index="0" duration="10">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_54x43" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="148.800003" ty="128.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="50">
+                    <frames>
+                        <DOMFrame index="0" duration="8">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_46x47" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="193.449997" ty="222.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="49">
+                    <frames>
+                        <DOMFrame index="0" duration="6">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_44x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="185.100006" ty="223.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="48">
+                    <frames>
+                        <DOMFrame index="0" duration="46">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="46" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_108x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="142.649994" ty="186.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="47">
+                    <frames>
+                        <DOMFrame index="0" duration="44">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="44" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_67x73" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="123.550003" ty="172.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="46">
+                    <frames>
+                        <DOMFrame index="0" duration="42">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_56x54" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="126.449997" ty="164.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="45">
+                    <frames>
+                        <DOMFrame index="0" duration="40">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="40" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_62x76" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.076645" b="0.971359" c="-0.971359" d="-0.076645" tx="220.800003" ty="209.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="44">
+                    <frames>
+                        <DOMFrame index="0" duration="38">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_84x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.076645" b="0.971359" c="-0.971359" d="-0.076645" tx="229.250000" ty="187.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="43">
+                    <frames>
+                        <DOMFrame index="0" duration="36">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="36" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_54x55" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.076645" b="0.971359" c="-0.971359" d="-0.076645" tx="228.750000" ty="179.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="42">
+                    <frames>
+                        <DOMFrame index="0" duration="15">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_42x40" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="185.800003" ty="228.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="41">
+                    <frames>
+                        <DOMFrame index="0" duration="13">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x54" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="168.550003" ty="231.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="40">
+                    <frames>
+                        <DOMFrame index="0" duration="11">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x57" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="163.050003" ty="223.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="39">
+                    <frames>
+                        <DOMFrame index="0" duration="8">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_89x66" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="163.300003" ty="131.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="38">
+                    <frames>
+                        <DOMFrame index="0" duration="6">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_117x105" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="176.300003" ty="152.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="37">
+                    <frames>
+                        <DOMFrame index="0" duration="46">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="46" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_33x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.076645" b="0.971359" c="-0.971359" d="-0.076645" tx="194.199997" ty="217.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="36">
+                    <frames>
+                        <DOMFrame index="0" duration="44">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="44" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_44x40" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.076645" b="0.971359" c="-0.971359" d="-0.076645" tx="200.800003" ty="220.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="35">
+                    <frames>
+                        <DOMFrame index="0" duration="42">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_49x76" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.076645" b="0.971359" c="-0.971359" d="-0.076645" tx="215.850006" ty="220.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="34">
+                    <frames>
+                        <DOMFrame index="0" duration="36">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="36" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.135162" b="0.000000" c="0.115982" d="1.644745" tx="130.800003" ty="204.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.135880" b="0.000000" c="0.115479" d="1.644440" tx="130.850006" ty="204.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.136658" b="0.000000" c="0.115723" d="1.644409" tx="130.899994" ty="204.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.137421" b="0.000000" c="0.115921" d="1.644363" tx="130.850006" ty="204.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.138184" b="0.000000" c="0.119583" d="1.644455" tx="130.800003" ty="204.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="33">
+                    <frames>
+                        <DOMFrame index="0" duration="6">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.272202" b="-0.267044" c="-0.267044" d="0.272202" tx="155.399994" ty="111.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.391327" b="-0.217484" c="-0.217484" d="0.391327" tx="153.699997" ty="94.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.800000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.482422" b="-0.141296" c="-0.141296" d="0.482422" tx="151.050003" ty="80.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.635294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.542007" b="-0.062271" c="-0.062271" d="0.542007" tx="147.399994" ty="70.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.505882"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.576218" b="0.002594" c="0.002594" d="0.576218" tx="143.250000" ty="63.200001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.415686"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.592682" b="0.044632" c="0.044632" d="0.592682" tx="139.850006" ty="59.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.360784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.597443" b="0.061462" c="0.061462" d="0.597443" tx="138.500000" ty="58.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.585495" b="0.173874" c="0.173874" d="0.585495" tx="136.000000" ty="57.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.551987" b="0.285004" c="0.285004" d="0.551987" tx="133.250000" ty="56.799999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.176471"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.497238" b="0.389679" c="0.389679" d="0.497238" tx="130.449997" ty="56.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.094118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.424057" b="0.483978" c="0.483978" d="0.424057" tx="127.550003" ty="56.700001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="32">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_44x48" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="180.850006" ty="226.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="31">
+                    <frames>
+                        <DOMFrame index="0" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_54x43" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="172.399994" ty="224.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="30">
+                    <frames>
+                        <DOMFrame index="0" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_89x66" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="162.449997" ty="220.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="29">
+                    <frames>
+                        <DOMFrame index="0" duration="46">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="46" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.550125" b="0.000000" c="0.000000" d="1.550125" tx="213.300003" ty="204.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.109804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="47" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.629379" b="0.000000" c="0.000000" d="1.629379" tx="213.350006" ty="204.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="28">
+                    <frames>
+                        <DOMFrame index="0" duration="43">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="43" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.312378" b="0.000000" c="0.000000" d="1.312378" tx="213.300003" ty="204.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.411765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.391617" b="0.000000" c="0.000000" d="1.391617" tx="213.300003" ty="204.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.309804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="27">
+                    <frames>
+                        <DOMFrame index="0" duration="41">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="41" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.153824" b="0.000000" c="0.000000" d="1.153824" tx="213.300003" ty="204.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.611765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="26">
+                    <frames>
+                        <DOMFrame index="0" duration="39">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.995346" b="0.000000" c="0.000000" d="0.995346" tx="213.300003" ty="204.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.803922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="25">
+                    <frames>
+                        <DOMFrame index="0" duration="37">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.836838" b="0.000000" c="0.000000" d="0.836838" tx="213.350006" ty="204.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="24">
+                    <frames>
+                        <DOMFrame index="0" duration="6">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.643478" b="0.000000" c="0.000000" d="0.643478" tx="144.949997" ty="111.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.638367" b="0.078888" c="0.078888" d="0.638367" tx="137.399994" ty="105.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.894118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.623108" b="0.158615" c="0.158615" d="0.623108" tx="129.449997" ty="100.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.784314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.598709" b="0.233856" c="0.233856" d="0.598709" tx="120.849998" ty="95.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.674510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.564285" b="0.307434" c="0.307434" d="0.564285" tx="111.699997" ty="91.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.564706"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.520889" b="0.376129" c="0.376129" d="0.520889" tx="102.099998" ty="89.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.470642" b="0.437302" c="0.437302" d="0.470642" tx="92.150002" ty="88.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.411682" b="0.493225" c="0.493225" d="0.411682" tx="82.250000" ty="88.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.231373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.346176" b="0.541306" c="0.541306" d="0.346176" tx="72.400002" ty="89.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.121569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.277206" b="0.580704" c="0.580704" d="0.277206" tx="62.900002" ty="92.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="23">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_108x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="193.449997" ty="179.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="22">
+                    <frames>
+                        <DOMFrame index="0" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_67x73" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="221.550003" ty="194.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="21">
+                    <frames>
+                        <DOMFrame index="0" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_56x54" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="217.750000" ty="208.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="20">
+                    <frames>
+                        <DOMFrame index="0" duration="37">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.302429" b="0.512497" c="-0.512497" d="0.302429" tx="207.449997" ty="182.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.235245" b="0.545822" c="-0.545822" d="0.235245" tx="218.750000" ty="186.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.905882"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.164658" b="0.571304" c="-0.571304" d="0.164658" tx="229.699997" ty="191.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.803922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.093338" b="0.587418" c="-0.587418" d="0.093338" tx="240.000000" ty="197.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.705882"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.018692" b="0.594727" c="-0.594727" d="0.018692" tx="249.600006" ty="204.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.607843"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.052383" b="0.592590" c="-0.592590" d="-0.052383" tx="258.049988" ty="213.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="43" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.126526" b="0.581055" c="-0.581055" d="-0.126526" tx="265.250000" ty="223.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.407843"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.198639" b="0.560303" c="-0.560303" d="-0.198639" tx="271.049988" ty="233.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.309804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="45" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.265869" b="0.531525" c="-0.531525" d="-0.265869" tx="275.450012" ty="245.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.211765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="46" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.330719" b="0.493622" c="-0.493622" d="-0.330719" tx="278.750000" ty="256.950012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.109804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="47" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.390030" b="0.449448" c="-0.449448" d="-0.390030" tx="281.049988" ty="268.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="19">
+                    <frames>
+                        <DOMFrame index="0" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.945374" b="0.000000" c="0.066132" d="1.671967" tx="133.100006" ty="201.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="18">
+                    <frames>
+                        <DOMFrame index="0" duration="27">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.836868" b="0.000000" c="0.036987" d="1.686844" tx="134.399994" ty="198.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="17">
+                    <frames>
+                        <DOMFrame index="0" duration="25">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="135.949997" ty="196.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="16">
+                    <frames>
+                        <DOMFrame index="0" duration="20">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_33x36" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="122.650002" ty="154.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="15">
+                    <frames>
+                        <DOMFrame index="0" duration="18">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_41x38" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="118.550003" ty="146.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="14">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.608597" b="-0.200821" c="0.200821" d="0.608597" tx="220.600006" ty="139.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.751480" b="-0.037689" c="0.037689" d="0.751480" tx="236.149994" ty="114.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.800000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.832367" b="0.144760" c="-0.144760" d="0.832367" tx="250.300003" ty="95.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.635294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.863617" b="0.308151" c="-0.308151" d="0.863617" tx="263.600006" ty="82.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.505882"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.867065" b="0.431351" c="-0.431351" d="0.867065" tx="274.899994" ty="75.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.415686"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.861794" b="0.507258" c="-0.507258" d="0.861794" tx="282.500000" ty="72.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.360784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.855423" b="0.535873" c="-0.535873" d="0.855423" tx="285.250000" ty="72.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.754013" b="0.696548" c="-0.696548" d="0.754013" tx="289.950012" ty="72.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.621017" b="0.839249" c="-0.839249" d="0.621017" tx="294.750000" ty="73.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.176471"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.460831" b="0.956512" c="-0.956512" d="0.460831" tx="299.200012" ty="74.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.094118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.280502" b="1.044449" c="-1.044449" d="0.280502" tx="303.399994" ty="77.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="13">
+                    <frames>
+                        <DOMFrame index="0" duration="48">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="48" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_117x105" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.169144" b="-0.288467" c="0.029510" d="-1.026566" tx="153.899994" ty="205.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="12">
+                    <frames>
+                        <DOMFrame index="0" duration="37">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.903041" b="0.429555" c="-0.429555" d="0.903041" tx="213.649994" ty="194.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.810963" b="0.585097" c="-0.585097" d="0.810963" tx="226.699997" ty="189.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.894118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.693832" b="0.720137" c="-0.720137" d="0.693832" tx="239.899994" ty="184.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.784314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.553696" b="0.832719" c="-0.832719" d="0.553696" tx="253.500000" ty="182.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.674510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.396587" b="0.917997" c="-0.917997" d="0.396587" tx="267.450012" ty="181.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.564706"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.225831" b="0.974166" c="-0.974166" d="0.225831" tx="281.600006" ty="182.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="43" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.048777" b="0.998810" c="-0.998810" d="0.048777" tx="294.950012" ty="187.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.126861" b="0.991921" c="-0.991921" d="-0.126861" tx="306.299988" ty="196.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.231373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="45" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.301441" b="0.953485" c="-0.953485" d="-0.301441" tx="314.950012" ty="208.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.121569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="46" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.469040" b="0.883177" c="-0.883177" d="-0.469040" tx="320.850006" ty="221.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="11">
+                    <frames>
+                        <DOMFrame index="0" duration="34">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.111053" b="0.000000" c="0.109146" d="1.648300" tx="131.149994" ty="204.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="10">
+                    <frames>
+                        <DOMFrame index="0" duration="32">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_88x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.062866" b="0.000000" c="0.095398" d="1.655396" tx="131.649994" ty="203.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="9">
+                    <frames>
+                        <DOMFrame index="0" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_33x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="237.750000" ty="158.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="8">
+                    <frames>
+                        <DOMFrame index="0" duration="27">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_44x40" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="241.149994" ty="146.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="7">
+                    <frames>
+                        <DOMFrame index="0" duration="25">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_49x76" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="240.050003" ty="120.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="6">
+                    <frames>
+                        <DOMFrame index="0" duration="23">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_62x76" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="218.949997" ty="113.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_84x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="179.649994" ty="101.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="19">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_54x55" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.704346" b="0.000000" c="0.000000" d="1.704346" tx="165.649994" ty="103.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.970428" b="0.477341" c="-0.477341" d="0.970428" tx="236.399994" ty="147.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.904190" b="0.592499" c="-0.592499" d="0.904190" tx="252.399994" ty="143.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.894118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.822037" b="0.701431" c="-0.701431" d="0.822037" tx="268.500000" ty="141.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.784314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.729431" b="0.796814" c="-0.796814" d="0.729431" tx="284.950012" ty="140.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.674510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.622940" b="0.882233" c="-0.882233" d="0.622940" tx="301.500000" ty="141.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.564706"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.506516" b="0.953644" c="-0.953644" d="0.506516" tx="317.750000" ty="144.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.385391" b="1.008606" c="-1.008606" d="0.385391" tx="333.500000" ty="150.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.254990" b="1.049225" c="-1.049225" d="0.254990" tx="348.299988" ty="158.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.231373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.120514" b="1.073151" c="-1.073151" d="0.120514" tx="361.950012" ty="168.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.121569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_30x29" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.012726" b="1.081390" c="-1.081390" d="-0.012726" tx="374.149994" ty="179.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.618591" b="0.000000" c="0.000000" d="1.618591" tx="199.649994" ty="184.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.622421" b="0.000000" c="0.000000" d="1.622421" tx="199.649994" ty="184.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.634766" b="0.000000" c="0.000000" d="1.634766" tx="199.649994" ty="184.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.655838" b="0.000000" c="0.000000" d="1.655838" tx="199.649994" ty="183.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.683517" b="0.000000" c="0.000000" d="1.683517" tx="199.649994" ty="183.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.713531" b="0.000000" c="0.000000" d="1.713531" tx="199.649994" ty="182.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.741638" b="0.000000" c="0.000000" d="1.741638" tx="199.649994" ty="181.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.765518" b="0.000000" c="0.000000" d="1.765518" tx="199.649994" ty="180.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.784515" b="0.000000" c="0.000000" d="1.784515" tx="199.649994" ty="180.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.798904" b="0.000000" c="0.000000" d="1.798904" tx="199.649994" ty="179.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.809204" b="0.000000" c="0.000000" d="1.809204" tx="199.649994" ty="179.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.815979" b="0.000000" c="0.000000" d="1.815979" tx="199.649994" ty="179.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.819748" b="0.000000" c="0.000000" d="1.819748" tx="199.649994" ty="178.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.820923" b="0.000000" c="0.000000" d="1.820923" tx="199.649994" ty="178.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.815521" b="0.000000" c="0.000000" d="1.815521" tx="199.649994" ty="179.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.798187" b="0.000000" c="0.000000" d="1.798187" tx="199.649994" ty="179.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.769485" b="0.000000" c="0.000000" d="1.769485" tx="199.649994" ty="180.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.734726" b="0.000000" c="0.000000" d="1.734726" tx="199.649994" ty="181.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.701080" b="0.000000" c="0.000000" d="1.701080" tx="199.649994" ty="182.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.673065" b="0.000000" c="0.000000" d="1.673065" tx="199.649994" ty="183.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.651810" b="0.000000" c="0.000000" d="1.651810" tx="199.649994" ty="183.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.636703" b="0.000000" c="0.000000" d="1.636703" tx="199.649994" ty="184.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.626953" b="0.000000" c="0.000000" d="1.626953" tx="199.649994" ty="184.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.621613" b="0.000000" c="0.000000" d="1.621613" tx="199.649994" ty="184.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.619980" b="0.000000" c="0.000000" d="1.619980" tx="199.649994" ty="184.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.618591" b="0.000000" c="0.000000" d="1.618591" tx="199.649994" ty="184.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.622421" b="0.000000" c="0.000000" d="1.622421" tx="199.649994" ty="184.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.634766" b="0.000000" c="0.000000" d="1.634766" tx="199.649994" ty="184.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.655838" b="0.000000" c="0.000000" d="1.655838" tx="199.649994" ty="183.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.683517" b="0.000000" c="0.000000" d="1.683517" tx="199.649994" ty="183.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.713531" b="0.000000" c="0.000000" d="1.713531" tx="199.649994" ty="182.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.741638" b="0.000000" c="0.000000" d="1.741638" tx="199.649994" ty="181.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.765518" b="0.000000" c="0.000000" d="1.765518" tx="199.649994" ty="180.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.784515" b="0.000000" c="0.000000" d="1.784515" tx="199.649994" ty="180.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.798904" b="0.000000" c="0.000000" d="1.798904" tx="199.649994" ty="179.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.809204" b="0.000000" c="0.000000" d="1.809204" tx="199.649994" ty="179.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.815979" b="0.000000" c="0.000000" d="1.815979" tx="199.649994" ty="179.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.819748" b="0.000000" c="0.000000" d="1.819748" tx="199.649994" ty="178.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.820923" b="0.000000" c="0.000000" d="1.820923" tx="199.649994" ty="178.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.815521" b="0.000000" c="0.000000" d="1.815521" tx="199.649994" ty="179.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.798187" b="0.000000" c="0.000000" d="1.798187" tx="199.649994" ty="179.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.769485" b="0.000000" c="0.000000" d="1.769485" tx="199.649994" ty="180.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.734726" b="0.000000" c="0.000000" d="1.734726" tx="199.649994" ty="181.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="43" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.701080" b="0.000000" c="0.000000" d="1.701080" tx="199.649994" ty="182.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.673065" b="0.000000" c="0.000000" d="1.673065" tx="199.649994" ty="183.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="45" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.651810" b="0.000000" c="0.000000" d="1.651810" tx="199.649994" ty="183.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="46" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.636703" b="0.000000" c="0.000000" d="1.636703" tx="199.649994" ty="184.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="47" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.626953" b="0.000000" c="0.000000" d="1.626953" tx="199.649994" ty="184.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="48" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.621613" b="0.000000" c="0.000000" d="1.621613" tx="199.649994" ty="184.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="49" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/upgrade_badge_71x101" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.619980" b="0.000000" c="0.000000" d="1.619980" tx="199.649994" ty="184.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/icon_back" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.618591" b="0.000000" c="0.000000" d="1.618591" tx="196.500000" ty="183.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>
