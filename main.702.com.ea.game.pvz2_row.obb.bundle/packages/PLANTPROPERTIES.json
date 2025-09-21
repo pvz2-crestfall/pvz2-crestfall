@@ -228,7 +228,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -0.6,
+                        "Value": -0.4,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -434,7 +434,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -0.75,
+                        "Value": -0.25,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -1003,8 +1003,8 @@
                 "ZenGardenDurationOverrideSeconds": 12600,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostRapidFire@PropertySheets)",
-                        "Value": 1.5,
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
+                        "Value": 2,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -1342,8 +1342,8 @@
                 "ZenGardenDurationOverrideSeconds": 18000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostRapidFire@PropertySheets)",
-                        "Value": 1.5,
+                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
+                        "Value": -25,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -1846,7 +1846,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -0.8,
+                        "Value": -0.2,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -2894,7 +2894,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -0.6,
+                        "Value": -0.4,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -2972,8 +2972,8 @@
                 "ZenGardenDurationOverrideSeconds": 12600,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostRapidFire@PropertySheets)",
-                        "Value": 1.5,
+                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
+                        "Value": -25,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -4227,8 +4227,8 @@
                 "ZenGardenDurationOverrideSeconds": 12600,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostRapidFire@PropertySheets)",
-                        "Value": 1.25,
+                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
+                        "Value": -25,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
