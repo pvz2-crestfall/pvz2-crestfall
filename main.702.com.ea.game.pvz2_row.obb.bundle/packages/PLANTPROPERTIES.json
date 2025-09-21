@@ -436,11 +436,6 @@
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
                         "Value": -0.75,
                         "CooldownDurationSeconds": 28800
-                    },
-                    {
-                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
-                        "Value": -25,
-                        "CooldownDurationSeconds": 28800
                     }
                 ],
                 "CanReceiveFirstAid": true,
@@ -3207,7 +3202,7 @@
                     "x": 99,
                     "y": 111
                 },
-                "ButterChance": 0.9,
+                "ButterChance": 0.4,
                 "ButterStormDelay": 1.0,
                 "ButterStormDuration": 3.0,
                 "AdditionalButterStormMissiles": 5,
@@ -3476,11 +3471,6 @@
                 "ZenGardenBoostCost": 10,
                 "ZenGardenDurationOverrideSeconds": 12600,
                 "Boosts": [
-                    {
-                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
-                        "Value": -25,
-                        "CooldownDurationSeconds": 28800
-                    },
                     {
                         "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
                         "Value": -0.5,
