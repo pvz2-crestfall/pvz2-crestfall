@@ -17,10 +17,6 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [300]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -97,10 +93,6 @@
                     {
                         "Name": "PlantFoodDurationSeconds",
                         "Values": [2]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -169,10 +161,6 @@
                     {
                         "Name": "Hitpoints",
                         "Values": [4000]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -241,10 +229,6 @@
                     {
                         "Name": "Bloomerang_PlantfoodProjectileCount",
                         "Values": [16]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -307,10 +291,6 @@
                     {
                         "Name": "ActionCooldownMax",
                         "Values": [3]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -347,10 +327,6 @@
                     {
                         "Name": "Potatomine_ArmingTime",
                         "Values": [10]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -398,10 +374,6 @@
                         "Name": "ActionExplodeRadius",
                         "SubType": "0",
                         "Values": [0]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -439,10 +411,6 @@
                     {
                         "Name": "Gravebuster_EatTime",
                         "Values": [4]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -531,10 +499,6 @@
                     {
                         "Name": "StartingCooldown",
                         "Values": [0]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -635,10 +599,6 @@
                     {
                         "Name": "Kernelpult_ButterDuration",
                         "Values": [8]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -671,10 +631,6 @@
                     {
                         "Name": "PacketCooldown",
                         "Values": [5]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
@@ -2273,10 +2229,6 @@
                         "SubType": "2",
                         "Type": "ActionDamage",
                         "Values": [20]
-                    },
-                    {
-                        "Name": "PlantTier",
-                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
