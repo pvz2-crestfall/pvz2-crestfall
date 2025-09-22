@@ -7785,7 +7785,7 @@
                 "LevelCap": 1,
                 "LevelCoins": [],
                 "LevelXP": [],
-                "PlantTier": [1],
+                "PlantTier": [3],
                 "SeedPacketCost": 250,
                 "TypeName": "tumbleweed",
                 "UsesLeveling": false

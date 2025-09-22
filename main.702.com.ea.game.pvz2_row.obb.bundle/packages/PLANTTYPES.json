@@ -2713,8 +2713,7 @@
                 "SeedChooserBigHorizontalOffset": 0.0,
                 "SeedChooserBigScale": 1.2,
                 "SeasonsVerticalOffset": -25.0,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "Premium": false,
                 "Families": ["Appeasemint"]
             }
         },
