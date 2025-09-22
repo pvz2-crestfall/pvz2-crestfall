@@ -919,31 +919,22 @@
                     },
                     {
                         "Name": "ActionDamage",
-                        "SubType": "0",
-                        "Type": "ActionDamage",
                         "Values": [20]
                     },
                     {
                         "Name": "ActionDamageReverse",
-                        "SubType": "1",
-                        "Type": "ActionDamage",
                         "Values": [20]
                     },
                     {
                         "Name": "ActionDamagePF",
-                        "SubType": "3",
-                        "Type": "ActionDamage",
                         "Values": [20]
                     },
                     {
                         "Name": "ActionDamagePFReverse",
-                        "SubType": "4",
-                        "Type": "ActionDamage",
                         "Values": [20]
                     },
                     {
                         "Name": "ActionXVelocity",
-                        "SubType": "0",
                         "Values": [333]
                     }
                 ],
@@ -984,7 +975,6 @@
                     },
                     {
                         "Name": "ActionStunDuration",
-                        "SubType": "0",
                         "Values": [7.5]
                     }
                 ],
@@ -1021,7 +1011,6 @@
                     },
                     {
                         "Name": "ActionDamage",
-                        "SubType": "0",
                         "Values": [6]
                     },
                     {
@@ -1194,7 +1183,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [500]
+                        "Values": [525]
                     },
                     {
                         "Name": "Hitpoints",

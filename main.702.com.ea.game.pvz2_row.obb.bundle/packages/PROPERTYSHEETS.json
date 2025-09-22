@@ -542,7 +542,8 @@
 					"inferno",
 					"snapdragon",
 					"iceweed",
-					"rhubarbarian"
+					"rhubarbarian",
+					"splitpea"
 				],
 				"ProtectThePlantAdditionalPlantingExcludelist": [
 					"powerplant",
