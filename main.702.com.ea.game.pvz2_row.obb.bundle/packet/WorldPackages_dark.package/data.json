@@ -1,0 +1,23 @@
+{
+	"#split_label": true,
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": false,
+	"category": null,
+	"subgroup": {
+		"WorldPackages_dark": {
+			"category": {
+				"common_type": false,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"RESFILE_PACKAGES_WORLDS_DARK_WORLDMAP": {
+					"type": "Data",
+					"path": "packages/worlds/dark/worldmap.json"
+				}
+			}
+		}
+	}
+}
