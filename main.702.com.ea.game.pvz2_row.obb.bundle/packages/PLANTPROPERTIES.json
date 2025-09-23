@@ -4341,12 +4341,12 @@
                 "ActivateImmediately": true,
                 "TapToActivate": false,
                 "ActivationRecoveryTime": 10.0,
-                "ActivationRadius": 200.0,
+                "ActivationRadius": 320.0,
                 "StunTime": 10.0,
                 "PlantStats": [
                     {
                         "Type": "area",
-                        "Value": "3by3"
+                        "Value": "5by5"
                     },
                     {
                         "Type": "recharge",
@@ -4363,6 +4363,13 @@
                 "ZenGardenSproutWeight": 0,
                 "ZenGardenBoostCost": 12,
                 "ZenGardenDurationOverrideSeconds": 18000,
+                "Boosts": [
+                    {
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.4,
+                        "CooldownDurationSeconds": 28800
+                    }
+                ],
                 "IsConsumable": true,
                 "IsInstant": true,
                 "SuggestionAlts": ["ghostpepper", "cherry_bomb", "potatomine"]

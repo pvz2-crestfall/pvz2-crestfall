@@ -2045,7 +2045,7 @@
                     },
                     {
                         "Name": "EMPeach_ActivationRadius",
-                        "Values": [200]
+                        "Values": [320]
                     },
                     {
                         "Name": "PlantTier",
