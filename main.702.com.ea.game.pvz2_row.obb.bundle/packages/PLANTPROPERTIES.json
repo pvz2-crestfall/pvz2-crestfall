@@ -2259,7 +2259,7 @@
                         "Type": "projectile",
                         "InitialMinCooldownTime": 1.5,
                         "CooldownTimeMin": 2.23,
-                        "CooldownTimeMax": 2.30,
+                        "CooldownTimeMax": 2.3,
                         "SpawnOffset": {
                             "x": 5.0,
                             "y": -47.0
@@ -4409,6 +4409,13 @@
                 "ZenGardenSproutWeight": 0,
                 "ZenGardenBoostCost": 12,
                 "ZenGardenDurationOverrideSeconds": 18000,
+                "Boosts": [
+                    {
+                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
+                        "Value": -25,
+                        "CooldownDurationSeconds": 28800
+                    }
+                ],
                 "IsConsumable": true,
                 "IsInstant": true,
                 "SuggestionAlts": ["hurrikale", "iceburg", "potatomine"]
