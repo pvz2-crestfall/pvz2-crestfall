@@ -2105,7 +2105,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [50]
+                        "Values": [75]
                     },
                     {
                         "Name": "PacketCooldown",
@@ -2113,12 +2113,12 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [75]
                     },
                     {
                         "Name": "ActionDamage",
                         "SubType": "1",
-                        "Values": [550]
+                        "Values": [200]
                     },
                     {
                         "Name": "ActionXVelocity",
@@ -2127,7 +2127,7 @@
                     },
                     {
                         "Name": "MagnifyingGrass_SunMoneyPerShot",
-                        "Values": [50]
+                        "Values": [25]
                     },
                     {
                         "Name": "MagnifyingGrass_PlantFoodBeamDPS",
