@@ -2167,11 +2167,11 @@
                     },
                     {
                         "Name": "TileTurnip_FirstNonFreeCost",
-                        "Values": [250]
+                        "Values": [500]
                     },
                     {
                         "Name": "TileTurnip_NumberOfFreeTiles",
-                        "Values": [1]
+                        "Values": [2]
                     },
                     {
                         "Name": "TileTurnip_CostMultiplier",
