@@ -1977,12 +1977,17 @@
                     },
                     {
                         "Name": "Cost",
-                        "Values": [350]
+                        "Values": [325]
                     },
                     {
                         "Name": "ActionDamage",
                         "SubType": "0",
                         "Values": [800]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "SubType": "0",
+                        "Values": [120]
                     },
                     {
                         "Name": "ActionXVelocity",

@@ -875,6 +875,8 @@
             "aliases": ["PlasmaBall"],
             "objdata": {
                 "BaseDamage": 800,
+                "SplashDamage": 120,
+                "SplashRadius": 1,
                 "DamageFlags": ["shooter"],
                 "HasShadow": false,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies"],
