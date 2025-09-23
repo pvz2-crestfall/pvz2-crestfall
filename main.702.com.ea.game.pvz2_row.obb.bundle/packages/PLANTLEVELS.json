@@ -3690,11 +3690,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [175]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [600]
                     },
                     {
                         "Name": "PacketCooldown",
@@ -3704,7 +3704,7 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [20]
+                        "Values": [25]
                     },
                     {
                         "Name": "ActionDamagePlantfood",
