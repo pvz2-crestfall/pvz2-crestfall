@@ -320,7 +320,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [175]
+                        "Values": [125]
                     },
                     {
                         "Name": "Hitpoints",
@@ -823,7 +823,7 @@
                     {
                         "Name": "ActionDamage",
                         "SubType": "0",
-                        "Values": [15]
+                        "Values": [12]
                     },
                     {
                         "Name": "PlantTier",
@@ -1009,7 +1009,7 @@
                     {
                         "Name": "ActionDamage",
                         "SubType": "0",
-                        "Values": [30]
+                        "Values": [24]
                     },
                     {
                         "Name": "PlantTier",
