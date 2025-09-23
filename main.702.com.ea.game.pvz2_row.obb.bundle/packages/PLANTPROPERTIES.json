@@ -4348,12 +4348,12 @@
                 "ActivateImmediately": true,
                 "TapToActivate": false,
                 "ActivationRecoveryTime": 10.0,
-                "ActivationRadius": 320.0,
+                "ActivationRadius": 200.0,
                 "StunTime": 10.0,
                 "PlantStats": [
                     {
                         "Type": "area",
-                        "Value": "5by5"
+                        "Value": "3by3"
                     },
                     {
                         "Type": "recharge",
