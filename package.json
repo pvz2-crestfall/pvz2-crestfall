@@ -1,0 +1,21 @@
+{
+    "name": "pvz2-crestfall",
+    "version": "1.0.0",
+    "description": "TODO",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "nolevels": "node scripts/no_levels.js",
+        "build": "node scripts/build.js main.702.com.ea.game.pvz2_row.obb.bundle"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ZackGabri/pvz2-crestfall.git"
+    },
+    "author": "ZackGabri",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ZackGabri/pvz2-crestfall/issues"
+    },
+    "homepage": "https://github.com/ZackGabri/pvz2-crestfall#readme"
+}
