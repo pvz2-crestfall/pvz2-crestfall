@@ -5143,7 +5143,7 @@
                     },
                     {
                         "Type": "area",
-                        "Value": "1by4"
+                        "Value": "1by5"
                     },
                     {
                         "Type": "recharge",
@@ -5166,8 +5166,8 @@
                 ],
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.3333,
                         "CooldownDurationSeconds": 28800
                     }
                 ],

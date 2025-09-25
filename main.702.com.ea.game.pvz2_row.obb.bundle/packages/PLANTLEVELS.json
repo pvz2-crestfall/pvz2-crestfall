@@ -1551,7 +1551,7 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [7.5]
                     },
                     {
                         "Name": "PlantFoodPlayCount",
@@ -1567,7 +1567,7 @@
                         "Name": "ActionDamage",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [40]
+                        "Values": [32]
                     },
                     {
                         "Name": "PlantTier",
