@@ -54,7 +54,7 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [75]
                     },
                     {
                         "Name": "PlantTier",
