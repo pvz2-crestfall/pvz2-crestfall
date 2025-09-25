@@ -1486,11 +1486,11 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [150]
+                        "Values": [75]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [7.5]
                     },
                     {
                         "Name": "PlantFoodDurationSeconds",
