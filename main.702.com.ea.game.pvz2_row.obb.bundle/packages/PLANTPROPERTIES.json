@@ -5444,8 +5444,8 @@
                 ],
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.25,
                         "CooldownDurationSeconds": 28800
                     }
                 ],

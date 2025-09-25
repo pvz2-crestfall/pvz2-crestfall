@@ -3744,7 +3744,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [75]
                     },
                     {
                         "Name": "Hitpoints",
