@@ -3617,23 +3617,23 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [15]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [2000]
+                        "Values": [600]
                     },
                     {
                         "Name": "ActionDamageExplosion",
                         "SubType": "2",
                         "Type": "ActionDamage",
-                        "Values": [450]
+                        "Values": [200]
                     },
                     {
                         "Name": "ActionDamageEaten",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [10]
+                        "Values": [0]
                     }
                 ],
                 "LevelCap": 1,
