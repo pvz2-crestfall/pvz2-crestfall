@@ -1595,15 +1595,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [50]
+                        "Values": [0]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [30]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [15]
+                        "Values": [10]
                     },
                     {
                         "Name": "Hitpoints",
@@ -1615,7 +1615,7 @@
                     },
                     {
                         "Name": "Sunbean_MaxSunPerZombie",
-                        "Values": [300]
+                        "Values": [400]
                     },
                     {
                         "Name": "Sunbean_MaxSunPerZombieOnPlantfoodBurst",
@@ -3784,7 +3784,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [125]
                     },
                     {
                         "Name": "Hitpoints",
@@ -3792,7 +3792,11 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [15]
+                        "Values": [12.5]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
                     },
                     {
                         "Name": "ActionDamageNormal",

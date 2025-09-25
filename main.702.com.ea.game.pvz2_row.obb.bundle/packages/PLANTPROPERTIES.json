@@ -5563,8 +5563,8 @@
                         "Projectile": "RTID(PeaDefault@ProjectileTypes)",
                         "ProjectileLaunchSound": "Play_Throw",
                         "InitialMinCooldownTime": 0,
-                        "CooldownTimeMin": 1.30166,
-                        "CooldownTimeMax": 1.333,
+                        "CooldownTimeMin": 1.15,
+                        "CooldownTimeMax": 1.2,
                         "SpawnOffset": {
                             "x": 23.0,
                             "y": -37.0
@@ -5576,8 +5576,8 @@
                         "Projectile": "RTID(PeaDefault@ProjectileTypes)",
                         "ProjectileLaunchSound": "Play_Throw",
                         "InitialMinCooldownTime": 0,
-                        "CooldownTimeMin": 1.30166,
-                        "CooldownTimeMax": 1.333,
+                        "CooldownTimeMin": 1.15,
+                        "CooldownTimeMax": 1.2,
                         "SpawnOffset": {
                             "x": 23.0,
                             "y": -37.0
@@ -5599,7 +5599,7 @@
                     },
                     {
                         "Type": "recharge",
-                        "Value": "recharge3"
+                        "Value": "recharge2"
                     }
                 ],
                 "ScaledProps": [
@@ -5621,8 +5621,8 @@
                 "ZenGardenDurationOverrideSeconds": 12600,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
+                        "Value": 1.5,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
