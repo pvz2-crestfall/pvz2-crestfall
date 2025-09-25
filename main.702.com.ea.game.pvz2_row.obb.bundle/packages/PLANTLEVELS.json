@@ -4987,7 +4987,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [100]
+                        "Values": [125]
                     },
                     {
                         "Name": "Hitpoints",
@@ -5003,7 +5003,7 @@
                     },
                     {
                         "Name": "MagnetShroom_DestroyPulledObjectsTime",
-                        "Values": [10]
+                        "Values": [8]
                     },
                     {
                         "Name": "MagnetShroom_GridSquareRangeHeight",
