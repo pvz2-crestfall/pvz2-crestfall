@@ -5828,8 +5828,8 @@
                     {
                         "Type": "projectile",
                         "Projectile": "RTID(BananaDefault@ProjectileTypes)",
-                        "CooldownTimeMin": 20.0,
-                        "CooldownTimeMax": 20.0,
+                        "CooldownTimeMin": 30.0,
+                        "CooldownTimeMax": 30.0,
                         "SpawnOffset": {
                             "x": 0.0,
                             "y": -600.0
@@ -5842,8 +5842,8 @@
                 "ZenGardenDurationOverrideSeconds": 27000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
+                        "Value": -100,
                         "CooldownDurationSeconds": 28800
                     }
                 ],

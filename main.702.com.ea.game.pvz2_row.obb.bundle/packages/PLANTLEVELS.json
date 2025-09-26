@@ -1846,22 +1846,26 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
                     },
                     {
                         "Name": "ActionSplashDamage",
                         "SubType": "0",
-                        "Values": [1200]
+                        "Values": [1800]
                     },
                     {
                         "Name": "ActionCooldownMin",
                         "SubType": "0",
-                        "Values": [20]
+                        "Values": [30]
                     },
                     {
                         "Name": "ActionCooldownMax",
                         "SubType": "0",
-                        "Values": [20]
+                        "Values": [30]
                     },
                     {
                         "Name": "PlantTier",
