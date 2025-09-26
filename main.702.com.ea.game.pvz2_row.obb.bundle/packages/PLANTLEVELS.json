@@ -3905,13 +3905,18 @@
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [10]
+                        "Values": [5]
                     },
                     {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [40]
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "SubType": "0",
+                        "Values": [5]
                     },
                     {
                         "Name": "ActionXVelocity",

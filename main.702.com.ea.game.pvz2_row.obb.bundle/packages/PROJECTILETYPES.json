@@ -2957,6 +2957,8 @@
             "objdata": {
                 "ClassName": "HomingThistleLeaf",
                 "BaseDamage": 40,
+                "SplashDamage": 5,
+                "SplashRadius": 0.5,
                 "DamageFlags": ["shooter"],
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies"],
                 "InitialVelocity": [
