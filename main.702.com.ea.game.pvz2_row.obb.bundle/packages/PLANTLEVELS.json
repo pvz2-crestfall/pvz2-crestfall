@@ -3841,7 +3841,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [200]
                     },
                     {
                         "Name": "Hitpoints",
@@ -3849,11 +3849,15 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
                     },
                     {
                         "Name": "Chomper_ChewTimeSeconds",
-                        "Values": [17]
+                        "Values": [12]
                     },
                     {
                         "Name": "Chomper_GobbleCapacity",
