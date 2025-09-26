@@ -14799,7 +14799,7 @@
                         "ZombiePirateBarrel"
                     ]
                 },
-                "InfectivityPercentagePF": 25,
+                "InfectivityPercentagePF": 1,
                 "SunSpawnOffset": {
                     "x": 0.0,
                     "y": -60.0
@@ -14807,8 +14807,8 @@
                 "InfectivityCooldown": 4,
                 "comment": "Rate at which the illuminated zombie passes on infectivity to other zombies",
                 "InfectivityRange": 0.5,
-                "InfectivityPercentage": 25,
-                "SunProductionTimer": 5,
+                "InfectivityPercentage": 1,
+                "SunProductionTimer": 10,
                 "SunProductionTimerCap": 60,
                 "PlantStats": [],
                 "ScaledProps": [

@@ -8732,7 +8732,7 @@
                     },
                     {
                         "Name": "Cost",
-                        "Values": [0]
+                        "Values": [50]
                     },
                     {
                         "Name": "PacketCooldown",
@@ -8740,11 +8740,11 @@
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [1]
+                        "Values": [10]
                     },
                     {
                         "Name": "SolarSageEnlightened_Infectivity",
-                        "Values": [0.1]
+                        "Values": [0.01]
                     },
                     {
                         "Name": "SolarSageEnlightened_InfectivityRange",
@@ -8752,11 +8752,11 @@
                     },
                     {
                         "Name": "SolarSageEnlightened_InfectivityCooldown",
-                        "Values": [5]
+                        "Values": [6969]
                     },
                     {
                         "Name": "SolarSageEnlightened_SunProductionTimer",
-                        "Values": [5]
+                        "Values": [10]
                     },
                     {
                         "Name": "SolarSageEnlightened_SunProductionTimerCap",
@@ -8764,7 +8764,7 @@
                     },
                     {
                         "Name": "SolarSage_InfectivityPercentagePF",
-                        "Values": [1]
+                        "Values": [0.04]
                     },
                     {
                         "Name": "PlantTier",
