@@ -1,0 +1,98 @@
+name: Build & Release
+
+on:
+    push:
+        branches:
+            - ci-testing
+            - main
+        tags:
+            - 'v*' # explicitly capture tag pushes
+    pull_request:
+
+jobs:
+    build:
+        runs-on: windows-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Download and extract SEN
+              run: |
+                  Invoke-WebRequest -Uri "https://github.com/harumazzz/Sen.Environment/releases/download/release/win-x64.zip" -OutFile "sen.zip"
+                  mkdir "$env:USERPROFILE\SEN"
+                  Expand-Archive -Path sen.zip -DestinationPath "$env:USERPROFILE\SEN"
+
+            # Add extracted folder to PATH
+            - name: Add SEN to PATH
+              run: echo "$env:USERPROFILE\SEN" >> $env:GITHUB_PATH
+
+            - name: Set SEN_PATH environment variable
+              run: echo "SEN_PATH=$env:USERPROFILE\SEN" >> $env:GITHUB_ENV
+
+            - name: Set up Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: 20
+
+            - name: Install dependencies
+              run: npm ci
+
+            - name: Download & process obb file
+              run: |
+                  Invoke-WebRequest -Uri "https://github.com/pvz2-crestfall/pvz2-crestfall/releases/download/0.0.0/main.702.com.ea.game.pvz2_row.obb" -OutFile "main.702.com.ea.game.pvz2_row.obb"
+                  npm run unpack
+
+            - name: Run build script
+              run: npm run build
+
+            # Upload output file as artifact (always, for debugging)
+            - name: Upload build artifact
+              uses: actions/upload-artifact@v4
+              with:
+                  name: build-output
+                  path: build-output/**
+
+    release:
+        if: (startsWith(github.ref, 'refs/tags/v')) || (github.event.ref_type == 'tag')
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        needs: build # wait until build job finishes
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0 # needed for changelog generation
+
+            - name: Download build artifact
+              uses: actions/download-artifact@v4
+              with:
+                  name: build-output
+                  path: ./release-files
+
+            - name: Generate changelog
+              id: changelog
+              run: |
+                  prev_tag=$(git describe --tags --abbrev=0 HEAD^ || echo "")
+                  echo "Previous tag: $prev_tag"
+
+                  if [ -z "$prev_tag" ]; then
+                    log=$(git log --pretty=format:"- %s")
+                  else
+                    log=$(git log $prev_tag..HEAD --pretty=format:"- %s")
+                  fi
+
+                  echo "log<<EOF" >> $GITHUB_OUTPUT
+                  echo "$log" >> $GITHUB_OUTPUT
+                  echo "EOF" >> $GITHUB_OUTPUT
+
+            - name: Create GitHub Release
+              uses: softprops/action-gh-release@v2
+              with:
+                  name: ${{ github.ref_name }}
+                  tag_name: ${{ github.ref_name }}
+                  body: ${{ steps.changelog.outputs.log }}
+                  files: ./release-files/**
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,5 +1,6 @@
 # Ignore all files except json, which is what we need
 /backup
+/build-output
 *.obb
 *.rton
 *.scg
