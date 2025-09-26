@@ -1567,7 +1567,7 @@
                         "Name": "ActionDamage",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [32]
+                        "Values": [36]
                     },
                     {
                         "Name": "PlantTier",
@@ -1675,11 +1675,11 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [10]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [15]
+                        "Values": [10]
                     },
                     {
                         "Name": "Hitpoints",
@@ -1687,7 +1687,7 @@
                     },
                     {
                         "Name": "TangleKelp_SlapDamage",
-                        "Values": [400]
+                        "Values": [200]
                     },
                     {
                         "Name": "TangleKelp_MaxNormalWaterKills",
