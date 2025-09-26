@@ -56,6 +56,6 @@ export class Spinner {
     }
 
     get stopped() {
-        this.interval == null;
+        return this.interval == null;
     }
 }
