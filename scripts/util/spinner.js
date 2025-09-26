@@ -45,7 +45,7 @@ export class Spinner {
 
     setText(newText) {
         if (process.env.CI || !process.stdout.isTTY) {
-            console.log(this.text);
+            console.log(newText);
             this.text = newText;
         } else {
             process.stdout.clearLine(0);
@@ -53,5 +53,9 @@ export class Spinner {
 
             this.text = newText;
         }
+    }
+
+    get stopped() {
+        this.interval == null;
     }
 }

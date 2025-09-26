@@ -37,7 +37,9 @@ async function buildPackets() {
     for (const packet of packages) {
         current++;
         spinner.setText(`(${current}/${total}) Packing ${path.basename(packet)}`.cyan());
-        spinner.start();
+        if (spinner.stopped) {
+            spinner.start();
+        }
 
         let scg = path.format({ ...path.parse(packet), base: undefined, ext: '.scg' });
         if (!fs.existsSync(scg) || fs.statSync(scg).mtimeMs > fs.statSync(packet).mtimeMs) {
