@@ -1,9 +1,13 @@
-name: Release App
+name: Build & Release
 
 on:
     push:
-        branches: [ci-testing, main]
-        tags: ['v*']
+        branches:
+            - ci-testing
+            - main
+        tags:
+            - 'v*' # explicitly capture tag pushes
+    create:
     pull_request:
 
 jobs:
@@ -51,7 +55,7 @@ jobs:
                   path: build-output/**
 
     release:
-        if: startsWith(github.ref, 'refs/tags/v') # run only on tags
+        if: (startsWith(github.ref, 'refs/tags/v')) || (github.event.ref_type == 'tag')
         runs-on: ubuntu-latest
         needs: build # wait until build job finishes
         steps:
