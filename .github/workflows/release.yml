@@ -1,0 +1,47 @@
+name: Release App
+
+on:
+    push:
+        tags:
+            - 'v*' # only run on tags like v1.0.0
+
+jobs:
+    release:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0 # needed for changelog generation
+
+            - name: Download build artifact
+              uses: actions/download-artifact@v4
+              with:
+                  name: build-output
+                  path: ./build-output
+
+            - name: Generate changelog
+              id: changelog
+              run: |
+                  prev_tag=$(git describe --tags --abbrev=0 HEAD^ || echo "")
+                  echo "Previous tag: $prev_tag"
+
+                  if [ -z "$prev_tag" ]; then
+                    log=$(git log --pretty=format:"- %s")
+                  else
+                    log=$(git log $prev_tag..HEAD --pretty=format:"- %s")
+                  fi
+
+                  echo "log<<EOF" >> $GITHUB_OUTPUT
+                  echo "$log" >> $GITHUB_OUTPUT
+                  echo "EOF" >> $GITHUB_OUTPUT
+
+            - name: Create GitHub Release
+              uses: softprops/action-gh-release@v2
+              with:
+                  name: ${{ github.ref_name }}
+                  tag_name: ${{ github.ref_name }}
+                  body: ${{ steps.changelog.outputs.log }}
+                  files: ./release-files/**
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
