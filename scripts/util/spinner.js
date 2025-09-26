@@ -7,6 +7,11 @@ export class Spinner {
     }
 
     start() {
+        if (process.env.CI || !process.stdout.isTTY) {
+            console.log(this.text);
+            return null;
+        }
+
         if (this.interval == null) {
             this.interval = setInterval(() => {
                 const frame = this.frames[(this.frameIndex = (this.frameIndex + 1) % this.frames.length)];
@@ -34,9 +39,14 @@ export class Spinner {
     }
 
     setText(newText) {
-        process.stdout.clearLine(0);
-        process.stdout.cursorTo(0);
+        if (process.env.CI || !process.stdout.isTTY) {
+            console.log(this.text);
+            this.text = newText;
+        } else {
+            process.stdout.clearLine(0);
+            process.stdout.cursorTo(0);
 
-        this.text = newText;
+            this.text = newText;
+        }
     }
 }
