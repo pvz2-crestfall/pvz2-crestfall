@@ -12040,8 +12040,9 @@
                     {
                         "# Normal spark damage happens once per cooldown time max": 0,
                         "Type": "special",
-                        "CooldownTimeMax": 0.5,
-                        "Damage": 3.0,
+                        "CooldownTimeMin": 1.75,
+                        "CooldownTimeMax": 1.8,
+                        "Damage": 12.0,
                         "TriggerType": "manual"
                     },
                     {
@@ -12097,8 +12098,8 @@
                 "ZenGardenDurationOverrideSeconds": 12600,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.3333,
                         "CooldownDurationSeconds": 28800
                     }
                 ],

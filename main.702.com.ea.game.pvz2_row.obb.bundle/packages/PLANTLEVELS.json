@@ -5646,7 +5646,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [100]
                     },
                     {
                         "Name": "PacketCooldown",
@@ -5658,19 +5658,19 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [150]
+                        "Values": [300]
                     },
                     {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [3]
+                        "Values": [12]
                     },
                     {
                         "Name": "ActionDamageExplosion",
                         "SubType": "2",
                         "Type": "ActionDamage",
-                        "Values": [950]
+                        "Values": [500]
                     },
                     {
                         "Name": "Electricitea_BoltRange",
@@ -5680,7 +5680,13 @@
                         "Name": "ActionCooldownMax",
                         "SubType": "0",
                         "Type": "ActionCooldownMax",
-                        "Values": [0.5]
+                        "Values": [1.8]
+                    },
+                    {
+                        "Name": "ActionCooldownMin",
+                        "SubType": "0",
+                        "Type": "ActionCooldownMin",
+                        "Values": [1.75]
                     },
                     {
                         "Name": "ActionCooldownMaxPF",
