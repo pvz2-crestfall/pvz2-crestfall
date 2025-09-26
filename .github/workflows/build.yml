@@ -1,8 +1,5 @@
 name: Build & Release
 
-permissions:
-    contents: write
-
 on:
     push:
         branches:
@@ -10,7 +7,6 @@ on:
             - main
         tags:
             - 'v*' # explicitly capture tag pushes
-    create:
     pull_request:
 
 jobs:
@@ -60,6 +56,8 @@ jobs:
     release:
         if: (startsWith(github.ref, 'refs/tags/v')) || (github.event.ref_type == 'tag')
         runs-on: ubuntu-latest
+        permissions:
+            contents: write
         needs: build # wait until build job finishes
         steps:
             - name: Checkout repository
