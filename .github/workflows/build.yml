@@ -37,10 +37,10 @@ jobs:
             - name: Download & process obb file
               run: |
                   Invoke-WebRequest -Uri "https://github.com/pvz2-crestfall/pvz2-crestfall/releases/latest/download/main.702.com.ea.game.pvz2_row.obb" -OutFile "main.702.com.ea.game.pvz2_row.obb"
-                  node scripts/unpack.js main.702.com.ea.game.pvz2_row.obb
+                  npm run unpack
 
             - name: Run build script
-              run: node scripts/build.js
+              run: npm run build
 
             # Upload output file as artifact (always, for debugging)
             - name: Upload build artifact
