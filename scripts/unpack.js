@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import './util/ansii.js';
 import { SenWrapper } from './util/sen.js';
+import { Spinner } from './util/spinner.js';
 
 const sen = new SenWrapper();
 
@@ -17,14 +18,8 @@ if (!fs.existsSync(obbPath) || !obbPath.toLowerCase().endsWith('.obb')) {
 let outputPath = obbPath + '.bundle';
 console.log('Output path: ', outputPath.yellow());
 
-const frames = ['-', '\\', '|', '/'];
-let i = 0;
-let spinnerText = 'Unpacking...';
-let spinner = setInterval(() => {
-    const frame = frames[(i = (i + 1) % frames.length)].cyan();
-
-    process.stdout.write(`\r${frame} ${spinnerText}`);
-}, 100);
+let spinner = new Spinner('Unpacking...');
+spinner.start();
 
 await sen.run({
     method: 'popcap.rsb.init_project',
@@ -33,9 +28,11 @@ await sen.run({
     destination: outputPath,
 });
 
-clearInterval(spinner);
-
-process.stdout.clearLine(0);
-process.stdout.cursorTo(0);
-
-console.log(`All done!`.green());
+spinner.setText('Attempt 2!');
+await sen.run({
+    method: 'popcap.rsb.init_project',
+    source: obbPath,
+    generic: '0n',
+    destination: outputPath,
+});
+spinner.stop(`All done!`.green());

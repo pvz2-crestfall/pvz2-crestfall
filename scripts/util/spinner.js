@@ -1,0 +1,42 @@
+export class Spinner {
+    constructor(spinnerText) {
+        this.text = spinnerText;
+        this.frames = ['-', '\\', '|', '/'];
+        this.frameIndex = 0;
+        this.interval = null;
+    }
+
+    start() {
+        if (this.interval == null) {
+            this.interval = setInterval(() => {
+                const frame = this.frames[(this.frameIndex = (this.frameIndex + 1) % this.frames.length)];
+
+                process.stdout.write(`\r${frame} ${this.text}`);
+            }, 100);
+        }
+
+        return this.interval;
+    }
+
+    stop(replacementText) {
+        if (this.interval != null) {
+            clearInterval(this.interval);
+            this.interval = null;
+        }
+
+        if (replacementText != undefined) {
+            process.stdout.clearLine(0);
+            process.stdout.cursorTo(0);
+            console.log(replacementText);
+        } else {
+            process.stdout.write('\n');
+        }
+    }
+
+    setText(newText) {
+        process.stdout.clearLine(0);
+        process.stdout.cursorTo(0);
+
+        this.text = newText;
+    }
+}

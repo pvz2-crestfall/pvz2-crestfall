@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import './util/ansii.js';
 import { SenWrapper } from './util/sen.js';
+import { Spinner } from './util/spinner.js';
 
 const outDirectory = path.resolve('./build-output');
 const sen = new SenWrapper();
@@ -29,20 +30,14 @@ async function buildPackets() {
 
     console.log('Encoding packages...'.cyan());
 
-    const frames = ['-', '\\', '|', '/'];
-    let i = 0;
-    let spinnerText = '';
     let total = packages.length;
     let current = 0;
-    let spinner = setInterval(() => {
-        const frame = frames[(i = (i + 1) % frames.length)];
-
-        process.stdout.write(`\r${frame} ${spinnerText}`);
-    }, 100);
+    let spinner = new Spinner();
 
     for (const packet of packages) {
         current++;
-        spinnerText = `(${current}/${total}) Packing ${path.basename(packet)}`.cyan();
+        spinner.setText(`(${current}/${total}) Packing ${path.basename(packet)}`.cyan());
+        spinner.start();
 
         let scg = path.format({ ...path.parse(packet), base: undefined, ext: '.scg' });
         if (!fs.existsSync(scg) || fs.statSync(scg).mtimeMs > fs.statSync(packet).mtimeMs) {
@@ -59,34 +54,19 @@ async function buildPackets() {
             const elapsed = ((Date.now() - start) / 1000).toFixed(2);
 
             // after finishing one package, log a "done" line with timing
-            process.stdout.clearLine(0);
-            process.stdout.cursorTo(0);
-            console.log(`✓ (${current}/${total}) Packed ${path.basename(packet)} in ${elapsed}s`.green());
+            spinner.stop(`✓ (${current}/${total}) Packed ${path.basename(packet)} in ${elapsed}s`.green());
         } else {
             // print text for skipping the package, most likely because it wasn't modified recently
-            process.stdout.clearLine(0);
-            process.stdout.cursorTo(0);
-            console.log(`✓ (${current}/${total}) Skipped ${path.basename(packet)}`.yellow());
+            spinner.stop(`✓ (${current}/${total}) Skipped ${path.basename(packet)}`.yellow());
         }
     }
 
-    clearInterval(spinner);
-
-    // clear spinner line before final message
-    process.stdout.clearLine(0);
-    process.stdout.cursorTo(0);
-
-    console.log(`✓ Done encoding ${total} packages!`.green());
+    spinner.stop(`✓ Done encoding ${total} packages!`.green());
 }
 
 async function buildproject() {
-    const frames = ['-', '\\', '|', '/'];
-    let i = 0;
-
-    let spinner = setInterval(() => {
-        const frame = frames[(i = (i + 1) % frames.length)];
-        process.stdout.write(`\r${frame} Building project...`.cyan());
-    }, 100);
+    let spinner = new Spinner('Building project...');
+    spinner.start();
 
     const start = Date.now();
 
@@ -99,18 +79,11 @@ async function buildproject() {
         });
 
         const elapsed = ((Date.now() - start) / 1000).toFixed(2);
-
-        clearInterval(spinner);
-        process.stdout.clearLine(0);
-        process.stdout.cursorTo(0);
-        console.log(`✓ Project built successfully in ${elapsed}s`.green());
+        spinner.stop(`✓ Project built successfully in ${elapsed}s`.green());
     } catch (error) {
-        clearInterval(spinner);
-        process.stdout.clearLine(0);
-        process.stdout.cursorTo(0);
-        console.error(`✗ Project build failed`.red(), '\n', error);
+        spinner.stop(`✗ Project build failed`.red(), '\n', error);
     }
 }
 
-// await buildPackets();
+await buildPackets();
 await buildproject();
