@@ -13,13 +13,11 @@ jobs:
             - name: Checkout repository
               uses: actions/checkout@v4
 
-            # Download and extract SEN
-            - name: Download portable 7zip
+            - name: Download and extract SEN
               run: |
-                  Invoke-WebRequest -Uri "https://www.7-zip.org/a/7zr.exe" -OutFile "7zr.exe"
                   Invoke-WebRequest -Uri "https://github.com/harumazzz/Sen.Environment/releases/download/release/win-x64.zip" -OutFile "sen.zip"
-                  mkdir "$env:USERPROFILE\tool"
-                  .\7zr.exe x sen.zip -o"$env:USERPROFILE\SEN" -y
+                  mkdir "$env:USERPROFILE\SEN"
+                  Expand-Archive -Path sen.zip -DestinationPath "$env:USERPROFILE\SEN"
 
             # Add extracted folder to PATH
             - name: Add SEN to PATH
@@ -50,5 +48,3 @@ jobs:
               with:
                   name: build-output
                   path: build-output/**
-
-                  
