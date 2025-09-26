@@ -24,6 +24,11 @@ export class Spinner {
     }
 
     stop(...replacementText) {
+        if (process.env.CI || !process.stdout.isTTY) {
+            console.log(...replacementText);
+            return;
+        }
+
         if (this.interval != null) {
             clearInterval(this.interval);
             this.interval = null;
