@@ -3,12 +3,13 @@ import path from 'path';
 import './util/ansii.js';
 import { SenWrapper } from './util/sen.js';
 
-const outDirectory = '';
+const outDirectory = path.resolve('./build-output');
 const sen = new SenWrapper();
 
 // this should be the *.bundle folder
 let projectDirectory = path.resolve(process.argv[2]);
-console.log('Directory: ', projectDirectory.yellow());
+console.log('Project: ', projectDirectory.yellow());
+console.log('Build-output: ', outDirectory.yellow());
 
 if (!fs.existsSync(projectDirectory)) {
     console.error(
@@ -94,6 +95,7 @@ async function buildproject() {
             method: 'popcap.rsb.build_project',
             source: projectDirectory,
             generic: '0n',
+            destination: path.join(outDirectory, 'main.702.com.ea.game.pvz2_row.obb'),
         });
 
         const elapsed = ((Date.now() - start) / 1000).toFixed(2);
@@ -110,5 +112,5 @@ async function buildproject() {
     }
 }
 
-await buildPackets();
+// await buildPackets();
 await buildproject();

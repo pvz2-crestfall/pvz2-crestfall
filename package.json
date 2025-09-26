@@ -6,6 +6,7 @@
     "type": "module",
     "scripts": {
         "nolevels": "node scripts/no_levels.js",
+        "unpack": "node scripts/unpack.js main.702.com.ea.game.pvz2_row.obb",
         "build": "node scripts/build.js main.702.com.ea.game.pvz2_row.obb.bundle"
     },
     "repository": {

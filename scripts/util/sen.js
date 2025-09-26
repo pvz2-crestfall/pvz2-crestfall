@@ -50,18 +50,13 @@ export class SenWrapper {
         this.script = scriptPath;
     }
 
-    run({ method, source, generic }) {
+    run({ method, source, generic, destination }) {
         return new Promise((resolve, reject) => {
-            const child = spawn(this.shell, [
-                this.kernel,
-                this.script,
-                '-method',
-                method,
-                '-source',
-                source,
-                '-generic',
-                generic,
-            ]);
+            let args = [this.kernel, this.script, '-method', method, '-source', source, '-generic', generic];
+            if (destination) {
+                args.push('-destination', destination);
+            }
+            const child = spawn(this.shell, args);
 
             let errorMessage;
             let errorStackTrace;
