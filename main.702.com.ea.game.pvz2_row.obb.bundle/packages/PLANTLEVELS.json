@@ -2389,7 +2389,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [125]
                     },
                     {
                         "Name": "Hitpoints",
@@ -2402,7 +2402,7 @@
                     {
                         "Name": "ActionDamage",
                         "SubType": "0",
-                        "Values": [10]
+                        "Values": [11]
                     },
                     {
                         "Name": "ActionXVelocity",
