@@ -27,12 +27,4 @@ await sen.run({
     generic: '0n',
     destination: outputPath,
 });
-
-spinner.setText('Attempt 2!');
-await sen.run({
-    method: 'popcap.rsb.init_project',
-    source: obbPath,
-    generic: '0n',
-    destination: outputPath,
-});
 spinner.stop(`All done!`.green());

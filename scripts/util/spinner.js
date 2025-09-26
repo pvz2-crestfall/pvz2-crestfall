@@ -23,7 +23,7 @@ export class Spinner {
         return this.interval;
     }
 
-    stop(replacementText) {
+    stop(...replacementText) {
         if (this.interval != null) {
             clearInterval(this.interval);
             this.interval = null;
@@ -32,7 +32,7 @@ export class Spinner {
         if (replacementText != undefined) {
             process.stdout.clearLine(0);
             process.stdout.cursorTo(0);
-            console.log(replacementText);
+            console.log(...replacementText);
         } else {
             process.stdout.write('\n');
         }
