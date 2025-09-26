@@ -42,6 +42,6 @@ jobs:
                   name: ${{ github.ref_name }}
                   tag_name: ${{ github.ref_name }}
                   body: ${{ steps.changelog.outputs.log }}
-                  files: ./release-files/**
+                  files: ./build-output/**
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
