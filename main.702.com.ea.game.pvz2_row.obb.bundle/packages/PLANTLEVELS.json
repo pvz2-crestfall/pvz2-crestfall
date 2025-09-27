@@ -2314,7 +2314,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [75]
+                        "Values": [100]
                     },
                     {
                         "Name": "Hitpoints",
@@ -2322,7 +2322,7 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [15]
+                        "Values": [20]
                     },
                     {
                         "Name": "ActionDamage",
