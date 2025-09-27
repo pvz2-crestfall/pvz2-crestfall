@@ -8809,14 +8809,14 @@
                         "Name": "SolarSage_SunProductionPlanted",
                         "SubType": "SunProducer",
                         "Type": "Power",
-                        "Values": ["SunProducer50"]
+                        "Values": ["SunProducer0"]
                     },
                     {
                         "Context": "SolarSageSunTriggered",
                         "Name": "SolarSage_SunProductionTriggered",
                         "SubType": "SunProducer",
                         "Type": "Power",
-                        "Values": ["SunProducer100"]
+                        "Values": ["SunProducer0"]
                     },
                     {
                         "Context": "SolarSageSunProducedZombie",
