@@ -471,6 +471,8 @@
             "aliases": ["FirePeaDefault"],
             "objdata": {
                 "BaseDamage": 40,
+                "SplashDamage": 10,
+                "SplashRadius": 1.0,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies"],
                 "DamageFlags": ["fire", "shooter", "ash_death"],
                 "InitialVelocity": [

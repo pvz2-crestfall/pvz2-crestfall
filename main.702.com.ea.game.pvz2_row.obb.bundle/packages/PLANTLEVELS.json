@@ -4136,7 +4136,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [175]
+                        "Values": [250]
                     },
                     {
                         "Name": "Hitpoints",
@@ -4144,13 +4144,19 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [10]
                     },
                     {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
                         "Values": [40]
+                    },
+                    {
+                        "Name": "ActionSplashDamage",
+                        "SubType": "0",
+                        "Type": "ActionSplashDamage",
+                        "Values": [10]
                     },
                     {
                         "Name": "ActionXVelocity",
@@ -4173,11 +4179,11 @@
                         "Name": "ActionDamagePlasma",
                         "SubType": "2",
                         "Type": "ActionDamage",
-                        "Values": [0]
+                        "Values": [80]
                     },
                     {
                         "Name": "FirePeashooter_PercentChanceOfPlasmaPea",
-                        "Values": [0]
+                        "Values": [0.35]
                     },
                     {
                         "Name": "PlantTier",
