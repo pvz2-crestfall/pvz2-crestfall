@@ -867,8 +867,7 @@
                 "PopAnim": "POPANIM_PLANT_HOMINGTHISTLE",
                 "SeedChooserBigVerticalOffset": 0.34,
                 "SeedChooserBigScale": 1.3,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "Premium": false,
                 "Families": ["Spearmint"]
             }
         },
@@ -902,8 +901,7 @@
                 "SeedChooserBigVerticalOffset": 0.6,
                 "SeedChooserBigHorizontalOffset": 0.02,
                 "SeedChooserBigScale": 1.15,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "Premium": false,
                 "Families": ["Enforcemint"]
             }
         },
@@ -2965,8 +2963,7 @@
                 "AnimRigClass": "PlantAnimRig",
                 "PopAnim": "POPANIM_PLANT_SOLARSAGE",
                 "MasteryType": "piercing",
-                "AlmanacBackdropName": "warp",
-                "Premium": true,
+                "Premium": false,
                 "Families": ["Enlightenmint"]
             }
         },
