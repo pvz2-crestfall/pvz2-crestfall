@@ -6,8 +6,8 @@
             "objdata": {
                 "Description": "[PLAYERS_TRIP_TO_BEACH]",
                 "LevelNumber": 9,
-                "FirstRewardType": "solarsage",
-                "FirstRewardParam": "unlock_plant",
+                "FirstRewardParam": "solarsage",
+                "FirstRewardType": "unlock_plant",
                 "Loot": "RTID(DefaultLoot@LevelModules)",
                 "Modules": [
                     "RTID(StandardIntro@LevelModules)",

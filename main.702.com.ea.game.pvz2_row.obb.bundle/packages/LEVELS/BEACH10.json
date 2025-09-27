@@ -7,8 +7,8 @@
                 "CompletionAchievement": "",
                 "Description": "[PLAYERS_TRIP_TO_BEACH]",
                 "LevelNumber": 10,
-                "FirstRewardType": "homingthistle",
-                "FirstRewardParam": "unlock_plant",
+                "FirstRewardParam": "homingthistle",
+                "FirstRewardType": "unlock_plant",
                 "Loot": "RTID(DefaultLoot@LevelModules)",
                 "Modules": [
                     "RTID(StandardIntro@LevelModules)",
