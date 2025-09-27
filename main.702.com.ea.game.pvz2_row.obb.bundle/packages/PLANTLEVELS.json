@@ -2257,12 +2257,12 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [10]
                     },
                     {
                         "Name": "ActionDamage",
                         "SubType": "0",
-                        "Values": [50]
+                        "Values": [60]
                     },
                     {
                         "Name": "ActionSplashDamage",
