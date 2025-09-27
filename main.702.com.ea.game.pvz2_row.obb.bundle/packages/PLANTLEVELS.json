@@ -2209,7 +2209,11 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [10]
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [0]
                     },
                     {
                         "Name": "HotPotato_ProximityDPS",
@@ -2221,7 +2225,7 @@
                     },
                     {
                         "Name": "HotPotato_CanRemoveOctopus",
-                        "Values": [0]
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,
