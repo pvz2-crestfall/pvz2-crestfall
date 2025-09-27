@@ -4958,21 +4958,21 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [450]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [15]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [600]
                     },
                     {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [40]
+                        "Values": [60]
                     },
                     {
                         "Name": "ActionDamagePF",
