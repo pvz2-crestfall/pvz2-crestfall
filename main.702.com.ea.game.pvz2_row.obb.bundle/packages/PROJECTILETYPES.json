@@ -8667,7 +8667,7 @@
                 "BounceAngleInDegrees": 45.0,
                 "TumbleStunChance": 0.5,
                 "TumbleStunDuration": 2,
-                "TossChance": [0.3, 0.15, 0.05, 0],
+                "TossChance": [0.5, 0.05, 0.01, 0, 0],
                 "TossChanceBuckets": {
                     "Buckets": [
                         {
@@ -8677,7 +8677,12 @@
                                 "ZombieFutureImp",
                                 "ZombieIceAgeDodo",
                                 "ZombieModernSuperfanImp",
-                                "ZombieRomanImp",
+                                "ZombieRomanImp"
+                            ]
+                        },
+                        {
+                            "ListType": "includelist",
+                            "List": [
                                 "ZombieBasic",
                                 "ZombiePirateCaptain",
                                 "ZombieRomanHealer",
