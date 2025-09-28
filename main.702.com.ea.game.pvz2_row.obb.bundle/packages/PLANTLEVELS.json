@@ -2502,7 +2502,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [175]
+                        "Values": [200]
                     },
                     {
                         "Name": "Hitpoints",
@@ -2516,7 +2516,7 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [60]
+                        "Values": [70]
                     },
                     {
                         "Name": "ActionDamagePlantfood",
@@ -2531,11 +2531,11 @@
                     },
                     {
                         "Name": "Akee_NormalProjectileBounceCount",
-                        "Values": [3]
+                        "Values": [4]
                     },
                     {
                         "Name": "Akee_PFProjectileBounceCount",
-                        "Values": [3]
+                        "Values": [9]
                     },
                     {
                         "Name": "PlantTier",
@@ -2567,7 +2567,7 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [3000]
+                        "Values": [3600]
                     },
                     {
                         "Name": "PacketCooldown",
@@ -2584,6 +2584,10 @@
                         "SubType": "1",
                         "Type": "ActionDamage",
                         "Values": [30]
+                    },
+                    {
+                        "Name": "PlantFoodShieldHitpoints",
+                        "Values": [1000000]
                     },
                     {
                         "Name": "PlantTier",
