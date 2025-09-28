@@ -4183,7 +4183,7 @@
                     },
                     {
                         "Name": "FirePeashooter_PercentChanceOfPlasmaPea",
-                        "Values": [0.35]
+                        "Values": [35]
                     },
                     {
                         "Name": "PlantTier",
