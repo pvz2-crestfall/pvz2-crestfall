@@ -4317,7 +4317,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [200]
+                        "Values": [250]
                     },
                     {
                         "Name": "Hitpoints",
@@ -4333,7 +4333,7 @@
                     },
                     {
                         "Name": "Toadstool_ChewTimeSeconds",
-                        "Values": [30]
+                        "Values": [20]
                     },
                     {
                         "Name": "PlantTier",
