@@ -4916,12 +4916,12 @@
 					{
 						"Location": "middle",
 						"RightmostColumn": 5,
-						"Hitpoints": 900
+						"Hitpoints": 2400
 					},
 					{
 						"Location": "right",
 						"RightmostColumn": 8,
-						"Hitpoints": 1500
+						"Hitpoints": 5000
 					}
 				]
 			}
