@@ -800,7 +800,7 @@
                 "Boosts": [
                     {
                         "PlantBoostProps": "RTID(BoostShovelBomb@PropertySheets)",
-                        "Value": 200,
+                        "Value": -200,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
