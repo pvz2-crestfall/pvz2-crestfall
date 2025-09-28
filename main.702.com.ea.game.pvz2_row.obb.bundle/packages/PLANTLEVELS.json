@@ -2667,11 +2667,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [50]
+                        "Values": [75]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [30]
+                        "Values": [40]
                     }
                 ],
                 "LevelCap": 1,
