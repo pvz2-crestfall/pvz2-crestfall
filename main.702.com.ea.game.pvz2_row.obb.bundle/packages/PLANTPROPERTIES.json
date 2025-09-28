@@ -14236,7 +14236,7 @@
                     "y": 115
                 },
                 "BlowDuration": 3.0,
-                "FlyingZombieBlowingSpeed": 100.0,
+                "FlyingZombieBlowingSpeed": 0.0,
                 "FlyingZombieUpAccelerationFactor": 0.0,
                 "SlowdownPercentage": 0.3,
                 "SlowDuration": 5.0,

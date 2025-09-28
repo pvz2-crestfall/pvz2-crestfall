@@ -8528,7 +8528,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [100]
+                        "Values": [125]
                     },
                     {
                         "Name": "Hitpoints",
@@ -8548,11 +8548,11 @@
                     },
                     {
                         "Name": "Draftodil_SlowdownPercentage",
-                        "Values": [0.5]
+                        "Values": [0.7]
                     },
                     {
                         "Name": "Draftodil_LightweightZombieFlickChance",
-                        "Values": [0.5]
+                        "Values": [0.1]
                     },
                     {
                         "Name": "Draftodil_PFLightweightZombieFlickChance",
@@ -8566,7 +8566,7 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [15]
+                        "Values": [20]
                     },
                     {
                         "Name": "ActionCooldownMin",
@@ -8592,7 +8592,7 @@
                         "Name": "ActionDamagePF",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [115]
+                        "Values": [220]
                     }
                 ],
                 "LevelCap": 1,
