@@ -9219,7 +9219,6 @@
             "objclass": "DraftodilProjectileProps",
             "aliases": ["DraftodilDefault"],
             "objdata": {
-                "ClassName": "PlantDraftodilProjectile",
                 "DamageFlags": ["shooter"],
                 "BaseDamage": 15,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies"],
