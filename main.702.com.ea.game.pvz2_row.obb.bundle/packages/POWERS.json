@@ -1558,7 +1558,7 @@
 					"PopAnimHitEffectName": "POPANIM_EFFECTS_PHATBEETS_TILE_HIT_SMALL",
 					"ImpactSound": "Play_Plant_PhatBeet_Zombie_Impact",
 					"DamageProps": {
-						"BaseDamage": 15
+						"BaseDamage": 25
 					},
 					"TargetProps": {
 						"IgnoreZombiesFlagged": [
@@ -1708,7 +1708,7 @@
 					"PopAnimHitEffectName": "POPANIM_EFFECTS_PHATBEETS_TILE_HIT",
 					"ImpactSound": "Play_Plant_PhatBeet_Zombie_Impact",
 					"DamageProps": {
-						"BaseDamage": 45
+						"BaseDamage": 50
 					},
 					"TargetProps": {
 						"IgnoreZombiesFlagged": [
@@ -1857,7 +1857,7 @@
 					"PopAnimHitEffectName": "POPANIM_EFFECTS_PHATBEETS_TILE_HIT",
 					"PopAnimEffectName": "POPANIM_EFFECTS_PHATBEETS_PF_PULSE",
 					"DamageProps": {
-						"BaseDamage": 400,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"plantfood_effect"
 						]
@@ -2020,7 +2020,7 @@
 					"PopAnimHitEffectName": "POPANIM_EFFECTS_PHATBEETS_TILE_HIT",
 					"ImpactSound": "Play_Plant_PhatBeet_Zombie_Impact",
 					"DamageProps": {
-						"BaseDamage": 200,
+						"BaseDamage": 400,
 						"DamageFlags": [
 							"plantfood_effect"
 						]
