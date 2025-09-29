@@ -2803,17 +2803,17 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [600]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [10]
                     },
                     {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [50]
+                        "Values": [100]
                     },
                     {
                         "Name": "ActionXVelocity",
