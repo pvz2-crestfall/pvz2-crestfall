@@ -4412,7 +4412,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [175]
+                        "Values": [250]
                     },
                     {
                         "Name": "Hitpoints",
@@ -4426,13 +4426,13 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [30]
+                        "Values": [35]
                     },
                     {
                         "Name": "ActionDamagePlantfood",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [60]
+                        "Values": [70]
                     },
                     {
                         "Name": "ActionXVelocity",
@@ -4441,7 +4441,7 @@
                     },
                     {
                         "Name": "Cactus_SpikeDamage",
-                        "Values": [10]
+                        "Values": [15]
                     },
                     {
                         "Name": "Cactus_PFSpikeDamage",

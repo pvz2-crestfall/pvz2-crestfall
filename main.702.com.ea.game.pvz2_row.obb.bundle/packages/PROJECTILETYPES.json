@@ -4620,7 +4620,7 @@
                     "Max": 1.0
                 },
                 "DiesOnImpact": false,
-                "InitialPierceChance": 155,
+                "InitialPierceChance": 260,
                 "PierceChanceReductionPerHit": 70,
                 "AttachedPAM": "POPANIM_EFFECTS_T_CACTUS_PROJECTILE",
                 "AttachedPAMOffset": {
@@ -4668,7 +4668,7 @@
                     "Max": 1.0
                 },
                 "DiesOnImpact": false,
-                "InitialPierceChance": 295,
+                "InitialPierceChance": 400,
                 "PierceChanceReductionPerHit": 70,
                 "AttachedPAM": "POPANIM_EFFECTS_CACTUS_PROJECTILE_PLANTFOOD",
                 "AttachedPAMOffset": {
