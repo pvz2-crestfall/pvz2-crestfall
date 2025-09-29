@@ -2856,11 +2856,11 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [600]
+                        "Values": [900]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [15]
                     },
                     {
                         "Name": "StartingCooldown",
