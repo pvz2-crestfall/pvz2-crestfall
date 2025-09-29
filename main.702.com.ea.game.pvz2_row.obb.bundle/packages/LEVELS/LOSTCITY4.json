@@ -6,7 +6,7 @@
             "objdata": {
                 "Description": "[PLAYERS_TRIP_TO_LOSTCITY]",
                 "FirstIntroNarrative": "LOSTCITY_4_INTRO",
-                "FirstRewardParam": "goldleaf",
+                "FirstRewardParam": "toadstool",
                 "FirstRewardType": "unlock_plant",
                 "LevelNumber": 4,
                 "Loot": "RTID(DefaultLoot@LevelModules)",
