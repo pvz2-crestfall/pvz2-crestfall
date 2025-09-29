@@ -5581,11 +5581,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [200]
+                        "Values": [500]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [20]
                     },
                     {
                         "Name": "Hitpoints",
@@ -5595,13 +5595,13 @@
                         "Name": "ActionDamagePlantfoodProjectile",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [350]
+                        "Values": [1050]
                     },
                     {
                         "Name": "ActionDamagePlantfoodSubProjectile",
                         "SubType": "2",
                         "Type": "ActionDamage",
-                        "Values": [20]
+                        "Values": [120]
                     },
                     {
                         "Name": "ActionDamageNormal",
@@ -5613,7 +5613,7 @@
                         "Name": "ActionXVelocity",
                         "SubType": "0",
                         "Type": "ActionXVelocity",
-                        "Values": [180]
+                        "Values": [200]
                     },
                     {
                         "Name": "ActionXVelocityPF",
@@ -5629,11 +5629,11 @@
                     },
                     {
                         "Name": "ElectricPeashooter_BoltDamage",
-                        "Values": [20]
+                        "Values": [100]
                     },
                     {
                         "Name": "ElectricPeashooter_BoltCount",
-                        "Values": [2]
+                        "Values": [4]
                     },
                     {
                         "Name": "ElectricPeashooter_PFProjectileSpawnCount",
@@ -5649,7 +5649,7 @@
                     },
                     {
                         "Name": "ElectricPeashooter_BoltFrequency",
-                        "Values": [0.5]
+                        "Values": [0.25]
                     }
                 ],
                 "LevelCap": 1,

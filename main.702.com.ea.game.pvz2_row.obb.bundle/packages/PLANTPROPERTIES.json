@@ -7611,7 +7611,7 @@
                     }
                 ],
                 "IsConsumable": true,
-                "IsInstant": true,
+                "IsInstant": true
             }
         },
         {
@@ -10186,8 +10186,8 @@
                 "ZenGardenDurationOverrideSeconds": 12600,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
+                        "Value": -100,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
