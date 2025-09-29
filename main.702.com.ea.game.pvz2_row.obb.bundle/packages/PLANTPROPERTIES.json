@@ -4847,6 +4847,7 @@
                 "BeghouledCost": 1500,
                 "Hitpoints": 300.0,
                 "PacketCooldown": 10.0,
+                "StartingCooldown": 0,
                 "PlantGridType": "ground",
                 "PlantFoodPlayCount": 2,
                 "PlantFoodActivationSound": "Play_Plant_TwinSunflower_Nitro",

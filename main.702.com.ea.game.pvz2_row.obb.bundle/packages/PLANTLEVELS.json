@@ -613,6 +613,10 @@
                         "Values": [15]
                     },
                     {
+                        "Name": "StartingCooldown",
+                        "Values": [0]
+                    },
+                    {
                         "Name": "PlantTier",
                         "Values": [1]
                     }
