@@ -8021,7 +8021,7 @@
                 "StartingCooldown": 15.0,
                 "PlantGridType": "ground",
                 "NewPlantFadeInTime": 0.3,
-                "PercentageOfHealthForRaisedPlant": 0.5,
+                "PercentageOfHealthForRaisedPlant": 1.0,
                 "ArtCenter": {
                     "x": 99,
                     "y": 115
@@ -8040,6 +8040,13 @@
                 "ZenGardenSproutWeight": 0,
                 "ZenGardenBoostCost": 15,
                 "ZenGardenDurationOverrideSeconds": 27000,
+                "Boosts": [
+                    {
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.5,
+                        "CooldownDurationSeconds": 28800
+                    }
+                ],
                 "SuggestionAlts": ["shrinkingviolet", "cherry_bomb", "potatomine"]
             }
         },

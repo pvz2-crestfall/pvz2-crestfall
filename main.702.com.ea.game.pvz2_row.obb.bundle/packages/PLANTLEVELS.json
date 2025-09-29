@@ -231,19 +231,19 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [100]
+                        "Values": [50]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [10]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [15]
+                        "Values": [10]
                     },
                     {
                         "Name": "IntensiveCarrot_TargetHealth",
-                        "Values": [0.5]
+                        "Values": [1]
                     },
                     {
                         "Name": "PlantTier",
