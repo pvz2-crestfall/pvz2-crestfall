@@ -4473,7 +4473,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [200]
                     },
                     {
                         "Name": "Hitpoints",
@@ -4489,15 +4489,15 @@
                     },
                     {
                         "Name": "ElectricBlueberry_WeightTargetNormalZombie",
-                        "Values": [55]
+                        "Values": [30]
                     },
                     {
                         "Name": "ElectricBlueberry_WeightTargetOtherZombie",
-                        "Values": [40]
+                        "Values": [55]
                     },
                     {
                         "Name": "ElectricBlueberry_WeightTargetGargantuarZombie",
-                        "Values": [5]
+                        "Values": [15]
                     },
                     {
                         "Name": "PlantTier",
