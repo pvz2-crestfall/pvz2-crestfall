@@ -141,11 +141,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [75]
+                        "Values": [100]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [60]
+                        "Values": [75]
                     }
                 ],
                 "LevelCap": 1,
