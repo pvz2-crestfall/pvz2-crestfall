@@ -2586,10 +2586,6 @@
                         "Values": [30]
                     },
                     {
-                        "Name": "PlantFoodShieldHitpoints",
-                        "Values": [1000000]
-                    },
-                    {
                         "Name": "PlantTier",
                         "Values": [1]
                     }
