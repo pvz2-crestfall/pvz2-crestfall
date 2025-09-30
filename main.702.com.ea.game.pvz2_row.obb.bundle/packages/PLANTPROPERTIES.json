@@ -7828,8 +7828,8 @@
                         "Projectile": "RTID(SporeshroomDefault@ProjectileTypes)",
                         "ProjectileLaunchSound": "",
                         "InitialMinCooldownTime": 0,
-                        "CooldownTimeMin": 2.85,
-                        "CooldownTimeMax": 3.0,
+                        "CooldownTimeMin": 5.00,
+                        "CooldownTimeMax": 5.15,
                         "SpawnOffset": {
                             "x": 15.0,
                             "y": -35.0
