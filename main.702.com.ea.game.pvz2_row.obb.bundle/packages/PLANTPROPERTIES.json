@@ -2471,8 +2471,7 @@
                 ],
                 "IsConsumable": true,
                 "IsInstant": true,
-                "CanLiveOnWaves": false,
-                "ValidStages": ["lostcity"]
+                "CanLiveOnWaves": false
             }
         },
         {
@@ -7828,7 +7827,7 @@
                         "Projectile": "RTID(SporeshroomDefault@ProjectileTypes)",
                         "ProjectileLaunchSound": "",
                         "InitialMinCooldownTime": 0,
-                        "CooldownTimeMin": 5.00,
+                        "CooldownTimeMin": 5.0,
                         "CooldownTimeMax": 5.15,
                         "SpawnOffset": {
                             "x": 15.0,
