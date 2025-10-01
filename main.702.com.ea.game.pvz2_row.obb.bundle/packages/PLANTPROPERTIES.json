@@ -8490,8 +8490,8 @@
                 "ZenGardenDurationOverrideSeconds": 18000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
+                        "Value": 3,
                         "CooldownDurationSeconds": 28800
                     }
                 ],

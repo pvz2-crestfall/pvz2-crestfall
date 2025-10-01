@@ -3025,15 +3025,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [75]
+                        "Values": [100]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [1000]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [6]
                     },
                     {
                         "Name": "PlantTier",
