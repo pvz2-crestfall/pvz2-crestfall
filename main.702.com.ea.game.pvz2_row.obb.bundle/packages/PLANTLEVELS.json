@@ -2989,15 +2989,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [100]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [30]
+                        "Values": [25]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [20]
+                        "Values": [15]
                     },
                     {
                         "Name": "PlantTier",
