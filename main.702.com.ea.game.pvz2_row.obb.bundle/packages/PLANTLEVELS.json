@@ -8276,7 +8276,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [200]
                     },
                     {
                         "Name": "PacketCooldown",
@@ -8284,11 +8284,11 @@
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [10]
+                        "Values": [20]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [600]
                     },
                     {
                         "Name": "ActionCooldownMax",
@@ -8299,13 +8299,13 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [1000]
+                        "Values": [500]
                     },
                     {
                         "Name": "ActionDamagePF",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [10000]
+                        "Values": [1000]
                     },
                     {
                         "Name": "ActionChillDurationNormal",
@@ -8345,11 +8345,11 @@
                     },
                     {
                         "Name": "Boingsetta_KnockbackOffset",
-                        "Values": [75]
+                        "Values": [80]
                     },
                     {
                         "Name": "Boingsetta_KnockbackOffsetPF",
-                        "Values": [125]
+                        "Values": [80]
                     }
                 ],
                 "LevelCap": 1,
