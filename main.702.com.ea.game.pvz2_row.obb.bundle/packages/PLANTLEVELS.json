@@ -9452,15 +9452,19 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [150]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [1500]
+                        "Values": [1200]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [20]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
                     },
                     {
                         "Name": "PlantFoodDurationSeconds",
@@ -9469,17 +9473,17 @@
                     {
                         "Name": "ActionDamage",
                         "SubType": "0",
-                        "Values": [30]
+                        "Values": [12]
                     },
                     {
                         "Name": "ActionDamagePF",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [60]
+                        "Values": [36]
                     },
                     {
                         "Name": "BrambleBush_TrapNumber",
-                        "Values": [3]
+                        "Values": [4]
                     }
                 ],
                 "LevelCap": 1,
