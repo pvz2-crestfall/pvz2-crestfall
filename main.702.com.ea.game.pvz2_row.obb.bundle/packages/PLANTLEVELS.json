@@ -3062,24 +3062,24 @@
             "objdata": {
                 "FloatStats": [
                     {
+                        "Name": "Cost",
+                        "Values": [75]
+                    },
+                    {
                         "Name": "Hitpoints",
                         "Values": [300]
                     },
                     {
-                        "Name": "Cost",
-                        "Values": [50]
-                    },
-                    {
                         "Name": "PacketCooldown",
-                        "Values": [25]
+                        "Values": [35]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [15]
+                        "Values": [25]
                     },
                     {
                         "Name": "PrimalPotatoMine_ArmingTime",
-                        "Values": [5]
+                        "Values": [14]
                     },
                     {
                         "Name": "PlantTier",
@@ -9048,15 +9048,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [275]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [50]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [10]
+                        "Values": [30]
                     },
                     {
                         "Name": "PlantTier",
@@ -9064,15 +9064,15 @@
                     },
                     {
                         "Name": "HeathSeeker_ActionDamagePiercing",
-                        "Values": [190]
+                        "Values": [125]
                     },
                     {
                         "Name": "HeathSeeker_ActionDamagePrimary",
-                        "Values": [560]
+                        "Values": [175]
                     },
                     {
                         "Name": "HeathSeeker_MaxTargets",
-                        "Values": [3]
+                        "Values": [4]
                     }
                 ],
                 "LevelCap": 1,

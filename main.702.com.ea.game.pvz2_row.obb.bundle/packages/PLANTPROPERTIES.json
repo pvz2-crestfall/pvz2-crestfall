@@ -8580,8 +8580,8 @@
                 "ZenGardenDurationOverrideSeconds": 27000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.3,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
@@ -15072,12 +15072,12 @@
                     "x": 97,
                     "y": 119
                 },
-                "DartCount": 9,
+                "DartCount": 10,
                 "DartStartOffset": 40,
                 "DartSlotDegree": 25,
                 "PiercingDamage": 190,
                 "FinalDamage": 560,
-                "MaxTargets": 3,
+                "MaxTargets": 4,
                 "DartsDiffTime": 0.01,
                 "Actions": [
                     {
@@ -15116,6 +15116,13 @@
                 "ZenGardenSproutWeight": 0,
                 "ZenGardenBoostCost": 12,
                 "ZenGardenDurationOverrideSeconds": 18000,
+                "Boosts": [
+                    {
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.3,
+                        "CooldownDurationSeconds": 28800
+                    }
+                ],
                 "IsConsumable": true,
                 "IsInstant": true,
                 "AnimRigProps": "RTID(HeathSeekerAnimRigProps@PlantProperties)",
