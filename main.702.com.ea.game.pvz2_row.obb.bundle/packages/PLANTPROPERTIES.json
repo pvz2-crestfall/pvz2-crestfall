@@ -14951,6 +14951,13 @@
                 "ZenGardenSproutWeight": 0,
                 "ZenGardenBoostCost": 12,
                 "ZenGardenDurationOverrideSeconds": 18000,
+                "Boosts": [
+                    {
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.25,
+                        "CooldownDurationSeconds": 28800
+                    }
+                ],
                 "IsConsumable": true,
                 "IsInstant": true,
                 "SuggestionAlts": []

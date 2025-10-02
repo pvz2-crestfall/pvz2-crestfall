@@ -8920,15 +8920,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [125]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [15]
+                        "Values": [20]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [0]
+                        "Values": [15]
                     },
                     {
                         "Name": "ActionDamage",
@@ -8942,11 +8942,11 @@
                     },
                     {
                         "Name": "NoctarineCloud_ActionDamage",
-                        "Values": [20]
+                        "Values": [40]
                     },
                     {
                         "Name": "NoctarineCloud_PoweredActionDamage",
-                        "Values": [40]
+                        "Values": [80]
                     },
                     {
                         "Name": "NoctarineCloud_GasDamageBonus",
@@ -8958,15 +8958,15 @@
                     },
                     {
                         "Name": "NoctarineCloud_GasDuration",
-                        "Values": [10.5]
+                        "Values": [12.5]
                     },
                     {
                         "Name": "NoctarineCloud_PoweredGasDuration",
-                        "Values": [15.5]
+                        "Values": [17.5]
                     },
                     {
                         "Name": "NoctarineCloud_PoweredSlowDuration",
-                        "Values": [15.5]
+                        "Values": [17.5]
                     },
                     {
                         "Name": "NoctarineCloud_PoweredExplosionChance",
