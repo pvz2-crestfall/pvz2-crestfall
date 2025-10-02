@@ -3268,7 +3268,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [75]
+                        "Values": [150]
                     },
                     {
                         "Name": "Hitpoints",
@@ -3282,27 +3282,27 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [100]
+                        "Values": [200]
                     },
                     {
                         "Name": "ActionDamageUpgraded",
                         "SubType": "3",
                         "Type": "ActionDamage",
-                        "Values": [150]
+                        "Values": [250]
                     },
                     {
                         "Name": "ActionDamagePlantfood",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [600]
+                        "Values": [900]
                     },
                     {
                         "Name": "Nightshade_MeleeDamage",
-                        "Values": [200]
+                        "Values": [600]
                     },
                     {
                         "Name": "Nightshade_PFMeleeDamage",
-                        "Values": [600]
+                        "Values": [900]
                     },
                     {
                         "Name": "ActionXVelocity",
