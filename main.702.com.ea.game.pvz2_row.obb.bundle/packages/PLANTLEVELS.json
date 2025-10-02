@@ -3163,7 +3163,7 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [10]
+                        "Values": [5]
                     },
                     {
                         "Name": "Hitpoints",
@@ -3175,7 +3175,7 @@
                     },
                     {
                         "Name": "ShadowShroom_PoisonDuration",
-                        "Values": [30]
+                        "Values": [-1]
                     },
                     {
                         "Name": "PlantTier",
