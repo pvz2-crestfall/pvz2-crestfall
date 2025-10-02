@@ -9045,8 +9045,8 @@
                 "IsConsumable": true,
                 "NumTimesToActivateWhenNotPowered": 1,
                 "NumTimesToActivateWhenPowered": 3,
-                "SlapDamage": 200.0,
-                "MaxPlantfoodKills": 1,
+                "SlapDamage": 600.0,
+                "MaxPlantfoodKills": 3,
                 "ZombieDeathExcludeList": [
                     "future_protector",
                     "mech_cone",

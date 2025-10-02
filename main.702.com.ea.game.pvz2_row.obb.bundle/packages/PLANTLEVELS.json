@@ -3344,7 +3344,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [75]
+                        "Values": [25]
                     },
                     {
                         "Name": "PacketCooldown",
@@ -3361,6 +3361,10 @@
                     {
                         "Name": "Grimrose_SlapDamage",
                         "Values": [600]
+                    },
+                    {
+                        "Name": "MaxPlantfoodKills",
+                        "Values": [3]
                     },
                     {
                         "Name": "PlantTier",
