@@ -6705,6 +6705,15 @@
                 "DamageFlags": ["shooter"],
                 "BaseDamage": 30,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies"],
+                "Conditions": [
+                    {
+                        "Condition": "stalled",
+                        "Duration": {
+                            "Min": 4.0,
+                            "Max": 4.0
+                        }
+                    }
+                ],
                 "InitialVelocity": [
                     {
                         "Min": 333.0,
