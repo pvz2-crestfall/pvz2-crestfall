@@ -2188,7 +2188,7 @@
 					"PopAnimHitEffectName": "",
 					"ImpactSound": "Play_Plant_PhatBeet_Zombie_Impact",
 					"DamageProps": {
-						"BaseDamage": 45
+						"BaseDamage": 15
 					},
 					"TargetProps": {
 						"IgnoreZombiesFlagged": [
@@ -2339,7 +2339,7 @@
 					"PopAnimEffectName": "POPANIM_EFFECTS_GLOOMVINE_PF_EFFECT",
 					"PopAnimHitEffectName": "",
 					"DamageProps": {
-						"BaseDamage": 450,
+						"BaseDamage": 150,
 						"DamageFlags": [
 							"plantfood_effect"
 						]

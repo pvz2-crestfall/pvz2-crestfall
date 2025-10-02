@@ -3175,7 +3175,7 @@
                     },
                     {
                         "Name": "ShadowShroom_PoisonDuration",
-                        "Values": [-1]
+                        "Values": [30]
                     },
                     {
                         "Name": "PlantTier",
@@ -3361,10 +3361,6 @@
                     {
                         "Name": "Grimrose_SlapDamage",
                         "Values": [600]
-                    },
-                    {
-                        "Name": "MaxPlantfoodKills",
-                        "Values": [3]
                     },
                     {
                         "Name": "PlantTier",
@@ -8481,15 +8477,19 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [75]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [250]
+                        "Values": [450]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
                     },
                     {
                         "Name": "PlantTier",
