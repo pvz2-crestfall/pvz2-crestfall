@@ -8037,11 +8037,11 @@
                     },
                     {
                         "Name": "Murkadamia_MurkRegenerationDPS",
-                        "Values": [100]
+                        "Values": [200]
                     },
                     {
                         "Name": "Murkadamia_MurkArmorMax",
-                        "Values": [2500]
+                        "Values": [3000]
                     },
                     {
                         "Name": "Murkadamia_MurkArmorInitial",
@@ -8049,7 +8049,7 @@
                     },
                     {
                         "Name": "Murkadamia_MurkReflectionDamage",
-                        "Values": [0.25]
+                        "Values": [0.35]
                     }
                 ],
                 "LevelCap": 1,
