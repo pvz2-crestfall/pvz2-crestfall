@@ -6494,11 +6494,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [225]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [15]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [15]
                     },
                     {
                         "Name": "Hitpoints",
@@ -6508,13 +6512,13 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [30]
+                        "Values": [45]
                     },
                     {
                         "Name": "ActionDamageBoosted",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [70]
+                        "Values": [22]
                     },
                     {
                         "Name": "ActionDamagePlantFood",
@@ -6524,7 +6528,7 @@
                     },
                     {
                         "Name": "ShadowPeashooter_PoweredAttackSlowDuration",
-                        "Values": [5]
+                        "Values": [2]
                     },
                     {
                         "Name": "ShadowPeashooter_PoweredAttackSlowMinimumDuration",
@@ -6532,11 +6536,11 @@
                     },
                     {
                         "Name": "ShadowPeashooter_PoweredAttackDecayPerZombieHit",
-                        "Values": [2]
+                        "Values": [0.5]
                     },
                     {
                         "Name": "ShadowPeashooter_ShadowBoostedZombieSwallows",
-                        "Values": [2]
+                        "Values": [3]
                     },
                     {
                         "Name": "ActionXVelocity",
