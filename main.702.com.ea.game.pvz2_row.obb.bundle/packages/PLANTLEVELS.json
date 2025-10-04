@@ -8759,7 +8759,7 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [30]
                     },
                     {
                         "Name": "StartingCooldown",
