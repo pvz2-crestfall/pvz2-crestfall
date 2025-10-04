@@ -6524,11 +6524,11 @@
                     },
                     {
                         "Name": "ShadowPeashooter_PoweredAttackSlowDuration",
-                        "Values": [2]
+                        "Values": [3]
                     },
                     {
                         "Name": "ShadowPeashooter_PoweredAttackSlowMinimumDuration",
-                        "Values": [1]
+                        "Values": [2]
                     },
                     {
                         "Name": "ShadowPeashooter_PoweredAttackDecayPerZombieHit",
