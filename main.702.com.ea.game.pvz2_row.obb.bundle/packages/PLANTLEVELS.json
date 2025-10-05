@@ -8378,7 +8378,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [350]
+                        "Values": [0]
                     },
                     {
                         "Name": "Hitpoints",
@@ -8386,27 +8386,27 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [999999]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [5]
+                        "Values": [0.05]
                     },
                     {
                         "Name": "BoomFlower_NormalBalloonDamage",
-                        "Values": [575]
+                        "Values": [500]
                     },
                     {
                         "Name": "BoomFlower_NormalBalloonSplashDamage",
-                        "Values": [575]
+                        "Values": [500]
                     },
                     {
                         "Name": "BoomFlower_PFBalloonSplashDamage",
-                        "Values": [875]
+                        "Values": [1200]
                     },
                     {
                         "Name": "BoomFlower_NormalRechargeSeconds",
-                        "Values": [3.25]
+                        "Values": [6]
                     },
                     {
                         "Name": "PlantTier",
