@@ -5,8 +5,8 @@
             "objclass": "PVZLiveConfig",
             "objdata": {
                 "CDNRefreshMinutes": 60,
-                "CDNDownloadTimeoutSeconds": 90,
-                "CDNForceDownloadTimeoutSeconds": 90,
+                "CDNDownloadTimeoutSeconds": 10,
+                "CDNForceDownloadTimeoutSeconds": 10,
                 "CDNCacheExpirationMinutes": 1,
                 "DraperLocalNotesPollFrequency": 601,
                 "StoreReceiptValidationRetryAttempts": 0,

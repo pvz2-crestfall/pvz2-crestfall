@@ -9746,9 +9746,9 @@
                     "y": -110
                 },
                 "DecayDelay": 0.45,
-                "BasicTransformationType": "puffshroom",
+                "BasicTransformationType": "stallia",
                 "BasicTransformationLevel": -1,
-                "PlantfoodTransformationType": "toadstool",
+                "PlantfoodTransformationType": "jalapeno",
                 "PlantfoodTransformationLevel": -1,
                 "ZombieTransformationExcludelist": {
                     "ListType": "includelist",
@@ -9774,14 +9774,14 @@
                     {
                         "Type": "projectile",
                         "InitialMinCooldownTime": 0.0,
-                        "CooldownTimeMin": 17.75,
-                        "CooldownTimeMax": 18.25,
+                        "CooldownTimeMin": 12,
+                        "CooldownTimeMax": 12,
                         "SpawnOffset": {
                             "x": 70.0,
                             "y": 22.0
                         },
-                        "TriggerType": "rect_grid",
-                        "Damage": 1200,
+                        "TriggerType": "board",
+                        "Damage": 800,
                         "RectTriggerRange": {
                             "mX": 0,
                             "mY": -1,
@@ -9795,8 +9795,8 @@
                             "x": 70.0,
                             "y": 22.0
                         },
-                        "TriggerType": "rect_grid",
-                        "Damage": 2400,
+                        "TriggerType": "board",
+                        "Damage": 1800,
                         "RectTriggerRange": {
                             "mX": 0,
                             "mY": -10,
@@ -9816,7 +9816,7 @@
                     },
                     {
                         "Type": "range",
-                        "Value": "multihit"
+                        "Value": "fullboard"
                     },
                     {
                         "Type": "recharge",
@@ -9842,7 +9842,7 @@
                 "ZenGardenDurationOverrideSeconds": 18000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
                         "Value": 1,
                         "CooldownDurationSeconds": 28800
                     }

@@ -833,7 +833,7 @@
                 "LevelCap": 1,
                 "LevelCoins": [],
                 "LevelXP": [],
-                "PlantTier": [1],
+                "PlantTier": [1, 1],
                 "StringStats": [
                     {
                         "Name": "Area",
@@ -5348,7 +5348,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [200]
+                        "Values": [0]
                     },
                     {
                         "Name": "Hitpoints",
@@ -5356,35 +5356,35 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [30]
+                        "Values": [999999]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [15]
+                        "Values": [0.05]
                     },
                     {
                         "Name": "ActionDamage",
                         "SubType": "0",
-                        "Values": [1200]
+                        "Values": [800]
                     },
                     {
                         "Name": "ActionDamagePF",
                         "SubType": "1",
-                        "Values": [2400]
+                        "Values": [1800]
                     },
                     {
                         "Name": "ActionCooldownMin",
                         "SubType": "0",
-                        "Values": [17.25]
+                        "Values": [12]
                     },
                     {
                         "Name": "ActionCooldownMax",
                         "SubType": "0",
-                        "Values": [18.25]
+                        "Values": [12]
                     },
                     {
                         "Name": "WitchHazel_BasicTransformationLevel",
-                        "Values": [1]
+                        "Values": [2]
                     },
                     {
                         "Name": "WitchHazel_PlantfoodTransformationLevel",
@@ -5406,11 +5406,11 @@
                     },
                     {
                         "Name": "WitchHazel_BasicTransformationType",
-                        "Values": ["puffshroom"]
+                        "Values": ["stallia"]
                     },
                     {
                         "Name": "WitchHazel_PlantfoodTransformationType",
-                        "Values": ["toadstool"]
+                        "Values": ["jalapeno"]
                     }
                 ],
                 "TypeName": "witchhazel",
