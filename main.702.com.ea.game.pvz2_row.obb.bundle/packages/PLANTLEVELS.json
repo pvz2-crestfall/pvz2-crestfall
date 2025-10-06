@@ -9651,7 +9651,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [50]
+                        "Values": [0]
                     },
                     {
                         "Name": "Hitpoints",
@@ -9659,15 +9659,15 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [999999]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [10]
+                        "Values": [0.05]
                     },
                     {
                         "Name": "Levitater_LevitateAttackCoolDown",
-                        "Values": [12]
+                        "Values": [10]
                     },
                     {
                         "Name": "Levitater_ZombieFloatTime",
@@ -9679,19 +9679,19 @@
                     },
                     {
                         "Name": "Levitater_ChanceTo2ndLevitate",
-                        "Values": [1]
+                        "Values": [20]
                     },
                     {
                         "Name": "Levitater_ChanceToLevitatePF",
-                        "Values": [32]
+                        "Values": [70]
                     },
                     {
                         "Name": "Levitater_ChanceTo2ndLevitatePF",
-                        "Values": [1]
+                        "Values": [10]
                     },
                     {
                         "Name": "Levitater_FlickHeight",
-                        "Values": [-20]
+                        "Values": [-10]
                     },
                     {
                         "Name": "PlantTier",

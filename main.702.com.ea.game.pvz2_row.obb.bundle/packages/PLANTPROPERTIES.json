@@ -16018,7 +16018,7 @@
                 "PacketCooldown": 20,
                 "StartingCooldown": 10.0,
                 "PlantFoodPlayCount": 1,
-                "PlantFoodDurationSeconds": 2.0,
+                "PlantFoodDurationSeconds": 2.1,
                 "PlantFoodActivationSound": "Play_Plant_Potato_Nitro",
                 "PlantGridType": "ground",
                 "Height": "low",
@@ -16032,15 +16032,15 @@
                     "mWidth": -35,
                     "mHeight": -10
                 },
-                "LevitateAttackCoolDown": 12,
+                "LevitateAttackCoolDown": 10,
                 "ZombieFloatTime": 5,
                 "ZombieFloatTimePF": 5,
-                "ChanceTo2ndLevitate": 1,
-                "ChanceToLevitatePF": 32,
-                "ChanceTo2ndLevitatePF": 1,
-                "FlickHeight": -50,
+                "ChanceTo2ndLevitate": 20,
+                "ChanceToLevitatePF": 70,
+                "ChanceTo2ndLevitatePF": 10,
+                "FlickHeight": -10,
                 "RotationVelocity": -100,
-                "PFLevitationFrequency": 0.1,
+                "PFLevitationFrequency": 0.7,
                 "NoOfTilesToLevitate": 1,
                 "ZombiesExcludeList": {
                     "ListType": "excludelist",
@@ -16093,7 +16093,7 @@
                 "ZenGardenDurationOverrideSeconds": 27000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
                         "Value": 1,
                         "CooldownDurationSeconds": 28800
                     }
