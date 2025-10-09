@@ -5470,35 +5470,35 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [250]
+                        "Values": [0]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [600]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [45]
+                        "Values": [999999]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [15]
+                        "Values": [0.05]
                     },
                     {
                         "Name": "Caulipower_WeightTargetNormalZombie",
-                        "Values": [55]
+                        "Values": [25]
                     },
                     {
                         "Name": "Caulipower_WeightTargetOtherZombie",
-                        "Values": [40]
+                        "Values": [60]
                     },
                     {
                         "Name": "Caulipower_WeightTargetGargantuarZombie",
-                        "Values": [5]
+                        "Values": [15]
                     },
                     {
                         "Name": "Caulipower_HealPercentage",
-                        "Values": [0.5]
+                        "Values": [1]
                     }
                 ],
                 "LevelCap": 1,

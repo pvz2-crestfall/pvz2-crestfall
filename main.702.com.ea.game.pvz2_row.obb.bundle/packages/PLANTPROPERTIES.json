@@ -9999,9 +9999,9 @@
                 "Actions": [
                     {
                         "Type": "projectile",
-                        "InitialMinCooldownTime": 10.0,
-                        "CooldownTimeMin": 12.0,
-                        "CooldownTimeMax": 12.0,
+                        "InitialMinCooldownTime": 8.0,
+                        "CooldownTimeMin": 16.0,
+                        "CooldownTimeMax": 16.0,
                         "Projectile": "RTID(CaulipowerProjectileDefault@ProjectileTypes)"
                     }
                 ],
@@ -10038,7 +10038,7 @@
                 "ZenGardenDurationOverrideSeconds": 27000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
                         "Value": 1,
                         "CooldownDurationSeconds": 28800
                     }
