@@ -6684,7 +6684,7 @@
                     {
                         "Name": "ActionStunDuration",
                         "SubType": "0",
-                        "Values": [0]
+                        "Values": [1]
                     },
                     {
                         "Name": "ActionDamagePF",
@@ -6706,7 +6706,7 @@
                     {
                         "Name": "ActionStunDurationPF",
                         "SubType": "1",
-                        "Values": [0.5]
+                        "Values": [1]
                     },
                     {
                         "Name": "PlantTier",
