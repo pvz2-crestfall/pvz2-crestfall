@@ -8430,27 +8430,27 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [200]
+                        "Values": [0]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [10]
+                        "Values": [0.05]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [999999]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [600]
                     },
                     {
                         "Name": "Hocus_TeleportRechargeTime",
-                        "Values": [15]
+                        "Values": [10]
                     },
                     {
                         "Name": "Hocus_TeleportDamage",
-                        "Values": [100]
+                        "Values": [120]
                     },
                     {
                         "Name": "Hocus_PFZombiesTeleported",

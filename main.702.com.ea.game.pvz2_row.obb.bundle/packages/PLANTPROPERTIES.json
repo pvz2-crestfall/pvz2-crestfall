@@ -14220,7 +14220,7 @@
                 ],
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
                         "Value": 1,
                         "CooldownDurationSeconds": 28800
                     }
