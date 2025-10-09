@@ -6655,31 +6655,31 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [0]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [999999]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [8]
+                        "Values": [0.05]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [600]
                     },
                     {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [20]
+                        "Values": [120]
                     },
                     {
                         "Name": "ActionSplashDamage",
                         "SubType": "0",
                         "Type": "ActionSplashDamage",
-                        "Values": [5]
+                        "Values": [20]
                     },
                     {
                         "Name": "ActionStunDuration",

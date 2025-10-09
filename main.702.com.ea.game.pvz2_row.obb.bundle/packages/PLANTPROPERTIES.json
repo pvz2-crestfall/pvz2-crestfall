@@ -11465,8 +11465,8 @@
                         "Type": "projectile",
                         "Projectile": "RTID(SlingPeaDefault@ProjectileTypes)",
                         "InitialMinCooldownTime": 1.0,
-                        "CooldownTimeMin": 4,
-                        "CooldownTimeMax": 5,
+                        "CooldownTimeMin": 9,
+                        "CooldownTimeMax": 10,
                         "SpawnOffset": {
                             "x": 15.0,
                             "y": -95.0
@@ -11525,7 +11525,7 @@
                 "ZenGardenDurationOverrideSeconds": 18000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
                         "Value": 1,
                         "CooldownDurationSeconds": 28800
                     }
