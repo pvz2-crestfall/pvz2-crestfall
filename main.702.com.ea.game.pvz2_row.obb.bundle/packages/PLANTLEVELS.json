@@ -456,26 +456,26 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [15]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [15]
+                        "Values": [10]
                     },
                     {
                         "Name": "ActionChillDuration",
                         "SubType": "0",
-                        "Values": [30]
+                        "Values": [20]
                     },
                     {
                         "Name": "ActionFreezeDuration",
                         "SubType": "0",
-                        "Values": [15]
+                        "Values": [10]
                     },
                     {
                         "Name": "ActionExplodeRadius",
                         "SubType": "0",
-                        "Values": [0]
+                        "Values": [1]
                     },
                     {
                         "Name": "PlantTier",
