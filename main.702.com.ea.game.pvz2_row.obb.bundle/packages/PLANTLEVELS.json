@@ -7397,15 +7397,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [125]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [12]
+                        "Values": [25]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [12]
+                        "Values": [15]
                     },
                     {
                         "Name": "Hitpoints",
