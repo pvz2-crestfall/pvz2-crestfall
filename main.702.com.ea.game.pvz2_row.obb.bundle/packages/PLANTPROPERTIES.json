@@ -3217,7 +3217,7 @@
                     "x": 99,
                     "y": 111
                 },
-                "ButterChance": 0.4,
+                "ButterChance": 0.35,
                 "ButterStormDelay": 1.0,
                 "ButterStormDuration": 3.0,
                 "AdditionalButterStormMissiles": 5,
