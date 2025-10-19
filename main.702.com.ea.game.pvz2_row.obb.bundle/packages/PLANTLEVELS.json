@@ -3422,35 +3422,39 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [200]
+                        "Values": [600]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [10]
+                        "Values": [5]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
                     },
                     {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [48]
+                        "Values": [24]
                     },
                     {
                         "Name": "ActionDamagePF",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [80]
+                        "Values": [40]
                     },
                     {
                         "Name": "CurrantWallDamage",
                         "SubType": "2",
                         "Type": "ActionDamage",
-                        "Values": [40]
+                        "Values": [20]
                     },
                     {
                         "Name": "CurrantWallDamagePF",
                         "SubType": "3",
                         "Type": "ActionDamage",
-                        "Values": [80]
+                        "Values": [40]
                     },
                     {
                         "Name": "PlantTier",

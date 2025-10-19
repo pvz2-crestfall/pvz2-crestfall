@@ -9254,7 +9254,7 @@
                     ]
                 },
                 "FromEating": {
-                    "EatDuration": 2.5,
+                    "EatDuration": 9999,
                     "LaneChangeDuration": 0.3,
                     "IndifferenceDuration": 1.5,
                     "SoundOfMoveUp": "Play_LightningReed_Electrocute_PF",
@@ -9262,16 +9262,17 @@
                     "ShouldRegret": false
                 },
                 "KnockbackDetails": {
-                    "KnockbackDistance": 0.5,
-                    "KnockbackHeight": 85
+                    "#comment": "Distance used to be 0.5 and height 85 respectively",
+                    "KnockbackDistance": 0.0,
+                    "KnockbackHeight": 0
                 },
                 "Actions": [
                     {
                         "# Orphaned currant normal attack": 0,
                         "Type": "special",
-                        "Damage": 48,
-                        "CooldownTimeMin": 1.0,
-                        "CooldownTimeMax": 1.0,
+                        "Damage": 24,
+                        "CooldownTimeMin": 0.5,
+                        "CooldownTimeMax": 0.5,
                         "TriggerType": "rect",
                         "RectTriggerRange": {
                             "mX": -32,
@@ -9283,9 +9284,9 @@
                     {
                         "# Orphaned currant powered attack": 0,
                         "Type": "special",
-                        "Damage": 80,
-                        "CooldownTimeMin": 1.0,
-                        "CooldownTimeMax": 1.0,
+                        "Damage": 40,
+                        "CooldownTimeMin": 0.5,
+                        "CooldownTimeMax": 0.5,
                         "TriggerType": "rect",
                         "RectTriggerRange": {
                             "mX": -32,
@@ -9297,9 +9298,9 @@
                     {
                         "# Currant wall normal": 0,
                         "Type": "special",
-                        "CooldownTimeMin": 1.0,
-                        "CooldownTimeMax": 1.0,
-                        "Damage": 40,
+                        "CooldownTimeMin": 0.5,
+                        "CooldownTimeMax": 0.5,
+                        "Damage": 20,
                         "TriggerType": "rect",
                         "RectTriggerRange": {
                             "mX": -42,
@@ -9311,7 +9312,9 @@
                     {
                         "# Currant wall powered by plantfood": 0,
                         "Type": "special",
-                        "Damage": 80,
+                        "CooldownTimeMin": 0.5,
+                        "CooldownTimeMax": 0.5,
+                        "Damage": 40,
                         "TriggerType": "rect",
                         "RectTriggerRange": {
                             "mX": -42,
