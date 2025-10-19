@@ -7296,7 +7296,11 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [10]
                     },
                     {
                         "Name": "Hitpoints",
