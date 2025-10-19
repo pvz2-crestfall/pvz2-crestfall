@@ -5590,7 +5590,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [500]
+                        "Values": [450]
                     },
                     {
                         "Name": "PacketCooldown",
