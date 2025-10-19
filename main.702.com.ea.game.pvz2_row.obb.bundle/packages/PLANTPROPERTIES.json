@@ -2053,7 +2053,7 @@
                 "Actions": [
                     {
                         "Type": "explode",
-                        "ExplodeType": "enemy",
+                        "ExplodeType": "radius",
                         "CooldownTimeMin": 0,
                         "CooldownTimeMax": 0,
                         "TriggerType": "rect",
@@ -2082,7 +2082,7 @@
                 "PlantStats": [
                     {
                         "Type": "area",
-                        "Value": "single"
+                        "Value": "1by1"
                     },
                     {
                         "Type": "range",

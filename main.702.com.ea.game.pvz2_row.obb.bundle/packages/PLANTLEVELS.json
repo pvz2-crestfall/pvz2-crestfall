@@ -490,7 +490,7 @@
                     {
                         "Name": "ActionExplodeType",
                         "SubType": "0",
-                        "Values": ["enemy"]
+                        "Values": ["radius"]
                     }
                 ],
                 "TypeName": "iceburg",
