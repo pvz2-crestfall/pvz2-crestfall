@@ -9349,21 +9349,21 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [900]
+                        "Values": [600]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [10]
+                        "Values": [25]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [5]
+                        "Values": [15]
                     },
                     {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [100]
+                        "Values": [40]
                     },
                     {
                         "Name": "ActionDamagePF",
@@ -9373,15 +9373,15 @@
                     },
                     {
                         "Name": "Buttercup_ButterLifetime",
-                        "Values": [120]
+                        "Values": [10]
                     },
                     {
                         "Name": "Buttercup_PFButterLifetime",
-                        "Values": [150]
+                        "Values": [20]
                     },
                     {
                         "Name": "Buttercup_ButterConditionDuration",
-                        "Values": [8]
+                        "Values": [6]
                     },
                     {
                         "Name": "Buttercup_PFButterConditionDuration",
