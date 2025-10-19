@@ -8772,7 +8772,7 @@
                     },
                     {
                         "Name": "Cost",
-                        "Values": [50]
+                        "Values": [100]
                     },
                     {
                         "Name": "PacketCooldown",
