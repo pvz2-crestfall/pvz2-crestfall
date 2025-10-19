@@ -9381,7 +9381,7 @@
                     "y": 115
                 },
                 "HealCooldown": 10.0,
-                "TargetHPTriggerPercent": 0.5,
+                "TargetHPTriggerPercent": 0.99,
                 "TargetHPHealAmount": 500,
                 "PFTargetHPHealPercent": 1.0,
                 "UnhealablePlants": {
@@ -9425,8 +9425,8 @@
                 },
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
+                        "Value": 3,
                         "CooldownDurationSeconds": 28800
                     }
                 ],

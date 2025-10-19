@@ -5122,11 +5122,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [75]
+                        "Values": [50]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [10]
                     },
                     {
                         "Name": "StartingCooldown",
@@ -5134,11 +5134,11 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [600]
                     },
                     {
                         "Name": "Aloe_HealCooldown",
-                        "Values": [10]
+                        "Values": [2.5]
                     },
                     {
                         "Name": "Aloe_TargetHPHealAmount",
@@ -5146,7 +5146,7 @@
                     },
                     {
                         "Name": "Aloe_PFTargetHPHealPercent",
-                        "Values": [1]
+                        "Values": [2.5]
                     },
                     {
                         "Name": "PlantTier",
