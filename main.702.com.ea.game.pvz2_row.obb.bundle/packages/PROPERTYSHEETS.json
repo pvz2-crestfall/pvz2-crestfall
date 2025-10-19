@@ -495,11 +495,11 @@
                     "iceweed",
                     "splitpea",
                     "snowpea",
-					"iceburg",
-					"wintermelon",
-					"hurrikale",
-					"boingsetta",
-					"icebloom"
+                    "iceburg",
+                    "wintermelon",
+                    "hurrikale",
+                    "boingsetta",
+                    "icebloom"
                 ],
                 "ProtectThePlantAdditionalPlantingExcludelist": ["powerplant", "lilypad"],
                 "PlantSmashAttackExcludelist": ["pumpkin"]
@@ -3821,7 +3821,7 @@
                         },
                         {
                             "Condition": "sapped",
-                            "Value": 0.5
+                            "Value": 0.6
                         },
                         {
                             "Condition": "stalled",
