@@ -8862,7 +8862,7 @@
                         "Name": "SolarSage_SunProductionZombie",
                         "SubType": "SunProducer",
                         "Type": "Power",
-                        "Values": ["SunProducer50"]
+                        "Values": ["SunProducer25"]
                     }
                 ],
                 "TypeName": "solarsage",
