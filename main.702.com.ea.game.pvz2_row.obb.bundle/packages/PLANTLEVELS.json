@@ -4748,15 +4748,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [50]
+                        "Values": [100]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [2000]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [20]
+                        "Values": [15]
                     },
                     {
                         "Name": "StartingCooldown",
@@ -4764,7 +4764,7 @@
                     },
                     {
                         "Name": "EscapeRoot_TimeUntilArmed",
-                        "Values": [10]
+                        "Values": [5]
                     },
                     {
                         "Name": "PlantTier",

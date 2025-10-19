@@ -8886,19 +8886,19 @@
                 "ExplodingPlantWeights": [
                     {
                         "PlantTypeName": "potatomine",
-                        "Weight": 50
+                        "Weight": 90
                     },
                     {
                         "PlantTypeName": "primalpotatomine",
-                        "Weight": 25
+                        "Weight": 0
                     },
                     {
                         "PlantTypeName": "cherrybomb",
-                        "Weight": 15
+                        "Weight": 10
                     },
                     {
                         "PlantTypeName": "grapeshot",
-                        "Weight": 10
+                        "Weight": 0
                     }
                 ],
                 "Powers": {
@@ -8958,8 +8958,8 @@
                 "ZenGardenDurationOverrideSeconds": 27000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostExtraToughness@PropertySheets)",
+                        "Value": 2,
                         "CooldownDurationSeconds": 28800
                     }
                 ],

@@ -2513,7 +2513,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 1800,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"no_bleed_on_death"
@@ -2548,7 +2548,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 1800,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"no_bleed_on_death"
@@ -2586,7 +2586,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 1800,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2624,7 +2624,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 1900,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2662,7 +2662,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2000,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2700,7 +2700,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2100,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2738,7 +2738,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2200,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2776,7 +2776,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2300,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2814,7 +2814,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2400,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2848,7 +2848,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 1800,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2882,7 +2882,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 1900,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2916,7 +2916,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2000,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2950,7 +2950,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2100,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -2984,7 +2984,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2200,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -3018,7 +3018,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2300,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
@@ -3052,7 +3052,7 @@
 					},
 					"RenderAtEffectLayer": true,
 					"DamageProps": {
-						"BaseDamage": 2400,
+						"BaseDamage": 1200,
 						"DamageFlags": [
 							"hits_shield_and_body",
 							"fire",
