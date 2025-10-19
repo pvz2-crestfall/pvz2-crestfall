@@ -3546,13 +3546,18 @@
             "objdata": {
                 "FloatStats": [
                     {
-                        "Name": "PacketCooldown",
-                        "Values": [60]
+                        "Name": "Cost",
+                        "Values": [350]
                     },
                     {
-                        "Name": "Cost",
-                        "Values": [175]
+                        "Name": "PacketCooldown",
+                        "Values": [240]
                     },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [240]
+                    },
+
                     {
                         "Name": "PlantTier",
                         "Values": [1]
