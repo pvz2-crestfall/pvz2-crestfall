@@ -2447,7 +2447,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [150]
                     },
                     {
                         "Name": "LeftActionDamage",
