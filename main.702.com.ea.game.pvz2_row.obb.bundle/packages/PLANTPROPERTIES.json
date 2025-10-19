@@ -9176,7 +9176,7 @@
                     "List": [
                         {
                             "Type": "SunProducer",
-                            "Props": "SunProducer125"
+                            "Props": "SunProducer75"
                         }
                     ]
                 },
@@ -9203,6 +9203,13 @@
                     {
                         "Type": "recharge",
                         "Value": "recharge0"
+                    }
+                ],
+                "Boosts": [
+                    {
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.3,
+                        "CooldownDurationSeconds": 28800
                     }
                 ],
                 "ScaledProps": [],

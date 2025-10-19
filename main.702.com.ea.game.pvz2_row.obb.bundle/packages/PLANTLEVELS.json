@@ -3392,7 +3392,11 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [75]
+                        "Values": [50]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [45]
                     },
                     {
                         "Name": "PlantTier",
