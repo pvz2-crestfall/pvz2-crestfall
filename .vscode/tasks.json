@@ -11,7 +11,7 @@
                 "-method",
                 "popcap.rsb.build_project",
                 "-source",
-                "${cwd}/main.702.com.ea.game.pvz2_row.obb.bundle",
+                "${cwd}/main.675.com.ea.game.pvz2_row.obb.bundle",
                 "-generic",
                 "0n"
             ]

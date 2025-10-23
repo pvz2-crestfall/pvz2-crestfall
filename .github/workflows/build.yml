@@ -40,7 +40,7 @@ jobs:
 
             - name: Download & process obb file
               run: |
-                  Invoke-WebRequest -Uri "https://github.com/pvz2-crestfall/pvz2-crestfall/releases/download/0.0.0/main.702.com.ea.game.pvz2_row.obb" -OutFile "main.702.com.ea.game.pvz2_row.obb"
+                  Invoke-WebRequest -Uri "https://github.com/pvz2-crestfall/pvz2-crestfall/releases/download/0.0.0/main.675.com.ea.game.pvz2_row.obb" -OutFile "main.702.com.ea.game.pvz2_row.obb"
                   npm run unpack
 
             - name: Run build script
