@@ -77,7 +77,7 @@ async function buildproject() {
             method: 'popcap.rsb.build_project',
             source: projectDirectory,
             generic: '0n',
-            destination: path.join(outDirectory, 'main.675.com.ea.game.pvz2_row.obb'),
+            destination: path.join(outDirectory, 'main.675.com.ea.game.pvz2_crf.obb'),
         });
 
         const elapsed = ((Date.now() - start) / 1000).toFixed(2);
