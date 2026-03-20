@@ -574,7 +574,7 @@
                         "Name": "ActionDamage",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [25]
+                        "Values": [20]
                     },
                     {
                         "Name": "PlantTier",
