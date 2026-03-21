@@ -3,9 +3,9 @@
         {
             "objclass": "LevelDefinition",
             "objdata": {
-                "Name": "AE-15 - Headfirst Archaeology",
+                "Name": "AE-11 - Colonialism",
                 "Description": "[PLAYERS_TRIP_TO_EGYPT]",
-                "LevelNumber": 14,
+                "LevelNumber": 11,
                 "Loot": "RTID(DefaultLoot@LevelModules)",
                 "StageModule": "RTID(EgyptStage@LevelModules)",
                 "NormalPresentTable": "egypt_normal_01",
@@ -36,50 +36,118 @@
         },
         {
             "aliases": [
+                "MoldColony"
+            ],
+            "objclass": "MoldColonyChallengeProps",
+            "objdata": {
+                "Locations": "RTID(MoldGridMap@CurrentLevel)"
+            }
+        },
+        {
+            "aliases": [
+                "ChallengeModule"
+            ],
+            "objclass": "StarChallengeModuleProperties",
+            "objdata": {
+                "Challenges": [
+                    [
+                        "RTID(MoldColony@CurrentLevel)"
+                    ]
+                ],
+                "ChallengesAlwaysAvailable": true
+            }
+        },
+        {
+            "aliases": [
+                "MoldGridMap"
+            ],
+            "objclass": "BoardGridMapProps",
+            "objdata": {
+                "Values": [
+                    [
+                        0,
+                        0,
+                        0,
+                        1,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0,
+                        1,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0,
+                        1,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0,
+                        1,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0,
+                        1,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                ]
+            }
+        },
+        {
+            "aliases": [
                 "Gravestones"
             ],
             "objclass": "GravestoneProperties",
             "objdata": {
                 "ForceSpawnData": [
                     {
-                        "GridX": 5,
+                        "GridX": 7,
                         "GridY": 0
                     },
                     {
-                        "GridX": 6,
+                        "GridX": 8,
                         "GridY": 0
                     },
                     {
                         "GridX": 7,
-                        "GridY": 1
-                    },
-                    {
-                        "GridX": 8,
-                        "GridY": 1
-                    },
-                    {
-                        "GridX": 4,
                         "GridY": 2
                     },
                     {
-                        "GridX": 5,
+                        "GridX": 8,
                         "GridY": 2
                     },
                     {
                         "GridX": 7,
                         "GridY": 3
-                    },
-                    {
-                        "GridX": 8,
-                        "GridY": 3
-                    },
-                    {
-                        "GridX": 5,
-                        "GridY": 4
-                    },
-                    {
-                        "GridX": 6,
-                        "GridY": 4
                     }
                 ]
             }
@@ -90,8 +158,8 @@
             ],
             "objclass": "WaveManagerProperties",
             "objdata": {
-                "FlagWaveInterval": 8,
-                "WaveCount": 8,
+                "FlagWaveInterval": 6,
+                "WaveCount": 6,
                 "Waves": [
                     [
                         "RTID(Wave1Action0@CurrentLevel)"
@@ -110,15 +178,9 @@
                     ],
                     [
                         "RTID(Wave6Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave7Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave8Action0@CurrentLevel)"
                     ]
                 ],
-                "ZombieCountdownFirstWaveSecs": 8
+                "ZombieCountdownFirstWaveSecs": 5
             }
         },
         {
@@ -151,7 +213,10 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                        "Type": "RTID(mummy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(ra@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(ra@ZombieTypes)"
@@ -167,23 +232,6 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)",
-                        "Row": 1
-                    }
-                ]
-            }
-        },
-        {
-            "aliases": [
-                "Wave4Action0"
-            ],
-            "objclass": "SpawnZombiesJitteredWaveActionProps",
-            "objdata": {
-                "Zombies": [
-                    {
-                        "Type": "RTID(mummy_armor2@ZombieTypes)"
-                    },
-                    {
                         "Type": "RTID(tomb_raiser@ZombieTypes)"
                     },
                     {
@@ -195,25 +243,44 @@
         },
         {
             "aliases": [
+                "Wave4Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
                 "Wave5Action0"
             ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(mummy_armor2@ZombieTypes)"
-                    },
-                    {
                         "Type": "RTID(mummy_armor1@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                        "Type": "RTID(tomb_raiser@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(ra@ZombieTypes)"
+                        "Type": "RTID(tomb_raiser@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(ra@ZombieTypes)"
+                        "Type": "RTID(tomb_raiser@ZombieTypes)"
                     }
                 ]
             }
@@ -226,81 +293,40 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(tomb_raiser@ZombieTypes)"
-                    }
-                ]
-            }
-        },
-        {
-            "aliases": [
-                "Wave7Action0"
-            ],
-            "objclass": "SpawnZombiesJitteredWaveActionProps",
-            "objdata": {
-                "Zombies": [
-                    {
-                        "Type": "RTID(mummy_armor2@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(mummy_armor2@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(mummy_armor2@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(mummy_armor2@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(ra@ZombieTypes)"
-                    }
-                ],
-                "AdditionalPlantfood": 1
-            }
-        },
-        {
-            "aliases": [
-                "Wave8Action0"
-            ],
-            "objclass": "SpawnZombiesJitteredWaveActionProps",
-            "objdata": {
-                "Zombies": [
-                    {
                         "Type": "RTID(mummy_flag@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)",
-                        "Row": 1
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)",
-                        "Row": 2
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)",
-                        "Row": 3
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)",
-                        "Row": 4
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)",
-                        "Row": 5
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)"
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(tomb_raiser@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(tomb_raiser@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(tomb_raiser@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(ra@ZombieTypes)"
                     }
                 ]
             }
