@@ -35,8 +35,30 @@
             "objclass": "MiniGameMusicEnableList",
             "aliases": ["MiniGameMusicEnableProps"],
             "objdata": {
-                "EnabledMiniGameSuffixes": ["WildWest", "DarkAges", "Dino"],
-                "EnabledMiniGameWorlds": ["cowboy", "dark", "dino"]
+                "EnabledMiniGameSuffixes": [
+                    "Egypt",
+                    "Pirate",
+                    "WildWest",
+                    "Future",
+                    "DarkAges",
+                    "Beach",
+                    "IceAge",
+                    "LostCity",
+                    "Dino",
+                    "Modern"
+                ],
+                "EnabledMiniGameWorlds": [
+                    "egypt",
+                    "pirate",
+                    "cowboy",
+                    "future",
+                    "dark",
+                    "beach",
+                    "iceage",
+                    "lostcity",
+                    "dino",
+                    "modern"
+                ]
             }
         },
         {

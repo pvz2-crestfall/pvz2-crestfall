@@ -15,7 +15,7 @@ console.log('Build-output: ', outDirectory.yellow());
 if (!fs.existsSync(projectDirectory)) {
     console.error(
         'Error: The specified project directory does not exist.'.red(),
-        '\nMake sure the path you provided points to a valid *.bundle folder.'.yellow()
+        '\nMake sure the path you provided points to a valid *.bundle folder.'.yellow(),
     );
     process.exit(1);
 }
@@ -41,26 +41,30 @@ async function buildPackets() {
             spinner.start();
         }
 
-        let scg = path.format({ ...path.parse(packet), base: undefined, ext: '.scg' });
-        if (!fs.existsSync(scg) || fs.statSync(scg).mtimeMs > fs.statSync(packet).mtimeMs) {
-            const start = Date.now();
-            await sen
-                .run({
-                    method: 'pvz2.custom.scg.encode',
-                    source: packet,
-                    generic: '1n',
-                })
-                .catch((error) => {
-                    console.error(`Error while packing ${path.basename(packet)}\n`, error);
-                });
-            const elapsed = ((Date.now() - start) / 1000).toFixed(2);
+        let packetData = JSON.parse(fs.readFileSync(path.join(packet, 'data.json')));
 
-            // after finishing one package, log a "done" line with timing
-            spinner.stop(`✓ (${current}/${total}) Packed ${path.basename(packet)} in ${elapsed}s`.green());
-        } else {
-            // print text for skipping the package, most likely because it wasn't modified recently
-            spinner.stop(`✓ (${current}/${total}) Skipped ${path.basename(packet)}`.yellow());
-        }
+        // let scg = path.format({ ...path.parse(packet), base: undefined, ext: '.scg' });
+        // if (!fs.existsSync(scg) || fs.statSync(scg).mtimeMs > fs.statSync(packet).mtimeMs) {
+        const start = Date.now();
+        await sen
+            .run({
+                method: 'pvz2.custom.scg.encode',
+                source: packet,
+                generic: packetData['#expand_method'] == 'advanced' ? '1n' : '0n',
+            })
+            .catch((error) => {
+                console.error('\e');
+                console.error(`Error while packing ${path.basename(packet)}\n`.red(), error.red());
+                process.exit(1);
+            });
+
+        const elapsed = ((Date.now() - start) / 1000).toFixed(2);
+        // after finishing one package, log a "done" line with timing
+        spinner.stop(`✓ (${current}/${total}) Packed ${path.basename(packet)} in ${elapsed}s`.green());
+        // } else {
+        //     // print text for skipping the package, most likely because it wasn't modified recently
+        //     spinner.stop(`✓ (${current}/${total}) Skipped ${path.basename(packet)}`.yellow());
+        // }
     }
 
     spinner.stop(`✓ Done encoding ${total} packages!`.green());
