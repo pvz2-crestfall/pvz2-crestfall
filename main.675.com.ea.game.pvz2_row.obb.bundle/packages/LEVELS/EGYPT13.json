@@ -1,0 +1,415 @@
+{
+    "objects": [
+        {
+            "objclass": "LevelDefinition",
+            "objdata": {
+                "Name": "AE-13 - Preparations",
+                "Description": "[PLAYERS_TRIP_TO_EGYPT]",
+                "LevelNumber": 13,
+                "Loot": "RTID(DefaultLoot@LevelModules)",
+                "StageModule": "RTID(EgyptStage@LevelModules)",
+                "NormalPresentTable": "egypt_normal_01",
+                "ShinyPresentTable": "egypt_shiny_01",
+                "Modules": [
+                    "RTID(StandardIntro@LevelModules)",
+                    "RTID(ZombiesDeadWinCon@LevelModules)",
+                    "RTID(DefaultZombieWinCondition@LevelModules)",
+                    "RTID(SeedBank@CurrentLevel)",
+                    "RTID(ChallengeModule@CurrentLevel)",
+                    "RTID(LastStand@CurrentLevel)",
+                    "RTID(Gravestones@CurrentLevel)",
+                    "RTID(NewWaves@CurrentLevel)"
+                ],
+                "StartingSun": 0,
+                "AddBonusStartingSun": false
+            }
+        },
+        {
+            "aliases": [
+                "SeedBank"
+            ],
+            "objclass": "SeedBankProperties",
+            "objdata": {
+                "SelectionMethod": "chooser",
+                "PlantExcludeList": [
+                    "gravebuster",
+                    "iceburg",
+                    "puffshroom",
+                    "witchhazel",
+                    "caulipower",
+                    "powerlily",
+                    "filamint",
+                    "peppermint",
+                    "wintermint",
+                    "enlightenmint",
+                    "reinforcemint",
+                    "bombardmint",
+                    "enchantmint",
+                    "ailmint",
+                    "containmint",
+                    "enforcemint",
+                    "concealmint",
+                    "armamint",
+                    "spearmint",
+                    "appeasemint",
+                    "hocus",
+                    "levitater",
+                    "slingpea",
+                    "sunbean",
+                    "goldbloom",
+                    "imppear",
+                    "boomflower"
+                ],
+                "ExcludeListSunProducers": true
+            }
+        },
+        {
+            "aliases": [
+                "LastStand"
+            ],
+            "objclass": "LastStandMinigameProperties",
+            "objdata": {
+                "StartingSun": 2200,
+                "StartingPlantfood": 2
+            }
+        },
+        {
+            "aliases": [
+                "Gravestones"
+            ],
+            "objclass": "GravestoneProperties",
+            "objdata": {
+                "ForceSpawnData": [
+                    {
+                        "GridX": 5,
+                        "GridY": 0
+                    },
+                    {
+                        "GridX": 7,
+                        "GridY": 0
+                    },
+                    {
+                        "GridX": 6,
+                        "GridY": 1
+                    },
+                    {
+                        "GridX": 8,
+                        "GridY": 1
+                    },
+                    {
+                        "GridX": 5,
+                        "GridY": 2
+                    },
+                    {
+                        "GridX": 7,
+                        "GridY": 2
+                    },
+                    {
+                        "GridX": 8,
+                        "GridY": 2
+                    },
+                    {
+                        "GridX": 4,
+                        "GridY": 3
+                    },
+                    {
+                        "GridX": 6,
+                        "GridY": 3
+                    },
+                    {
+                        "GridX": 7,
+                        "GridY": 3
+                    },
+                    {
+                        "GridX": 8,
+                        "GridY": 3
+                    },
+                    {
+                        "GridX": 6,
+                        "GridY": 4
+                    },
+                    {
+                        "GridX": 7,
+                        "GridY": 4
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "WaveManagerProps"
+            ],
+            "objclass": "WaveManagerProperties",
+            "objdata": {
+                "FlagWaveInterval": 6,
+                "WaveCount": 6,
+                "Waves": [
+                    [
+                        "RTID(Wave1Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave2Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave3Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave4Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave5Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave6Action0@CurrentLevel)",
+                        "RTID(Wave6Action1@CurrentLevel)"
+                    ]
+                ],
+                "MinNextWaveHealthPercentage": 0.6,
+                "MaxNextWaveHealthPercentage": 0.65
+            }
+        },
+        {
+            "aliases": [
+                "NewWaves"
+            ],
+            "objclass": "WaveManagerModuleProperties",
+            "objdata": {
+		"ManualStartup": true,
+                "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
+            }
+        },
+        {
+            "aliases": [
+                "Wave1Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(ra@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave2Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(camel_onehump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(camel_onehump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(camel_onehump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(camel_onehump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(camel_manyhump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(tomb_raiser@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave3Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(pharaoh@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(explorer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(explorer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(explorer@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave4Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(tomb_raiser@ZombieTypes)"
+                    }
+                ],
+                "AdditionalPlantfood": 1
+            }
+        },
+        {
+            "aliases": [
+                "Wave5Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(camel_twohump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(camel_twohump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(camel_twohump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(camel_onehump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(ra@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(explorer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pharaoh@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave6Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(mummy_flag@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(camel_twohump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(camel_twohump@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pharaoh@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pharaoh@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(tomb_raiser@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(tomb_raiser@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave6Action1"
+            ],
+            "objclass": "StormZombieSpawnerProps",
+            "objdata": {
+                "ColumnStart": 5,
+                "ColumnEnd": 9,
+                "GroupSize": 2,
+                "TimeBetweenGroups": 2,
+                "Type": "sandstorm",
+                "Zombies": [
+                    {
+                        "Type": "RTID(explorer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(explorer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(explorer@ZombieTypes)"
+                    }
+                ]
+            }
+        }
+    ],
+    "version": 1
+}

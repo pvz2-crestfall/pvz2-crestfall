@@ -20,7 +20,8 @@
                     "RTID(NewWaves@CurrentLevel)"
                 ],
                 "StartingSun": 50,
-                "AddBonusStartingSun": true
+                "AddBonusStartingSun": true,
+                "MusicType": "MiniGame_A"
             }
         },
         {
