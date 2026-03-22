@@ -845,7 +845,7 @@
                     },
                     {
                         "Key": "AllowCreatingMultipleProfiles",
-                        "Enabled": false,
+                        "Enabled": true,
                         "DisplayName": "Allow Creating Multiple Profiles",
                         "Category": "live"
                     },

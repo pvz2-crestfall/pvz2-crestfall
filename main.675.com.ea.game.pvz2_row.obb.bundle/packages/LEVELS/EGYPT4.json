@@ -5,6 +5,8 @@
             "objdata": {
                 "Name": "AE-4 - Camel Crossing",
                 "Description": "[PLAYERS_TRIP_TO_EGYPT]",
+                "FirstRewardParam": "iceburg",
+                "FirstRewardType": "unlock_plant",
                 "LevelNumber": 1,
                 "Loot": "RTID(DefaultLoot@LevelModules)",
                 "StageModule": "RTID(EgyptStage@LevelModules)",
@@ -26,18 +28,14 @@
             }
         },
         {
-            "aliases": [
-                "SeedBank"
-            ],
+            "aliases": ["SeedBank"],
             "objclass": "SeedBankProperties",
             "objdata": {
                 "SelectionMethod": "chooser"
             }
         },
         {
-            "aliases": [
-                "Gravestones"
-            ],
+            "aliases": ["Gravestones"],
             "objclass": "GravestoneProperties",
             "objdata": {
                 "ForceSpawnData": [
@@ -69,52 +67,31 @@
             }
         },
         {
-            "aliases": [
-                "WaveManagerProps"
-            ],
+            "aliases": ["WaveManagerProps"],
             "objclass": "WaveManagerProperties",
             "objdata": {
                 "FlagWaveInterval": 7,
                 "WaveCount": 7,
                 "Waves": [
-                    [
-                        "RTID(Wave1Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave2Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave3Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave4Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave5Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave6Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave7Action0@CurrentLevel)",
-                        "RTID(Wave7Action1@CurrentLevel)"
-                    ]
+                    ["RTID(Wave1Action0@CurrentLevel)"],
+                    ["RTID(Wave2Action0@CurrentLevel)"],
+                    ["RTID(Wave3Action0@CurrentLevel)"],
+                    ["RTID(Wave4Action0@CurrentLevel)"],
+                    ["RTID(Wave5Action0@CurrentLevel)"],
+                    ["RTID(Wave6Action0@CurrentLevel)"],
+                    ["RTID(Wave7Action0@CurrentLevel)", "RTID(Wave7Action1@CurrentLevel)"]
                 ]
             }
         },
         {
-            "aliases": [
-                "NewWaves"
-            ],
+            "aliases": ["NewWaves"],
             "objclass": "WaveManagerModuleProperties",
             "objdata": {
                 "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
             }
         },
         {
-            "aliases": [
-                "Wave1Action0"
-            ],
+            "aliases": ["Wave1Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -126,9 +103,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave2Action0"
-            ],
+            "aliases": ["Wave2Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -142,9 +117,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave3Action0"
-            ],
+            "aliases": ["Wave3Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -155,9 +128,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave4Action0"
-            ],
+            "aliases": ["Wave4Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -168,9 +139,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave5Action0"
-            ],
+            "aliases": ["Wave5Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -186,9 +155,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave6Action0"
-            ],
+            "aliases": ["Wave6Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -205,9 +172,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave7Action0"
-            ],
+            "aliases": ["Wave7Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -229,9 +194,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave7Action1"
-            ],
+            "aliases": ["Wave7Action1"],
             "objclass": "StormZombieSpawnerProps",
             "objdata": {
                 "ColumnStart": 6,

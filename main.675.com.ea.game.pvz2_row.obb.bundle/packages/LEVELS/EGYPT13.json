@@ -25,9 +25,7 @@
             }
         },
         {
-            "aliases": [
-                "SeedBank"
-            ],
+            "aliases": ["SeedBank"],
             "objclass": "SeedBankProperties",
             "objdata": {
                 "SelectionMethod": "chooser",
@@ -64,9 +62,7 @@
             }
         },
         {
-            "aliases": [
-                "LastStand"
-            ],
+            "aliases": ["LastStand"],
             "objclass": "LastStandMinigameProperties",
             "objdata": {
                 "StartingSun": 2200,
@@ -74,9 +70,7 @@
             }
         },
         {
-            "aliases": [
-                "Gravestones"
-            ],
+            "aliases": ["Gravestones"],
             "objclass": "GravestoneProperties",
             "objdata": {
                 "ForceSpawnData": [
@@ -136,52 +130,33 @@
             }
         },
         {
-            "aliases": [
-                "WaveManagerProps"
-            ],
+            "aliases": ["WaveManagerProps"],
             "objclass": "WaveManagerProperties",
             "objdata": {
                 "FlagWaveInterval": 6,
                 "WaveCount": 6,
                 "Waves": [
-                    [
-                        "RTID(Wave1Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave2Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave3Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave4Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave5Action0@CurrentLevel)"
-                    ],
-                    [
-                        "RTID(Wave6Action0@CurrentLevel)",
-                        "RTID(Wave6Action1@CurrentLevel)"
-                    ]
+                    ["RTID(Wave1Action0@CurrentLevel)"],
+                    ["RTID(Wave2Action0@CurrentLevel)"],
+                    ["RTID(Wave3Action0@CurrentLevel)"],
+                    ["RTID(Wave4Action0@CurrentLevel)"],
+                    ["RTID(Wave5Action0@CurrentLevel)"],
+                    ["RTID(Wave6Action0@CurrentLevel)", "RTID(Wave6Action1@CurrentLevel)"]
                 ],
                 "MinNextWaveHealthPercentage": 0.6,
                 "MaxNextWaveHealthPercentage": 0.65
             }
         },
         {
-            "aliases": [
-                "NewWaves"
-            ],
+            "aliases": ["NewWaves"],
             "objclass": "WaveManagerModuleProperties",
             "objdata": {
-		"ManualStartup": true,
+                "ManualStartup": true,
                 "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
             }
         },
         {
-            "aliases": [
-                "Wave1Action0"
-            ],
+            "aliases": ["Wave1Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -210,9 +185,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave2Action0"
-            ],
+            "aliases": ["Wave2Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -238,9 +211,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave3Action0"
-            ],
+            "aliases": ["Wave3Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -266,9 +237,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave4Action0"
-            ],
+            "aliases": ["Wave4Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -313,9 +282,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave5Action0"
-            ],
+            "aliases": ["Wave5Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -344,9 +311,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave6Action0"
-            ],
+            "aliases": ["Wave6Action0"],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -387,9 +352,7 @@
             }
         },
         {
-            "aliases": [
-                "Wave6Action1"
-            ],
+            "aliases": ["Wave6Action1"],
             "objclass": "StormZombieSpawnerProps",
             "objdata": {
                 "ColumnStart": 5,
