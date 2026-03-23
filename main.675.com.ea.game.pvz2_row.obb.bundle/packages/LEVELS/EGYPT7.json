@@ -37,6 +37,30 @@
         },
         {
             "aliases": [
+                "BeatTheLevelChallenge"
+            ],
+            "objclass": "StarChallengeBeatTheLevelProps",
+            "objdata": {
+                "Description": "Survive and protect the endangered plants",
+                "DescriptiveName": ""
+            }
+        },
+        {
+            "aliases": [
+                "ChallengeModule"
+            ],
+            "objclass": "StarChallengeModuleProperties",
+            "objdata": {
+                "Challenges": [
+                    [
+                        "RTID(BeatTheLevelChallenge@CurrentLevel)"
+                    ]
+                ],
+                "ChallengesAlwaysAvailable": true
+            }
+        },
+        {
+            "aliases": [
                 "EndangeredPlants"
             ],
             "objclass": "ProtectThePlantChallengeProperties",
