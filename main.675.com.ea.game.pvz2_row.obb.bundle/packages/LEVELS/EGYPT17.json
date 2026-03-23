@@ -22,8 +22,6 @@
                 ],
                 "StartingSun": 50,
                 "AddBonusStartingSun": true,
-                "FirstRewardType": "none",
-                "FirstRewardParam": "none",
                 "MusicType": "MiniGame_A"
             }
         },
