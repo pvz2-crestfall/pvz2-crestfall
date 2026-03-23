@@ -187,6 +187,7 @@
             ],
             "objclass": "WaveManagerModuleProperties",
             "objdata": {
+		"ManualStartup": true,
                 "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
             }
         },
