@@ -106,21 +106,6 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 3,
-						"m_position": {
-							"x": 7097.265625,
-							"y": 249.0
-						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
-						"m_isArtFlipped": false,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
 						"m_imageID": 21,
 						"m_position": {
 							"x": -356.56539265971264,
@@ -136,13 +121,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 4,
+						"m_imageID": 3,
 						"m_position": {
-							"x": 699.0414505215506,
-							"y": 320.2612263885053
+							"x": 7097.265625,
+							"y": 249.0
 						},
 						"m_parallaxLayer": 0,
-						"m_drawLayer": 2,
+						"m_drawLayer": 3,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -151,13 +136,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 0,
+						"m_imageID": 4,
 						"m_position": {
-							"x": -14.0625,
-							"y": 73.0
+							"x": 699.0414505215506,
+							"y": 320.2612263885053
 						},
 						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
+						"m_drawLayer": 2,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -181,17 +166,17 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 16,
+						"m_imageID": 0,
 						"m_position": {
-							"x": 2606.779053,
-							"y": 250.0
+							"x": -14.0625,
+							"y": 73.0
 						},
-						"m_parallaxLayer": 4,
-						"m_drawLayer": 4,
-						"m_scaleX": 0.2,
-						"m_scaleY": 0.2,
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 3,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
-						"m_rotationAngle": 350,
+						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
 					},
 					{
@@ -207,6 +192,21 @@
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 16,
+						"m_position": {
+							"x": 2606.779053,
+							"y": 250.0
+						},
+						"m_parallaxLayer": 4,
+						"m_drawLayer": 4,
+						"m_scaleX": 0.2,
+						"m_scaleY": 0.2,
+						"m_isArtFlipped": false,
+						"m_rotationAngle": 350,
 						"m_rotationRate": 0.0
 					},
 					{
@@ -391,13 +391,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 5,
+						"m_imageID": 101,
 						"m_position": {
-							"x": 1556.0625,
-							"y": 278.0
+							"x": -293.600098,
+							"y": 40.0
 						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
+						"m_parallaxLayer": 10,
+						"m_drawLayer": 6,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -406,13 +406,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 101,
+						"m_imageID": 5,
 						"m_position": {
-							"x": -293.600098,
-							"y": 40.0
+							"x": 1556.0625,
+							"y": 278.0
 						},
-						"m_parallaxLayer": 10,
-						"m_drawLayer": 6,
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 3,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -496,15 +496,15 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 25,
+						"m_imageID": 36,
 						"m_position": {
-							"x": 1797.560059,
-							"y": 108.0
+							"x": 6526.171875,
+							"y": 173.0
 						},
-						"m_parallaxLayer": 4,
+						"m_parallaxLayer": 0,
 						"m_drawLayer": 3,
-						"m_scaleX": 0.6,
-						"m_scaleY": 0.6,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
@@ -526,15 +526,15 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 36,
+						"m_imageID": 25,
 						"m_position": {
-							"x": 6526.171875,
-							"y": 173.0
+							"x": 1797.560059,
+							"y": 108.0
 						},
-						"m_parallaxLayer": 0,
+						"m_parallaxLayer": 4,
 						"m_drawLayer": 3,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
@@ -571,10 +571,25 @@
 					},
 					{
 						"m_eventType": "island",
+						"m_imageID": 8,
+						"m_position": {
+							"x": 4151.038835963529,
+							"y": 295.00337153934606
+						},
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 4,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
+						"m_isArtFlipped": false,
+						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
 						"m_imageID": 22,
 						"m_position": {
-							"x": 103.37846366152644,
-							"y": 287.14775472229894
+							"x": 99.37846366152644,
+							"y": 289.14775472229894
 						},
 						"m_parallaxLayer": 9,
 						"m_drawLayer": 3,
@@ -586,13 +601,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 8,
+						"m_imageID": 4,
 						"m_position": {
-							"x": 4151.038835963529,
-							"y": 295.00337153934606
+							"x": 1266.008120524854,
+							"y": 307.02268085342456
 						},
 						"m_parallaxLayer": 0,
-						"m_drawLayer": 4,
+						"m_drawLayer": 3,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -611,21 +626,6 @@
 						"m_scaleX": 0.4,
 						"m_scaleY": 0.4,
 						"m_isArtFlipped": true,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
-						"m_imageID": 4,
-						"m_position": {
-							"x": 1266.008120524854,
-							"y": 307.02268085342456
-						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
-						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
 					},
@@ -663,11 +663,11 @@
 						"m_eventType": "island",
 						"m_imageID": 4,
 						"m_position": {
-							"x": 3619.225387941599,
-							"y": 282.6456506784843
+							"x": 3318.9676778943267,
+							"y": 204.38510112304004
 						},
 						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
+						"m_drawLayer": 7,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -678,11 +678,11 @@
 						"m_eventType": "island",
 						"m_imageID": 4,
 						"m_position": {
-							"x": 3318.9676778943267,
-							"y": 204.38510112304004
+							"x": 3619.225387941599,
+							"y": 282.6456506784843
 						},
 						"m_parallaxLayer": 0,
-						"m_drawLayer": 7,
+						"m_drawLayer": 3,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -1411,36 +1411,6 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 7,
-						"m_position": {
-							"x": 6148.828125,
-							"y": 233.0
-						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
-						"m_isArtFlipped": false,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
-						"m_imageID": 4,
-						"m_position": {
-							"x": 7245.703125,
-							"y": 275.0
-						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
-						"m_isArtFlipped": false,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
 						"m_imageID": 22,
 						"m_position": {
 							"x": -491.740051,
@@ -1486,13 +1456,43 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 104,
+						"m_imageID": 7,
 						"m_position": {
-							"x": 2420.9187889368272,
-							"y": 465.5979279914004
+							"x": 6148.828125,
+							"y": 233.0
 						},
 						"m_parallaxLayer": 0,
-						"m_drawLayer": 4,
+						"m_drawLayer": 3,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
+						"m_isArtFlipped": false,
+						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 4,
+						"m_position": {
+							"x": 7245.703125,
+							"y": 275.0
+						},
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 3,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
+						"m_isArtFlipped": false,
+						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 101,
+						"m_position": {
+							"x": -636.568848,
+							"y": 84.0
+						},
+						"m_parallaxLayer": 10,
+						"m_drawLayer": 6,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -1516,13 +1516,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 101,
+						"m_imageID": 104,
 						"m_position": {
-							"x": -636.568848,
-							"y": 84.0
+							"x": 2420.9187889368272,
+							"y": 465.5979279914004
 						},
-						"m_parallaxLayer": 10,
-						"m_drawLayer": 6,
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 4,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -1546,21 +1546,6 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 33,
-						"m_position": {
-							"x": 2430.997803,
-							"y": 238.0
-						},
-						"m_parallaxLayer": 4,
-						"m_drawLayer": 3,
-						"m_scaleX": 0.4,
-						"m_scaleY": 0.4,
-						"m_isArtFlipped": false,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
 						"m_imageID": 8,
 						"m_position": {
 							"x": 6792.96875,
@@ -1571,6 +1556,21 @@
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": true,
+						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 33,
+						"m_position": {
+							"x": 2430.997803,
+							"y": 238.0
+						},
+						"m_parallaxLayer": 4,
+						"m_drawLayer": 3,
+						"m_scaleX": 0.4,
+						"m_scaleY": 0.4,
+						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
 					},
@@ -1608,21 +1608,6 @@
 						"m_eventType": "island",
 						"m_imageID": 16,
 						"m_position": {
-							"x": -87.97226,
-							"y": 130.0
-						},
-						"m_parallaxLayer": 8,
-						"m_drawLayer": 5,
-						"m_scaleX": 0.2,
-						"m_scaleY": 0.2,
-						"m_isArtFlipped": false,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
-						"m_imageID": 16,
-						"m_position": {
 							"x": 3142.013184,
 							"y": 138.0
 						},
@@ -1632,6 +1617,21 @@
 						"m_scaleY": 0.5,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 20,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 16,
+						"m_position": {
+							"x": -87.97226,
+							"y": 130.0
+						},
+						"m_parallaxLayer": 8,
+						"m_drawLayer": 5,
+						"m_scaleX": 0.2,
+						"m_scaleY": 0.2,
+						"m_isArtFlipped": false,
+						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
 					},
 					{
@@ -1771,21 +1771,6 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 23,
-						"m_position": {
-							"x": -289.4263,
-							"y": 179.0
-						},
-						"m_parallaxLayer": 7,
-						"m_drawLayer": 3,
-						"m_scaleX": 0.2,
-						"m_scaleY": 0.2,
-						"m_isArtFlipped": false,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
 						"m_imageID": 6,
 						"m_position": {
 							"x": 1732.3459002029037,
@@ -1801,25 +1786,25 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 4,
+						"m_imageID": 23,
 						"m_position": {
-							"x": 1909.2788144972687,
-							"y": 289.8291455296569
+							"x": -289.4263,
+							"y": 179.0
 						},
-						"m_parallaxLayer": 0,
+						"m_parallaxLayer": 7,
 						"m_drawLayer": 3,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
+						"m_scaleX": 0.2,
+						"m_scaleY": 0.2,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 8,
+						"m_imageID": 4,
 						"m_position": {
-							"x": 6247.65625,
-							"y": 285.0
+							"x": 1909.2788144972687,
+							"y": 289.8291455296569
 						},
 						"m_parallaxLayer": 0,
 						"m_drawLayer": 3,
@@ -1843,6 +1828,21 @@
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 18.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 8,
+						"m_position": {
+							"x": 6247.65625,
+							"y": 285.0
+						},
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 3,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
+						"m_isArtFlipped": false,
+						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
 					},
 					{
 						"m_eventType": "island",
@@ -1876,21 +1876,6 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 23,
-						"m_position": {
-							"x": 2516.935303,
-							"y": 236.0
-						},
-						"m_parallaxLayer": 4,
-						"m_drawLayer": 2,
-						"m_scaleX": 0.6,
-						"m_scaleY": 0.6,
-						"m_isArtFlipped": false,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
 						"m_imageID": 4,
 						"m_position": {
 							"x": 823.6096392021262,
@@ -1900,6 +1885,21 @@
 						"m_drawLayer": 2,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
+						"m_isArtFlipped": false,
+						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 23,
+						"m_position": {
+							"x": 2516.935303,
+							"y": 236.0
+						},
+						"m_parallaxLayer": 4,
+						"m_drawLayer": 2,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
@@ -2011,21 +2011,6 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 16,
-						"m_position": {
-							"x": 3183.028809,
-							"y": 153.0
-						},
-						"m_parallaxLayer": 4,
-						"m_drawLayer": 5,
-						"m_scaleX": 0.4,
-						"m_scaleY": 0.4,
-						"m_isArtFlipped": true,
-						"m_rotationAngle": 345,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
 						"m_imageID": 4,
 						"m_position": {
 							"x": 2756.4703793233443,
@@ -2037,6 +2022,21 @@
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 16,
+						"m_position": {
+							"x": 3183.028809,
+							"y": 153.0
+						},
+						"m_parallaxLayer": 4,
+						"m_drawLayer": 5,
+						"m_scaleX": 0.4,
+						"m_scaleY": 0.4,
+						"m_isArtFlipped": true,
+						"m_rotationAngle": 345,
 						"m_rotationRate": 0.0
 					},
 					{
@@ -2056,21 +2056,6 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 106,
-						"m_position": {
-							"x": 7171.09375,
-							"y": 290.0
-						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
-						"m_isArtFlipped": true,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
 						"m_imageID": 105,
 						"m_position": {
 							"x": 3756.974165490369,
@@ -2081,6 +2066,21 @@
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
+						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 106,
+						"m_position": {
+							"x": 7171.09375,
+							"y": 290.0
+						},
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 3,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
+						"m_isArtFlipped": true,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
 					},
@@ -2131,13 +2131,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 101,
+						"m_imageID": 105,
 						"m_position": {
-							"x": -194.807434,
-							"y": 192.0
+							"x": 1400.023083230199,
+							"y": 442.26204771481537
 						},
-						"m_parallaxLayer": 10,
-						"m_drawLayer": 3,
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 4,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -2146,13 +2146,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 105,
+						"m_imageID": 101,
 						"m_position": {
-							"x": 1400.023083230199,
-							"y": 442.26204771481537
+							"x": -194.807434,
+							"y": 192.0
 						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 4,
+						"m_parallaxLayer": 10,
+						"m_drawLayer": 3,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -2296,21 +2296,6 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 11,
-						"m_position": {
-							"x": 661.37670524385,
-							"y": 361.9657169439074
-						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 2,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
-						"m_isArtFlipped": true,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
 						"m_imageID": 104,
 						"m_position": {
 							"x": 902.4225738716392,
@@ -2326,16 +2311,16 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 100,
+						"m_imageID": 11,
 						"m_position": {
-							"x": 6082.8125,
-							"y": 310.0
+							"x": 661.37670524385,
+							"y": 361.9657169439074
 						},
 						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
+						"m_drawLayer": 2,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
-						"m_isArtFlipped": false,
+						"m_isArtFlipped": true,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
 					},
@@ -2356,16 +2341,16 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 28,
+						"m_imageID": 100,
 						"m_position": {
-							"x": 1865.685181,
-							"y": 62.0
+							"x": 6082.8125,
+							"y": 310.0
 						},
-						"m_parallaxLayer": 4,
-						"m_drawLayer": 4,
-						"m_scaleX": 0.6,
-						"m_scaleY": 0.6,
-						"m_isArtFlipped": true,
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 3,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
+						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
 					},
@@ -2381,6 +2366,21 @@
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
+						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 28,
+						"m_position": {
+							"x": 1865.685181,
+							"y": 62.0
+						},
+						"m_parallaxLayer": 4,
+						"m_drawLayer": 4,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
+						"m_isArtFlipped": true,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
 					},
@@ -2446,15 +2446,15 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 13,
+						"m_imageID": 11,
 						"m_position": {
-							"x": -406.881348,
-							"y": 47.0
+							"x": 6684.765625,
+							"y": 380.0
 						},
-						"m_parallaxLayer": 10,
+						"m_parallaxLayer": 0,
 						"m_drawLayer": 3,
-						"m_scaleX": 0.9,
-						"m_scaleY": 0.9,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
@@ -2476,15 +2476,15 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 11,
+						"m_imageID": 13,
 						"m_position": {
-							"x": 6684.765625,
-							"y": 380.0
+							"x": -406.881348,
+							"y": 47.0
 						},
-						"m_parallaxLayer": 0,
+						"m_parallaxLayer": 10,
 						"m_drawLayer": 3,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
+						"m_scaleX": 0.9,
+						"m_scaleY": 0.9,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
@@ -2566,13 +2566,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 101,
+						"m_imageID": 8,
 						"m_position": {
-							"x": -647.896973,
-							"y": 217.0
+							"x": 3167.4886936234375,
+							"y": 164.24049398411535
 						},
-						"m_parallaxLayer": 10,
-						"m_drawLayer": 3,
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 7,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -2581,13 +2581,13 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 8,
+						"m_imageID": 101,
 						"m_position": {
-							"x": 3167.4886936234375,
-							"y": 164.24049398411535
+							"x": -647.896973,
+							"y": 217.0
 						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 7,
+						"m_parallaxLayer": 10,
+						"m_drawLayer": 3,
 						"m_scaleX": 1.0,
 						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
@@ -2626,21 +2626,6 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 6,
-						"m_position": {
-							"x": 5943.75,
-							"y": 265.0
-						},
-						"m_parallaxLayer": 0,
-						"m_drawLayer": 3,
-						"m_scaleX": 1.0,
-						"m_scaleY": 1.0,
-						"m_isArtFlipped": false,
-						"m_rotationAngle": 0,
-						"m_rotationRate": 0.0
-					},
-					{
-						"m_eventType": "island",
 						"m_imageID": 5,
 						"m_position": {
 							"x": 4188.721489375729,
@@ -2656,15 +2641,15 @@
 					},
 					{
 						"m_eventType": "island",
-						"m_imageID": 18,
+						"m_imageID": 6,
 						"m_position": {
-							"x": 3247.872559,
-							"y": 192.0
+							"x": 5943.75,
+							"y": 265.0
 						},
-						"m_parallaxLayer": 4,
-						"m_drawLayer": 7,
-						"m_scaleX": 0.6,
-						"m_scaleY": 0.6,
+						"m_parallaxLayer": 0,
+						"m_drawLayer": 3,
+						"m_scaleX": 1.0,
+						"m_scaleY": 1.0,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
@@ -2680,6 +2665,21 @@
 						"m_drawLayer": 3,
 						"m_scaleX": 0.8,
 						"m_scaleY": 0.8,
+						"m_isArtFlipped": false,
+						"m_rotationAngle": 0,
+						"m_rotationRate": 0.0
+					},
+					{
+						"m_eventType": "island",
+						"m_imageID": 18,
+						"m_position": {
+							"x": 3247.872559,
+							"y": 192.0
+						},
+						"m_parallaxLayer": 4,
+						"m_drawLayer": 7,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_isArtFlipped": false,
 						"m_rotationAngle": 0,
 						"m_rotationRate": 0.0
@@ -2975,30 +2975,6 @@
 						"m_levelNodeType": "normal"
 					},
 					{
-						"m_eventType": "level",
-						"m_eventId": 95,
-						"m_position": {
-							"x": 2755.548323114512,
-							"y": 187.90121051651363
-						},
-						"m_name": "egypt_level_13",
-						"m_toggleName": "",
-						"m_dataString": "egypt13",
-						"m_unlockedFrom": "",
-						"m_visibleFrom": "",
-						"m_autoVisible": true,
-						"m_isChallengeType": false,
-						"m_isArtFlipped": false,
-						"m_cost": 0,
-						"m_parentEvent": "egypt_rewardplant_snowpea",
-						"m_displayText": "13",
-						"m_unlockedNarrationID": "",
-						"m_completedNarrationID": "",
-						"m_worldMapTutorial": "none",
-						"m_worldMapTutorialVisibleWhen": "none",
-						"m_levelNodeType": "minigame"
-					},
-					{
 						"m_eventType": "giftbox",
 						"m_eventId": 24,
 						"m_position": {
@@ -3023,22 +2999,46 @@
 						"m_levelNodeType": "normal"
 					},
 					{
-						"m_eventType": "plant",
-						"m_eventId": 17,
+						"m_eventType": "level",
+						"m_eventId": 95,
 						"m_position": {
-							"x": 1772.5183396266998,
-							"y": 352.3064013721202
+							"x": 2755.548323114512,
+							"y": 187.90121051651363
 						},
-						"m_name": "egypt_rewardplant_bonkchoy",
+						"m_name": "egypt_level_13",
 						"m_toggleName": "",
-						"m_dataString": "bonkchoy",
+						"m_dataString": "egypt13",
 						"m_unlockedFrom": "",
 						"m_visibleFrom": "",
 						"m_autoVisible": true,
 						"m_isChallengeType": false,
 						"m_isArtFlipped": false,
 						"m_cost": 0,
-						"m_parentEvent": "egypt_level_8",
+						"m_parentEvent": "egypt_rewardplant_snowpea",
+						"m_displayText": "13",
+						"m_unlockedNarrationID": "",
+						"m_completedNarrationID": "",
+						"m_worldMapTutorial": "none",
+						"m_worldMapTutorialVisibleWhen": "none",
+						"m_levelNodeType": "minigame"
+					},
+					{
+						"m_eventType": "upgrade",
+						"m_eventId": 32,
+						"m_position": {
+							"x": 3617.571476812903,
+							"y": 311.7221848004083
+						},
+						"m_name": "egypt_rewardupgrade_chal_4_reward",
+						"m_toggleName": "",
+						"m_dataString": "starting_sun_lvl1",
+						"m_unlockedFrom": "egypt_level_16",
+						"m_visibleFrom": "",
+						"m_autoVisible": true,
+						"m_isChallengeType": false,
+						"m_isArtFlipped": false,
+						"m_cost": 0,
+						"m_parentEvent": "egypt_level_16",
 						"m_displayText": "",
 						"m_unlockedNarrationID": "",
 						"m_completedNarrationID": "",
@@ -3071,22 +3071,22 @@
 						"m_levelNodeType": "normal"
 					},
 					{
-						"m_eventType": "upgrade",
-						"m_eventId": 32,
+						"m_eventType": "plant",
+						"m_eventId": 17,
 						"m_position": {
-							"x": 3617.571476812903,
-							"y": 311.7221848004083
+							"x": 1772.5183396266998,
+							"y": 352.3064013721202
 						},
-						"m_name": "egypt_rewardupgrade_chal_4_reward",
+						"m_name": "egypt_rewardplant_bonkchoy",
 						"m_toggleName": "",
-						"m_dataString": "starting_sun_lvl1",
-						"m_unlockedFrom": "egypt_level_16",
+						"m_dataString": "bonkchoy",
+						"m_unlockedFrom": "",
 						"m_visibleFrom": "",
 						"m_autoVisible": true,
 						"m_isChallengeType": false,
 						"m_isArtFlipped": false,
 						"m_cost": 0,
-						"m_parentEvent": "egypt_level_16",
+						"m_parentEvent": "egypt_level_8",
 						"m_displayText": "",
 						"m_unlockedNarrationID": "",
 						"m_completedNarrationID": "",
@@ -3226,7 +3226,7 @@
 						"m_dataString": "egypt15",
 						"m_unlockedFrom": "",
 						"m_visibleFrom": "",
-						"m_autoVisible": true,
+						"m_autoVisible": false,
 						"m_isChallengeType": false,
 						"m_isArtFlipped": false,
 						"m_cost": 0,
@@ -3383,6 +3383,30 @@
 						"m_levelNodeType": "boss"
 					},
 					{
+						"m_eventType": "plant",
+						"m_eventId": 14,
+						"m_position": {
+							"x": 1265.9656100007062,
+							"y": 339.88666761271224
+						},
+						"m_name": "egypt_rewardplant_gravebuster",
+						"m_toggleName": "",
+						"m_dataString": "gravebuster",
+						"m_unlockedFrom": "",
+						"m_visibleFrom": "",
+						"m_autoVisible": true,
+						"m_isChallengeType": false,
+						"m_isArtFlipped": false,
+						"m_cost": 0,
+						"m_parentEvent": "egypt_level_6",
+						"m_displayText": "",
+						"m_unlockedNarrationID": "",
+						"m_completedNarrationID": "",
+						"m_worldMapTutorial": "none",
+						"m_worldMapTutorialVisibleWhen": "unlocked",
+						"m_levelNodeType": "normal"
+					},
+					{
 						"m_eventType": "doodad",
 						"m_eventId": 83,
 						"m_position": {
@@ -3407,28 +3431,28 @@
 						"m_levelNodeType": "normal"
 					},
 					{
-						"m_eventType": "plant",
-						"m_eventId": 14,
+						"m_eventType": "level",
+						"m_eventId": 96,
 						"m_position": {
-							"x": 1265.9656100007062,
-							"y": 339.88666761271224
+							"x": 2911.6658878162093,
+							"y": 232.09418736820916
 						},
-						"m_name": "egypt_rewardplant_gravebuster",
+						"m_name": "egypt_level_14",
 						"m_toggleName": "",
-						"m_dataString": "gravebuster",
+						"m_dataString": "egypt14",
 						"m_unlockedFrom": "",
 						"m_visibleFrom": "",
 						"m_autoVisible": true,
 						"m_isChallengeType": false,
 						"m_isArtFlipped": false,
 						"m_cost": 0,
-						"m_parentEvent": "egypt_level_6",
-						"m_displayText": "",
+						"m_parentEvent": "egypt_level_13",
+						"m_displayText": "14",
 						"m_unlockedNarrationID": "",
 						"m_completedNarrationID": "",
 						"m_worldMapTutorial": "none",
-						"m_worldMapTutorialVisibleWhen": "unlocked",
-						"m_levelNodeType": "normal"
+						"m_worldMapTutorialVisibleWhen": "none",
+						"m_levelNodeType": "minigame"
 					},
 					{
 						"m_eventType": "level",
@@ -3456,22 +3480,22 @@
 					},
 					{
 						"m_eventType": "level",
-						"m_eventId": 96,
+						"m_eventId": 92,
 						"m_position": {
-							"x": 2911.6658878162093,
-							"y": 232.09418736820916
+							"x": 1623.1965994202346,
+							"y": 385.19894115145297
 						},
-						"m_name": "egypt_level_14",
+						"m_name": "egypt_level_8",
 						"m_toggleName": "",
-						"m_dataString": "egypt14",
+						"m_dataString": "egypt8",
 						"m_unlockedFrom": "",
 						"m_visibleFrom": "",
-						"m_autoVisible": true,
+						"m_autoVisible": false,
 						"m_isChallengeType": false,
 						"m_isArtFlipped": false,
 						"m_cost": 0,
-						"m_parentEvent": "egypt_level_13",
-						"m_displayText": "14",
+						"m_parentEvent": "egypt_level_7",
+						"m_displayText": "8",
 						"m_unlockedNarrationID": "",
 						"m_completedNarrationID": "",
 						"m_worldMapTutorial": "none",
@@ -3501,30 +3525,6 @@
 						"m_worldMapTutorial": "none",
 						"m_worldMapTutorialVisibleWhen": "unlocked",
 						"m_levelNodeType": "normal"
-					},
-					{
-						"m_eventType": "level",
-						"m_eventId": 92,
-						"m_position": {
-							"x": 1623.1965994202346,
-							"y": 385.19894115145297
-						},
-						"m_name": "egypt_level_8",
-						"m_toggleName": "",
-						"m_dataString": "egypt8",
-						"m_unlockedFrom": "",
-						"m_visibleFrom": "",
-						"m_autoVisible": false,
-						"m_isChallengeType": false,
-						"m_isArtFlipped": false,
-						"m_cost": 0,
-						"m_parentEvent": "egypt_level_7",
-						"m_displayText": "8",
-						"m_unlockedNarrationID": "",
-						"m_completedNarrationID": "",
-						"m_worldMapTutorial": "none",
-						"m_worldMapTutorialVisibleWhen": "none",
-						"m_levelNodeType": "minigame"
 					},
 					{
 						"m_eventType": "level",
@@ -3671,30 +3671,6 @@
 						"m_levelNodeType": "normal"
 					},
 					{
-						"m_eventType": "level",
-						"m_eventId": 24,
-						"m_position": {
-							"x": 3453.2621376310462,
-							"y": 409.44656101198785
-						},
-						"m_name": "egypt_level_16",
-						"m_toggleName": "",
-						"m_dataString": "egypt16",
-						"m_unlockedFrom": "",
-						"m_visibleFrom": "",
-						"m_autoVisible": true,
-						"m_isChallengeType": false,
-						"m_isArtFlipped": false,
-						"m_cost": 0,
-						"m_parentEvent": "egypt_level_15",
-						"m_displayText": "16",
-						"m_unlockedNarrationID": "",
-						"m_completedNarrationID": "",
-						"m_worldMapTutorial": "none",
-						"m_worldMapTutorialVisibleWhen": "unlocked",
-						"m_levelNodeType": "normal"
-					},
-					{
 						"m_eventType": "giftbox",
 						"m_eventId": 100,
 						"m_position": {
@@ -3719,27 +3695,27 @@
 						"m_levelNodeType": "normal"
 					},
 					{
-						"m_eventType": "plant",
-						"m_eventId": 94,
+						"m_eventType": "level",
+						"m_eventId": 24,
 						"m_position": {
-							"x": 2613.0277798124425,
-							"y": 236.96565985001206
+							"x": 3453.2621376310462,
+							"y": 409.44656101198785
 						},
-						"m_name": "egypt_rewardplant_snowpea",
+						"m_name": "egypt_level_16",
 						"m_toggleName": "",
-						"m_dataString": "snowpea",
+						"m_dataString": "egypt16",
 						"m_unlockedFrom": "",
 						"m_visibleFrom": "",
 						"m_autoVisible": true,
 						"m_isChallengeType": false,
 						"m_isArtFlipped": false,
 						"m_cost": 0,
-						"m_parentEvent": "egypt_level_12",
-						"m_displayText": "",
+						"m_parentEvent": "egypt_level_15",
+						"m_displayText": "16",
 						"m_unlockedNarrationID": "",
 						"m_completedNarrationID": "",
 						"m_worldMapTutorial": "none",
-						"m_worldMapTutorialVisibleWhen": "none",
+						"m_worldMapTutorialVisibleWhen": "unlocked",
 						"m_levelNodeType": "normal"
 					},
 					{
@@ -3764,6 +3740,30 @@
 						"m_completedNarrationID": "",
 						"m_worldMapTutorial": "none",
 						"m_worldMapTutorialVisibleWhen": "unlocked",
+						"m_levelNodeType": "normal"
+					},
+					{
+						"m_eventType": "plant",
+						"m_eventId": 94,
+						"m_position": {
+							"x": 2613.0277798124425,
+							"y": 236.96565985001206
+						},
+						"m_name": "egypt_rewardplant_snowpea",
+						"m_toggleName": "",
+						"m_dataString": "snowpea",
+						"m_unlockedFrom": "",
+						"m_visibleFrom": "",
+						"m_autoVisible": true,
+						"m_isChallengeType": false,
+						"m_isArtFlipped": false,
+						"m_cost": 0,
+						"m_parentEvent": "egypt_level_12",
+						"m_displayText": "",
+						"m_unlockedNarrationID": "",
+						"m_completedNarrationID": "",
+						"m_worldMapTutorial": "none",
+						"m_worldMapTutorialVisibleWhen": "none",
 						"m_levelNodeType": "normal"
 					},
 					{
@@ -3887,7 +3887,7 @@
 						"m_levelNodeType": "normal"
 					}
 				],
-				"m_creationTime": 1774271806,
+				"m_creationTime": 1774280617,
 				"m_version": 1
 			}
 		}
