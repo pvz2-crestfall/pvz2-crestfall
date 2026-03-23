@@ -16,6 +16,7 @@
                     "RTID(DefaultZombieWinCondition@LevelModules)",
                     "RTID(SeedBank@CurrentLevel)",
                     "RTID(ChallengeModule@CurrentLevel)",
+                    "RTID(LastStand@CurrentLevel)",
                     "RTID(Gravestones@CurrentLevel)",
                     "RTID(NewWaves@CurrentLevel)"
                 ],
@@ -84,6 +85,16 @@
                     ]
                 ],
                 "ChallengesAlwaysAvailable": true
+            }
+        },
+        {
+            "aliases": [
+                "LastStand"
+            ],
+            "objclass": "LastStandMinigameProperties",
+            "objdata": {
+                "StartingSun": 2200,
+                "StartingPlantfood": 2
             }
         },
         {
@@ -187,8 +198,8 @@
             ],
             "objclass": "WaveManagerModuleProperties",
             "objdata": {
-		"ManualStartup": true,
-                "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
+                "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)",
+                "ManualStartup": true
             }
         },
         {
