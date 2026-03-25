@@ -3594,7 +3594,7 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [25]
+                        "Values": [30]
                     },
                     {
                         "Name": "StartingCooldown",
