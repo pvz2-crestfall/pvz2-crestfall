@@ -283,9 +283,6 @@
                     },
                     {
                         "Type": "RTID(tomb_raiser@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(mummy_armor1@ZombieTypes)"
                     }
                 ]
             }
@@ -352,13 +349,13 @@
                         "Type": "RTID(explorer_veteran@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(explorer_veteran@ZombieTypes)"
-                    },
-                    {
                         "Type": "RTID(tomb_raiser@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(explorer@ZombieTypes)"
                     }
                 ]
             }
@@ -381,9 +378,6 @@
                     },
                     {
                         "Type": "RTID(mummy_armor2@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(mummy_armor1@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(mummy_armor1@ZombieTypes)"
@@ -416,9 +410,6 @@
                     },
                     {
                         "Type": "RTID(camel_onehump@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(tomb_raiser@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(tomb_raiser@ZombieTypes)"
@@ -529,9 +520,6 @@
                     },
                     {
                         "Type": "RTID(camel_onehump@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(camel_twohump@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(camel_twohump@ZombieTypes)"
@@ -652,12 +640,6 @@
                         "Type": "RTID(mummy_armor4@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(mummy_armor2@ZombieTypes)"
-                    },
-                    {
                         "Type": "RTID(mummy_armor2@ZombieTypes)"
                     },
                     {
@@ -699,16 +681,10 @@
                         "Type": "RTID(camel_twohump@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(camel_twohump@ZombieTypes)"
-                    },
-                    {
                         "Type": "RTID(egypt_gargantuar@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(explorer@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(explorer_veteran@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(explorer_veteran@ZombieTypes)"
