@@ -278,7 +278,8 @@
                     {
                         "Type": "RTID(mummy_armor1@ZombieTypes)"
                     }
-                ]
+                ],
+                "AdditionalPlantfood": 1
             }
         },
         {
@@ -616,13 +617,7 @@
                         "Type": "RTID(mummy_armor2@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)"
-                    },
-                    {
                         "Type": "RTID(mummy_armor2@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(mummy_armor4@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(mummy_armor2@ZombieTypes)"
@@ -658,6 +653,9 @@
                     },
                     {
                         "Type": "RTID(mummy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(mummy_armor2@ZombieTypes)"
                     }
                 ]
             }
@@ -685,9 +683,6 @@
                     },
                     {
                         "Type": "RTID(mummy_armor4@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(explorer@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(explorer@ZombieTypes)"
