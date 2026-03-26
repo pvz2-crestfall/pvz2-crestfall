@@ -1,0 +1,44 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"Railcart_Tutorial_Group": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"IMAGE_RAILCART_FRONTLAWN_BOTTOM": {
+					"type": "Image",
+					"path": "images/railcart/frontlawn/bottom.png",
+					"additional": null
+				},
+				"IMAGE_RAILCART_FRONTLAWN_MID": {
+					"type": "Image",
+					"path": "images/railcart/frontlawn/mid.png",
+					"additional": null
+				},
+				"IMAGE_RAILCART_FRONTLAWN_MINING_CART": {
+					"type": "Image",
+					"path": "images/railcart/frontlawn/cart.png",
+					"additional": null
+				},
+				"IMAGE_RAILCART_FRONTLAWN_TOP": {
+					"type": "Image",
+					"path": "images/railcart/frontlawn/top.png",
+					"additional": null
+				}
+			}
+		}
+	}
+}

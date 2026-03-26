@@ -1,0 +1,44 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"Railcart_IceAge_Group": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"IMAGE_RAILCART_ICEAGE_BOTTOM": {
+					"type": "Image",
+					"path": "images/railcart/iceage/bottom.png",
+					"additional": null
+				},
+				"IMAGE_RAILCART_ICEAGE_MID": {
+					"type": "Image",
+					"path": "images/railcart/iceage/mid.png",
+					"additional": null
+				},
+				"IMAGE_RAILCART_ICEAGE_MINING_CART": {
+					"type": "Image",
+					"path": "images/railcart/iceage/cart.png",
+					"additional": null
+				},
+				"IMAGE_RAILCART_ICEAGE_TOP": {
+					"type": "Image",
+					"path": "images/railcart/iceage/top.png",
+					"additional": null
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"Railcart_Future_Group": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"IMAGE_RAILCART_FUTURE_BOTTOM": {
+					"type": "Image",
+					"path": "images/railcart/future/bottom.png",
+					"additional": null
+				},
+				"IMAGE_RAILCART_FUTURE_MID": {
+					"type": "Image",
+					"path": "images/railcart/future/mid.png",
+					"additional": null
+				},
+				"IMAGE_RAILCART_FUTURE_MINING_CART": {
+					"type": "Image",
+					"path": "images/railcart/future/cart.png",
+					"additional": null
+				},
+				"IMAGE_RAILCART_FUTURE_TOP": {
+					"type": "Image",
+					"path": "images/railcart/future/top.png",
+					"additional": null
+				}
+			}
+		}
+	}
+}

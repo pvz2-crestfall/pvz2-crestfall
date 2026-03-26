@@ -1,17 +1,17 @@
 {
-	"version": 4,
-	"texture_information_version": 0,
-	"packages_info": {
-		"compression": 3,
-		"chinese": false,
-		"encode": true
-	},
-	"manifest_info": {
-		"compression": 1,
-		"allow_new_type_resource": false,
-		"resource_additional_name": null
-	},
-	"packet": [
+    "version": 4,
+    "texture_information_version": 0,
+    "packages_info": {
+        "compression": 3,
+        "chinese": false,
+        "encode": true
+    },
+    "manifest_info": {
+        "compression": 1,
+        "allow_new_type_resource": false,
+        "resource_additional_name": null
+    },
+    "packet": [
         "AlwaysLoaded",
         "Anim_SecurityGourds",
         "AudioBeach",
@@ -577,6 +577,11 @@
         "PrizePinataValenbrainz",
         "ProtectThePlantChallengeModule",
         "Railcart_Cowboy_Group",
+        "Railcart_Egypt_Group",
+        "Railcart_Future_Group",
+        "Railcart_IceAge_Group",
+        "Railcart_Pirate_Group",
+        "Railcart_SkyCity_Group",
         "Railcart_Tutorial_Group",
         "RenderEffects",
         "SandstormGroup",

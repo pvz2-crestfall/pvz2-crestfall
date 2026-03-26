@@ -84,6 +84,24 @@
             }
         },
         {
+            "aliases": ["GridItemRailcartIceageDefault"],
+            "objclass": "GridItemRailcartPropertySheet",
+            "objdata": {
+                "GlobalProperties": "RTID(RailcartGlobalProperties@.)",
+                "Height": "low",
+                "ImagePrefix": "IMAGE_RAILCART_ICEAGE"
+            }
+        },
+        {
+            "aliases": ["GridItemRailcartSkyCityDefault"],
+            "objclass": "GridItemRailcartPropertySheet",
+            "objdata": {
+                "GlobalProperties": "RTID(RailcartGlobalProperties@.)",
+                "Height": "low",
+                "ImagePrefix": "IMAGE_RAILCART_SKYCITY"
+            }
+        },
+        {
             "aliases": ["GridItemRailcartFutureDefault"],
             "objclass": "GridItemRailcartPropertySheet",
             "objdata": {
