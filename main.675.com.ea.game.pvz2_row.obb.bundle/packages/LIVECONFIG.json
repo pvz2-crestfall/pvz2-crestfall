@@ -779,7 +779,7 @@
                     },
                     {
                         "Key": "DisableLootGems",
-                        "Enabled": true,
+                        "Enabled": false,
                         "DisplayName": "Disable Level Gem Drops",
                         "Category": "live"
                     },
