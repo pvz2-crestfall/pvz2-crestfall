@@ -38,10 +38,16 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
+            - name: Save original data.json # this is done to avoid having it get overwritten during the obb unpacking
+              run: cp main.675.com.ea.game.pvz2_row.obb.bundle/data.json build-output/data.json.bak
+
             - name: Download & process obb file
               run: |
                   Invoke-WebRequest -Uri "https://github.com/pvz2-crestfall/pvz2-crestfall/releases/download/0.0.0/main.675.com.ea.game.pvz2_row.obb" -OutFile "main.675.com.ea.game.pvz2_row.obb"
                   npm run unpack
+
+            - name: Restore the original data.json
+              run: mv build-output/data.json.bak main.675.com.ea.game.pvz2_row.obb.bundle/data.json
 
             - name: Run build script
               run: npm run build
