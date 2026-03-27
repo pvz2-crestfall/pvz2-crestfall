@@ -4339,7 +4339,9 @@
             "objclass": "ProjectilePropertySheet",
             "aliases": ["StrawburstProjectileSmall"],
             "objdata": {
-                "BaseDamage": 201,
+                "BaseDamage": 0,
+                "SplashDamage": 200,
+                "SplashRadius": 1.0736,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies", "ground"],
                 "DamageFlags": ["lobbed", "catapult"],
                 "RotateToMatchVelocity": true,
