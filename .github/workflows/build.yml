@@ -50,7 +50,7 @@ jobs:
                   npm run unpack
 
             - name: Restore the original data.json
-              run: mv build-output/data.json.bak main.675.com.ea.game.pvz2_row.obb.bundle/data.json
+              run: move build-output/data.json.bak main.675.com.ea.game.pvz2_row.obb.bundle/data.json -Force
 
             - name: Run build script
               run: npm run build
