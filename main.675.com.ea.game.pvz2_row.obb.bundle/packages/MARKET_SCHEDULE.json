@@ -1,0 +1,290 @@
+{
+    "objects": [
+        {
+            "aliases": ["MainMarketSchedule"],
+            "objclass": "MarketScheduleProps",
+            "objdata": {
+                "MarketScheduleEntries": [
+                    {
+                        "EndDateTime": 0,
+                        "Name": "Plants for sale, always!",
+                        "ScheduledProducts": [
+                            {
+                                "Comment": "Gold Bloom",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": ["mostpopular"],
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.goldbloom.nonconsume.t5",
+                                    "com.popcap.pvz2.android.plant.goldbloom.nonconsume.t5"
+                                ]
+                            },
+                            {
+                                "Comment": "Power Lily",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.powerlily.nonconsume.t5",
+                                    "com.popcap.pvz2.android.plant.powerlily.nonconsume.t5"
+                                ]
+                            },
+                            {
+                                "Comment": "Jalapeno",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "gems",
+                                "SoftCost": 100,
+                                "MaxPurchase": 1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.jalapeno.nonconsume.g100",
+                                    "com.popcap.pvz2.android.plant.jalapeno.nonconsume.g100"
+                                ]
+                            },
+                            {
+                                "Comment": "Grapeshot",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.grapeshot.nonconsume.t5",
+                                    "com.popcap.pvz2.android.plant.grapeshot.nonconsume.t5"
+                                ]
+                            },
+                            {
+                                "Comment": "Caulipower",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.caulipower.nonconsume.t5",
+                                    "com.popcap.pvz2.android.plant.caulipower.nonconsume.t5"
+                                ]
+                            },
+                            {
+                                "Comment": "Apple Mortar",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.applemortar.nonconsume.t5",
+                                    "com.popcap.pvz2.android.plant.applemortar.nonconsume.t5"
+                                ]
+                            },
+                            {
+                                "Comment": "Cold Snapdragon",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.coldsnapdragon.nonconsume.t5",
+                                    "com.popcap.pvz2.android.plant.coldsnapdragon.nonconsume.t5"
+                                ]
+                            },
+                            {
+                                "Comment": "Shrinking Violent",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "gems",
+                                "SoftCost": 100,
+                                "MaxPurchase": 1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.shrinkingviolet.nonconsume.g100",
+                                    "com.popcap.pvz2.android.plant.shrinkingviolet.nonconsume.g100"
+                                ]
+                            },
+                            {
+                                "Comment": "Electric Currant",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "gems",
+                                "SoftCost": 100,
+                                "MaxPurchase": 1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.electriccurrant.nonconsume.g100",
+                                    "com.popcap.pvz2.android.plant.electriccurrant.nonconsume.g100"
+                                ]
+                            },
+                            {
+                                "Comment": "Kiwibeast",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.kiwibeast.nonconsume.t5",
+                                    "com.popcap.pvz2.android.plant.kiwibeast.nonconsume.t5"
+                                ]
+                            },
+                            {
+                                "Comment": "Escape Root",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.escaperoot.nonconsume.t5",
+                                    "com.popcap.pvz2.android.plant.escaperoot.nonconsume.t5"
+                                ]
+                            },
+                            {
+                                "Comment": "Imitator",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.plant.imitater.nonconsume.t5",
+                                    "com.popcap.pvz2.android.plant.imitater.nonconsume.t5"
+                                ]
+                            }
+                        ],
+                        "StartDateTime": 0
+                    },
+                    {
+                        "EndDateTime": 0,
+                        "Name": "Upgrades for sale, always!",
+                        "ScheduledProducts": [],
+                        "StartDateTime": 0
+                    },
+                    {
+                        "EndDateTime": 0,
+                        "Name": "Plant rental, always!",
+                        "ScheduledProducts": [
+                            {
+                                "Comment": "RV Plant Rental",
+                                "Category": "RvPlantRental",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": ["rvplantrental", "rvplantrental"]
+                            }
+                        ],
+                        "StartDateTime": 0
+                    },
+                    {
+                        "EndDateTime": 0,
+                        "Name": "Tutorial",
+                        "ScheduledProducts": [
+                            {
+                                "Comment": "Pinata Egypt Tutorial",
+                                "Category": "Tutorial",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "gems",
+                                "SoftCost": 20,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": ["tutorial"],
+                                "Sku": [
+                                    "com.popcap.pvz2.pinata.egypt.consume.tutorial",
+                                    "com.popcap.pvz2.android.pinata.egypt.consume.tutorial"
+                                ]
+                            }
+                        ],
+                        "StartDateTime": 0
+                    }
+                ],
+                "SegmentFilter": "All"
+            }
+        }
+    ],
+    "version": 1
+}
