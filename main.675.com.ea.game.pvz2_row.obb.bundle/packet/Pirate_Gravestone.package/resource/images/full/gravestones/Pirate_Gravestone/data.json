@@ -1,0 +1,51 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Pirate_Gravestone_112x151": {
+			"id": "IMAGE_GRAVESTONES_PIRATE_GRAVESTONE_PIRATE_GRAVESTONE_112X151",
+			"dimension": {
+				"width": 112,
+				"height": 151
+			},
+			"additional": null
+		},
+		"Pirate_Gravestone_112x150": {
+			"id": "IMAGE_GRAVESTONES_PIRATE_GRAVESTONE_PIRATE_GRAVESTONE_112X150",
+			"dimension": {
+				"width": 112,
+				"height": 150
+			},
+			"additional": null
+		},
+		"Pirate_Gravestone_106x163": {
+			"id": "IMAGE_GRAVESTONES_PIRATE_GRAVESTONE_PIRATE_GRAVESTONE_106X163",
+			"dimension": {
+				"width": 106,
+				"height": 163
+			},
+			"additional": null
+		},
+		"Pirate_Gravestone_99x163": {
+			"id": "IMAGE_GRAVESTONES_PIRATE_GRAVESTONE_PIRATE_GRAVESTONE_99X163",
+			"dimension": {
+				"width": 99,
+				"height": 163
+			},
+			"additional": null
+		},
+		"Pirate_Gravestone_93x150": {
+			"id": "IMAGE_GRAVESTONES_PIRATE_GRAVESTONE_PIRATE_GRAVESTONE_93X150",
+			"dimension": {
+				"width": 93,
+				"height": 150
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

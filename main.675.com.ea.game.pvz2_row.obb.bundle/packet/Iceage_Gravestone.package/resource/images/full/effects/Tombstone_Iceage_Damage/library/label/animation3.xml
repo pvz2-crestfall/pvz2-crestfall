@@ -1,0 +1,1851 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/animation3" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="animation3">
+            <layers>
+                <DOMLayer name="7">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.311615" b="0.467239" c="-0.192032" d="1.577759" tx="213.949997" ty="204.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.369019" b="0.445618" c="-0.167526" d="1.648834" tx="213.399994" ty="203.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.486275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.427155" b="0.423157" c="-0.144562" d="1.719910" tx="212.850006" ty="202.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.470588"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.486343" b="0.393036" c="-0.119125" d="1.790604" tx="212.300003" ty="201.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.454902"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.543747" b="0.364807" c="-0.091293" d="1.860901" tx="211.750000" ty="200.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.435294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.600739" b="0.333832" c="-0.061020" d="1.930801" tx="211.149994" ty="199.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.419608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.657089" b="0.300110" c="-0.028397" d="2.000198" tx="210.550003" ty="198.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.403922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.713638" b="0.258026" c="-0.000076" d="2.069016" tx="209.949997" ty="197.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.388235"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.768448" b="0.218613" c="0.030106" d="2.137222" tx="209.449997" ty="196.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.372549"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.822281" b="0.176514" c="0.069489" d="2.204712" tx="208.750000" ty="195.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.356863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.875092" b="0.131729" c="0.111221" d="2.271530" tx="208.100006" ty="194.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.926819" b="0.084305" c="0.155289" d="2.337418" tx="207.449997" ty="193.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.325490"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.977432" b="0.027725" c="0.201675" d="2.402512" tx="206.750000" ty="193.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.309804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.026367" b="-0.018448" c="0.250427" d="2.466599" tx="206.050003" ty="192.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.294118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.073761" b="-0.073715" c="0.301437" d="2.529739" tx="205.350006" ty="191.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.278431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.119537" b="-0.131500" c="0.354736" d="2.591858" tx="204.649994" ty="190.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.262745"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.163727" b="-0.191742" c="0.410309" d="2.652786" tx="203.899994" ty="190.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.243137"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.205292" b="-0.261627" c="0.468109" d="2.712601" tx="203.149994" ty="189.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.227451"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.245651" b="-0.326828" c="0.528107" d="2.771133" tx="202.449997" ty="189.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.211765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.284149" b="-0.394363" c="0.590302" d="2.828384" tx="201.750000" ty="188.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.196078"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.320496" b="-0.464127" c="0.654587" d="2.884277" tx="200.949997" ty="187.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.180392"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.352951" b="-0.543823" c="0.721085" d="2.938797" tx="200.300003" ty="187.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.164706"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.384735" b="-0.618057" c="0.789658" d="2.991806" tx="199.600006" ty="187.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.149020"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.414230" b="-0.694336" c="0.860260" d="3.043274" tx="198.800003" ty="186.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.133333"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.441330" b="-0.772659" c="0.932968" d="3.093262" tx="198.050003" ty="186.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.117647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.465912" b="-0.852844" c="1.007599" d="3.141602" tx="197.350006" ty="185.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.101961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.484833" b="-0.943024" c="1.084290" d="3.188141" tx="196.649994" ty="185.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.086275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.503937" b="-1.026932" c="1.162827" d="3.233047" tx="195.899994" ty="185.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.070588"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.520294" b="-1.112427" c="1.243256" d="3.276108" tx="195.300003" ty="184.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.050980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.533813" b="-1.199539" c="1.325623" d="3.317322" tx="194.550003" ty="184.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.035294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.544525" b="-1.288147" c="1.409744" d="3.356628" tx="193.800003" ty="184.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.019608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.551331" b="-1.388351" c="1.495972" d="3.398773" tx="193.000000" ty="183.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="6">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.311615" b="0.467239" c="-0.192032" d="1.577759" tx="182.250000" ty="149.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.369019" b="0.445618" c="-0.167526" d="1.648834" tx="181.199997" ty="149.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.486275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.427155" b="0.423157" c="-0.144562" d="1.719910" tx="180.199997" ty="148.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.470588"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.486343" b="0.393036" c="-0.119125" d="1.790604" tx="179.199997" ty="148.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.454902"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.543747" b="0.364807" c="-0.091293" d="1.860901" tx="178.149994" ty="148.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.435294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.600739" b="0.333832" c="-0.061020" d="1.930801" tx="177.000000" ty="148.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.419608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.657089" b="0.300110" c="-0.028397" d="2.000198" tx="176.000000" ty="148.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.403922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.713638" b="0.258026" c="-0.000076" d="2.069016" tx="174.949997" ty="148.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.388235"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.768448" b="0.218613" c="0.030106" d="2.137222" tx="173.899994" ty="148.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.372549"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.822281" b="0.176514" c="0.069489" d="2.204712" tx="172.750000" ty="148.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.356863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.875092" b="0.131729" c="0.111221" d="2.271530" tx="171.699997" ty="148.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.926819" b="0.084305" c="0.155289" d="2.337418" tx="170.550003" ty="148.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.325490"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.977432" b="0.027725" c="0.201675" d="2.402512" tx="169.300003" ty="149.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.309804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.026367" b="-0.018448" c="0.250427" d="2.466599" tx="168.100006" ty="149.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.294118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.073761" b="-0.073715" c="0.301437" d="2.529739" tx="167.000000" ty="149.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.278431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.119537" b="-0.131500" c="0.354736" d="2.591858" tx="165.750000" ty="149.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.262745"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.163727" b="-0.191742" c="0.410309" d="2.652786" tx="164.649994" ty="149.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.243137"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.205292" b="-0.261627" c="0.468109" d="2.712601" tx="163.399994" ty="150.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.227451"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.245651" b="-0.326828" c="0.528107" d="2.771133" tx="162.250000" ty="150.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.211765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.284149" b="-0.394363" c="0.590302" d="2.828384" tx="161.000000" ty="151.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.196078"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.320496" b="-0.464127" c="0.654587" d="2.884277" tx="159.800003" ty="151.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.180392"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.352951" b="-0.543823" c="0.721085" d="2.938797" tx="158.600006" ty="152.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.164706"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.384735" b="-0.618057" c="0.789658" d="2.991806" tx="157.449997" ty="152.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.149020"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.414230" b="-0.694336" c="0.860260" d="3.043274" tx="156.199997" ty="153.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.133333"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.441330" b="-0.772659" c="0.932968" d="3.093262" tx="155.000000" ty="153.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.117647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.465912" b="-0.852844" c="1.007599" d="3.141602" tx="153.750000" ty="154.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.101961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.484833" b="-0.943024" c="1.084290" d="3.188141" tx="152.649994" ty="154.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.086275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.503937" b="-1.026932" c="1.162827" d="3.233047" tx="151.500000" ty="155.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.070588"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.520294" b="-1.112427" c="1.243256" d="3.276108" tx="150.250000" ty="156.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.050980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.533813" b="-1.199539" c="1.325623" d="3.317322" tx="149.100006" ty="157.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.035294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.544525" b="-1.288147" c="1.409744" d="3.356628" tx="147.949997" ty="157.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.019608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x56" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="2.551331" b="-1.388351" c="1.495972" d="3.398773" tx="146.649994" ty="158.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_23x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.436752" b="0.000000" c="0.000000" d="0.543930" tx="208.199997" ty="203.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_23x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.412491" b="0.000000" c="0.000000" d="0.586365" tx="208.100006" ty="209.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_23x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.388229" b="0.000000" c="0.000000" d="0.628799" tx="207.949997" ty="215.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_23x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.363953" b="0.000000" c="0.000000" d="0.671234" tx="207.850006" ty="221.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_23x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.339691" b="0.000000" c="0.000000" d="0.713669" tx="207.699997" ty="227.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_23x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.372040" b="0.000000" c="0.000000" d="0.579819" tx="207.850006" ty="234.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.752941"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_23x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.404404" b="0.000000" c="0.000000" d="0.445969" tx="208.050003" ty="242.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_23x30" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.436752" b="0.000000" c="0.000000" d="0.312119" tx="208.199997" ty="250.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.250980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="7">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.226318" b="0.000000" c="0.000000" d="0.553482" tx="207.800003" ty="253.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.306702" b="0.000000" c="0.000000" d="0.514572" tx="207.800003" ty="254.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.387100" b="0.000000" c="0.000000" d="0.475662" tx="207.800003" ty="254.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.467484" b="0.000000" c="0.000000" d="0.436752" tx="207.800003" ty="255.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.479492" b="0.000000" c="0.000000" d="0.432022" tx="207.750000" ty="255.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.866667"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.490601" b="0.000000" c="0.000000" d="0.427643" tx="207.800003" ty="255.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.737255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.500824" b="0.000000" c="0.000000" d="0.423615" tx="207.800003" ty="255.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.619608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.510162" b="0.000000" c="0.000000" d="0.419922" tx="207.800003" ty="255.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.513726"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.518600" b="0.000000" c="0.000000" d="0.416595" tx="207.800003" ty="255.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.415686"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.526154" b="0.000000" c="0.000000" d="0.413620" tx="207.800003" ty="255.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.329412"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.532837" b="0.000000" c="0.000000" d="0.410995" tx="207.800003" ty="255.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.250980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.538605" b="0.000000" c="0.000000" d="0.408707" tx="207.800003" ty="255.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.184314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.543503" b="0.000000" c="0.000000" d="0.406784" tx="207.800003" ty="255.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.129412"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.547501" b="0.000000" c="0.000000" d="0.405212" tx="207.800003" ty="255.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.082353"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.550613" b="0.000000" c="0.000000" d="0.403976" tx="207.800003" ty="255.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.047059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.552826" b="0.000000" c="0.000000" d="0.403107" tx="207.750000" ty="255.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.019608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.554169" b="0.000000" c="0.000000" d="0.402588" tx="207.800003" ty="255.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_48x25" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.554611" b="0.000000" c="0.000000" d="0.402405" tx="207.800003" ty="255.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="188.399994" ty="193.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.940737" b="0.339138" c="-0.339138" d="0.940737" tx="188.399994" ty="203.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.765486" b="0.643453" c="-0.643453" d="0.765486" tx="188.399994" ty="213.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.500171" b="0.865927" c="-0.865927" d="0.500171" tx="188.399994" ty="223.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.588364" b="0.806671" c="-0.806656" d="0.588348" tx="188.399994" ty="221.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.672577" b="0.737823" c="-0.737793" d="0.672577" tx="188.449997" ty="220.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.748642" b="0.662964" c="-0.662949" d="0.748642" tx="188.399994" ty="218.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.809265" b="0.584793" c="-0.584778" d="0.809250" tx="188.449997" ty="222.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.862106" b="0.503876" c="-0.503860" d="0.862091" tx="188.399994" ty="225.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.908310" b="0.415314" c="-0.415298" d="0.908295" tx="188.399994" ty="229.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.945343" b="0.326080" c="-0.326065" d="0.945328" tx="188.399994" ty="233.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.953827" b="0.297256" c="-0.297256" d="0.953796" tx="188.399994" ty="232.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.962204" b="0.272339" c="-0.272324" d="0.962189" tx="188.399994" ty="231.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.953827" b="0.297241" c="-0.297226" d="0.953796" tx="188.399994" ty="232.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.945343" b="0.326080" c="-0.326065" d="0.945328" tx="188.399994" ty="233.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.944397" b="0.325684" c="-0.325668" d="0.944382" tx="188.399994" ty="233.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.858824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.944397" b="0.325684" c="-0.325668" d="0.944382" tx="188.399994" ty="233.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.717647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.944397" b="0.325684" c="-0.325668" d="0.944382" tx="188.399994" ty="233.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.572549"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.944397" b="0.325684" c="-0.325668" d="0.944382" tx="188.399994" ty="233.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.431373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.944397" b="0.325684" c="-0.325668" d="0.944382" tx="188.399994" ty="233.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.286275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.944397" b="0.325684" c="-0.325668" d="0.944382" tx="188.399994" ty="233.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.145098"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_50x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.945343" b="0.326080" c="-0.326065" d="0.945328" tx="188.399994" ty="233.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="180.000000" ty="180.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.992072" b="-0.125667" c="0.125667" d="0.992072" tx="177.750000" ty="174.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.973438" b="-0.228951" c="0.228951" d="0.973438" tx="175.449997" ty="170.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.952028" b="-0.306011" c="0.306011" d="0.952028" tx="173.050003" ty="167.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.931965" b="-0.362548" c="0.362548" d="0.931965" tx="170.649994" ty="165.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.918708" b="-0.394938" c="0.394938" d="0.918708" tx="168.850006" ty="165.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.913903" b="-0.405933" c="0.405933" d="0.913903" tx="168.199997" ty="165.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.884208" b="-0.467093" c="0.467093" d="0.884208" tx="166.750000" ty="166.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.767413" b="-0.641153" c="0.641153" d="0.767413" tx="163.800003" ty="170.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.498438" b="-0.866925" c="0.866925" d="0.498438" tx="161.350006" ty="179.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.034789" b="-0.999395" c="0.999395" d="0.034789" tx="160.149994" ty="191.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.333679" b="-0.942687" c="0.942687" d="-0.333679" tx="155.550003" ty="182.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.571394" b="-0.820676" c="0.820676" d="-0.571394" tx="151.250000" ty="177.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.696282" b="-0.717769" c="0.717769" d="-0.696282" tx="147.600006" ty="175.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.734686" b="-0.678407" c="0.678407" d="-0.734686" tx="146.149994" ty="175.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.784074" b="-0.620667" c="0.620667" d="-0.784074" tx="143.800003" ty="176.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.903644" b="-0.428284" c="0.428284" d="-0.903644" tx="139.800003" ty="184.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.997784" b="-0.066543" c="0.066543" d="-0.997784" tx="136.949997" ty="198.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.896233" b="0.443583" c="-0.443583" d="-0.896233" tx="135.199997" ty="217.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.417965" b="0.908463" c="-0.908463" d="-0.417965" tx="134.449997" ty="242.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.209239" b="0.977865" c="-0.977865" d="0.209239" tx="131.550003" ty="235.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.850980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.671178" b="0.741296" c="-0.741296" d="0.671178" tx="128.750000" ty="229.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.725490"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911451" b="0.411410" c="-0.411410" d="0.911451" tx="125.849998" ty="225.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.627451"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.991432" b="0.130626" c="-0.130626" d="0.991432" tx="122.849998" ty="224.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.556863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999200" b="-0.039989" c="0.039989" d="0.999200" tx="120.699997" ty="223.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.517647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.994904" b="-0.100828" c="0.100828" d="0.994904" tx="120.000000" ty="223.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.991432" b="-0.130626" c="0.130626" d="0.991432" tx="119.199997" ty="223.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.482353"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.976115" b="-0.217254" c="0.217254" d="0.976115" tx="117.099998" ty="224.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.423529"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.931965" b="-0.362548" c="0.362548" d="0.931965" tx="114.300003" ty="228.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.321569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.835365" b="-0.549696" c="0.549696" d="0.835365" tx="111.599998" ty="232.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.180392"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_42x37" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.656973" b="-0.753914" c="0.753914" d="0.656973" tx="108.750000" ty="239.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x44" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="202.649994" ty="186.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x44" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.936599" b="0.350402" c="-0.350402" d="0.936599" tx="210.149994" ty="174.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.862745"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x44" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.753780" b="0.657126" c="-0.657126" d="0.753780" tx="218.600006" ty="162.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.721569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x44" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.474852" b="0.880065" c="-0.880065" d="0.474852" tx="228.399994" ty="152.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.580392"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x44" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.135379" b="0.990794" c="-0.990794" d="0.135379" tx="239.750000" ty="142.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.435294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x44" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.220380" b="0.975414" c="-0.975414" d="-0.220380" tx="252.750000" ty="135.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.294118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x44" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.549030" b="0.835802" c="-0.835802" d="-0.549030" tx="267.049988" ty="132.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.152941"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Iceage_Damage_54x44" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.807678" b="0.589624" c="-0.589624" d="-0.807678" tx="281.950012" ty="131.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

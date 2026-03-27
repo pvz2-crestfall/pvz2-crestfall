@@ -1,0 +1,219 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Dark_Gravestone_Spawner_252x118": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_2": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_2",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_3": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_3",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_4": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_4",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_5": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_5",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_6": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_6",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_7": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_7",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_8": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_8",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_9": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_9",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_10": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_10",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_11": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_11",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_252x118_12": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_252X118_12",
+			"dimension": {
+				"width": 252,
+				"height": 118
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_245x73": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_245X73",
+			"dimension": {
+				"width": 245,
+				"height": 73
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_200x88": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_200X88",
+			"dimension": {
+				"width": 200,
+				"height": 88
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_165x54": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_165X54",
+			"dimension": {
+				"width": 165,
+				"height": 54
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_91x27": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_91X27",
+			"dimension": {
+				"width": 91,
+				"height": 27
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_37x93": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_37X93",
+			"dimension": {
+				"width": 37,
+				"height": 93
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_86x66": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_86X66",
+			"dimension": {
+				"width": 86,
+				"height": 66
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_98x66": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_98X66",
+			"dimension": {
+				"width": 98,
+				"height": 66
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_82x63": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_82X63",
+			"dimension": {
+				"width": 82,
+				"height": 63
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_135x50": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_135X50",
+			"dimension": {
+				"width": 135,
+				"height": 50
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_128x51": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_128X51",
+			"dimension": {
+				"width": 128,
+				"height": 51
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_101x84": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_101X84",
+			"dimension": {
+				"width": 101,
+				"height": 84
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_93x86": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_93X86",
+			"dimension": {
+				"width": 93,
+				"height": 86
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_131x39": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_131X39",
+			"dimension": {
+				"width": 131,
+				"height": 39
+			},
+			"additional": null
+		},
+		"Dark_Gravestone_Spawner_128x77": {
+			"id": "IMAGE_GRAVESTONES_DARK_GRAVESTONE_SPAWNER_DARK_GRAVESTONE_SPAWNER_128X77",
+			"dimension": {
+				"width": 128,
+				"height": 77
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

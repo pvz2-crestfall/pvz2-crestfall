@@ -1,0 +1,59 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Dark_Zombie_118x148": {
+			"id": "IMAGE_GRAVESTONES_DARK_ZOMBIE_DARK_ZOMBIE_118X148",
+			"dimension": {
+				"width": 118,
+				"height": 148
+			},
+			"additional": null
+		},
+		"Dark_Zombie_114x27": {
+			"id": "IMAGE_GRAVESTONES_DARK_ZOMBIE_DARK_ZOMBIE_114X27",
+			"dimension": {
+				"width": 114,
+				"height": 27
+			},
+			"additional": null
+		},
+		"Dark_Zombie_118x148_2": {
+			"id": "IMAGE_GRAVESTONES_DARK_ZOMBIE_DARK_ZOMBIE_118X148_2",
+			"dimension": {
+				"width": 118,
+				"height": 148
+			},
+			"additional": null
+		},
+		"Dark_Zombie_113x145": {
+			"id": "IMAGE_GRAVESTONES_DARK_ZOMBIE_DARK_ZOMBIE_113X145",
+			"dimension": {
+				"width": 113,
+				"height": 145
+			},
+			"additional": null
+		},
+		"Dark_Zombie_110x145": {
+			"id": "IMAGE_GRAVESTONES_DARK_ZOMBIE_DARK_ZOMBIE_110X145",
+			"dimension": {
+				"width": 110,
+				"height": 145
+			},
+			"additional": null
+		},
+		"Dark_Zombie_109x119": {
+			"id": "IMAGE_GRAVESTONES_DARK_ZOMBIE_DARK_ZOMBIE_109X119",
+			"dimension": {
+				"width": 109,
+				"height": 119
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

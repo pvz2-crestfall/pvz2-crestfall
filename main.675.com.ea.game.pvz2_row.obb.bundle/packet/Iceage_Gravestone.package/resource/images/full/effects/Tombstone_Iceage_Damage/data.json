@@ -1,0 +1,227 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Tombstone_Iceage_Damage_23x30": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_23X30",
+			"dimension": {
+				"width": 23,
+				"height": 30
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_51x25": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_51X25",
+			"dimension": {
+				"width": 51,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_23x38": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_23X38",
+			"dimension": {
+				"width": 23,
+				"height": 38
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_38x31": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_38X31",
+			"dimension": {
+				"width": 38,
+				"height": 31
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_54x56": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_54X56",
+			"dimension": {
+				"width": 54,
+				"height": 56
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_48x25": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_48X25",
+			"dimension": {
+				"width": 48,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_32x34": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_32X34",
+			"dimension": {
+				"width": 32,
+				"height": 34
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_54x58": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_54X58",
+			"dimension": {
+				"width": 54,
+				"height": 58
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_48x43": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_48X43",
+			"dimension": {
+				"width": 48,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_54x44": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_54X44",
+			"dimension": {
+				"width": 54,
+				"height": 44
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_42x37": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_42X37",
+			"dimension": {
+				"width": 42,
+				"height": 37
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_50x34": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_50X34",
+			"dimension": {
+				"width": 50,
+				"height": 34
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_42x35": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_42X35",
+			"dimension": {
+				"width": 42,
+				"height": 35
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_46x30": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_46X30",
+			"dimension": {
+				"width": 46,
+				"height": 30
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_36x32": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_36X32",
+			"dimension": {
+				"width": 36,
+				"height": 32
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_37x45": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_37X45",
+			"dimension": {
+				"width": 37,
+				"height": 45
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_60x48": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_60X48",
+			"dimension": {
+				"width": 60,
+				"height": 48
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_36x26": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_36X26",
+			"dimension": {
+				"width": 36,
+				"height": 26
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_1x1": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_94x94": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_94X94",
+			"dimension": {
+				"width": 94,
+				"height": 94
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_57x52": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_57X52",
+			"dimension": {
+				"width": 57,
+				"height": 52
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_1x1_2": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_1X1_2",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_86x174": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_86X174",
+			"dimension": {
+				"width": 86,
+				"height": 174
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_1x1_3": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_1X1_3",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_147x140": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_147X140",
+			"dimension": {
+				"width": 147,
+				"height": 140
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_14x14": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_14X14",
+			"dimension": {
+				"width": 14,
+				"height": 14
+			},
+			"additional": null
+		},
+		"Tombstone_Iceage_Damage_16x12": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_16X12",
+			"dimension": {
+				"width": 16,
+				"height": 12
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

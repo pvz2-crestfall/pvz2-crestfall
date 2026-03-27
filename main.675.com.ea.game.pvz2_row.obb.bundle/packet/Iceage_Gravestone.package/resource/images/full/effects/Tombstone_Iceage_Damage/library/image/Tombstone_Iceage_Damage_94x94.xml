@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/Tombstone_Iceage_Damage_94x94" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="Tombstone_Iceage_Damage_94x94">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/Tombstone_Iceage_Damage_94x94">
+                                    <matrix>
+                                        <Matrix a="1.376147" b="0.000000" c="0.000000" d="1.376147" tx="-25.600000" ty="-25.600000"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

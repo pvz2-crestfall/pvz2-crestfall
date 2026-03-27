@@ -1,0 +1,155 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Tombstone_Lostcity_Damage_24x23": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_24X23",
+			"dimension": {
+				"width": 24,
+				"height": 23
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_27x53": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_27X53",
+			"dimension": {
+				"width": 27,
+				"height": 53
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_34x31": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_34X31",
+			"dimension": {
+				"width": 34,
+				"height": 31
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_54x56": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_54X56",
+			"dimension": {
+				"width": 54,
+				"height": 56
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_29x25": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_29X25",
+			"dimension": {
+				"width": 29,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_45x44": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_45X44",
+			"dimension": {
+				"width": 45,
+				"height": 44
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_43x25": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_43X25",
+			"dimension": {
+				"width": 43,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_71x44": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_71X44",
+			"dimension": {
+				"width": 71,
+				"height": 44
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_42x45": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_42X45",
+			"dimension": {
+				"width": 42,
+				"height": 45
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_67x54": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_67X54",
+			"dimension": {
+				"width": 67,
+				"height": 54
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_65x50": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_65X50",
+			"dimension": {
+				"width": 65,
+				"height": 50
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_1x1": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_113x53": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_113X53",
+			"dimension": {
+				"width": 113,
+				"height": 53
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_172x96": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_172X96",
+			"dimension": {
+				"width": 172,
+				"height": 96
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_47x36": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_47X36",
+			"dimension": {
+				"width": 47,
+				"height": 36
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_58x52": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_58X52",
+			"dimension": {
+				"width": 58,
+				"height": 52
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_43x70": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_43X70",
+			"dimension": {
+				"width": 43,
+				"height": 70
+			},
+			"additional": null
+		},
+		"Tombstone_Lostcity_Damage_293x263": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_LOSTCITY_DAMAGE_TOMBSTONE_LOSTCITY_DAMAGE_293X263",
+			"dimension": {
+				"width": 293,
+				"height": 263
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

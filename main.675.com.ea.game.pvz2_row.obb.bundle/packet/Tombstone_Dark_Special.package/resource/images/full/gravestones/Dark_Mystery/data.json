@@ -1,0 +1,59 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Dark_Mystery_118x148": {
+			"id": "IMAGE_GRAVESTONES_DARK_MYSTERY_DARK_MYSTERY_118X148",
+			"dimension": {
+				"width": 118,
+				"height": 148
+			},
+			"additional": null
+		},
+		"Dark_Mystery_89x48": {
+			"id": "IMAGE_GRAVESTONES_DARK_MYSTERY_DARK_MYSTERY_89X48",
+			"dimension": {
+				"width": 89,
+				"height": 48
+			},
+			"additional": null
+		},
+		"Dark_Mystery_118x148_2": {
+			"id": "IMAGE_GRAVESTONES_DARK_MYSTERY_DARK_MYSTERY_118X148_2",
+			"dimension": {
+				"width": 118,
+				"height": 148
+			},
+			"additional": null
+		},
+		"Dark_Mystery_113x145": {
+			"id": "IMAGE_GRAVESTONES_DARK_MYSTERY_DARK_MYSTERY_113X145",
+			"dimension": {
+				"width": 113,
+				"height": 145
+			},
+			"additional": null
+		},
+		"Dark_Mystery_110x145": {
+			"id": "IMAGE_GRAVESTONES_DARK_MYSTERY_DARK_MYSTERY_110X145",
+			"dimension": {
+				"width": 110,
+				"height": 145
+			},
+			"additional": null
+		},
+		"Dark_Mystery_109x119": {
+			"id": "IMAGE_GRAVESTONES_DARK_MYSTERY_DARK_MYSTERY_109X119",
+			"dimension": {
+				"width": 109,
+				"height": 119
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

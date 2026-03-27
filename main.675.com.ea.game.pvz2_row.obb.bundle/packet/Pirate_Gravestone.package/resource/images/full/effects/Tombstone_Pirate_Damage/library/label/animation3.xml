@@ -1,0 +1,1947 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/animation3" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="animation3">
+            <layers>
+                <DOMLayer name="7">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.239960" b="0.252151" c="-0.313049" d="0.854614" tx="184.899994" ty="167.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.619339" b="1.101913" c="0.410355" d="0.857437" tx="172.899994" ty="149.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.231995" b="1.244049" c="0.878601" d="0.444199" tx="161.399994" ty="139.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.844299" b="0.941360" c="1.011368" d="-0.039764" tx="152.500000" ty="135.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.141052" b="0.546478" c="0.947784" d="-0.403198" tx="146.250000" ty="134.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.237076" b="0.269287" c="0.846634" d="-0.605606" tx="142.649994" ty="134.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.255005" b="0.173553" c="0.804855" d="-0.668594" tx="141.350006" ty="135.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.254715" b="0.094360" c="0.762451" d="-0.720459" tx="138.350006" ty="137.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.226883" b="-0.123978" c="0.617844" d="-0.863998" tx="131.750000" ty="148.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.097183" b="-0.461853" c="0.317673" d="-1.037140" tx="125.949997" ty="167.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.773270" b="-0.826096" c="-0.170013" d="-1.102753" tx="122.250000" ty="194.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.224564" b="-1.033401" c="-0.773376" d="-0.856262" tx="120.300003" ty="224.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.414764" b="-0.872925" c="-1.193878" d="-0.154510" tx="117.849998" ty="258.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.545090" b="-0.844879" c="-1.191101" d="-0.037140" tx="117.150002" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.676880" b="-0.797134" c="-1.177292" d="0.072464" tx="116.300003" ty="249.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.802765" b="-0.731613" c="-1.152664" d="0.182999" tx="114.800003" ty="243.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.924713" b="-0.643631" c="-1.117813" d="0.289566" tx="112.599998" ty="238.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.036972" b="-0.536011" c="-1.073288" d="0.391251" tx="108.949997" ty="234.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.136398" b="-0.413620" c="-1.021164" d="0.487289" tx="104.199997" ty="233.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.180954" b="-0.198914" c="-0.814743" d="0.710861" tx="96.849998" ty="236.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.187073" b="0.010651" c="-0.567520" d="0.863159" tx="91.750000" ty="242.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.154602" b="0.219788" c="-0.297501" d="0.939224" tx="88.300003" ty="249.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.086029" b="0.417999" c="-0.033371" d="0.936966" tx="84.500000" ty="247.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.985016" b="0.601059" c="0.206497" d="0.864944" tx="77.250000" ty="242.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.761734" b="0.835434" c="0.417740" d="0.844971" tx="73.050003" ty="242.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.839216"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.487320" b="0.996780" c="0.629105" d="0.773193" tx="68.849998" ty="243.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.674510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.184723" b="1.073105" c="0.830139" d="0.645035" tx="64.949997" ty="245.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.117294" b="1.061188" c="1.003845" d="0.464569" tx="61.349998" ty="248.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.401505" b="0.965118" c="1.135834" d="0.241852" tx="58.299999" ty="252.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.176471"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.645294" b="0.796509" c="1.216522" d="-0.018219" tx="55.150002" ty="256.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="6">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.283264" b="-0.013367" c="0.000000" d="0.929337" tx="216.050003" ty="208.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.283249" b="-0.011765" c="0.000000" d="0.929337" tx="226.199997" ty="191.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.283264" b="-0.011765" c="0.000000" d="0.929352" tx="236.100006" ty="181.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.283264" b="-0.011765" c="0.000000" d="0.929352" tx="244.000000" ty="177.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.283295" b="-0.013367" c="0.000000" d="0.929352" tx="246.949997" ty="177.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.268692" b="-0.011612" c="0.000000" d="1.022781" tx="251.750000" ty="177.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.224915" b="-0.011230" c="0.000000" d="1.303085" tx="261.399994" ty="186.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.152023" b="-0.010590" c="0.000000" d="1.770279" tx="269.750000" ty="207.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.049927" b="-0.010941" c="0.000000" d="2.424347" tx="275.700012" ty="238.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.678131" b="-0.017487" c="0.000000" d="0.646500" tx="273.649994" ty="286.200012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.283295" b="-0.013367" c="0.000000" d="0.929352" tx="277.799988" ty="282.549988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.047440" b="0.511871" c="-0.487671" d="0.923645" tx="284.250000" ty="277.049988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.636658" b="0.834473" c="-0.961151" d="0.650711" tx="291.649994" ty="273.799988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.173645" b="0.918976" c="-1.271484" d="0.138992" tx="299.350006" ty="273.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.193863" b="0.996277" c="-1.175385" d="-0.240585" tx="305.149994" ty="275.799988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.589783" b="0.921783" c="-0.974258" d="-0.553482" tx="310.149994" ty="280.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.955261" b="0.683273" c="-0.701828" d="-0.770035" tx="313.500000" ty="286.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.220200" b="0.300446" c="-0.397324" d="-0.879517" tx="315.350006" ty="292.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.230621" b="0.070114" c="-0.113434" d="-0.986450" tx="315.700012" ty="292.450012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.198837" b="-0.152573" c="0.191010" d="-1.002869" tx="316.299988" ty="292.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.127518" b="-0.361526" c="0.497635" d="-0.922623" tx="316.850006" ty="293.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.022171" b="-0.551224" c="0.775864" d="-0.748337" tx="317.450012" ty="293.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.798782" b="-0.861282" c="0.941864" d="-0.481857" tx="317.850006" ty="295.299988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.878431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.480713" b="-1.089020" c="1.023376" d="-0.186188" tx="318.000000" ty="296.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.105255" b="-1.202133" c="1.015747" d="0.111389" tx="318.299988" ty="296.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.631373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.291168" b="-1.186203" c="0.922516" d="0.392212" tx="319.200012" ty="295.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.669525" b="-1.038635" c="0.755264" d="0.629944" tx="320.450012" ty="294.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.384314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.980957" b="-0.776093" c="0.530777" d="0.805954" tx="322.149994" ty="293.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.195389" b="-0.419296" c="0.270218" d="0.907700" tx="324.350006" ty="291.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_13x12" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.283264" b="-0.013367" c="0.000000" d="0.929337" tx="327.149994" ty="290.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="3">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.126724" b="-0.011749" c="0.000000" d="0.815964" tx="215.550003" ty="199.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.964111" b="0.492905" c="-0.351273" d="0.787109" tx="235.100006" ty="180.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.796078"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.648376" b="0.819550" c="-0.642532" d="0.634476" tx="257.750000" ty="170.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.611765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.297089" b="0.968674" c="-0.842026" d="0.416031" tx="279.100006" ty="167.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.013245" b="0.986465" c="-0.953857" d="0.177719" tx="297.149994" ty="169.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.317647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.257675" b="0.928146" c="-0.995010" d="-0.034973" tx="311.500000" ty="171.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.207843"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.426743" b="0.843475" c="-0.992981" d="-0.207657" tx="322.250000" ty="175.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.121569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.536057" b="0.763092" c="-0.971725" d="-0.335190" tx="329.649994" ty="177.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.058824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.595566" b="0.707794" c="-0.951584" d="-0.409637" tx="334.000000" ty="179.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.023529"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_16x13" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.613922" b="0.690582" c="-0.944763" d="-0.434753" tx="335.350006" ty="180.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.054123" b="-0.010986" c="0.000000" d="0.763397" tx="193.750000" ty="157.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.967361" b="0.237030" c="-0.290359" d="0.774353" tx="198.350006" ty="132.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.862930" b="0.399384" c="-0.522781" d="0.703720" tx="203.649994" ty="114.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.771835" b="0.498459" c="-0.679474" d="0.608917" tx="209.800003" ty="102.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.712433" b="0.549255" c="-0.764435" d="0.536514" tx="216.350006" ty="96.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.691895" b="0.567123" c="-0.793091" d="0.509338" tx="219.300003" ty="96.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.689880" b="0.566330" c="-0.793488" d="0.507080" tx="220.750000" ty="96.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.992157"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.683716" b="0.570908" c="-0.797318" d="0.504242" tx="224.750000" ty="97.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.964706"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.674057" b="0.577652" c="-0.805832" d="0.495987" tx="229.000000" ty="103.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.913725"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.660782" b="0.586441" c="-0.815689" d="0.487396" tx="231.949997" ty="115.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.847059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.645828" b="0.594879" c="-0.826904" d="0.478394" tx="233.800003" ty="128.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.625198" b="0.606995" c="-0.842529" d="0.463470" tx="234.949997" ty="144.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.647059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.598755" b="0.622253" c="-0.860794" d="0.444962" tx="235.550003" ty="163.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.517647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.570419" b="0.636215" c="-0.880035" d="0.425491" tx="235.600006" ty="184.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.368627"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.538177" b="0.650436" c="-0.902954" d="0.399017" tx="235.250000" ty="208.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.200000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_25x27" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.502243" b="0.665924" c="-0.926773" d="0.373383" tx="234.149994" ty="235.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="3">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="201.300003" ty="115.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="201.149994" ty="116.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999856" b="-0.016999" c="0.016999" d="0.999856" tx="200.649994" ty="118.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999076" b="-0.042987" c="0.042987" d="0.999076" tx="199.850006" ty="122.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.997189" b="-0.074930" c="0.074930" d="0.997189" tx="198.750000" ty="127.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.993046" b="-0.117726" c="0.117726" d="0.993046" tx="197.350006" ty="134.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.984900" b="-0.173123" c="0.173123" d="0.984900" tx="195.750000" ty="143.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.972281" b="-0.233815" c="0.233815" d="0.972281" tx="194.000000" ty="153.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.952334" b="-0.305059" c="0.305059" d="0.952334" tx="191.899994" ty="164.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.923764" b="-0.382961" c="0.382961" d="0.923764" tx="189.899994" ty="178.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.884675" b="-0.466208" c="0.466208" d="0.884675" tx="187.899994" ty="193.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.830941" b="-0.556361" c="0.556361" d="0.830941" tx="185.800003" ty="210.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.764842" b="-0.644218" c="0.644218" d="0.764842" tx="184.000000" ty="228.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.680025" b="-0.733189" c="0.733189" d="0.680025" tx="182.399994" ty="248.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.730324" b="-0.683101" c="0.683101" d="0.730324" tx="182.449997" ty="242.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.765486" b="-0.643453" c="0.643453" d="0.765486" tx="182.550003" ty="238.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.784442" b="-0.620202" c="0.620202" d="0.784442" tx="182.649994" ty="235.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.791217" b="-0.611536" c="0.611536" d="0.791217" tx="182.600006" ty="234.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.678650" b="-0.730972" c="0.732300" d="0.679916" tx="182.000000" ty="243.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.587631" b="-0.805206" c="0.807770" d="0.589508" tx="182.000000" ty="249.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.529663" b="-0.844101" c="0.847443" d="0.531769" tx="182.300003" ty="253.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.512161" b="-0.856415" c="0.859970" d="0.514420" tx="182.250000" ty="254.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.573410" b="-0.815704" c="0.817902" d="0.574982" tx="182.149994" ty="252.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.622070" b="-0.779922" c="0.781128" d="0.623001" tx="182.250000" ty="250.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.653015" b="-0.754730" c="0.755249" d="0.653458" tx="182.199997" ty="249.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.672546" b="-0.737671" c="0.737823" d="0.672684" tx="182.300003" ty="248.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.680025" b="-0.733189" c="0.733189" d="0.680025" tx="182.399994" ty="248.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.680758" b="-0.732509" c="0.732509" d="0.680758" tx="182.500000" ty="248.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.701961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.680758" b="-0.732509" c="0.732509" d="0.680758" tx="182.500000" ty="248.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.680758" b="-0.732509" c="0.732509" d="0.680758" tx="182.500000" ty="248.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.680758" b="-0.732509" c="0.732509" d="0.680758" tx="182.500000" ty="248.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.121569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.680758" b="-0.732509" c="0.732509" d="0.680758" tx="182.500000" ty="248.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.039216"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_50x49" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.680025" b="-0.733189" c="0.733189" d="0.680025" tx="182.399994" ty="248.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="218.000000" ty="141.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="218.100006" ty="141.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999960" b="0.009000" c="-0.009000" d="0.999960" tx="218.250000" ty="141.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999758" b="0.021998" c="-0.021998" d="0.999758" tx="218.550003" ty="142.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999032" b="0.043986" c="-0.043986" d="0.999032" tx="219.050003" ty="143.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.997551" b="0.069943" c="-0.069943" d="0.997551" tx="219.699997" ty="144.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.994597" b="0.103813" c="-0.103813" d="0.994597" tx="220.500000" ty="145.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.994904" b="0.100828" c="-0.100828" d="0.994904" tx="220.449997" ty="144.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.994904" b="0.100828" c="-0.100828" d="0.994904" tx="220.449997" ty="144.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="6">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.994597" b="0.103813" c="-0.103813" d="0.994597" tx="220.500000" ty="144.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.972260" b="0.090408" c="-0.097137" d="1.044571" tx="220.699997" ty="146.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.904633" b="0.063263" c="-0.083572" d="1.194397" tx="221.500000" ty="154.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.790527" b="0.020752" c="-0.037903" d="1.443939" tx="222.550003" ty="166.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.627838" b="-0.021530" c="0.061325" d="1.789276" tx="223.399994" ty="184.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.841507" b="0.540222" c="-0.587769" d="0.436172" tx="229.699997" ty="239.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.917121" b="0.398609" c="-0.398609" d="0.917121" tx="230.350006" ty="224.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.995771" b="0.091870" c="-0.091870" d="0.995771" tx="230.800003" ty="218.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.975238" b="-0.221156" c="0.221156" d="0.975238" tx="235.699997" ty="218.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.944081" b="-0.329713" c="0.329713" d="0.944081" tx="237.949997" ty="221.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.778829" b="-0.627237" c="0.627237" d="0.778829" tx="243.300003" ty="235.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.317220" b="-0.948352" c="0.948352" d="0.317220" tx="250.199997" ty="263.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.178829" b="-0.983880" c="0.983880" d="0.178829" tx="258.799988" ty="258.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.035789" b="-0.999359" c="0.999359" d="0.035789" tx="269.799988" ty="256.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.101031" b="-0.994883" c="0.994883" d="-0.101031" tx="282.100006" ty="260.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.242754" b="-0.970088" c="0.970088" d="-0.242754" tx="292.549988" ty="269.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.321396" b="-0.946945" c="0.946945" d="-0.321396" tx="304.799988" ty="269.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.647059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.383150" b="-0.923686" c="0.923686" d="-0.383150" tx="314.299988" ty="270.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.368627"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.423408" b="-0.905939" c="0.905939" d="-0.423408" tx="321.100006" ty="270.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.168627"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.450391" b="-0.892831" c="0.892831" d="-0.450391" tx="325.250000" ty="270.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.050980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_34x34" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.458408" b="-0.888742" c="0.888742" d="-0.458408" tx="326.649994" ty="271.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="230.750000" ty="152.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.955040" b="0.296475" c="-0.296475" d="0.955040" tx="252.199997" ty="129.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.796078"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.842979" b="0.537947" c="-0.537947" d="0.842979" tx="275.850006" ty="114.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.611765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.696707" b="0.717356" c="-0.717356" d="0.696707" tx="299.200012" ty="105.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.542824" b="0.839846" c="-0.839846" d="0.542824" tx="320.000000" ty="102.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.317647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.403919" b="0.914795" c="-0.914795" d="0.403919" tx="337.100006" ty="102.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.207843"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.285757" b="0.958302" c="-0.958302" d="0.285757" tx="350.299988" ty="103.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.121569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.200430" b="0.979708" c="-0.979708" d="0.200430" tx="359.649994" ty="105.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.058824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.148248" b="0.988950" c="-0.988950" d="0.148248" tx="365.200012" ty="106.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.023529"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/Tombstone_Pirate_Damage_20x20" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.131415" b="0.991327" c="-0.991327" d="0.131415" tx="366.799988" ty="108.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

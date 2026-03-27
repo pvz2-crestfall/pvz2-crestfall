@@ -1,0 +1,123 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Tombstone_Cowboy_Damage_22x31": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_22X31",
+			"dimension": {
+				"width": 22,
+				"height": 31
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_52x47": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_52X47",
+			"dimension": {
+				"width": 52,
+				"height": 47
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_41x42": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_41X42",
+			"dimension": {
+				"width": 41,
+				"height": 42
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_26x59": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_26X59",
+			"dimension": {
+				"width": 26,
+				"height": 59
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_16x43": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_16X43",
+			"dimension": {
+				"width": 16,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_31x73": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_31X73",
+			"dimension": {
+				"width": 31,
+				"height": 73
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_23x44": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_23X44",
+			"dimension": {
+				"width": 23,
+				"height": 44
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_46x76": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_46X76",
+			"dimension": {
+				"width": 46,
+				"height": 76
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_26x53": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_26X53",
+			"dimension": {
+				"width": 26,
+				"height": 53
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_29x73": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_29X73",
+			"dimension": {
+				"width": 29,
+				"height": 73
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_293x263": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_293X263",
+			"dimension": {
+				"width": 293,
+				"height": 263
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_66x115": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_66X115",
+			"dimension": {
+				"width": 66,
+				"height": 115
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_20x43": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_20X43",
+			"dimension": {
+				"width": 20,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Tombstone_Cowboy_Damage_33x82": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_33X82",
+			"dimension": {
+				"width": 33,
+				"height": 82
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

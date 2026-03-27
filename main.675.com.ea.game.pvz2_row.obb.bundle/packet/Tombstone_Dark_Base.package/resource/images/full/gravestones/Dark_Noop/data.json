@@ -1,0 +1,51 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Dark_Noop_132x160": {
+			"id": "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X160",
+			"dimension": {
+				"width": 132,
+				"height": 160
+			},
+			"additional": null
+		},
+		"Dark_Noop_132x160_2": {
+			"id": "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X160_2",
+			"dimension": {
+				"width": 132,
+				"height": 160
+			},
+			"additional": null
+		},
+		"Dark_Noop_132x156": {
+			"id": "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X156",
+			"dimension": {
+				"width": 132,
+				"height": 156
+			},
+			"additional": null
+		},
+		"Dark_Noop_125x149": {
+			"id": "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_125X149",
+			"dimension": {
+				"width": 125,
+				"height": 149
+			},
+			"additional": null
+		},
+		"Dark_Noop_93x89": {
+			"id": "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_93X89",
+			"dimension": {
+				"width": 93,
+				"height": 89
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

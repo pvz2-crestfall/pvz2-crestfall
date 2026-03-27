@@ -1,0 +1,51 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Egypt_Hieroglyph_118x148": {
+			"id": "IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_118X148",
+			"dimension": {
+				"width": 118,
+				"height": 148
+			},
+			"additional": null
+		},
+		"Egypt_Hieroglyph_118x148_2": {
+			"id": "IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_118X148_2",
+			"dimension": {
+				"width": 118,
+				"height": 148
+			},
+			"additional": null
+		},
+		"Egypt_Hieroglyph_113x145": {
+			"id": "IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_113X145",
+			"dimension": {
+				"width": 113,
+				"height": 145
+			},
+			"additional": null
+		},
+		"Egypt_Hieroglyph_110x145": {
+			"id": "IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_110X145",
+			"dimension": {
+				"width": 110,
+				"height": 145
+			},
+			"additional": null
+		},
+		"Egypt_Hieroglyph_109x119": {
+			"id": "IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_109X119",
+			"dimension": {
+				"width": 109,
+				"height": 119
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

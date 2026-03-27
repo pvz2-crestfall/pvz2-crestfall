@@ -1,0 +1,323 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Future_Gravestone_65x102": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_65X102",
+			"dimension": {
+				"width": 65,
+				"height": 102
+			},
+			"additional": null
+		},
+		"Future_Gravestone_109x57": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_109X57",
+			"dimension": {
+				"width": 109,
+				"height": 57
+			},
+			"additional": null
+		},
+		"Future_Gravestone_116x103": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_116X103",
+			"dimension": {
+				"width": 116,
+				"height": 103
+			},
+			"additional": null
+		},
+		"Future_Gravestone_10x10": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_10X10",
+			"dimension": {
+				"width": 10,
+				"height": 10
+			},
+			"additional": null
+		},
+		"Future_Gravestone_56x43": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_56X43",
+			"dimension": {
+				"width": 56,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Future_Gravestone_97x101": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_97X101",
+			"dimension": {
+				"width": 97,
+				"height": 101
+			},
+			"additional": null
+		},
+		"Future_Gravestone_117x120": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_117X120",
+			"dimension": {
+				"width": 117,
+				"height": 120
+			},
+			"additional": null
+		},
+		"Future_Gravestone_27x21": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_27X21",
+			"dimension": {
+				"width": 27,
+				"height": 21
+			},
+			"additional": null
+		},
+		"Future_Gravestone_36x29": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_36X29",
+			"dimension": {
+				"width": 36,
+				"height": 29
+			},
+			"additional": null
+		},
+		"Future_Gravestone_44x36": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_44X36",
+			"dimension": {
+				"width": 44,
+				"height": 36
+			},
+			"additional": null
+		},
+		"Future_Gravestone_52x44": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_52X44",
+			"dimension": {
+				"width": 52,
+				"height": 44
+			},
+			"additional": null
+		},
+		"Future_Gravestone_58x52": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_58X52",
+			"dimension": {
+				"width": 58,
+				"height": 52
+			},
+			"additional": null
+		},
+		"Future_Gravestone_65x59": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_65X59",
+			"dimension": {
+				"width": 65,
+				"height": 59
+			},
+			"additional": null
+		},
+		"Future_Gravestone_87x39": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_87X39",
+			"dimension": {
+				"width": 87,
+				"height": 39
+			},
+			"additional": null
+		},
+		"Future_Gravestone_116x103_2": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_116X103_2",
+			"dimension": {
+				"width": 116,
+				"height": 103
+			},
+			"additional": null
+		},
+		"Future_Gravestone_56x22": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_56X22",
+			"dimension": {
+				"width": 56,
+				"height": 22
+			},
+			"additional": null
+		},
+		"Future_Gravestone_112x120": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_112X120",
+			"dimension": {
+				"width": 112,
+				"height": 120
+			},
+			"additional": null
+		},
+		"Future_Gravestone_107x103": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_107X103",
+			"dimension": {
+				"width": 107,
+				"height": 103
+			},
+			"additional": null
+		},
+		"Future_Gravestone_67x26": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_67X26",
+			"dimension": {
+				"width": 67,
+				"height": 26
+			},
+			"additional": null
+		},
+		"Future_Gravestone_97x101_2": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_97X101_2",
+			"dimension": {
+				"width": 97,
+				"height": 101
+			},
+			"additional": null
+		},
+		"Future_Gravestone_15x37": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_15X37",
+			"dimension": {
+				"width": 15,
+				"height": 37
+			},
+			"additional": null
+		},
+		"Future_Gravestone_50x45": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_50X45",
+			"dimension": {
+				"width": 50,
+				"height": 45
+			},
+			"additional": null
+		},
+		"Future_Gravestone_112x57": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_112X57",
+			"dimension": {
+				"width": 112,
+				"height": 57
+			},
+			"additional": null
+		},
+		"Future_Gravestone_107x101": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_107X101",
+			"dimension": {
+				"width": 107,
+				"height": 101
+			},
+			"additional": null
+		},
+		"Future_Gravestone_67x25": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_67X25",
+			"dimension": {
+				"width": 67,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Future_Gravestone_81x76": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_81X76",
+			"dimension": {
+				"width": 81,
+				"height": 76
+			},
+			"additional": null
+		},
+		"Future_Gravestone_108x43": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_108X43",
+			"dimension": {
+				"width": 108,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Future_Gravestone_51x42": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_51X42",
+			"dimension": {
+				"width": 51,
+				"height": 42
+			},
+			"additional": null
+		},
+		"Future_Gravestone_48x54": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_48X54",
+			"dimension": {
+				"width": 48,
+				"height": 54
+			},
+			"additional": null
+		},
+		"Future_Gravestone_53x67": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_53X67",
+			"dimension": {
+				"width": 53,
+				"height": 67
+			},
+			"additional": null
+		},
+		"Future_Gravestone_55x75": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_55X75",
+			"dimension": {
+				"width": 55,
+				"height": 75
+			},
+			"additional": null
+		},
+		"Future_Gravestone_59x78": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_59X78",
+			"dimension": {
+				"width": 59,
+				"height": 78
+			},
+			"additional": null
+		},
+		"Future_Gravestone_62x43": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_62X43",
+			"dimension": {
+				"width": 62,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Future_Gravestone_112x57_2": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_112X57_2",
+			"dimension": {
+				"width": 112,
+				"height": 57
+			},
+			"additional": null
+		},
+		"Future_Gravestone_92x101": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_92X101",
+			"dimension": {
+				"width": 92,
+				"height": 101
+			},
+			"additional": null
+		},
+		"Future_Gravestone_69x77": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_69X77",
+			"dimension": {
+				"width": 69,
+				"height": 77
+			},
+			"additional": null
+		},
+		"Future_Gravestone_52x45": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_52X45",
+			"dimension": {
+				"width": 52,
+				"height": 45
+			},
+			"additional": null
+		},
+		"Future_Gravestone_52x45_2": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_52X45_2",
+			"dimension": {
+				"width": 52,
+				"height": 45
+			},
+			"additional": null
+		},
+		"Future_Gravestone_50x45_2": {
+			"id": "IMAGE_GRAVESTONES_FUTURE_GRAVESTONE_FUTURE_GRAVESTONE_50X45_2",
+			"dimension": {
+				"width": 50,
+				"height": 45
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

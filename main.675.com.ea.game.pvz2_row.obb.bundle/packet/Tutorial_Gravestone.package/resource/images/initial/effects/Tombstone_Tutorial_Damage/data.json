@@ -1,0 +1,107 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Tombstone_Tutorial_Damage_23x24": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_23X24",
+			"dimension": {
+				"width": 23,
+				"height": 24
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_39x36": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_39X36",
+			"dimension": {
+				"width": 39,
+				"height": 36
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_48x48": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_48X48",
+			"dimension": {
+				"width": 48,
+				"height": 48
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_7x7": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_7X7",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_59x40": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_59X40",
+			"dimension": {
+				"width": 59,
+				"height": 40
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_35x42": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_35X42",
+			"dimension": {
+				"width": 35,
+				"height": 42
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_60x67": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_60X67",
+			"dimension": {
+				"width": 60,
+				"height": 67
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_67x51": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_67X51",
+			"dimension": {
+				"width": 67,
+				"height": 51
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_1x1": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_293x263": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_293X263",
+			"dimension": {
+				"width": 293,
+				"height": 263
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_113x53": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_113X53",
+			"dimension": {
+				"width": 113,
+				"height": 53
+			},
+			"additional": null
+		},
+		"Tombstone_Tutorial_Damage_173x96": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_TUTORIAL_DAMAGE_TOMBSTONE_TUTORIAL_DAMAGE_173X96",
+			"dimension": {
+				"width": 173,
+				"height": 96
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

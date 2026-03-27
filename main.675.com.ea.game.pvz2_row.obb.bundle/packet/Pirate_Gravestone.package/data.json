@@ -1,0 +1,32 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"Pirate_Gravestone": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_GRAVESTONES_PIRATE_GRAVESTONE": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/Pirate_Gravestone"
+				},
+				"POPANIM_EFFECTS_TOMBSTONE_PIRATE_DAMAGE": {
+					"type": "PopAnim",
+					"path": "images/full/effects/Tombstone_Pirate_Damage"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zombie_egypt_tombraiser_disc_02": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT_ZOMBIE_EGYPT_TOMBRAISER_DISC_02",
+			"dimension": {
+				"width": 158,
+				"height": 158
+			},
+			"additional": null
+		},
+		"zombie_egypt_tombraiser_disc_01": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT_ZOMBIE_EGYPT_TOMBRAISER_DISC_01",
+			"dimension": {
+				"width": 158,
+				"height": 158
+			},
+			"additional": null
+		},
+		"zombie_egypt_tombraiser_beam_01": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT_ZOMBIE_EGYPT_TOMBRAISER_BEAM_01",
+			"dimension": {
+				"width": 68,
+				"height": 126
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"": [
+			"sprite",
+			"sprite_2",
+			"sprite_3"
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"Tombstone_Dark_Special": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 1
+			},
+			"resource": {
+				"POPANIM_GRAVESTONES_DARK_GIFT": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/Dark_Gift"
+				},
+				"POPANIM_GRAVESTONES_DARK_GRAVESTONE_SPAWNER": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/Dark_Gravestone_Spawner"
+				},
+				"POPANIM_GRAVESTONES_DARK_MYSTERY": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/Dark_Mystery"
+				},
+				"POPANIM_GRAVESTONES_DARK_SHORTCUT": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/Dark_Shortcut"
+				},
+				"POPANIM_GRAVESTONES_DARK_TIMESPAWN": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/Dark_Timespawn"
+				},
+				"POPANIM_GRAVESTONES_DARK_TIMESPAWNWIDE": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/Dark_TimespawnWide"
+				},
+				"POPANIM_GRAVESTONES_DARK_ZOMBIE": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/Dark_Zombie"
+				}
+			}
+		}
+	}
+}

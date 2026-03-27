@@ -1,0 +1,32 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"Tombstone_Dark_Effects": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT": {
+					"type": "PopAnim",
+					"path": "images/full/effects/tombstone_dark_spawn_effect"
+				},
+				"POPANIM_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE": {
+					"type": "PopAnim",
+					"path": "images/full/effects/tombstone_dark_base_damage"
+				}
+			}
+		}
+	}
+}

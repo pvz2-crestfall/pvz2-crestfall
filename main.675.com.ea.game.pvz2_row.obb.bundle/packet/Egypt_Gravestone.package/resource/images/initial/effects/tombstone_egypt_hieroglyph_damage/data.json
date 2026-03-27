@@ -1,0 +1,91 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"tombstone_egypt_hieroglyph_damage_23x24": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_23X24",
+			"dimension": {
+				"width": 23,
+				"height": 24
+			},
+			"additional": null
+		},
+		"tombstone_egypt_hieroglyph_damage_39x36": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_39X36",
+			"dimension": {
+				"width": 39,
+				"height": 36
+			},
+			"additional": null
+		},
+		"tombstone_egypt_hieroglyph_damage_48x48": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_48X48",
+			"dimension": {
+				"width": 48,
+				"height": 48
+			},
+			"additional": null
+		},
+		"tombstone_egypt_hieroglyph_damage_60x67": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_60X67",
+			"dimension": {
+				"width": 60,
+				"height": 67
+			},
+			"additional": null
+		},
+		"tombstone_egypt_hieroglyph_damage_84x77": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_84X77",
+			"dimension": {
+				"width": 84,
+				"height": 77
+			},
+			"additional": null
+		},
+		"tombstone_egypt_hieroglyph_damage_65x50": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_65X50",
+			"dimension": {
+				"width": 65,
+				"height": 50
+			},
+			"additional": null
+		},
+		"tombstone_egypt_hieroglyph_damage_1x1": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"tombstone_egypt_hieroglyph_damage_293x263": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_293X263",
+			"dimension": {
+				"width": 293,
+				"height": 263
+			},
+			"additional": null
+		},
+		"tombstone_egypt_hieroglyph_damage_113x53": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_113X53",
+			"dimension": {
+				"width": 113,
+				"height": 53
+			},
+			"additional": null
+		},
+		"tombstone_egypt_hieroglyph_damage_172x96": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_172X96",
+			"dimension": {
+				"width": 172,
+				"height": 96
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

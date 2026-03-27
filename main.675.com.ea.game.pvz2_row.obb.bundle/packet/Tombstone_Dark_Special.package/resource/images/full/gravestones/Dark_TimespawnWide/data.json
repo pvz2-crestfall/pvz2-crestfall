@@ -1,0 +1,59 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Dark_TimespawnWide_248x152": {
+			"id": "IMAGE_GRAVESTONES_DARK_TIMESPAWNWIDE_DARK_TIMESPAWNWIDE_248X152",
+			"dimension": {
+				"width": 248,
+				"height": 152
+			},
+			"additional": null
+		},
+		"Dark_TimespawnWide_147x19": {
+			"id": "IMAGE_GRAVESTONES_DARK_TIMESPAWNWIDE_DARK_TIMESPAWNWIDE_147X19",
+			"dimension": {
+				"width": 147,
+				"height": 19
+			},
+			"additional": null
+		},
+		"Dark_TimespawnWide_124x19": {
+			"id": "IMAGE_GRAVESTONES_DARK_TIMESPAWNWIDE_DARK_TIMESPAWNWIDE_124X19",
+			"dimension": {
+				"width": 124,
+				"height": 19
+			},
+			"additional": null
+		},
+		"Dark_TimespawnWide_111x19": {
+			"id": "IMAGE_GRAVESTONES_DARK_TIMESPAWNWIDE_DARK_TIMESPAWNWIDE_111X19",
+			"dimension": {
+				"width": 111,
+				"height": 19
+			},
+			"additional": null
+		},
+		"Dark_TimespawnWide_111x19_2": {
+			"id": "IMAGE_GRAVESTONES_DARK_TIMESPAWNWIDE_DARK_TIMESPAWNWIDE_111X19_2",
+			"dimension": {
+				"width": 111,
+				"height": 19
+			},
+			"additional": null
+		},
+		"Dark_TimespawnWide_111x19_3": {
+			"id": "IMAGE_GRAVESTONES_DARK_TIMESPAWNWIDE_DARK_TIMESPAWNWIDE_111X19_3",
+			"dimension": {
+				"width": 111,
+				"height": 19
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

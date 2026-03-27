@@ -1,0 +1,87 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Tombstone_Future_Damage_59x67": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_59X67",
+			"dimension": {
+				"width": 59,
+				"height": 67
+			},
+			"additional": null
+		},
+		"Tombstone_Future_Damage_96x102": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_96X102",
+			"dimension": {
+				"width": 96,
+				"height": 102
+			},
+			"additional": null
+		},
+		"Tombstone_Future_Damage_66x90": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_66X90",
+			"dimension": {
+				"width": 66,
+				"height": 90
+			},
+			"additional": null
+		},
+		"Tombstone_Future_Damage_70x103": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_70X103",
+			"dimension": {
+				"width": 70,
+				"height": 103
+			},
+			"additional": null
+		},
+		"Tombstone_Future_Damage_76x109": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_76X109",
+			"dimension": {
+				"width": 76,
+				"height": 109
+			},
+			"additional": null
+		},
+		"Tombstone_Future_Damage_82x50": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_82X50",
+			"dimension": {
+				"width": 82,
+				"height": 50
+			},
+			"additional": null
+		},
+		"Tombstone_Future_Damage_65x50": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_65X50",
+			"dimension": {
+				"width": 65,
+				"height": 50
+			},
+			"additional": null
+		},
+		"Tombstone_Future_Damage_1x1": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Tombstone_Future_Damage_293x263": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_293X263",
+			"dimension": {
+				"width": 293,
+				"height": 263
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"Duplicate Items Folder/empeach_arc_01 copy 2": [
+			"empeach_arc_01 copy 2"
+		]
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Dark_Sun_132x160": {
+			"id": "IMAGE_GRAVESTONES_DARK_SUN_DARK_SUN_132X160",
+			"dimension": {
+				"width": 132,
+				"height": 160
+			},
+			"additional": null
+		},
+		"Dark_Sun_132x160_2": {
+			"id": "IMAGE_GRAVESTONES_DARK_SUN_DARK_SUN_132X160_2",
+			"dimension": {
+				"width": 132,
+				"height": 160
+			},
+			"additional": null
+		},
+		"Dark_Sun_132x157": {
+			"id": "IMAGE_GRAVESTONES_DARK_SUN_DARK_SUN_132X157",
+			"dimension": {
+				"width": 132,
+				"height": 157
+			},
+			"additional": null
+		},
+		"Dark_Sun_132x144": {
+			"id": "IMAGE_GRAVESTONES_DARK_SUN_DARK_SUN_132X144",
+			"dimension": {
+				"width": 132,
+				"height": 144
+			},
+			"additional": null
+		},
+		"Dark_Sun_93x91": {
+			"id": "IMAGE_GRAVESTONES_DARK_SUN_DARK_SUN_93X91",
+			"dimension": {
+				"width": 93,
+				"height": 91
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

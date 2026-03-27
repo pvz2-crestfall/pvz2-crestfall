@@ -1,0 +1,51 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Cowboy_Gravestone_106x172": {
+			"id": "IMAGE_GRAVESTONES_COWBOY_GRAVESTONE_COWBOY_GRAVESTONE_106X172",
+			"dimension": {
+				"width": 106,
+				"height": 172
+			},
+			"additional": null
+		},
+		"Cowboy_Gravestone_106x172_2": {
+			"id": "IMAGE_GRAVESTONES_COWBOY_GRAVESTONE_COWBOY_GRAVESTONE_106X172_2",
+			"dimension": {
+				"width": 106,
+				"height": 172
+			},
+			"additional": null
+		},
+		"Cowboy_Gravestone_111x182": {
+			"id": "IMAGE_GRAVESTONES_COWBOY_GRAVESTONE_COWBOY_GRAVESTONE_111X182",
+			"dimension": {
+				"width": 111,
+				"height": 182
+			},
+			"additional": null
+		},
+		"Cowboy_Gravestone_111x177": {
+			"id": "IMAGE_GRAVESTONES_COWBOY_GRAVESTONE_COWBOY_GRAVESTONE_111X177",
+			"dimension": {
+				"width": 111,
+				"height": 177
+			},
+			"additional": null
+		},
+		"Cowboy_Gravestone_111x108": {
+			"id": "IMAGE_GRAVESTONES_COWBOY_GRAVESTONE_COWBOY_GRAVESTONE_111X108",
+			"dimension": {
+				"width": 111,
+				"height": 108
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

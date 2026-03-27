@@ -1,0 +1,198 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/Future_Gravestone_65x102" href="media/Future_Gravestone_65x102.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_109x57" href="media/Future_Gravestone_109x57.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_116x103" href="media/Future_Gravestone_116x103.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_10x10" href="media/Future_Gravestone_10x10.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_56x43" href="media/Future_Gravestone_56x43.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_97x101" href="media/Future_Gravestone_97x101.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_117x120" href="media/Future_Gravestone_117x120.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_27x21" href="media/Future_Gravestone_27x21.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_36x29" href="media/Future_Gravestone_36x29.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_44x36" href="media/Future_Gravestone_44x36.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_52x44" href="media/Future_Gravestone_52x44.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_58x52" href="media/Future_Gravestone_58x52.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_65x59" href="media/Future_Gravestone_65x59.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_87x39" href="media/Future_Gravestone_87x39.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_116x103_2" href="media/Future_Gravestone_116x103_2.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_56x22" href="media/Future_Gravestone_56x22.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_112x120" href="media/Future_Gravestone_112x120.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_107x103" href="media/Future_Gravestone_107x103.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_67x26" href="media/Future_Gravestone_67x26.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_97x101_2" href="media/Future_Gravestone_97x101_2.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_15x37" href="media/Future_Gravestone_15x37.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_50x45" href="media/Future_Gravestone_50x45.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_112x57" href="media/Future_Gravestone_112x57.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_107x101" href="media/Future_Gravestone_107x101.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_67x25" href="media/Future_Gravestone_67x25.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_81x76" href="media/Future_Gravestone_81x76.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_108x43" href="media/Future_Gravestone_108x43.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_51x42" href="media/Future_Gravestone_51x42.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_48x54" href="media/Future_Gravestone_48x54.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_53x67" href="media/Future_Gravestone_53x67.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_55x75" href="media/Future_Gravestone_55x75.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_59x78" href="media/Future_Gravestone_59x78.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_62x43" href="media/Future_Gravestone_62x43.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_112x57_2" href="media/Future_Gravestone_112x57_2.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_92x101" href="media/Future_Gravestone_92x101.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_69x77" href="media/Future_Gravestone_69x77.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_52x45" href="media/Future_Gravestone_52x45.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_52x45_2" href="media/Future_Gravestone_52x45_2.png"/>
+        <DOMBitmapItem name="media/Future_Gravestone_50x45_2" href="media/Future_Gravestone_50x45_2.png"/>
+    </media>
+    <symbols>
+        <Include href="image/Future_Gravestone_65x102.xml"/>
+        <Include href="image/Future_Gravestone_109x57.xml"/>
+        <Include href="image/Future_Gravestone_116x103.xml"/>
+        <Include href="image/Future_Gravestone_10x10.xml"/>
+        <Include href="image/Future_Gravestone_56x43.xml"/>
+        <Include href="image/Future_Gravestone_97x101.xml"/>
+        <Include href="image/Future_Gravestone_117x120.xml"/>
+        <Include href="image/Future_Gravestone_27x21.xml"/>
+        <Include href="image/Future_Gravestone_36x29.xml"/>
+        <Include href="image/Future_Gravestone_44x36.xml"/>
+        <Include href="image/Future_Gravestone_52x44.xml"/>
+        <Include href="image/Future_Gravestone_58x52.xml"/>
+        <Include href="image/Future_Gravestone_65x59.xml"/>
+        <Include href="image/Future_Gravestone_87x39.xml"/>
+        <Include href="image/Future_Gravestone_116x103_2.xml"/>
+        <Include href="image/Future_Gravestone_56x22.xml"/>
+        <Include href="image/Future_Gravestone_112x120.xml"/>
+        <Include href="image/Future_Gravestone_107x103.xml"/>
+        <Include href="image/Future_Gravestone_67x26.xml"/>
+        <Include href="image/Future_Gravestone_97x101_2.xml"/>
+        <Include href="image/Future_Gravestone_15x37.xml"/>
+        <Include href="image/Future_Gravestone_50x45.xml"/>
+        <Include href="image/Future_Gravestone_112x57.xml"/>
+        <Include href="image/Future_Gravestone_107x101.xml"/>
+        <Include href="image/Future_Gravestone_67x25.xml"/>
+        <Include href="image/Future_Gravestone_81x76.xml"/>
+        <Include href="image/Future_Gravestone_108x43.xml"/>
+        <Include href="image/Future_Gravestone_51x42.xml"/>
+        <Include href="image/Future_Gravestone_48x54.xml"/>
+        <Include href="image/Future_Gravestone_53x67.xml"/>
+        <Include href="image/Future_Gravestone_55x75.xml"/>
+        <Include href="image/Future_Gravestone_59x78.xml"/>
+        <Include href="image/Future_Gravestone_62x43.xml"/>
+        <Include href="image/Future_Gravestone_112x57_2.xml"/>
+        <Include href="image/Future_Gravestone_92x101.xml"/>
+        <Include href="image/Future_Gravestone_69x77.xml"/>
+        <Include href="image/Future_Gravestone_52x45.xml"/>
+        <Include href="image/Future_Gravestone_52x45_2.xml"/>
+        <Include href="image/Future_Gravestone_50x45_2.xml"/>
+        <Include href="label/undamaged.xml"/>
+        <Include href="label/damage1.xml"/>
+        <Include href="label/damage2.xml"/>
+        <Include href="label/damage3.xml"/>
+        <Include href="label/damage4.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="185" name="undamaged" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="185" duration="185" name="damage1" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="370" duration="185" name="damage2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="555" duration="185" name="damage3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="740" duration="186" name="damage4" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="184">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="184">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="185" duration="184">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="369">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="370" duration="184">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="554">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="555" duration="184">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="739">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="740" duration="184">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="924">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="185">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/undamaged" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="185" duration="185">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage1" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="370" duration="185">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="555" duration="185">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="740" duration="186">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage4" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

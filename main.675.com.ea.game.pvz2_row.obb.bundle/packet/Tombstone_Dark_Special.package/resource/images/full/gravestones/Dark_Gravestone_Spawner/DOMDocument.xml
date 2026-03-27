@@ -1,0 +1,216 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118" href="media/Dark_Gravestone_Spawner_252x118.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_2" href="media/Dark_Gravestone_Spawner_252x118_2.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_3" href="media/Dark_Gravestone_Spawner_252x118_3.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_4" href="media/Dark_Gravestone_Spawner_252x118_4.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_5" href="media/Dark_Gravestone_Spawner_252x118_5.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_6" href="media/Dark_Gravestone_Spawner_252x118_6.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_7" href="media/Dark_Gravestone_Spawner_252x118_7.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_8" href="media/Dark_Gravestone_Spawner_252x118_8.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_9" href="media/Dark_Gravestone_Spawner_252x118_9.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_10" href="media/Dark_Gravestone_Spawner_252x118_10.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_11" href="media/Dark_Gravestone_Spawner_252x118_11.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_252x118_12" href="media/Dark_Gravestone_Spawner_252x118_12.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_245x73" href="media/Dark_Gravestone_Spawner_245x73.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_200x88" href="media/Dark_Gravestone_Spawner_200x88.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_165x54" href="media/Dark_Gravestone_Spawner_165x54.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_91x27" href="media/Dark_Gravestone_Spawner_91x27.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_37x93" href="media/Dark_Gravestone_Spawner_37x93.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_86x66" href="media/Dark_Gravestone_Spawner_86x66.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_98x66" href="media/Dark_Gravestone_Spawner_98x66.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_82x63" href="media/Dark_Gravestone_Spawner_82x63.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_135x50" href="media/Dark_Gravestone_Spawner_135x50.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_128x51" href="media/Dark_Gravestone_Spawner_128x51.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_101x84" href="media/Dark_Gravestone_Spawner_101x84.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_93x86" href="media/Dark_Gravestone_Spawner_93x86.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_131x39" href="media/Dark_Gravestone_Spawner_131x39.png"/>
+        <DOMBitmapItem name="media/Dark_Gravestone_Spawner_128x77" href="media/Dark_Gravestone_Spawner_128x77.png"/>
+    </media>
+    <symbols>
+        <Include href="image/Dark_Gravestone_Spawner_252x118.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_2.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_3.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_4.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_5.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_6.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_7.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_8.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_9.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_10.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_11.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_252x118_12.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_245x73.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_200x88.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_165x54.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_91x27.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_37x93.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_86x66.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_98x66.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_82x63.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_135x50.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_128x51.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_101x84.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_93x86.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_131x39.xml"/>
+        <Include href="image/Dark_Gravestone_Spawner_128x77.xml"/>
+        <Include href="sprite/tomb_spawner_crown_damage4.xml"/>
+        <Include href="sprite/tomb_spawner_crown_damage3.xml"/>
+        <Include href="sprite/tomb_spawner_crown_damage2.xml"/>
+        <Include href="sprite/tomb_spawner_crown_norm.xml"/>
+        <Include href="sprite/tomb_spawner_crown.xml"/>
+        <Include href="sprite/tomb_spawner_bucket_damage4.xml"/>
+        <Include href="sprite/tomb_spawner_bucket_damage3.xml"/>
+        <Include href="sprite/tomb_spawner_bucket_damage2.xml"/>
+        <Include href="sprite/tomb_spawner_bucket_norm.xml"/>
+        <Include href="sprite/tomb_spawner_bucket.xml"/>
+        <Include href="sprite/tomb_spawner_cone_damage4.xml"/>
+        <Include href="sprite/tomb_spawner_cone_damage3.xml"/>
+        <Include href="sprite/tomb_spawner_cone_damage2.xml"/>
+        <Include href="sprite/tomb_spawner_cone_norm.xml"/>
+        <Include href="sprite/tomb_spawner_cone.xml"/>
+        <Include href="sprite/tomb_spawner_base.xml"/>
+        <Include href="sprite/tomb_spawner_lid.xml"/>
+        <Include href="sprite/tomb_spawner_idle.xml"/>
+        <Include href="sprite/tomb_spawner_lid_off.xml"/>
+        <Include href="sprite/tomb_spawner_open.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_08.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_07.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_06.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_05.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_04.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_03.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_02.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_01.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_12.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_11.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_10.xml"/>
+        <Include href="sprite/tomb_spawner_chunk_09.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/rattle.xml"/>
+        <Include href="label/opening.xml"/>
+        <Include href="label/open.xml"/>
+        <Include href="label/closed_die.xml"/>
+        <Include href="label/open_die.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="1" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="10" name="rattle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="30" name="opening" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="41" duration="1" name="open" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="30" name="closed_die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="72" duration="30" name="open_die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="71">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="72" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="101">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="10">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/rattle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/opening" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/open" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/closed_die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="72" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/open_die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

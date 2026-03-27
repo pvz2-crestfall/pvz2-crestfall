@@ -1,0 +1,315 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Iceage_Gravestone_109x52": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_109X52",
+			"dimension": {
+				"width": 109,
+				"height": 52
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_86x61": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_86X61",
+			"dimension": {
+				"width": 86,
+				"height": 61
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_104x48": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_104X48",
+			"dimension": {
+				"width": 104,
+				"height": 48
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_85x46": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_85X46",
+			"dimension": {
+				"width": 85,
+				"height": 46
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_47x63": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_47X63",
+			"dimension": {
+				"width": 47,
+				"height": 63
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_38x43": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_38X43",
+			"dimension": {
+				"width": 38,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_91x67": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_91X67",
+			"dimension": {
+				"width": 91,
+				"height": 67
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_80x41": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_80X41",
+			"dimension": {
+				"width": 80,
+				"height": 41
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_84x68": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_84X68",
+			"dimension": {
+				"width": 84,
+				"height": 68
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_64x34": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_64X34",
+			"dimension": {
+				"width": 64,
+				"height": 34
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_109x52_2": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_109X52_2",
+			"dimension": {
+				"width": 109,
+				"height": 52
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_83x61": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_83X61",
+			"dimension": {
+				"width": 83,
+				"height": 61
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_104x48_2": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_104X48_2",
+			"dimension": {
+				"width": 104,
+				"height": 48
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_80x46": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_80X46",
+			"dimension": {
+				"width": 80,
+				"height": 46
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_45x63": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_45X63",
+			"dimension": {
+				"width": 45,
+				"height": 63
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_37x43": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_37X43",
+			"dimension": {
+				"width": 37,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_76x57": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_76X57",
+			"dimension": {
+				"width": 76,
+				"height": 57
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_69x44": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_69X44",
+			"dimension": {
+				"width": 69,
+				"height": 44
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_49x65": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_49X65",
+			"dimension": {
+				"width": 49,
+				"height": 65
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_108x52": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_108X52",
+			"dimension": {
+				"width": 108,
+				"height": 52
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_83x61_2": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_83X61_2",
+			"dimension": {
+				"width": 83,
+				"height": 61
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_104x48_3": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_104X48_3",
+			"dimension": {
+				"width": 104,
+				"height": 48
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_96x65": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_96X65",
+			"dimension": {
+				"width": 96,
+				"height": 65
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_45x59": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_45X59",
+			"dimension": {
+				"width": 45,
+				"height": 59
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_43x57": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_43X57",
+			"dimension": {
+				"width": 43,
+				"height": 57
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_37x43_2": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_37X43_2",
+			"dimension": {
+				"width": 37,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_55x33": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_55X33",
+			"dimension": {
+				"width": 55,
+				"height": 33
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_96x52": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_96X52",
+			"dimension": {
+				"width": 96,
+				"height": 52
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_85x62": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_85X62",
+			"dimension": {
+				"width": 85,
+				"height": 62
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_96x48": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_96X48",
+			"dimension": {
+				"width": 96,
+				"height": 48
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_52x58": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_52X58",
+			"dimension": {
+				"width": 52,
+				"height": 58
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_42x40": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_42X40",
+			"dimension": {
+				"width": 42,
+				"height": 40
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_35x27": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_35X27",
+			"dimension": {
+				"width": 35,
+				"height": 27
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_81x51": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_81X51",
+			"dimension": {
+				"width": 81,
+				"height": 51
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_60x48": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_60X48",
+			"dimension": {
+				"width": 60,
+				"height": 48
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_46x39": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_46X39",
+			"dimension": {
+				"width": 46,
+				"height": 39
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_63x43": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_63X43",
+			"dimension": {
+				"width": 63,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Iceage_Gravestone_37x24": {
+			"id": "IMAGE_GRAVESTONES_ICEAGE_GRAVESTONE_ICEAGE_GRAVESTONE_37X24",
+			"dimension": {
+				"width": 37,
+				"height": 24
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

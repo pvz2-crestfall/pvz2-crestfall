@@ -1422,7 +1422,6 @@
                 "Hitpoints": 600,
                 "HitRectOffsetWidth": -30,
                 "HitRectOffsetX": 15,
-                "Hitpoints": 600,
                 "LinkedLayerOffset": -4,
                 "LinkedOffset": {
                     "x": -10,
@@ -2013,7 +2012,6 @@
                 },
                 "Hitpoints": 600,
                 "Height": "ground",
-                "Hitpoints": 600,
                 "InitialPause": {
                     "Max": 3,
                     "Min": 1

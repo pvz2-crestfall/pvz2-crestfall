@@ -1,0 +1,107 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Tombstone_Pirate_Damage_25x27": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_25X27",
+			"dimension": {
+				"width": 25,
+				"height": 27
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_13x12": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_13X12",
+			"dimension": {
+				"width": 13,
+				"height": 12
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_16x13": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_16X13",
+			"dimension": {
+				"width": 16,
+				"height": 13
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_37x63": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_37X63",
+			"dimension": {
+				"width": 37,
+				"height": 63
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_20x20": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_20X20",
+			"dimension": {
+				"width": 20,
+				"height": 20
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_34x34": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_34X34",
+			"dimension": {
+				"width": 34,
+				"height": 34
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_50x49": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_50X49",
+			"dimension": {
+				"width": 50,
+				"height": 49
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_70x55": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_70X55",
+			"dimension": {
+				"width": 70,
+				"height": 55
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_48x49": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_48X49",
+			"dimension": {
+				"width": 48,
+				"height": 49
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_65x50": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_65X50",
+			"dimension": {
+				"width": 65,
+				"height": 50
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_1x1": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Tombstone_Pirate_Damage_293x263": {
+			"id": "IMAGE_EFFECTS_TOMBSTONE_PIRATE_DAMAGE_TOMBSTONE_PIRATE_DAMAGE_293X263",
+			"dimension": {
+				"width": 293,
+				"height": 263
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

@@ -1,0 +1,201 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_120x58" href="media/Lostcity_Gravestone_120x58.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_86x67" href="media/Lostcity_Gravestone_86x67.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_39x32" href="media/Lostcity_Gravestone_39x32.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_26x43" href="media/Lostcity_Gravestone_26x43.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_44x69" href="media/Lostcity_Gravestone_44x69.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_51x32" href="media/Lostcity_Gravestone_51x32.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_72x62" href="media/Lostcity_Gravestone_72x62.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_23x19" href="media/Lostcity_Gravestone_23x19.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_25x24" href="media/Lostcity_Gravestone_25x24.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_72x24" href="media/Lostcity_Gravestone_72x24.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_29x53" href="media/Lostcity_Gravestone_29x53.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_25x19" href="media/Lostcity_Gravestone_25x19.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_120x52" href="media/Lostcity_Gravestone_120x52.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_86x67_2" href="media/Lostcity_Gravestone_86x67_2.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_39x32_2" href="media/Lostcity_Gravestone_39x32_2.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_22x43" href="media/Lostcity_Gravestone_22x43.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_44x69_2" href="media/Lostcity_Gravestone_44x69_2.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_51x32_2" href="media/Lostcity_Gravestone_51x32_2.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_72x63" href="media/Lostcity_Gravestone_72x63.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_25x24_2" href="media/Lostcity_Gravestone_25x24_2.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_61x21" href="media/Lostcity_Gravestone_61x21.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_21x25" href="media/Lostcity_Gravestone_21x25.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_25x19_2" href="media/Lostcity_Gravestone_25x19_2.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_115x32" href="media/Lostcity_Gravestone_115x32.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_86x67_3" href="media/Lostcity_Gravestone_86x67_3.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_39x32_3" href="media/Lostcity_Gravestone_39x32_3.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_16x16" href="media/Lostcity_Gravestone_16x16.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_13x13" href="media/Lostcity_Gravestone_13x13.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_18x25" href="media/Lostcity_Gravestone_18x25.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_44x69_3" href="media/Lostcity_Gravestone_44x69_3.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_51x32_3" href="media/Lostcity_Gravestone_51x32_3.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_68x63" href="media/Lostcity_Gravestone_68x63.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_25x24_3" href="media/Lostcity_Gravestone_25x24_3.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_37x19" href="media/Lostcity_Gravestone_37x19.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_21x23" href="media/Lostcity_Gravestone_21x23.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_25x19_3" href="media/Lostcity_Gravestone_25x19_3.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_80x67" href="media/Lostcity_Gravestone_80x67.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_39x32_4" href="media/Lostcity_Gravestone_39x32_4.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_18x25_2" href="media/Lostcity_Gravestone_18x25_2.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_44x69_4" href="media/Lostcity_Gravestone_44x69_4.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_51x32_4" href="media/Lostcity_Gravestone_51x32_4.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_67x41" href="media/Lostcity_Gravestone_67x41.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_37x19_2" href="media/Lostcity_Gravestone_37x19_2.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_58x67" href="media/Lostcity_Gravestone_58x67.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_33x25" href="media/Lostcity_Gravestone_33x25.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_17x16" href="media/Lostcity_Gravestone_17x16.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_13x13_2" href="media/Lostcity_Gravestone_13x13_2.png"/>
+        <DOMBitmapItem name="media/Lostcity_Gravestone_42x70" href="media/Lostcity_Gravestone_42x70.png"/>
+    </media>
+    <symbols>
+        <Include href="image/Lostcity_Gravestone_120x58.xml"/>
+        <Include href="image/Lostcity_Gravestone_86x67.xml"/>
+        <Include href="image/Lostcity_Gravestone_39x32.xml"/>
+        <Include href="image/Lostcity_Gravestone_26x43.xml"/>
+        <Include href="image/Lostcity_Gravestone_44x69.xml"/>
+        <Include href="image/Lostcity_Gravestone_51x32.xml"/>
+        <Include href="image/Lostcity_Gravestone_72x62.xml"/>
+        <Include href="image/Lostcity_Gravestone_23x19.xml"/>
+        <Include href="image/Lostcity_Gravestone_25x24.xml"/>
+        <Include href="image/Lostcity_Gravestone_72x24.xml"/>
+        <Include href="image/Lostcity_Gravestone_29x53.xml"/>
+        <Include href="image/Lostcity_Gravestone_25x19.xml"/>
+        <Include href="image/Lostcity_Gravestone_120x52.xml"/>
+        <Include href="image/Lostcity_Gravestone_86x67_2.xml"/>
+        <Include href="image/Lostcity_Gravestone_39x32_2.xml"/>
+        <Include href="image/Lostcity_Gravestone_22x43.xml"/>
+        <Include href="image/Lostcity_Gravestone_44x69_2.xml"/>
+        <Include href="image/Lostcity_Gravestone_51x32_2.xml"/>
+        <Include href="image/Lostcity_Gravestone_72x63.xml"/>
+        <Include href="image/Lostcity_Gravestone_25x24_2.xml"/>
+        <Include href="image/Lostcity_Gravestone_61x21.xml"/>
+        <Include href="image/Lostcity_Gravestone_21x25.xml"/>
+        <Include href="image/Lostcity_Gravestone_25x19_2.xml"/>
+        <Include href="image/Lostcity_Gravestone_115x32.xml"/>
+        <Include href="image/Lostcity_Gravestone_86x67_3.xml"/>
+        <Include href="image/Lostcity_Gravestone_39x32_3.xml"/>
+        <Include href="image/Lostcity_Gravestone_16x16.xml"/>
+        <Include href="image/Lostcity_Gravestone_13x13.xml"/>
+        <Include href="image/Lostcity_Gravestone_18x25.xml"/>
+        <Include href="image/Lostcity_Gravestone_44x69_3.xml"/>
+        <Include href="image/Lostcity_Gravestone_51x32_3.xml"/>
+        <Include href="image/Lostcity_Gravestone_68x63.xml"/>
+        <Include href="image/Lostcity_Gravestone_25x24_3.xml"/>
+        <Include href="image/Lostcity_Gravestone_37x19.xml"/>
+        <Include href="image/Lostcity_Gravestone_21x23.xml"/>
+        <Include href="image/Lostcity_Gravestone_25x19_3.xml"/>
+        <Include href="image/Lostcity_Gravestone_80x67.xml"/>
+        <Include href="image/Lostcity_Gravestone_39x32_4.xml"/>
+        <Include href="image/Lostcity_Gravestone_18x25_2.xml"/>
+        <Include href="image/Lostcity_Gravestone_44x69_4.xml"/>
+        <Include href="image/Lostcity_Gravestone_51x32_4.xml"/>
+        <Include href="image/Lostcity_Gravestone_67x41.xml"/>
+        <Include href="image/Lostcity_Gravestone_37x19_2.xml"/>
+        <Include href="image/Lostcity_Gravestone_58x67.xml"/>
+        <Include href="image/Lostcity_Gravestone_33x25.xml"/>
+        <Include href="image/Lostcity_Gravestone_17x16.xml"/>
+        <Include href="image/Lostcity_Gravestone_13x13_2.xml"/>
+        <Include href="image/Lostcity_Gravestone_42x70.xml"/>
+        <Include href="label/undamaged.xml"/>
+        <Include href="label/damage1.xml"/>
+        <Include href="label/damage2.xml"/>
+        <Include href="label/damage3.xml"/>
+        <Include href="label/damage4.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="1" name="undamaged" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1" name="damage1" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1" name="damage2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1" name="damage3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1" name="damage4" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/undamaged" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage1" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage4" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

@@ -1,0 +1,128 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_25x27" href="media/Tombstone_Pirate_Damage_25x27.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_13x12" href="media/Tombstone_Pirate_Damage_13x12.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_16x13" href="media/Tombstone_Pirate_Damage_16x13.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_37x63" href="media/Tombstone_Pirate_Damage_37x63.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_20x20" href="media/Tombstone_Pirate_Damage_20x20.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_34x34" href="media/Tombstone_Pirate_Damage_34x34.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_50x49" href="media/Tombstone_Pirate_Damage_50x49.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_70x55" href="media/Tombstone_Pirate_Damage_70x55.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_48x49" href="media/Tombstone_Pirate_Damage_48x49.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_65x50" href="media/Tombstone_Pirate_Damage_65x50.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_1x1" href="media/Tombstone_Pirate_Damage_1x1.png"/>
+        <DOMBitmapItem name="media/Tombstone_Pirate_Damage_293x263" href="media/Tombstone_Pirate_Damage_293x263.png"/>
+    </media>
+    <symbols>
+        <Include href="image/Tombstone_Pirate_Damage_25x27.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_13x12.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_16x13.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_37x63.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_20x20.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_34x34.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_50x49.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_70x55.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_48x49.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_65x50.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_1x1.xml"/>
+        <Include href="image/Tombstone_Pirate_Damage_293x263.xml"/>
+        <Include href="sprite/mower_cloud.xml"/>
+        <Include href="sprite/mower_spawn_pow.xml"/>
+        <Include href="label/animation.xml"/>
+        <Include href="label/animation2.xml"/>
+        <Include href="label/animation3.xml"/>
+        <Include href="label/animation4.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="30" name="animation" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="40" name="animation2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="70" duration="35" name="animation3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="105" duration="45" name="animation4" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="39">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="69">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="70" duration="34">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="104">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="105" duration="44">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="149">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/animation" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="40">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/animation2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="70" duration="35">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/animation3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="105" duration="45">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/animation4" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

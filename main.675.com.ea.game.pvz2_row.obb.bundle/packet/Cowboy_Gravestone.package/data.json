@@ -1,0 +1,32 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"Cowboy_Gravestone": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_GRAVESTONES_COWBOY_GRAVESTONE": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/Cowboy_Gravestone"
+				},
+				"POPANIM_EFFECTS_TOMBSTONE_COWBOY_DAMAGE": {
+					"type": "PopAnim",
+					"path": "images/full/effects/Tombstone_Cowboy_Damage"
+				}
+			}
+		}
+	}
+}
