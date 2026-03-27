@@ -70,6 +70,49 @@ async function buildPackets() {
     spinner.stop(`✓ Done encoding ${total} packages!`.green());
 }
 
+async function updateDataFile() {
+    console.log('Updating data.json packets..'.cyan());
+
+    let packetsDirectory = path.resolve(projectDirectory, 'packet');
+    let dataPath = path.resolve(projectDirectory, 'data.json');
+
+    let dataFile = JSON.parse(fs.readFileSync(dataPath));
+
+    let oldPacket = dataFile.packet;
+    let newPacket = fs
+        .readdirSync(packetsDirectory)
+        .filter((file) => path.extname(file) === '.scg')
+        .map((file) => path.resolve(packetsDirectory, file))
+        .filter((file) => fs.statSync(file).isFile())
+        .map((file) => path.parse(file).name);
+
+    const oldSet = new Set(oldPacket);
+    const newSet = new Set(newPacket);
+
+    let added = newPacket.filter((x) => !oldSet.has(x));
+    let removed = oldPacket.filter((x) => !newSet.has(x));
+
+    if (added.length === 0 && removed.length === 0) {
+        console.log('No packet changes.'.green());
+        return;
+    }
+
+    console.log('Packet changes:'.cyan());
+
+    if (added.length > 0) {
+        console.log('\n  Added:'.green());
+        added.forEach((x) => console.log(`    + ${x}`.green()));
+    }
+
+    if (removed.length > 0) {
+        console.log('\n  Removed:'.red());
+        removed.forEach((x) => console.log(`    - ${x}`.red()));
+    }
+
+    dataFile.packet = [...newPacket].sort();
+    fs.writeFileSync(dataPath, JSON.stringify(dataFile, null, 4) + '\n');
+}
+
 async function buildproject() {
     let spinner = new Spinner('Building project...');
     spinner.start();
@@ -92,4 +135,5 @@ async function buildproject() {
 }
 
 await buildPackets();
+await updateDataFile();
 await buildproject();
