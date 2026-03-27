@@ -8375,8 +8375,8 @@
                     {
                         "Type": "projectile",
                         "InitialMinCooldownTime": 0.5,
-                        "CooldownTimeMin": 1.85,
-                        "CooldownTimeMax": 2.0
+                        "CooldownTimeMin": 2.85,
+                        "CooldownTimeMax": 3.0
                     },
                     {
                         "Type": "projectile"

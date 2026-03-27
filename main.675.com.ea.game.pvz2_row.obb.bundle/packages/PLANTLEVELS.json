@@ -4626,11 +4626,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [350]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [10]
                     },
                     {
                         "Name": "Hitpoints",
