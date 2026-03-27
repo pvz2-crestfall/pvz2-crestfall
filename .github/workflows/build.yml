@@ -39,7 +39,10 @@ jobs:
               run: npm ci
 
             - name: Save original data.json # this is done to avoid having it get overwritten during the obb unpacking
-              run: xcopy main.675.com.ea.game.pvz2_row.obb.bundle/data.json build-output/data.json.bak
+              run: |
+                  if not exist build mkdir build-output
+                  copy main.675.com.ea.game.pvz2_row.obb.bundle/data.json build-output/data.json.bak
+              shell: cmd
 
             - name: Download & process obb file
               run: |
