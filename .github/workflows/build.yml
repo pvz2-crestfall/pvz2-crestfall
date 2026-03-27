@@ -40,8 +40,8 @@ jobs:
 
             - name: Save original data.json # this is done to avoid having it get overwritten during the obb unpacking
               run: |
-                  if not exist build mkdir build-output
-                  copy main.675.com.ea.game.pvz2_row.obb.bundle/data.json build-output/data.json.bak
+                  if not exist build-output mkdir build-output
+                  copy main.675.com.ea.game.pvz2_row.obb.bundle/data.json "build-output/data.json.bak" /y
               shell: cmd
 
             - name: Download & process obb file
