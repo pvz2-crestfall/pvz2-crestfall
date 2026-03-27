@@ -9465,7 +9465,7 @@
                         "InitialMinCooldownTime": 1.0,
                         "CooldownTimeMin": 1.75,
                         "CooldownTimeMax": 2.0,
-                        "StunDuration": 0.75,
+                        "StunDuration": 0.5,
                         "SpawnOffset": {
                             "x": 15.0,
                             "y": -95.0
@@ -9514,8 +9514,8 @@
                 "ZenGardenDurationOverrideSeconds": 18000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
+                        "Value": -50,
                         "CooldownDurationSeconds": 28800
                     }
                 ],

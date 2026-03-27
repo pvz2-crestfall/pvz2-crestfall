@@ -4836,15 +4836,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [250]
+                        "Values": [350]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [8]
+                        "Values": [15]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [10]
+                        "Values": [15]
                     },
                     {
                         "Name": "Hitpoints",
@@ -4854,12 +4854,12 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [30]
+                        "Values": [40]
                     },
                     {
                         "Name": "ActionStunDuration",
                         "SubType": "0",
-                        "Values": [0.75]
+                        "Values": [0.5]
                     },
                     {
                         "Name": "ActionDamagePF",

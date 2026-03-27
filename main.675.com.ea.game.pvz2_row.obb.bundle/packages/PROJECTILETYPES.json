@@ -5999,7 +5999,9 @@
             "aliases": ["AppleMortarDefault"],
             "objdata": {
                 "ClassName": "AppleMortarProjectile",
-                "BaseDamage": 30,
+                "BaseDamage": 40,
+                "SplashDamage": 10,
+                "SplashRadius": 1,
                 "RotateToMatchVelocity": true,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies", "ground"],
                 "DamageFlags": ["lobbed", "catapult"],
