@@ -4538,7 +4538,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [225]
+                        "Values": [350]
                     },
                     {
                         "Name": "Hitpoints",
@@ -4554,7 +4554,7 @@
                     },
                     {
                         "Name": "JackOLantern_FlamethrowerDPS",
-                        "Values": [300]
+                        "Values": [200]
                     },
                     {
                         "Name": "JackOLantern_GridLengthOfFlamethrower",
