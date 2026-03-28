@@ -10,25 +10,7 @@
                         "Name": "Plants for sale, always!",
                         "ScheduledProducts": [
                             {
-                                "Comment": "Gold Bloom",
-                                "Category": "Plants",
-                                "Priority": "",
-                                "ABTest": "",
-                                "PromotionGroup": "",
-                                "AdditionalSegment": "",
-                                "SmartKey": "",
-                                "SoftCurrency": "",
-                                "SoftCost": -1,
-                                "MaxPurchase": -1,
-                                "SoftCostPerPurchase": -1,
-                                "Visuals": ["mostpopular"],
-                                "Sku": [
-                                    "com.popcap.pvz2.plant.goldbloom.nonconsume.t5",
-                                    "com.popcap.pvz2.android.plant.goldbloom.nonconsume.t5"
-                                ]
-                            },
-                            {
-                                "Comment": "Power Lily",
+                                "Comment": "Escape Root",
                                 "Category": "Plants",
                                 "Priority": "",
                                 "ABTest": "",
@@ -41,26 +23,41 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.plant.powerlily.nonconsume.t5",
-                                    "com.popcap.pvz2.android.plant.powerlily.nonconsume.t5"
+                                    "com.popcap.pvz2.escaperoot.coinium.20k",
+                                    "com.popcap.pvz2.android.escaperoot.coinium.20k"
                                 ]
                             },
                             {
-                                "Comment": "Jalapeno",
+                                "Comment": "Strawburst",
                                 "Category": "Plants",
                                 "Priority": "",
                                 "ABTest": "",
                                 "PromotionGroup": "",
                                 "AdditionalSegment": "",
                                 "SmartKey": "",
-                                "SoftCurrency": "gems",
-                                "SoftCost": 100,
-                                "MaxPurchase": 1,
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": ["com.popcap.pvz2.strawburst.gemium.50g", "com.popcap.pvz2.android.strawburst.gemium.50g"]
+                            },
+                            {
+                                "Comment": "Jack o' Lantern",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.plant.jalapeno.nonconsume.g100",
-                                    "com.popcap.pvz2.android.plant.jalapeno.nonconsume.g100"
+                                    "com.popcap.pvz2.jackolantern.gemium.50g",
+                                    "com.popcap.pvz2.android.jackolantern.gemium.50g"
                                 ]
                             },
                             {
@@ -76,13 +73,10 @@
                                 "MaxPurchase": -1,
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
-                                "Sku": [
-                                    "com.popcap.pvz2.plant.grapeshot.nonconsume.t5",
-                                    "com.popcap.pvz2.android.plant.grapeshot.nonconsume.t5"
-                                ]
+                                "Sku": ["com.popcap.pvz2.grapeshot.coinium.20k", "com.popcap.pvz2.android.grapeshot.coinium.20k"]
                             },
                             {
-                                "Comment": "Caulipower",
+                                "Comment": "Cold Snapdragon",
                                 "Category": "Plants",
                                 "Priority": "",
                                 "ABTest": "",
@@ -95,8 +89,8 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.plant.caulipower.nonconsume.t5",
-                                    "com.popcap.pvz2.android.plant.caulipower.nonconsume.t5"
+                                    "com.popcap.pvz2.coldsnapdragon.gemium.50g",
+                                    "com.popcap.pvz2.android.coldsnapdragon.gemium.50g"
                                 ]
                             },
                             {
@@ -113,12 +107,27 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.plant.applemortar.nonconsume.t5",
-                                    "com.popcap.pvz2.android.plant.applemortar.nonconsume.t5"
+                                    "com.popcap.pvz2.applemortar.gemium.50g",
+                                    "com.popcap.pvz2.android.applemortar.gemium.50g"
                                 ]
                             },
                             {
-                                "Comment": "Cold Snapdragon",
+                                "Comment": "Missile Toe",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": ["com.popcap.pvz2.missiletoe.gemium.50g", "com.popcap.pvz2.android.missiletoe.gemium.50g"]
+                            },
+                            {
+                                "Comment": "Holly Barrier",
                                 "Category": "Plants",
                                 "Priority": "",
                                 "ABTest": "",
@@ -131,44 +140,77 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.plant.coldsnapdragon.nonconsume.t5",
-                                    "com.popcap.pvz2.android.plant.coldsnapdragon.nonconsume.t5"
+                                    "com.popcap.pvz2.hollyknight.gemium.50g",
+                                    "com.popcap.pvz2.android.hollyknight.gemium.50g"
                                 ]
                             },
                             {
-                                "Comment": "Shrinking Violent",
+                                "Comment": "Jalapeno",
                                 "Category": "Plants",
                                 "Priority": "",
                                 "ABTest": "",
                                 "PromotionGroup": "",
                                 "AdditionalSegment": "",
                                 "SmartKey": "",
-                                "SoftCurrency": "gems",
-                                "SoftCost": 100,
-                                "MaxPurchase": 1,
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
-                                "Sku": [
-                                    "com.popcap.pvz2.plant.shrinkingviolet.nonconsume.g100",
-                                    "com.popcap.pvz2.android.plant.shrinkingviolet.nonconsume.g100"
-                                ]
+                                "Sku": ["com.popcap.pvz2.jalapeno.coinium.20k", "com.popcap.pvz2.android.jalapeno.coinium.20k"]
                             },
                             {
-                                "Comment": "Electric Currant",
+                                "Comment": "Ghost Pepper",
                                 "Category": "Plants",
                                 "Priority": "",
                                 "ABTest": "",
                                 "PromotionGroup": "",
                                 "AdditionalSegment": "",
                                 "SmartKey": "",
-                                "SoftCurrency": "gems",
-                                "SoftCost": 100,
-                                "MaxPurchase": 1,
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.plant.electriccurrant.nonconsume.g100",
-                                    "com.popcap.pvz2.android.plant.electriccurrant.nonconsume.g100"
+                                    "com.popcap.pvz2.ghostpepper.gemium.50g",
+                                    "com.popcap.pvz2.android.ghostpepper.gemium.50g"
+                                ]
+                            },
+                            {
+                                "Comment": "Sweet Potato",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.sweetpotato.coinium.20k",
+                                    "com.popcap.pvz2.android.sweetpotato.coinium.20k"
+                                ]
+                            },
+                            {
+                                "Comment": "Shrinking Violet",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.shrinkingviolet.gemium.50g",
+                                    "com.popcap.pvz2.android.shrinkingviolet.gemium.50g"
                                 ]
                             },
                             {
@@ -184,13 +226,10 @@
                                 "MaxPurchase": -1,
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
-                                "Sku": [
-                                    "com.popcap.pvz2.plant.kiwibeast.nonconsume.t5",
-                                    "com.popcap.pvz2.android.plant.kiwibeast.nonconsume.t5"
-                                ]
+                                "Sku": ["com.popcap.pvz2.kiwibeast.coinium.20k", "com.popcap.pvz2.android.kiwibeast.coinium.20k"]
                             },
                             {
-                                "Comment": "Escape Root",
+                                "Comment": "Dandelion",
                                 "Category": "Plants",
                                 "Priority": "",
                                 "ABTest": "",
@@ -202,28 +241,7 @@
                                 "MaxPurchase": -1,
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
-                                "Sku": [
-                                    "com.popcap.pvz2.plant.escaperoot.nonconsume.t5",
-                                    "com.popcap.pvz2.android.plant.escaperoot.nonconsume.t5"
-                                ]
-                            },
-                            {
-                                "Comment": "Imitator",
-                                "Category": "Plants",
-                                "Priority": "",
-                                "ABTest": "",
-                                "PromotionGroup": "",
-                                "AdditionalSegment": "",
-                                "SmartKey": "",
-                                "SoftCurrency": "",
-                                "SoftCost": -1,
-                                "MaxPurchase": -1,
-                                "SoftCostPerPurchase": -1,
-                                "Visuals": "RTID(0)",
-                                "Sku": [
-                                    "com.popcap.pvz2.plant.imitater.nonconsume.t5",
-                                    "com.popcap.pvz2.android.plant.imitater.nonconsume.t5"
-                                ]
+                                "Sku": ["com.popcap.pvz2.dandelion.coinium.20k", "com.popcap.pvz2.android.dandelion.coinium.20k"]
                             }
                         ],
                         "StartDateTime": 0
