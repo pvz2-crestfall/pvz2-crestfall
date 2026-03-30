@@ -376,9 +376,6 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(mummy_flag@ZombieTypes)"
-                    },
-                    {
                         "Type": "RTID(explorer_veteran@ZombieTypes)"
                     },
                     {
@@ -653,9 +650,6 @@
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
-                    {
-                        "Type": "RTID(mummy_flag@ZombieTypes)"
-                    },
                     {
                         "Type": "RTID(mummy_armor1@ZombieTypes)"
                     },

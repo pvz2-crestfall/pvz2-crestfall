@@ -293,9 +293,6 @@
                     },
                     {
                         "Type": "RTID(mummy_armor1@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(mummy_flag@ZombieTypes)"
                     }
                 ]
             }

@@ -314,9 +314,6 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(mummy_flag@ZombieTypes)"
-                    },
-                    {
                         "Type": "RTID(mummy@ZombieTypes)",
                         "Row": 1
                     },
