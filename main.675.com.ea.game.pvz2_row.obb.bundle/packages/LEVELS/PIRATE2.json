@@ -3,7 +3,7 @@
         {
             "objclass": "LevelDefinition",
             "objdata": {
-                "Name": "PS-1 - Traverse the Seas",
+                "Name": "PS-2 - Feathered Fiend",
                 "Description": "[PLAYERS_TRIP_TO_PIRATE_SHIP]",
                 "LevelNumber": 1,
                 "Loot": "RTID(DefaultLoot@LevelModules)",
@@ -22,9 +22,7 @@
                     "RTID(PirateMowers@LevelModules)"
                 ],
                 "StartingSun": 50,
-                "AddBonusStartingSun": true,
-                "FirstRewardType": "unlock_plant",
-                "FirstRewardParam": "kernelpult"
+                "AddBonusStartingSun": true
             }
         },
         {
@@ -34,10 +32,8 @@
             "objclass": "PiratePlankProperties",
             "objdata": {
                 "PlankRows": [
-                    0,
-                    1,
-                    3,
-                    4
+                    2,
+                    3
                 ]
             }
         },
@@ -56,8 +52,8 @@
             ],
             "objclass": "WaveManagerProperties",
             "objdata": {
-                "FlagWaveInterval": 6,
-                "WaveCount": 6,
+                "FlagWaveInterval": 8,
+                "WaveCount": 8,
                 "Waves": [
                     [
                         "RTID(Wave1Action0@CurrentLevel)"
@@ -75,8 +71,13 @@
                         "RTID(Wave5Action0@CurrentLevel)"
                     ],
                     [
-                        "RTID(Wave6Action0@CurrentLevel)",
-                        "RTID(Wave6Action1@CurrentLevel)"
+                        "RTID(Wave6Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave7Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave8Action0@CurrentLevel)"
                     ]
                 ]
             }
@@ -98,7 +99,8 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate@ZombieTypes)"
+                        "Type": "RTID(seagull@ZombieTypes)",
+                        "Row": 5
                     }
                 ]
             }
@@ -111,7 +113,10 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                        "Type": "RTID(pirate@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate@ZombieTypes)"
                     }
                 ]
             }
@@ -124,14 +129,14 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                        "Type": "RTID(seagull@ZombieTypes)",
+                        "Row": 1
                     },
                     {
                         "Type": "RTID(swashbuckler@ZombieTypes)",
-                        "Row": 3
+                        "Row": 5
                     }
-                ],
-                "AdditionalPlantfood": 1
+                ]
             }
         },
         {
@@ -142,15 +147,13 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
-                    },
-                    {
                         "Type": "RTID(pirate@ZombieTypes)"
                     },
                     {
                         "Type": "RTID(pirate_armor1@ZombieTypes)"
                     }
-                ]
+                ],
+                "AdditionalPlantfood": 1
             }
         },
         {
@@ -161,14 +164,15 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                        "Type": "RTID(seagull@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(seagull@ZombieTypes)",
+                        "Row": 1
                     },
                     {
                         "Type": "RTID(pirate_armor1@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(swashbuckler@ZombieTypes)",
-                        "Row": 3
                     }
                 ]
             }
@@ -181,7 +185,39 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_flag@ZombieTypes)"
+                        "Type": "RTID(pirate_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave7Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(swashbuckler@ZombieTypes)",
+                        "Row": 1
+                    },
+                    {
+                        "Type": "RTID(swashbuckler@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(swashbuckler@ZombieTypes)",
+                        "Row": 5
+                    },
+                    {
+                        "Type": "RTID(seagull@ZombieTypes)",
+                        "Row": 5
                     },
                     {
                         "Type": "RTID(pirate_armor1@ZombieTypes)"
@@ -191,13 +227,42 @@
         },
         {
             "aliases": [
-                "Wave6Action1"
+                "Wave8Action0"
             ],
-            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
-                "GroupSize": 2,
-                "SwashbucklerCount": 3,
-                "TimeBetweenGroups": 1
+                "Zombies": [
+                    {
+                        "Type": "RTID(pirate_flag@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(seagull@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(seagull@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(seagull@ZombieTypes)",
+                        "Row": 1
+                    },
+                    {
+                        "Type": "RTID(swashbuckler@ZombieTypes)"
+                    }
+                ]
             }
         }
     ],

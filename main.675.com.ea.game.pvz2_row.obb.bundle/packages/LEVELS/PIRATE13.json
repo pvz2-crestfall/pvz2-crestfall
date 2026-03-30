@@ -1,0 +1,658 @@
+{
+    "objects": [
+        {
+            "objclass": "LevelDefinition",
+            "objdata": {
+                "Name": "PS-13 - Implications",
+                "Description": "[PLAYERS_TRIP_TO_PIRATE_SHIP]",
+                "LevelNumber": 1,
+                "Loot": "RTID(DefaultLoot@LevelModules)",
+                "StageModule": "RTID(PirateStage@LevelModules)",
+                "NormalPresentTable": "egypt_normal_01",
+                "ShinyPresentTable": "egypt_shiny_01",
+                "Modules": [
+                    "RTID(StandardIntro@LevelModules)",
+                    "RTID(ZombiesDeadWinCon@LevelModules)",
+                    "RTID(DefaultZombieWinCondition@LevelModules)",
+                    "RTID(PiratePlanks@CurrentLevel)",
+                    "RTID(ConveyorBelt@CurrentLevel)",
+                    "RTID(ChallengeModule@CurrentLevel)",
+                    "RTID(NewWaves@CurrentLevel)"
+                ],
+                "StartingSun": 50,
+                "AddBonusStartingSun": true,
+                "FirstRewardType": "unlock_plant",
+                "FirstRewardParam": "threepeater"
+            }
+        },
+        {
+            "aliases": [
+                "PiratePlanks"
+            ],
+            "objclass": "PiratePlankProperties",
+            "objdata": {
+                "PlankRows": [
+                    0,
+                    2,
+                    4
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "ConveyorBelt"
+            ],
+            "objclass": "ConveyorSeedBankProperties",
+            "objdata": {
+                "DropDelayConditions": [
+                    {
+                        "Delay": 2,
+                        "MaxPackets": 0
+                    },
+                    {
+                        "Delay": 4,
+                        "MaxPackets": 2
+                    },
+                    {
+                        "Delay": 6,
+                        "MaxPackets": 4
+                    },
+                    {
+                        "Delay": 8,
+                        "MaxPackets": 8
+                    }
+                ],
+                "SpeedConditions": [
+                    {
+                        "MaxPackets": 0,
+                        "Speed": 100
+                    }
+                ],
+                "InitialPlantList": [
+                    {
+                        "PlantType": "peashooter",
+                        "Weight": 100,
+                        "MaxCount": 10,
+                        "MaxWeightFactor": 0.5
+                    },
+                    {
+                        "PlantType": "snowpea",
+                        "Weight": 40,
+                        "MaxCount": 5,
+                        "MaxWeightFactor": 0.1
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "WaveManagerProps"
+            ],
+            "objclass": "WaveManagerProperties",
+            "objdata": {
+                "FlagWaveInterval": 6,
+                "WaveCount": 12,
+                "Waves": [
+                    [
+                        "RTID(Wave1Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave2Action0@CurrentLevel)",
+                        "RTID(Wave2Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave3Action0@CurrentLevel)",
+                        "RTID(Wave3Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave4Action0@CurrentLevel)",
+                        "RTID(Wave4Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave5Action0@CurrentLevel)",
+                        "RTID(Wave5Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave6Action0@CurrentLevel)",
+                        "RTID(Wave6Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave7Action0@CurrentLevel)",
+                        "RTID(Wave7Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave8Action0@CurrentLevel)",
+                        "RTID(Wave8Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave9Action0@CurrentLevel)",
+                        "RTID(Wave9Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave10Action0@CurrentLevel)",
+                        "RTID(Wave10Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave11Action0@CurrentLevel)",
+                        "RTID(Wave11Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave12Action0@CurrentLevel)",
+                        "RTID(Wave12Action1@CurrentLevel)"
+                    ]
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "NewWaves"
+            ],
+            "objclass": "WaveManagerModuleProperties",
+            "objdata": {
+                "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
+            }
+        },
+        {
+            "aliases": [
+                "Wave1Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave2Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave2Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(threepeater@PlantTypes)",
+                        "MaxCount": 1,
+                        "MaxWeightFactor": 0,
+                        "Weight": 100000,
+                        "MaxDelivered": 1
+                    }
+                ],
+                "Remove": []
+            }
+        },
+        {
+            "aliases": [
+                "Wave3Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)"
+                    }
+                ],
+                "AdditionalPlantfood": 1
+            }
+        },
+        {
+            "aliases": [
+                "Wave3Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [],
+                "Remove": [
+                    {
+                        "Type": "RTID(threepeater@PlantTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave4Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave4Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(threepeater@PlantTypes)",
+                        "MaxCount": 2,
+                        "MaxWeightFactor": 0,
+                        "Weight": 100000,
+                        "MaxDelivered": 1
+                    }
+                ],
+                "Remove": []
+            }
+        },
+        {
+            "aliases": [
+                "Wave5Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave5Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [],
+                "Remove": [
+                    {
+                        "Type": "RTID(threepeater@PlantTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave6Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 4
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_imp@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_imp@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_imp@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_imp@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave6Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(cherry_bomb@PlantTypes)",
+                        "MaxCount": 1,
+                        "MaxWeightFactor": 0,
+                        "Weight": 100000,
+                        "MaxDelivered": 1
+                    },
+                    {
+                        "Type": "RTID(repeater@PlantTypes)",
+                        "Weight": 10
+                    }
+                ],
+                "Remove": []
+            }
+        },
+        {
+            "aliases": [
+                "Wave7Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave7Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(peashooter@PlantTypes)",
+                        "MaxCount": 10,
+                        "MaxWeightFactor": 0.1,
+                        "Weight": 50
+                    }
+                ],
+                "Remove": [
+                    {
+                        "Type": "RTID(cherry_bomb@PlantTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave8Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 1
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 4
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 5
+                    },
+                    {
+                        "Type": "RTID(pirate_barrel@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_barrel@ZombieTypes)"
+                    }
+                ],
+                "AdditionalPlantfood": 1
+            }
+        },
+        {
+            "aliases": [
+                "Wave8Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(threepeater@PlantTypes)",
+                        "MaxCount": 3,
+                        "MaxWeightFactor": 0,
+                        "Weight": 100000,
+                        "MaxDelivered": 1
+                    }
+                ],
+                "Remove": []
+            }
+        },
+        {
+            "aliases": [
+                "Wave9Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)",
+                        "Row": 1
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)",
+                        "Row": 3
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)",
+                        "Row": 5
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 4
+                    },
+                    {
+                        "Type": "RTID(pirate_barrel@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_barrel@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave9Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [],
+                "Remove": [
+                    {
+                        "Type": "RTID(threepeater@PlantTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave10Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave10Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(threepeater@PlantTypes)",
+                        "MaxCount": 4,
+                        "MaxWeightFactor": 1,
+                        "Weight": 100000,
+                        "MaxDelivered": 1
+                    }
+                ],
+                "Remove": []
+            }
+        },
+        {
+            "aliases": [
+                "Wave11Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave11Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [],
+                "Remove": [
+                    {
+                        "Type": "RTID(threepeater@PlantTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave12Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 1
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 3
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 4
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)",
+                        "Row": 5
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)",
+                        "Row": 1
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)",
+                        "Row": 3
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)",
+                        "Row": 5
+                    },
+                    {
+                        "Type": "RTID(barrelroller@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_barrel@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_barrel@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_barrel@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cannon@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave12Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(cherry_bomb@PlantTypes)",
+                        "MaxCount": 1,
+                        "MaxWeightFactor": 0,
+                        "Weight": 100000,
+                        "MaxDelivered": 1
+                    }
+                ],
+                "Remove": []
+            }
+        }
+    ],
+    "version": 1
+}

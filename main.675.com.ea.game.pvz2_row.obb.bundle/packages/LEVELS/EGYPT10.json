@@ -27,7 +27,9 @@
             }
         },
         {
-            "aliases": ["ConveyorBelt"],
+            "aliases": [
+                "ConveyorBelt"
+            ],
             "objclass": "ConveyorSeedBankProperties",
             "objdata": {
                 "DropDelayConditions": [
@@ -74,13 +76,6 @@
                         "MaxWeightFactor": 0
                     },
                     {
-                        "PlantType": "iceburg",
-                        "Weight": 10,
-                        "MaxCount": 2,
-                        "MaxWeightFactor": 0,
-                        "ForceBoosted": true
-                    },
-                    {
                         "PlantType": "potatomine",
                         "Weight": 50,
                         "MaxCount": 2,
@@ -112,7 +107,9 @@
             }
         },
         {
-            "aliases": ["BeatTheLevelChallenge"],
+            "aliases": [
+                "BeatTheLevelChallenge"
+            ],
             "objclass": "StarChallengeBeatTheLevelProps",
             "objdata": {
                 "Description": "Survive a massive attack in Ancient Egypt",
@@ -120,15 +117,23 @@
             }
         },
         {
-            "aliases": ["ChallengeModule"],
+            "aliases": [
+                "ChallengeModule"
+            ],
             "objclass": "StarChallengeModuleProperties",
             "objdata": {
-                "Challenges": [["RTID(BeatTheLevelChallenge@CurrentLevel)"]],
+                "Challenges": [
+                    [
+                        "RTID(BeatTheLevelChallenge@CurrentLevel)"
+                    ]
+                ],
                 "ChallengesAlwaysAvailable": true
             }
         },
         {
-            "aliases": ["Gravestones"],
+            "aliases": [
+                "Gravestones"
+            ],
             "objclass": "GravestoneProperties",
             "objdata": {
                 "ForceSpawnData": [
@@ -224,38 +229,86 @@
             }
         },
         {
-            "aliases": ["WaveManagerProps"],
+            "aliases": [
+                "WaveManagerProps"
+            ],
             "objclass": "WaveManagerProperties",
             "objdata": {
                 "FlagWaveInterval": 7,
                 "WaveCount": 14,
                 "Waves": [
-                    ["RTID(Wave1Action0@CurrentLevel)"],
-                    ["RTID(Wave2Action0@CurrentLevel)"],
-                    ["RTID(Wave3Action0@CurrentLevel)", "RTID(Wave3Action1@CurrentLevel)"],
-                    ["RTID(Wave4Action0@CurrentLevel)"],
-                    ["RTID(Wave5Action0@CurrentLevel)", "RTID(Wave5Action1@CurrentLevel)"],
-                    ["RTID(Wave6Action0@CurrentLevel)", "RTID(Wave6Action1@CurrentLevel)"],
-                    ["RTID(Wave7Action0@CurrentLevel)"],
-                    ["RTID(Wave8Action0@CurrentLevel)"],
-                    ["RTID(Wave9Action0@CurrentLevel)", "RTID(Wave9Action1@CurrentLevel)", "RTID(Wave9Action2@CurrentLevel)"],
-                    ["RTID(Wave10Action0@CurrentLevel)"],
-                    ["RTID(Wave11Action0@CurrentLevel)", "RTID(Wave11Action1@CurrentLevel)"],
-                    ["RTID(Wave12Action0@CurrentLevel)"],
-                    ["RTID(Wave13Action0@CurrentLevel)"],
-                    ["RTID(Wave14Action0@CurrentLevel)", "RTID(Wave14Action1@CurrentLevel)", "RTID(Wave14Action2@CurrentLevel)"]
+                    [
+                        "RTID(Wave1Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave2Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave3Action0@CurrentLevel)",
+                        "RTID(Wave3Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave4Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave5Action0@CurrentLevel)",
+                        "RTID(Wave5Action1@CurrentLevel)",
+                        "RTID(Wave5Action2@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave6Action0@CurrentLevel)",
+                        "RTID(Wave6Action1@CurrentLevel)",
+                        "RTID(Wave6Action2@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave7Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave8Action0@CurrentLevel)",
+                        "RTID(Wave8Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave9Action0@CurrentLevel)",
+                        "RTID(Wave9Action1@CurrentLevel)",
+                        "RTID(Wave9Action2@CurrentLevel)",
+                        "RTID(Wave9Action3@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave10Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave11Action0@CurrentLevel)",
+                        "RTID(Wave11Action1@CurrentLevel)",
+                        "RTID(Wave11Action2@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave12Action0@CurrentLevel)",
+                        "RTID(Wave12Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave13Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave14Action0@CurrentLevel)",
+                        "RTID(Wave14Action1@CurrentLevel)",
+                        "RTID(Wave14Action2@CurrentLevel)"
+                    ]
                 ]
             }
         },
         {
-            "aliases": ["NewWaves"],
+            "aliases": [
+                "NewWaves"
+            ],
             "objclass": "WaveManagerModuleProperties",
             "objdata": {
                 "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
             }
         },
         {
-            "aliases": ["Wave1Action0"],
+            "aliases": [
+                "Wave1Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -272,7 +325,9 @@
             }
         },
         {
-            "aliases": ["Wave2Action0"],
+            "aliases": [
+                "Wave2Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -290,7 +345,9 @@
             }
         },
         {
-            "aliases": ["Wave3Action0"],
+            "aliases": [
+                "Wave3Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -310,7 +367,9 @@
             }
         },
         {
-            "aliases": ["Wave3Action1"],
+            "aliases": [
+                "Wave3Action1"
+            ],
             "objclass": "SpawnGravestonesWaveActionProps",
             "objdata": {
                 "GravestonePool": [
@@ -428,7 +487,9 @@
             }
         },
         {
-            "aliases": ["Wave4Action0"],
+            "aliases": [
+                "Wave4Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -455,7 +516,9 @@
             }
         },
         {
-            "aliases": ["Wave5Action0"],
+            "aliases": [
+                "Wave5Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -466,7 +529,9 @@
             }
         },
         {
-            "aliases": ["Wave5Action1"],
+            "aliases": [
+                "Wave5Action1"
+            ],
             "objclass": "StormZombieSpawnerProps",
             "objdata": {
                 "ColumnStart": 6,
@@ -500,7 +565,28 @@
             }
         },
         {
-            "aliases": ["Wave6Action0"],
+            "aliases": [
+                "Wave5Action2"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(iceburg@PlantTypes)",
+                        "MaxCount": 3,
+                        "MaxWeightFactor": 0,
+                        "Weight": 100000,
+                        "MaxDelivered": 1,
+                        "ForceBoosted": true
+                    }
+                ],
+                "Remove": []
+            }
+        },
+        {
+            "aliases": [
+                "Wave6Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -527,7 +613,9 @@
             }
         },
         {
-            "aliases": ["Wave6Action1"],
+            "aliases": [
+                "Wave6Action1"
+            ],
             "objclass": "SpawnGravestonesWaveActionProps",
             "objdata": {
                 "GravestonePool": [
@@ -669,7 +757,23 @@
             }
         },
         {
-            "aliases": ["Wave7Action0"],
+            "aliases": [
+                "Wave6Action2"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [],
+                "Remove": [
+                    {
+                        "Type": "RTID(iceburg@PlantTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave7Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -703,7 +807,9 @@
             }
         },
         {
-            "aliases": ["Wave8Action0"],
+            "aliases": [
+                "Wave8Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -744,7 +850,28 @@
             }
         },
         {
-            "aliases": ["Wave9Action0"],
+            "aliases": [
+                "Wave8Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(iceburg@PlantTypes)",
+                        "MaxCount": 3,
+                        "MaxWeightFactor": 0,
+                        "Weight": 100000,
+                        "MaxDelivered": 1,
+                        "ForceBoosted": true
+                    }
+                ],
+                "Remove": []
+            }
+        },
+        {
+            "aliases": [
+                "Wave9Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -770,7 +897,9 @@
             }
         },
         {
-            "aliases": ["Wave9Action1"],
+            "aliases": [
+                "Wave9Action1"
+            ],
             "objclass": "StormZombieSpawnerProps",
             "objdata": {
                 "ColumnStart": 6,
@@ -795,7 +924,9 @@
             }
         },
         {
-            "aliases": ["Wave9Action2"],
+            "aliases": [
+                "Wave9Action2"
+            ],
             "objclass": "SpawnGravestonesWaveActionProps",
             "objdata": {
                 "GravestonePool": [
@@ -900,7 +1031,23 @@
             }
         },
         {
-            "aliases": ["Wave10Action0"],
+            "aliases": [
+                "Wave9Action3"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [],
+                "Remove": [
+                    {
+                        "Type": "RTID(iceburg@PlantTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave10Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -933,7 +1080,9 @@
             }
         },
         {
-            "aliases": ["Wave11Action0"],
+            "aliases": [
+                "Wave11Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -983,7 +1132,9 @@
             }
         },
         {
-            "aliases": ["Wave11Action1"],
+            "aliases": [
+                "Wave11Action1"
+            ],
             "objclass": "StormZombieSpawnerProps",
             "objdata": {
                 "ColumnStart": 4,
@@ -1008,7 +1159,27 @@
             }
         },
         {
-            "aliases": ["Wave12Action0"],
+            "aliases": [
+                "Wave11Action2"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [
+                    {
+                        "Type": "RTID(iceburg@PlantTypes)",
+                        "MaxCount": 3,
+                        "MaxWeightFactor": 0,
+                        "Weight": 100000,
+                        "MaxDelivered": 1
+                    }
+                ],
+                "Remove": []
+            }
+        },
+        {
+            "aliases": [
+                "Wave12Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -1053,7 +1224,23 @@
             }
         },
         {
-            "aliases": ["Wave13Action0"],
+            "aliases": [
+                "Wave12Action1"
+            ],
+            "objclass": "ModifyConveyorWaveActionProps",
+            "objdata": {
+                "Add": [],
+                "Remove": [
+                    {
+                        "Type": "RTID(iceburg@PlantTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave13Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -1091,7 +1278,9 @@
             }
         },
         {
-            "aliases": ["Wave14Action0"],
+            "aliases": [
+                "Wave14Action0"
+            ],
             "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
                 "Zombies": [
@@ -1152,7 +1341,9 @@
             }
         },
         {
-            "aliases": ["Wave14Action1"],
+            "aliases": [
+                "Wave14Action1"
+            ],
             "objclass": "StormZombieSpawnerProps",
             "objdata": {
                 "ColumnStart": 6,
@@ -1177,7 +1368,9 @@
             }
         },
         {
-            "aliases": ["Wave14Action2"],
+            "aliases": [
+                "Wave14Action2"
+            ],
             "objclass": "SpawnGravestonesWaveActionProps",
             "objdata": {
                 "GravestonePool": [

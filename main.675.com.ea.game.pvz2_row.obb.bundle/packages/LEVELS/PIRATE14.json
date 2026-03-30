@@ -3,7 +3,7 @@
         {
             "objclass": "LevelDefinition",
             "objdata": {
-                "Name": "PS-1 - Traverse the Seas",
+                "Name": "PS-14 - Chunk of Wood",
                 "Description": "[PLAYERS_TRIP_TO_PIRATE_SHIP]",
                 "LevelNumber": 1,
                 "Loot": "RTID(DefaultLoot@LevelModules)",
@@ -18,13 +18,10 @@
                     "RTID(SeedBank@CurrentLevel)",
                     "RTID(ChallengeModule@CurrentLevel)",
                     "RTID(NewWaves@CurrentLevel)",
-                    "RTID(DefaultSunDropper@LevelModules)",
-                    "RTID(PirateMowers@LevelModules)"
+                    "RTID(DefaultSunDropper@LevelModules)"
                 ],
                 "StartingSun": 50,
-                "AddBonusStartingSun": true,
-                "FirstRewardType": "unlock_plant",
-                "FirstRewardParam": "kernelpult"
+                "AddBonusStartingSun": true
             }
         },
         {
@@ -34,10 +31,9 @@
             "objclass": "PiratePlankProperties",
             "objdata": {
                 "PlankRows": [
-                    0,
                     1,
-                    3,
-                    4
+                    2,
+                    3
                 ]
             }
         },
@@ -47,7 +43,10 @@
             ],
             "objclass": "SeedBankProperties",
             "objdata": {
-                "SelectionMethod": "chooser"
+                "SelectionMethod": "chooser",
+                "PlantExcludeList": [
+                    "springbean"
+                ]
             }
         },
         {
@@ -56,8 +55,8 @@
             ],
             "objclass": "WaveManagerProperties",
             "objdata": {
-                "FlagWaveInterval": 6,
-                "WaveCount": 6,
+                "FlagWaveInterval": 7,
+                "WaveCount": 7,
                 "Waves": [
                     [
                         "RTID(Wave1Action0@CurrentLevel)"
@@ -75,8 +74,10 @@
                         "RTID(Wave5Action0@CurrentLevel)"
                     ],
                     [
-                        "RTID(Wave6Action0@CurrentLevel)",
-                        "RTID(Wave6Action1@CurrentLevel)"
+                        "RTID(Wave6Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave7Action0@CurrentLevel)"
                     ]
                 ]
             }
@@ -98,7 +99,8 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate@ZombieTypes)"
+                        "Type": "RTID(pirate@ZombieTypes)",
+                        "Row": 2
                     }
                 ]
             }
@@ -111,7 +113,8 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                        "Type": "RTID(pirate_gargantuar@ZombieTypes)",
+                        "Row": 3
                     }
                 ]
             }
@@ -124,11 +127,7 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(swashbuckler@ZombieTypes)",
-                        "Row": 3
+                        "Type": "RTID(pirate_armor2@ZombieTypes)"
                     }
                 ],
                 "AdditionalPlantfood": 1
@@ -142,13 +141,15 @@
             "objdata": {
                 "Zombies": [
                     {
+                        "Type": "RTID(swashbuckler@ZombieTypes)",
+                        "Row": 1
+                    },
+                    {
                         "Type": "RTID(pirate_armor1@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(pirate@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                        "Type": "RTID(swashbuckler@ZombieTypes)",
+                        "Row": 5
                     }
                 ]
             }
@@ -161,14 +162,12 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                        "Type": "RTID(pirate@ZombieTypes)",
+                        "Row": 4
                     },
                     {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
-                    },
-                    {
-                        "Type": "RTID(swashbuckler@ZombieTypes)",
-                        "Row": 3
+                        "Type": "RTID(pirate_gargantuar@ZombieTypes)",
+                        "Row": 2
                     }
                 ]
             }
@@ -181,23 +180,41 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_flag@ZombieTypes)"
+                        "Type": "RTID(swashbuckler@ZombieTypes)"
                     },
                     {
-                        "Type": "RTID(pirate_armor1@ZombieTypes)"
+                        "Type": "RTID(pirate_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate@ZombieTypes)"
                     }
-                ]
+                ],
+                "AdditionalPlantfood": 1
             }
         },
         {
             "aliases": [
-                "Wave6Action1"
+                "Wave7Action0"
             ],
-            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
             "objdata": {
-                "GroupSize": 2,
-                "SwashbucklerCount": 3,
-                "TimeBetweenGroups": 1
+                "Zombies": [
+                    {
+                        "Type": "RTID(pirate_gargantuar@ZombieTypes)",
+                        "Row": 3
+                    },
+                    {
+                        "Type": "RTID(pirate_gargantuar@ZombieTypes)",
+                        "Row": 4
+                    },
+                    {
+                        "Type": "RTID(swashbuckler@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(pirate_armor4@ZombieTypes)",
+                        "Row": 2
+                    }
+                ]
             }
         }
     ],
