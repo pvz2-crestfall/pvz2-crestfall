@@ -3665,7 +3665,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "TypeName": "torchwood",
                 "UsesLeveling": false
             }
@@ -3751,7 +3750,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 200,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -4258,7 +4256,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 150,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -4746,7 +4743,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 150,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -4933,7 +4929,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 200,
                 "StringStats": [
                     {
                         "Name": "Area",
@@ -5100,7 +5095,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Area",
@@ -5165,7 +5159,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 150,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -5473,7 +5466,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 200,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -5578,7 +5570,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 150,
                 "StringStats": [
                     {
                         "Name": "SolarTomatoSunProduction",
@@ -5757,7 +5748,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -6096,7 +6086,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -6569,7 +6558,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [],
                 "TypeName": "shadowpeashooter",
                 "UsesLeveling": false
@@ -6664,7 +6652,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "TypeName": "poisonpeashooter",
                 "UsesLeveling": false
             }
@@ -6738,7 +6725,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -6903,7 +6889,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -6987,7 +6972,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -7122,7 +7106,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -7191,7 +7174,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -7282,7 +7264,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -7331,7 +7312,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -7384,7 +7364,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "StringStats": [
                     {
                         "Context": "Normal",
@@ -7428,7 +7407,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "StringStats": [
                     {
                         "Context": "Normal",
@@ -7508,7 +7486,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "TypeName": "icebloom",
                 "UsesLeveling": false
             }
@@ -7573,7 +7550,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 100,
                 "TypeName": "ultomato",
                 "UsesLeveling": false
             }
@@ -7650,7 +7626,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -7703,7 +7678,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 200,
                 "TypeName": "gumnut",
                 "UsesLeveling": false
             }
@@ -7760,7 +7734,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Context": "PhatbeetOuterPF",
@@ -7853,7 +7826,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [3],
-                "SeedPacketCost": 250,
                 "TypeName": "tumbleweed",
                 "UsesLeveling": false
             }
@@ -7894,7 +7866,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "TypeName": "puffball",
                 "UsesLeveling": false
             }
@@ -7957,7 +7928,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -8010,7 +7980,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "TypeName": "olivepit",
                 "UsesLeveling": false
             }
@@ -8081,7 +8050,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "PlantfoodShield",
@@ -8144,7 +8112,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Context": "Normal",
@@ -8208,7 +8175,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -8287,7 +8253,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -8385,7 +8350,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -8442,7 +8406,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [],
                 "TypeName": "boomflower",
                 "UsesLeveling": false
@@ -8490,7 +8453,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "TypeName": "hocus",
                 "UsesLeveling": false
             }
@@ -8525,7 +8487,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -8628,7 +8589,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Area",
@@ -8690,7 +8650,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -8755,7 +8714,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Context": "Normal",
@@ -8823,7 +8781,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -8931,7 +8888,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -9022,7 +8978,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -9063,7 +9018,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -9112,7 +9066,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Area",
@@ -9193,7 +9146,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Area",
@@ -9276,7 +9228,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Area",
@@ -9325,7 +9276,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -9404,7 +9354,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Range",
@@ -9465,7 +9414,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "BlockoliShield",
@@ -9523,7 +9471,6 @@
                 "LevelCoins": [],
                 "LevelXP": [],
                 "PlantTier": [1],
-                "SeedPacketCost": 250,
                 "StringStats": [
                     {
                         "Name": "Area",
