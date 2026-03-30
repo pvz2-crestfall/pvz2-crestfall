@@ -128,7 +128,7 @@
                 "Properties": "RTID(MelonpultDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig",
                 "PopAnim": "POPANIM_PLANT_MELONPULT",
-                "HomeWorld": "cowboy",
+                "HomeWorld": "pirate",
                 "SeedChooserBigVerticalOffset": 0.46,
                 "SeedChooserBigHorizontalOffset": 0.02,
                 "SeedChooserBigScale": 1.25,
@@ -317,8 +317,7 @@
                 "SeedChooserBigHorizontalOffset": -0.04,
                 "SeedChooserBigScale": 1.15,
                 "SeasonsVerticalOffset": 30.0,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "dark",
                 "Families": ["Appeasemint"]
             }
         },
@@ -371,7 +370,7 @@
                 "AnimRigClass": "PlantAnimRig",
                 "PopAnim": "POPANIM_PLANT_SNOWPEA",
                 "SeedChooserBigVerticalOffset": 0.34,
-                "Premium": false,
+                "HomeWorld": "egypt",
                 "Families": ["Wintermint"]
             }
         },
@@ -530,8 +529,7 @@
                 "Properties": "RTID(StarFruitDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig",
                 "PopAnim": "POPANIM_PLANT_STARFRUIT",
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "future",
                 "Families": ["Appeasemint"]
             }
         },
@@ -623,7 +621,7 @@
                 "AnimRigClass": "PlantAnimRig_Spikerock",
                 "PopAnim": "POPANIM_PLANT_SPIKEROCK",
                 "SeedChooserBigVerticalOffset": 0.15,
-                "HomeWorld": "pirate",
+                "HomeWorld": "cowboy",
                 "HasStoreShadow": false,
                 "Families": ["Spearmint"]
             }
@@ -655,7 +653,7 @@
                 "SeedChooserBigVerticalOffset": 0.4,
                 "SeedChooserBigScale": 1.3,
                 "PopAnim": "POPANIM_PLANT_SQUASH",
-                "Premium": false,
+                "HomeWorld": "pirate",
                 "Families": ["Enforcemint"]
             }
         },
@@ -782,8 +780,7 @@
                 "PopAnim": "POPANIM_PLANT_HYPNOSHROOM",
                 "SeedChooserBigVerticalOffset": 0.35,
                 "SeedChooserBigHorizontalOffset": 0.02,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "dark",
                 "Families": ["Enchantmint"]
             }
         },
@@ -800,8 +797,7 @@
                 "SeedChooserBigVerticalOffset": 0.4,
                 "SeedChooserBigHorizontalOffset": 0.0,
                 "SeedChooserBigScale": 1.3,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "dark",
                 "Families": ["Reinforcemint"]
             }
         },
@@ -818,8 +814,7 @@
                 "SeedChooserBigVerticalOffset": 0.39,
                 "SeedChooserBigHorizontalOffset": -0.04,
                 "SeedChooserBigScale": 1.35,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "iceage",
                 "Families": ["Peppermint"]
             }
         },
@@ -867,7 +862,7 @@
                 "PopAnim": "POPANIM_PLANT_HOMINGTHISTLE",
                 "SeedChooserBigVerticalOffset": 0.34,
                 "SeedChooserBigScale": 1.3,
-                "Premium": false,
+                "HomeWorld": "beach",
                 "Families": ["Spearmint"]
             }
         },
@@ -901,7 +896,7 @@
                 "SeedChooserBigVerticalOffset": 0.6,
                 "SeedChooserBigHorizontalOffset": 0.02,
                 "SeedChooserBigScale": 1.15,
-                "Premium": false,
+                "HomeWorld": "beach",
                 "Families": ["Enforcemint"]
             }
         },
@@ -999,8 +994,7 @@
                 "Properties": "RTID(HurrikaleDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig_Blover",
                 "PopAnim": "POPANIM_PLANT_HURRIKALE",
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "iceage",
                 "SeedChooserBigVerticalOffset": 0.45,
                 "SeedChooserBigHorizontalOffset": 0.0,
                 "SeedChooserBigScale": 1.3,
@@ -1018,7 +1012,7 @@
                 "AnimRigClass": "PlantAnimRig",
                 "PopAnim": "POPANIM_PLANT_ROTORUTABAGA",
                 "SeedChooserBigVerticalOffset": 0.34,
-                "HomeWorld": "iceage",
+                "HomeWorld": "beach",
                 "Families": ["Appeasemint"]
             }
         },
@@ -1228,8 +1222,7 @@
                 "SeedChooserBigHorizontalOffset": -0.04,
                 "SeedChooserBigVerticalOffset": 0.35,
                 "ShadowScale": 0.7,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "lostcity",
                 "Families": ["Peppermint"]
             }
         },
@@ -1246,8 +1239,7 @@
                 "SeedChooserVerticalOffset": 0.78,
                 "SeedChooserBigVerticalOffset": 0.34,
                 "SeedChooserBigHorizontalOffset": -0.09,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "lostcity",
                 "Families": ["Enlightenmint"]
             }
         },
@@ -1309,8 +1301,7 @@
                 "Properties": "RTID(CactusDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig_Cactus",
                 "PopAnim": "POPANIM_PLANT_CACTUS",
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "eighties",
                 "SeedChooserBigVerticalOffset": 0.54,
                 "SeedChooserBigHorizontalOffset": -0.03,
                 "SeedChooserBigScale": 1.1,
@@ -1380,8 +1371,7 @@
                 "SeedChooserBigVerticalOffset": 0.12,
                 "SeedChooserBigHorizontalOffset": 0.0,
                 "SeedChooserBigScale": 1.7,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "eighties",
                 "Families": ["Filamint"]
             }
         },
@@ -1758,12 +1748,11 @@
                 "Properties": "RTID(WasabiWhipDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig_WasabiWhip",
                 "PopAnim": "POPANIM_PLANT_WASABIWHIP",
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
                 "SeedChooserBigVerticalOffset": 0.42,
                 "SeedChooserBigHorizontalOffset": -0.17,
                 "SeedChooserBigScale": 1.25,
                 "HasStoreShadow": false,
+                "HomeWorld": "iceage",
                 "Families": ["Enforcemint"]
             }
         },
@@ -1832,11 +1821,10 @@
                 "Properties": "RTID(ParsnipDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig_Parsnip",
                 "PopAnim": "POPANIM_PLANT_PARSNIP",
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
                 "SeedChooserBigVerticalOffset": 0.42,
                 "SeedChooserBigHorizontalOffset": 0,
                 "SeedChooserBigScale": 1.3,
+                "HomeWorld": "dino",
                 "Families": ["Enforcemint"]
             }
         },
@@ -1883,8 +1871,7 @@
                 "AnimRigClass": "PlantAnimRig_HotDate",
                 "PopAnim": "POPANIM_PLANT_HOTDATE",
                 "SeedChooserBigVerticalOffset": 0.35,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "iceage",
                 "Families": ["Peppermint"]
             }
         },
@@ -1946,8 +1933,7 @@
                 "SeedChooserBigVerticalOffset": 0.12,
                 "SeedChooserBigHorizontalOffset": 0.0,
                 "SeedChooserBigScale": 1.7,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "eighties",
                 "Families": ["Filamint"]
             }
         },
@@ -2321,8 +2307,7 @@
                 "Properties": "RTID(ShadowPeashooterDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig",
                 "PopAnim": "POPANIM_PLANT_SHADOWPEASHOOTER",
-                "AlmanacBackdropName": "warp",
-                "Premium": true,
+                "HomeWorld": "modern",
                 "Families": ["Concealmint"]
             }
         },
@@ -2499,12 +2484,11 @@
                     "PlantLightningReedHit",
                     "PlantElectriciteaAudio"
                 ],
+                "HomeWorld": "cowboy",
                 "PlantPreviewResourceGroups": ["PlantElectricitea"],
                 "Properties": "RTID(ElectriciteaDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig_Electricitea",
                 "PopAnim": "POPANIM_PLANT_ELECTRICI_TEA",
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
                 "Families": ["Filamint"]
             }
         },
@@ -2711,7 +2695,7 @@
                 "SeedChooserBigHorizontalOffset": 0.0,
                 "SeedChooserBigScale": 1.2,
                 "SeasonsVerticalOffset": -25.0,
-                "Premium": false,
+                "HomeWorld": "cowboy",
                 "Families": ["Appeasemint"]
             }
         },
@@ -2728,8 +2712,7 @@
                 "SeedChooserBigVerticalOffset": 0.4,
                 "SeedChooserBigHorizontalOffset": 0.02,
                 "SeedChooserBigScale": 1.25,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "modern",
                 "Families": ["Concealmint"]
             }
         },
@@ -2845,8 +2828,7 @@
                 "AnimRigClass": "PlantAnimRig_Boingsetta",
                 "PopAnim": "POPANIM_PLANT_BOINGSETTA",
                 "SeedChooserBigVerticalOffset": 0.34,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "dino",
                 "Families": ["Wintermint"]
             }
         },
@@ -2877,8 +2859,7 @@
                 "PopAnim": "POPANIM_PLANT_GLOOMVINE",
                 "SeedChooserBigVerticalOffset": 0.22,
                 "SeasonsVerticalOffset": -20.3,
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "modern",
                 "Families": ["Concealmint"]
             }
         },
@@ -2892,8 +2873,7 @@
                 "Properties": "RTID(DraftodilDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig",
                 "PopAnim": "POPANIM_PLANT_DRAFTODIL",
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "lostcity",
                 "SeedChooserBigVerticalOffset": 0.45,
                 "SeedChooserBigHorizontalOffset": 0.0,
                 "SeedChooserBigScale": 1.3,
@@ -2963,7 +2943,7 @@
                 "AnimRigClass": "PlantAnimRig",
                 "PopAnim": "POPANIM_PLANT_SOLARSAGE",
                 "MasteryType": "piercing",
-                "Premium": false,
+                "HomeWorld": "beach",
                 "Families": ["Enlightenmint"]
             }
         },
@@ -2995,12 +2975,10 @@
                 "Properties": "RTID(NoctarineDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig_Noctarine",
                 "PopAnim": "POPANIM_PLANT_NOCTARINE",
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "modern",
                 "SeedChooserBigVerticalOffset": 0.42,
                 "SeedChooserBigHorizontalOffset": 0.03,
                 "SeedChooserBigScale": 1.2,
-                "AlmanacBackdropName": "warp",
                 "Families": ["Concealmint"]
             }
         },
@@ -3029,8 +3007,7 @@
                 "Properties": "RTID(HeathSeekerDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig_HeathSeeker",
                 "PopAnim": "POPANIM_PLANT_HEATHSEEKER",
-                "Premium": true,
-                "AlmanacBackdropName": "warp",
+                "HomeWorld": "dino",
                 "SeedChooserBigVerticalOffset": 0.45,
                 "SeedChooserBigHorizontalOffset": 0.02,
                 "SeedChooserBigScale": 1.25,
@@ -3145,9 +3122,8 @@
                 "Properties": "RTID(BrambleBushDefault@PlantProperties)",
                 "AnimRigClass": "PlantAnimRig_BrambleBush",
                 "PopAnim": "POPANIM_PLANT_BRAMBLEBUSH",
-                "Premium": true,
+                "HomeWorld": "dino",
                 "HasStoreShadow": false,
-                "AlmanacBackdropName": "warp",
                 "SeedChooserBigVerticalOffset": 0.33,
                 "SeedChooserBigHorizontalOffset": 0.02,
                 "SeedChooserBigScale": 1.3,
