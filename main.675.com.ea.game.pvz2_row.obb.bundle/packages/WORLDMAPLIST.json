@@ -242,7 +242,7 @@
                         "EntryPoint": "future_level_1",
                         "Difficulty": 3,
                         "LastLevel": ["future25"],
-                        "ComingSoon": false,
+                        "ComingSoon": true,
                         "Hidden": false,
                         "UniverseIconOffset": {
                             "mX": 17,
@@ -322,7 +322,7 @@
                         "EntryPoint": "dark_level_1",
                         "Difficulty": 4,
                         "LastLevel": ["dark20"],
-                        "ComingSoon": false,
+                        "ComingSoon": true,
                         "Hidden": false,
                         "UniverseIconOffset": {
                             "mX": 0,
@@ -426,7 +426,7 @@
                         "EntryPoint": "beach_level_1",
                         "Difficulty": 5,
                         "LastLevel": ["beach32"],
-                        "ComingSoon": false,
+                        "ComingSoon": true,
                         "Hidden": false,
                         "UniverseIconOffset": {
                             "mX": 0,
@@ -608,7 +608,7 @@
                         "EntryPoint": "iceage_level_1",
                         "Difficulty": 3,
                         "LastLevel": ["iceage30"],
-                        "ComingSoon": false,
+                        "ComingSoon": true,
                         "Hidden": false,
                         "UniverseIconOffset": {
                             "mX": 0,
@@ -754,7 +754,7 @@
                         "EntryPoint": "lostcity_level_1",
                         "Difficulty": 3,
                         "LastLevel": ["lostcity32"],
-                        "ComingSoon": false,
+                        "ComingSoon": true,
                         "DrawWorldName": true,
                         "Hidden": false,
                         "UniverseIconOffset": {
@@ -1046,7 +1046,7 @@
                         "EntryPoint": "dino_level_1",
                         "Difficulty": 4,
                         "LastLevel": ["dino32"],
-                        "ComingSoon": false,
+                        "ComingSoon": true,
                         "DrawWorldName": true,
                         "Hidden": false,
                         "UniverseIconOffset": {
@@ -1187,7 +1187,7 @@
                         "EntryPoint": "modern_level_1",
                         "Difficulty": 5,
                         "LastLevel": ["modern34"],
-                        "ComingSoon": false,
+                        "ComingSoon": true,
                         "DrawWorldName": true,
                         "Hidden": false,
                         "UniverseIconOffset": {
