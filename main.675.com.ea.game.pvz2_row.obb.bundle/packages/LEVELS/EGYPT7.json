@@ -5,7 +5,8 @@
             "objdata": {
                 "Name": "AE-7 - Natural Growth",
                 "Description": "[PLAYERS_TRIP_TO_EGYPT]",
-                "LevelNumber": 1,
+                "LevelNumber": 7,
+                "ForceToWorldMap": true,
                 "Loot": "RTID(DefaultLoot@LevelModules)",
                 "StageModule": "RTID(EgyptStage@LevelModules)",
                 "NormalPresentTable": "egypt_normal_01",

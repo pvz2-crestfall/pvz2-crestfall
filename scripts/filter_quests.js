@@ -9,7 +9,7 @@ const themes = new Set();
 quests.objects[0].objdata.Quests = quests.objects[0].objdata.Quests.filter((quest) => {
     quest = Object.values(quest)[0];
 
-    const filteredCategories = ['Unused', 'DailyPinataHunt', 'PremiumPlant'];
+    const filteredCategories = ['Unused', 'DailyPinataHunt', 'PremiumPlant', 'DailyActivities', 'Scheduled', 'Event'];
     const filteredThemes = ['Rift', 'Arena', 'Ads', 'LevelUp', 'PremiumSeeds', 'PremiumPlant', 'LevelOfTheDay'];
 
     categories.add(quest.QuestCategory);

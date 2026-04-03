@@ -243,12 +243,12 @@
                         "Difficulty": 3,
                         "LastLevel": ["future25"],
                         "ComingSoon": true,
-                        "Hidden": false,
+                        "Hidden": true,
                         "UniverseIconOffset": {
                             "mX": 17,
                             "mY": 0
                         },
-                        "Disabled": false,
+                        "Disabled": true,
                         "UseNightSpiral": false,
                         "DrawWorldName": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_FUTURE_TEMP_TEXTURE",
@@ -323,12 +323,12 @@
                         "Difficulty": 4,
                         "LastLevel": ["dark20"],
                         "ComingSoon": true,
-                        "Hidden": false,
+                        "Hidden": true,
                         "UniverseIconOffset": {
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": false,
+                        "Disabled": true,
                         "UseNightSpiral": true,
                         "DrawWorldName": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_DARK_TEXTURE",
@@ -427,12 +427,12 @@
                         "Difficulty": 5,
                         "LastLevel": ["beach32"],
                         "ComingSoon": true,
-                        "Hidden": false,
+                        "Hidden": true,
                         "UniverseIconOffset": {
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": false,
+                        "Disabled": true,
                         "UseNightSpiral": false,
                         "DrawWorldName": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_BEACH_TEXTURE",
@@ -609,12 +609,12 @@
                         "Difficulty": 3,
                         "LastLevel": ["iceage30"],
                         "ComingSoon": true,
-                        "Hidden": false,
+                        "Hidden": true,
                         "UniverseIconOffset": {
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": false,
+                        "Disabled": true,
                         "UseNightSpiral": false,
                         "DrawWorldName": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_ICEAGE_TEXTURE",
@@ -756,12 +756,12 @@
                         "LastLevel": ["lostcity32"],
                         "ComingSoon": true,
                         "DrawWorldName": true,
-                        "Hidden": false,
+                        "Hidden": true,
                         "UniverseIconOffset": {
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": false,
+                        "Disabled": true,
                         "UseNightSpiral": false,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_LOSTCITY_TEXTURE",
                         "PreviewResGroup": "DelayLoad_Background_LostCity_Compressed",
@@ -900,14 +900,14 @@
                         "EntryPoint": "eighties_level_1",
                         "Difficulty": 4,
                         "LastLevel": ["eighties32"],
-                        "ComingSoon": false,
+                        "ComingSoon": true,
                         "DrawWorldName": true,
-                        "Hidden": false,
+                        "Hidden": true,
                         "UniverseIconOffset": {
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": false,
+                        "Disabled": true,
                         "UseNightSpiral": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_EIGHTIES_TEXTURE",
                         "PreviewResGroup": "DelayLoad_Background_Eighties_Compressed",
@@ -1048,12 +1048,12 @@
                         "LastLevel": ["dino32"],
                         "ComingSoon": true,
                         "DrawWorldName": true,
-                        "Hidden": false,
+                        "Hidden": true,
                         "UniverseIconOffset": {
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": false,
+                        "Disabled": true,
                         "UseNightSpiral": false,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_DINO_TEXTURE",
                         "PreviewResGroup": "DelayLoad_Background_Dino_Compressed",
@@ -1180,7 +1180,6 @@
                             ]
                         }
                     },
-
                     {
                         "MapName": "modern",
                         "UnlockedFrom": "modern_stargate_start",
@@ -1189,12 +1188,12 @@
                         "LastLevel": ["modern34"],
                         "ComingSoon": true,
                         "DrawWorldName": true,
-                        "Hidden": false,
+                        "Hidden": true,
                         "UniverseIconOffset": {
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": false,
+                        "Disabled": true,
                         "UseNightSpiral": false,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_FRONTLAWN_ROW_05",
                         "PreviewResGroup": "DelayLoad_Background_FrontLawn",
