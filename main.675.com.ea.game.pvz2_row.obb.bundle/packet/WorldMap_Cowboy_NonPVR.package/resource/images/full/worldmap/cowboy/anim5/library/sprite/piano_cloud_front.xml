@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite/piano_cloud_front" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="piano_cloud_front">
+            <layers>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim5_42x23" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.809982" b="0.000000" c="0.000000" d="-0.809982" tx="-26.799999" ty="27.450001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

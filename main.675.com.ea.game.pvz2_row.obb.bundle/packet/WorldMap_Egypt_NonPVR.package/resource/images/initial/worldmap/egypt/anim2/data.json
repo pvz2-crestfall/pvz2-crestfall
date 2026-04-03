@@ -1,0 +1,27 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"anim2_23x23": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM2_ANIM2_23X23",
+			"dimension": {
+				"width": 23,
+				"height": 23
+			},
+			"additional": null
+		},
+		"anim2_74x75": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM2_ANIM2_74X75",
+			"dimension": {
+				"width": 74,
+				"height": 75
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

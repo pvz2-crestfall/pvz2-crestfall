@@ -1,0 +1,440 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/locked_idle" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="locked_idle">
+            <layers>
+                <DOMLayer name="27">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_egypt_pyramid_top" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="51.450001" ty="70.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="26">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_egypt_pyramid_base" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-138.649994" ty="175.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="25">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_front" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="135.000000" ty="193.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="24">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_completed_bottom_shadow" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="153.850006" ty="203.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="23">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_side_shadow" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="144.800003" ty="186.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="22">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_bubble_front" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="144.750000" ty="162.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="21">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.238190" b="0.000000" c="0.000000" d="0.238190" tx="152.699997" ty="199.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="20">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.104752" b="0.000000" c="0.000000" d="0.104752" tx="207.800003" ty="180.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="19">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.170135" b="0.000000" c="0.000000" d="0.170135" tx="218.649994" ty="192.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.623529"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="18">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.285828" b="0.000000" c="0.000000" d="0.285828" tx="165.000000" ty="187.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="17">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.170135" b="0.000000" c="0.000000" d="0.170135" tx="172.649994" ty="176.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="16">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.390244" b="0.000000" c="0.000000" d="0.390244" tx="194.149994" ty="183.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="15">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.479904" b="0.000000" c="0.000000" d="0.479904" tx="197.949997" ty="201.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="14">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.196091" b="0.000000" c="0.000000" d="0.196091" tx="178.750000" ty="207.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="13">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.392166" b="0.000000" c="0.000000" d="0.392166" tx="167.800003" ty="199.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="12">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.620895" b="0.000000" c="0.000000" d="0.620895" tx="180.649994" ty="194.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="11">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.218338" b="0.000000" c="0.000000" d="0.218338" tx="206.350006" ty="189.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="10">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.218338" b="0.000000" c="0.000000" d="0.218338" tx="185.250000" ty="187.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="9">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.218338" b="0.000000" c="0.000000" d="0.218338" tx="185.250000" ty="182.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="8">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.325424" b="0.000000" c="0.000000" d="0.325424" tx="214.649994" ty="202.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="7">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.325424" b="0.000000" c="0.000000" d="0.325424" tx="211.399994" ty="183.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="6">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.259674" b="0.000000" c="0.000000" d="0.259674" tx="196.449997" ty="172.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_sparkle_light" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.519348" b="0.000000" c="0.000000" d="0.519348" tx="170.050003" ty="184.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_bubble_back" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="144.750000" ty="162.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_back" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="135.000000" ty="167.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_bottom" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="136.199997" ty="183.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/node_danger_egypt_pyramid_back" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="87.349998" ty="103.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

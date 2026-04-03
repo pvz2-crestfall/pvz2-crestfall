@@ -1,0 +1,208 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_1725x1382" href="media/zomboss_node_cowboy_1725x1382.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_82x75" href="media/zomboss_node_cowboy_82x75.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_66x111" href="media/zomboss_node_cowboy_66x111.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_47x64" href="media/zomboss_node_cowboy_47x64.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_46x60" href="media/zomboss_node_cowboy_46x60.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_37x34" href="media/zomboss_node_cowboy_37x34.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_114x154" href="media/zomboss_node_cowboy_114x154.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_685x725" href="media/zomboss_node_cowboy_685x725.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_162x465" href="media/zomboss_node_cowboy_162x465.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_393x186" href="media/zomboss_node_cowboy_393x186.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_230x893" href="media/zomboss_node_cowboy_230x893.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_167x130" href="media/zomboss_node_cowboy_167x130.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_85x50" href="media/zomboss_node_cowboy_85x50.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_74x75" href="media/zomboss_node_cowboy_74x75.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_468x1135" href="media/zomboss_node_cowboy_468x1135.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_14x29" href="media/zomboss_node_cowboy_14x29.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_168x170" href="media/zomboss_node_cowboy_168x170.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_134x140" href="media/zomboss_node_cowboy_134x140.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_1725x1382_2" href="media/zomboss_node_cowboy_1725x1382_2.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_162x465_2" href="media/zomboss_node_cowboy_162x465_2.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_122x184" href="media/zomboss_node_cowboy_122x184.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_685x742" href="media/zomboss_node_cowboy_685x742.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_344x399" href="media/zomboss_node_cowboy_344x399.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_1719x1360" href="media/zomboss_node_cowboy_1719x1360.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_522x274" href="media/zomboss_node_cowboy_522x274.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_80x89" href="media/zomboss_node_cowboy_80x89.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_190x190" href="media/zomboss_node_cowboy_190x190.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_599x297" href="media/zomboss_node_cowboy_599x297.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_105x100" href="media/zomboss_node_cowboy_105x100.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_623x316" href="media/zomboss_node_cowboy_623x316.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_101x74" href="media/zomboss_node_cowboy_101x74.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_111x59" href="media/zomboss_node_cowboy_111x59.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_84x60" href="media/zomboss_node_cowboy_84x60.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_1423x442" href="media/zomboss_node_cowboy_1423x442.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_1725x1382_3" href="media/zomboss_node_cowboy_1725x1382_3.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_116x108" href="media/zomboss_node_cowboy_116x108.png"/>
+        <DOMBitmapItem name="media/zomboss_node_cowboy_678x728" href="media/zomboss_node_cowboy_678x728.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zomboss_node_cowboy_1725x1382.xml"/>
+        <Include href="image/zomboss_node_cowboy_82x75.xml"/>
+        <Include href="image/zomboss_node_cowboy_66x111.xml"/>
+        <Include href="image/zomboss_node_cowboy_47x64.xml"/>
+        <Include href="image/zomboss_node_cowboy_46x60.xml"/>
+        <Include href="image/zomboss_node_cowboy_37x34.xml"/>
+        <Include href="image/zomboss_node_cowboy_114x154.xml"/>
+        <Include href="image/zomboss_node_cowboy_685x725.xml"/>
+        <Include href="image/zomboss_node_cowboy_162x465.xml"/>
+        <Include href="image/zomboss_node_cowboy_393x186.xml"/>
+        <Include href="image/zomboss_node_cowboy_230x893.xml"/>
+        <Include href="image/zomboss_node_cowboy_167x130.xml"/>
+        <Include href="image/zomboss_node_cowboy_85x50.xml"/>
+        <Include href="image/zomboss_node_cowboy_74x75.xml"/>
+        <Include href="image/zomboss_node_cowboy_468x1135.xml"/>
+        <Include href="image/zomboss_node_cowboy_14x29.xml"/>
+        <Include href="image/zomboss_node_cowboy_168x170.xml"/>
+        <Include href="image/zomboss_node_cowboy_134x140.xml"/>
+        <Include href="image/zomboss_node_cowboy_1725x1382_2.xml"/>
+        <Include href="image/zomboss_node_cowboy_162x465_2.xml"/>
+        <Include href="image/zomboss_node_cowboy_122x184.xml"/>
+        <Include href="image/zomboss_node_cowboy_685x742.xml"/>
+        <Include href="image/zomboss_node_cowboy_344x399.xml"/>
+        <Include href="image/zomboss_node_cowboy_1719x1360.xml"/>
+        <Include href="image/zomboss_node_cowboy_522x274.xml"/>
+        <Include href="image/zomboss_node_cowboy_80x89.xml"/>
+        <Include href="image/zomboss_node_cowboy_190x190.xml"/>
+        <Include href="image/zomboss_node_cowboy_599x297.xml"/>
+        <Include href="image/zomboss_node_cowboy_105x100.xml"/>
+        <Include href="image/zomboss_node_cowboy_623x316.xml"/>
+        <Include href="image/zomboss_node_cowboy_101x74.xml"/>
+        <Include href="image/zomboss_node_cowboy_111x59.xml"/>
+        <Include href="image/zomboss_node_cowboy_84x60.xml"/>
+        <Include href="image/zomboss_node_cowboy_1423x442.xml"/>
+        <Include href="image/zomboss_node_cowboy_1725x1382_3.xml"/>
+        <Include href="image/zomboss_node_cowboy_116x108.xml"/>
+        <Include href="image/zomboss_node_cowboy_678x728.xml"/>
+        <Include href="sprite/parrot_particle_feather.xml"/>
+        <Include href="sprite/parrot_cloud.xml"/>
+        <Include href="sprite/parrot_burst.xml"/>
+        <Include href="sprite/Zomboss_Island_Lightning_Ball_Base2.xml"/>
+        <Include href="sprite/sprite.xml"/>
+        <Include href="label/inactive.xml"/>
+        <Include href="label/transition.xml"/>
+        <Include href="label/active.xml"/>
+        <Include href="label/defeated.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="280" name="inactive" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="280" duration="64" name="transition" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="344" duration="141" name="active" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="485" duration="280" name="defeated" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="279">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="279">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="280" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="282">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_UI_Map_ZombossBattle_Reveal_WildWest");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="283" duration="60">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="343">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="344" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="345">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_UI_Map_ZombossBattle_Reveal_WildWest_Loop");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="346" duration="138">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="484">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="485" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="486">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Stop_UI_Map_ZombossBattle_Reveal_WildWest_Loop");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="487" duration="277">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="764">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="280">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/inactive" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="280" duration="64">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/transition" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="344" duration="141">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/active" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="485" duration="280">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/defeated" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

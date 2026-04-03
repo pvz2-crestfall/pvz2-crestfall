@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/anim4_27x35" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="anim4_27x35">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/anim4_27x35">
+                                    <matrix>
+                                        <Matrix a="8.393302" b="0.000000" c="0.000000" d="8.393302" tx="-130.500000" ty="-130.500000"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

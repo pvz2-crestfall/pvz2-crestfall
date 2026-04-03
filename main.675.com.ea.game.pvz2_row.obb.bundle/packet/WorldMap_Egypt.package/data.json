@@ -1,0 +1,32 @@
+{
+	"#expand_method": "simple",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"WorldMap_Egypt": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"WorldMap_Egypt": {
+					"type": "ImageData",
+					"path": "atlases/WorldMap_Egypt.json"
+				},
+				"POPANIM_WORLDMAP_ZOMBOSS_NODE_EGYPT": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/zomboss_node_egypt.pam"
+				}
+			}
+		}
+	}
+}

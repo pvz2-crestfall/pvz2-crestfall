@@ -1,0 +1,19 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"anim5_132x90": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM5_ANIM5_132X90",
+			"dimension": {
+				"width": 132,
+				"height": 90
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

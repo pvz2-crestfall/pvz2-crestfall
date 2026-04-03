@@ -1,0 +1,569 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/idle2" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="idle2">
+            <layers>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="37">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="13">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.759155" b="0.000000" c="0.000000" d="0.670715" tx="140.949997" ty="171.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.757767" b="0.000000" c="0.000000" d="0.669479" tx="141.050003" ty="171.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.753555" b="0.000000" c="0.000000" d="0.665771" tx="141.250000" ty="172.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.746582" b="0.000000" c="0.000000" d="0.659607" tx="141.649994" ty="173.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.736816" b="0.000000" c="0.000000" d="0.650955" tx="142.149994" ty="174.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.724228" b="0.000000" c="0.000000" d="0.639862" tx="142.899994" ty="176.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.708878" b="0.000000" c="0.000000" d="0.626282" tx="143.750000" ty="178.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.690689" b="0.000000" c="0.000000" d="0.610229" tx="144.699997" ty="180.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.669739" b="0.000000" c="0.000000" d="0.591721" tx="145.899994" ty="183.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.645981" b="0.000000" c="0.000000" d="0.570724" tx="147.199997" ty="185.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.619461" b="0.000000" c="0.000000" d="0.547287" tx="148.649994" ty="189.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.590103" b="0.000000" c="0.000000" d="0.521362" tx="150.300003" ty="192.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.557968" b="0.000000" c="0.000000" d="0.492966" tx="152.050003" ty="196.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.523026" b="0.000000" c="0.000000" d="0.462097" tx="154.000000" ty="201.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.485306" b="0.000000" c="0.000000" d="0.428772" tx="156.100006" ty="206.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.444778" b="0.000000" c="0.000000" d="0.392975" tx="158.350006" ty="211.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.401474" b="0.000000" c="0.000000" d="0.354706" tx="160.699997" ty="216.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.355377" b="0.000000" c="0.000000" d="0.313980" tx="163.250000" ty="222.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.306473" b="0.000000" c="0.000000" d="0.270782" tx="165.949997" ty="228.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.254776" b="0.000000" c="0.000000" d="0.225098" tx="168.850006" ty="234.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.200287" b="0.000000" c="0.000000" d="0.176956" tx="171.899994" ty="241.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.143005" b="0.000000" c="0.000000" d="0.126358" tx="175.000000" ty="248.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.082916" b="0.000000" c="0.000000" d="0.073273" tx="178.350006" ty="256.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="5">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.536713" b="0.000000" c="0.000000" d="0.474243" tx="171.600006" ty="187.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.535767" b="0.000000" c="0.000000" d="0.473419" tx="171.649994" ty="187.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.532944" b="0.000000" c="0.000000" d="0.470978" tx="171.800003" ty="188.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.528244" b="0.000000" c="0.000000" d="0.466888" tx="172.050003" ty="189.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.521652" b="0.000000" c="0.000000" d="0.461166" tx="172.399994" ty="190.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.513168" b="0.000000" c="0.000000" d="0.453812" tx="172.899994" ty="191.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.502808" b="0.000000" c="0.000000" d="0.444824" tx="173.500000" ty="193.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.490570" b="0.000000" c="0.000000" d="0.434189" tx="174.149994" ty="195.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.476456" b="0.000000" c="0.000000" d="0.421936" tx="174.949997" ty="197.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.460449" b="0.000000" c="0.000000" d="0.408051" tx="175.850006" ty="200.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.442551" b="0.000000" c="0.000000" d="0.392517" tx="176.800003" ty="203.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.422775" b="0.000000" c="0.000000" d="0.375351" tx="177.899994" ty="206.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.401123" b="0.000000" c="0.000000" d="0.356567" tx="179.100006" ty="210.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.377579" b="0.000000" c="0.000000" d="0.336121" tx="180.350006" ty="214.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.352158" b="0.000000" c="0.000000" d="0.314056" tx="181.800003" ty="218.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.324860" b="0.000000" c="0.000000" d="0.290359" tx="183.350006" ty="223.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.295670" b="0.000000" c="0.000000" d="0.265030" tx="184.949997" ty="227.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.264587" b="0.000000" c="0.000000" d="0.238052" tx="186.649994" ty="233.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.231628" b="0.000000" c="0.000000" d="0.209442" tx="188.500000" ty="238.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.196793" b="0.000000" c="0.000000" d="0.179214" tx="190.449997" ty="244.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.160065" b="0.000000" c="0.000000" d="0.147339" tx="192.449997" ty="250.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/rock_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.121460" b="0.000000" c="0.000000" d="0.113831" tx="194.550003" ty="257.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

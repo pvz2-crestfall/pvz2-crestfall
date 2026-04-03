@@ -1,0 +1,169 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/danger_node_egypt_218x126" href="media/danger_node_egypt_218x126.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_668x406" href="media/danger_node_egypt_668x406.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_273x204" href="media/danger_node_egypt_273x204.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_24x26" href="media/danger_node_egypt_24x26.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_39x28" href="media/danger_node_egypt_39x28.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_40x27" href="media/danger_node_egypt_40x27.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_116x54" href="media/danger_node_egypt_116x54.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_118x49" href="media/danger_node_egypt_118x49.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_97x71" href="media/danger_node_egypt_97x71.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_37x36" href="media/danger_node_egypt_37x36.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_104x72" href="media/danger_node_egypt_104x72.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_79x58" href="media/danger_node_egypt_79x58.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_30x28" href="media/danger_node_egypt_30x28.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_31x33" href="media/danger_node_egypt_31x33.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_95x36" href="media/danger_node_egypt_95x36.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_118x40" href="media/danger_node_egypt_118x40.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_246x287" href="media/danger_node_egypt_246x287.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_40x83" href="media/danger_node_egypt_40x83.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_156x99" href="media/danger_node_egypt_156x99.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_255x263" href="media/danger_node_egypt_255x263.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_261x306" href="media/danger_node_egypt_261x306.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_272x281" href="media/danger_node_egypt_272x281.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_58x542" href="media/danger_node_egypt_58x542.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_31x222" href="media/danger_node_egypt_31x222.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_58x344" href="media/danger_node_egypt_58x344.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_249x267" href="media/danger_node_egypt_249x267.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_26x27" href="media/danger_node_egypt_26x27.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_31x172" href="media/danger_node_egypt_31x172.png"/>
+        <DOMBitmapItem name="media/danger_node_egypt_80x61" href="media/danger_node_egypt_80x61.png"/>
+    </media>
+    <symbols>
+        <Include href="image/danger_node_egypt_218x126.xml"/>
+        <Include href="image/danger_node_egypt_668x406.xml"/>
+        <Include href="image/danger_node_egypt_273x204.xml"/>
+        <Include href="image/danger_node_egypt_24x26.xml"/>
+        <Include href="image/danger_node_egypt_39x28.xml"/>
+        <Include href="image/danger_node_egypt_40x27.xml"/>
+        <Include href="image/danger_node_egypt_116x54.xml"/>
+        <Include href="image/danger_node_egypt_118x49.xml"/>
+        <Include href="image/danger_node_egypt_97x71.xml"/>
+        <Include href="image/danger_node_egypt_37x36.xml"/>
+        <Include href="image/danger_node_egypt_104x72.xml"/>
+        <Include href="image/danger_node_egypt_79x58.xml"/>
+        <Include href="image/danger_node_egypt_30x28.xml"/>
+        <Include href="image/danger_node_egypt_31x33.xml"/>
+        <Include href="image/danger_node_egypt_95x36.xml"/>
+        <Include href="image/danger_node_egypt_118x40.xml"/>
+        <Include href="image/danger_node_egypt_246x287.xml"/>
+        <Include href="image/danger_node_egypt_40x83.xml"/>
+        <Include href="image/danger_node_egypt_156x99.xml"/>
+        <Include href="image/danger_node_egypt_255x263.xml"/>
+        <Include href="image/danger_node_egypt_261x306.xml"/>
+        <Include href="image/danger_node_egypt_272x281.xml"/>
+        <Include href="image/danger_node_egypt_58x542.xml"/>
+        <Include href="image/danger_node_egypt_31x222.xml"/>
+        <Include href="image/danger_node_egypt_58x344.xml"/>
+        <Include href="image/danger_node_egypt_249x267.xml"/>
+        <Include href="image/danger_node_egypt_26x27.xml"/>
+        <Include href="image/danger_node_egypt_31x172.xml"/>
+        <Include href="image/danger_node_egypt_80x61.xml"/>
+        <Include href="sprite/node_danger_egypt_pyramid_back.xml"/>
+        <Include href="sprite/node_danger_bottom.xml"/>
+        <Include href="sprite/node_danger_back.xml"/>
+        <Include href="sprite/node_danger_bubble_back.xml"/>
+        <Include href="sprite/node_danger_sparkle_light.xml"/>
+        <Include href="sprite/node_danger_bubble_highlight_strip.xml"/>
+        <Include href="sprite/node_completed_bubble_highlight_round.xml"/>
+        <Include href="sprite/node_danger_bubble_front.xml"/>
+        <Include href="sprite/node_danger_side_shadow.xml"/>
+        <Include href="sprite/node_completed_bottom_shadow.xml"/>
+        <Include href="sprite/node_danger_front.xml"/>
+        <Include href="sprite/node_danger_egypt_pyramid_base.xml"/>
+        <Include href="sprite/node_danger_egypt_pyramid_top.xml"/>
+        <Include href="sprite/node_egypt_sandstorm_back_01.xml"/>
+        <Include href="sprite/node_egypt_sandstorm_streaks.xml"/>
+        <Include href="sprite/node_egypt_sandstorm_speedline_filtered.xml"/>
+        <Include href="sprite/node_egypt_sandstorm_front_01.xml"/>
+        <Include href="sprite/node_egypt_sandstorm_back_02.xml"/>
+        <Include href="sprite/node_egypt_sandstorm_front_02.xml"/>
+        <Include href="sprite/node_danger_egypt_pyramid_brick_01.xml"/>
+        <Include href="sprite/node_danger_egypt_pyramid_brick_03.xml"/>
+        <Include href="sprite/node_danger_egypt_pyramid_brick_02.xml"/>
+        <Include href="sprite/node_danger_rays_outer.xml"/>
+        <Include href="sprite/node_danger_rays_center.xml"/>
+        <Include href="sprite/node_green_rays_outer.xml"/>
+        <Include href="sprite/node_green_glow.xml"/>
+        <Include href="sprite/node_particle.xml"/>
+        <Include href="sprite/laserbean_particle.xml"/>
+        <Include href="sprite/node_green_rays_center.xml"/>
+        <Include href="sprite/node_egypt_sandstorm_cloud.xml"/>
+        <Include href="label/locked_idle.xml"/>
+        <Include href="label/unlocked_animation.xml"/>
+        <Include href="label/unlocked_idle.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="1" name="locked_idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="130" name="unlocked_animation" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="131" duration="21" name="unlocked_idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="129">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="130">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="131" duration="20">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="151">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/locked_idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="130">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/unlocked_animation" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="131" duration="21">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/unlocked_idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

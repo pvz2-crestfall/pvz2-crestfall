@@ -1,0 +1,863 @@
+{
+	"type": "1536",
+	"packet": {
+		"ATLASIMAGE_ATLAS_WORLDMAP_COWBOY_00": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Cowboy_00",
+			"dimension": {
+				"width": 4096,
+				"height": 4096
+			},
+			"data": {
+				"IMAGE_WORLDMAP_COWBOY_ISLAND5": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island5",
+					"default": {
+						"ax": 3678,
+						"ay": 1146,
+						"aw": 304,
+						"ah": 312,
+						"x": 1689,
+						"y": 627
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND6": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island6",
+					"default": {
+						"ax": 3898,
+						"ay": 1848,
+						"aw": 159,
+						"ah": 293,
+						"x": 1433,
+						"y": 1074
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND7": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island7",
+					"default": {
+						"ax": 3975,
+						"ay": 644,
+						"aw": 112,
+						"ah": 126,
+						"x": 1380,
+						"y": 662
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND8": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island8",
+					"default": {
+						"ax": 3975,
+						"ay": 772,
+						"aw": 94,
+						"ah": 129,
+						"x": 1536,
+						"y": 581
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND9": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island9",
+					"default": {
+						"ax": 3965,
+						"ay": 3693,
+						"aw": 88,
+						"ah": 86,
+						"x": 1331,
+						"y": 1053
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND10": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island10",
+					"default": {
+						"ax": 3898,
+						"ay": 1460,
+						"aw": 143,
+						"ah": 386,
+						"x": 1222,
+						"y": 725
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND13": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island13",
+					"default": {
+						"ax": 3195,
+						"ay": 3905,
+						"aw": 258,
+						"ah": 186,
+						"x": 1327,
+						"y": 396
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND14": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island14",
+					"default": {
+						"ax": 3898,
+						"ay": 2562,
+						"aw": 188,
+						"ah": 162,
+						"x": 1578,
+						"y": 276
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND15": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island15",
+					"default": {
+						"ax": 3975,
+						"ay": 1,
+						"aw": 113,
+						"ah": 306,
+						"x": 2156,
+						"y": 998
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND16": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island16",
+					"default": {
+						"ax": 3975,
+						"ay": 309,
+						"aw": 99,
+						"ah": 333,
+						"x": 2019,
+						"y": 971
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND17": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island17",
+					"default": {
+						"ax": 2090,
+						"ay": 3641,
+						"aw": 93,
+						"ah": 84,
+						"x": 1830,
+						"y": 1236
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND18": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island18",
+					"default": {
+						"ax": 3984,
+						"ay": 1163,
+						"aw": 98,
+						"ah": 110,
+						"x": 1704,
+						"y": 1206
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND22": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island22",
+					"default": {
+						"ax": 2211,
+						"ay": 1,
+						"aw": 1465,
+						"ah": 1583,
+						"x": 1960,
+						"y": 1058
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND23": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island23",
+					"default": {
+						"ax": 2211,
+						"ay": 1586,
+						"aw": 1685,
+						"ah": 1239,
+						"x": 141,
+						"y": 1310
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND25": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island25",
+					"default": {
+						"ax": 2211,
+						"ay": 3395,
+						"aw": 982,
+						"ah": 640,
+						"x": 754,
+						"y": 1368
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND26": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island26",
+					"default": {
+						"ax": 3195,
+						"ay": 3395,
+						"aw": 768,
+						"ah": 508,
+						"x": 67,
+						"y": 1754
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND27": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island27",
+					"default": {
+						"ax": 3965,
+						"ay": 3395,
+						"aw": 129,
+						"ah": 119,
+						"x": 1470,
+						"y": 3181
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND28": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island28",
+					"default": {
+						"ax": 3984,
+						"ay": 1275,
+						"aw": 88,
+						"ah": 117,
+						"x": 2267,
+						"y": 2949
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND31": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island31",
+					"default": {
+						"ax": 1118,
+						"ay": 3925,
+						"aw": 175,
+						"ah": 59,
+						"x": 2396,
+						"y": 3273
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND32": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island32",
+					"default": {
+						"ax": 801,
+						"ay": 3925,
+						"aw": 171,
+						"ah": 64,
+						"x": 2207,
+						"y": 3268
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND34": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island34",
+					"default": {
+						"ax": 1570,
+						"ay": 3543,
+						"aw": 518,
+						"ah": 518,
+						"x": 1837,
+						"y": 2518
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND37": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island37",
+					"default": {
+						"ax": 3678,
+						"ay": 1460,
+						"aw": 199,
+						"ah": 103,
+						"x": 2417,
+						"y": 2963
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_101X74": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_101x74",
+					"default": {
+						"ax": 3898,
+						"ay": 2726,
+						"aw": 130,
+						"ah": 95,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_105X100": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_105x100",
+					"default": {
+						"ax": 3822,
+						"ay": 3905,
+						"aw": 135,
+						"ah": 128,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_111X59": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_111x59",
+					"default": {
+						"ax": 974,
+						"ay": 3925,
+						"aw": 142,
+						"ah": 76,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_116X108": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_116x108",
+					"default": {
+						"ax": 3671,
+						"ay": 3905,
+						"aw": 149,
+						"ah": 138,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_122X184": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_122x184",
+					"default": {
+						"ax": 3898,
+						"ay": 2143,
+						"aw": 156,
+						"ah": 236,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_134X140": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_134x140",
+					"default": {
+						"ax": 3898,
+						"ay": 2381,
+						"aw": 172,
+						"ah": 179,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_1423X442": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_1423x442",
+					"default": {
+						"ax": 2211,
+						"ay": 2827,
+						"aw": 1822,
+						"ah": 566,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_14X29": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_14x29",
+					"default": {
+						"ax": 4076,
+						"ay": 309,
+						"aw": 18,
+						"ah": 37,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_167X130": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_167x130",
+					"default": {
+						"ax": 3455,
+						"ay": 3905,
+						"aw": 214,
+						"ah": 167,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_1725X1382": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_1725x1382",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 2208,
+						"ah": 1769,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_1725X1382_2": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_1725x1382_2",
+					"default": {
+						"ax": 1,
+						"ay": 1772,
+						"aw": 2208,
+						"ah": 1769,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_230X893": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_230x893",
+					"default": {
+						"ax": 3678,
+						"ay": 1,
+						"aw": 295,
+						"ah": 1143,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_37X34": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_37x34",
+					"default": {
+						"ax": 4043,
+						"ay": 1460,
+						"aw": 48,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_46X60": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_46x60",
+					"default": {
+						"ax": 4035,
+						"ay": 2810,
+						"aw": 59,
+						"ah": 77,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_47X64": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_47x64",
+					"default": {
+						"ax": 4030,
+						"ay": 2726,
+						"aw": 60,
+						"ah": 82,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_599X297": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_599x297",
+					"default": {
+						"ax": 801,
+						"ay": 3543,
+						"aw": 767,
+						"ah": 380,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_623X316": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_623x316",
+					"default": {
+						"ax": 1,
+						"ay": 3543,
+						"aw": 798,
+						"ah": 405,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_66X111": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_66x111",
+					"default": {
+						"ax": 3975,
+						"ay": 903,
+						"aw": 85,
+						"ah": 142,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_74X75": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_74x75",
+					"default": {
+						"ax": 2090,
+						"ay": 3543,
+						"aw": 95,
+						"ah": 96,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_80X89": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_80x89",
+					"default": {
+						"ax": 3984,
+						"ay": 1047,
+						"aw": 103,
+						"ah": 114,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_82X75": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_82x75",
+					"default": {
+						"ax": 3965,
+						"ay": 3516,
+						"aw": 105,
+						"ah": 96,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_84X60": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_84x60",
+					"default": {
+						"ax": 3965,
+						"ay": 3614,
+						"aw": 108,
+						"ah": 77,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_85X50": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_85x50",
+					"default": {
+						"ax": 3984,
+						"ay": 1394,
+						"aw": 109,
+						"ah": 64,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		},
+		"ATLASIMAGE_ATLAS_WORLDMAP_COWBOY_01": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Cowboy_01",
+			"dimension": {
+				"width": 4096,
+				"height": 4096
+			},
+			"data": {
+				"IMAGE_WORLDMAP_COWBOY_ISLAND1": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island1",
+					"default": {
+						"ax": 2211,
+						"ay": 1,
+						"aw": 1035,
+						"ah": 1484,
+						"x": 152,
+						"y": 50
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND3": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island3",
+					"default": {
+						"ax": 3206,
+						"ay": 3537,
+						"aw": 278,
+						"ah": 204,
+						"x": 1597,
+						"y": 951
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND4": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island4",
+					"default": {
+						"ax": 3758,
+						"ay": 2261,
+						"aw": 290,
+						"ah": 237,
+						"x": 1393,
+						"y": 805
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND11": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island11",
+					"default": {
+						"ax": 2647,
+						"ay": 3537,
+						"aw": 312,
+						"ah": 216,
+						"x": 804,
+						"y": 230
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND12": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island12",
+					"default": {
+						"ax": 3206,
+						"ay": 3743,
+						"aw": 248,
+						"ah": 202,
+						"x": 1089,
+						"y": 379
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND19": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island19",
+					"default": {
+						"ax": 3248,
+						"ay": 1,
+						"aw": 769,
+						"ah": 1661,
+						"x": 2553,
+						"y": 1405
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND20": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island20",
+					"default": {
+						"ax": 2812,
+						"ay": 1664,
+						"aw": 944,
+						"ah": 919,
+						"x": 1538,
+						"y": 1559
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND24": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island24",
+					"default": {
+						"ax": 1,
+						"ay": 3515,
+						"aw": 855,
+						"ah": 295,
+						"x": 775,
+						"y": 2106
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND36": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island36",
+					"default": {
+						"ax": 3691,
+						"ay": 2585,
+						"aw": 381,
+						"ah": 611,
+						"x": 1465,
+						"y": 2403
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ISLAND39": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/island39",
+					"default": {
+						"ax": 2204,
+						"ay": 2942,
+						"aw": 486,
+						"ah": 543,
+						"x": 979,
+						"y": 2471
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_114X154": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_114x154",
+					"default": {
+						"ax": 3901,
+						"ay": 3198,
+						"aw": 146,
+						"ah": 197,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_162X465": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_162x465",
+					"default": {
+						"ax": 3758,
+						"ay": 1664,
+						"aw": 208,
+						"ah": 595,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_162X465_2": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_162x465_2",
+					"default": {
+						"ax": 3691,
+						"ay": 3198,
+						"aw": 208,
+						"ah": 595,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_168X170": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_168x170",
+					"default": {
+						"ax": 3456,
+						"ay": 3743,
+						"aw": 215,
+						"ah": 218,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_1719X1360": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_1719x1360",
+					"default": {
+						"ax": 1,
+						"ay": 1772,
+						"aw": 2201,
+						"ah": 1741,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_1725X1382_3": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_1725x1382_3",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 2208,
+						"ah": 1769,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_190X190": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_190x190",
+					"default": {
+						"ax": 2961,
+						"ay": 3537,
+						"aw": 243,
+						"ah": 243,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_344X399": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_344x399",
+					"default": {
+						"ax": 2204,
+						"ay": 3487,
+						"aw": 441,
+						"ah": 511,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_393X186": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_393x186",
+					"default": {
+						"ax": 1528,
+						"ay": 3515,
+						"aw": 503,
+						"ah": 238,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_468X1135": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_468x1135",
+					"default": {
+						"ax": 2211,
+						"ay": 1487,
+						"aw": 599,
+						"ah": 1453,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_522X274": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_522x274",
+					"default": {
+						"ax": 858,
+						"ay": 3515,
+						"aw": 668,
+						"ah": 351,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_685X742": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_685x742",
+					"default": {
+						"ax": 2812,
+						"ay": 2585,
+						"aw": 877,
+						"ah": 950,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		},
+		"ATLASIMAGE_ATLAS_WORLDMAP_COWBOY_02": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Cowboy_02",
+			"dimension": {
+				"width": 1024,
+				"height": 2048
+			},
+			"data": {
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_678X728": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_678x728",
+					"default": {
+						"ax": 1,
+						"ay": 931,
+						"aw": 868,
+						"ah": 932,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_685X725": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_cowboy/zomboss_node_cowboy_685x725",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 877,
+						"ah": 928,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

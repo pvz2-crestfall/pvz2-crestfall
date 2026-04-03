@@ -1,0 +1,2437 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/idle" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="idle">
+            <layers>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.385590" b="0.325195" c="0.358597" d="0.268326" tx="322.399994" ty="86.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.410889" b="0.319672" c="0.346436" d="0.316788" tx="317.899994" ty="91.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.435913" b="0.312119" c="0.327026" d="0.368332" tx="313.700012" ty="96.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.458740" b="0.303345" c="0.303314" d="0.419617" tx="309.450012" ty="101.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.479492" b="0.293594" c="0.276108" d="0.470123" tx="305.299988" ty="106.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.499222" b="0.281113" c="0.240799" d="0.522461" tx="301.549988" ty="110.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.516357" b="0.269043" c="0.205704" d="0.571655" tx="297.549988" ty="114.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.532242" b="0.254333" c="0.163132" d="0.621826" tx="293.750000" ty="119.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.546127" b="0.239349" c="0.119217" d="0.669724" tx="290.149994" ty="123.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.558167" b="0.224350" c="0.074738" d="0.715134" tx="286.450012" ty="127.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.568695" b="0.206909" c="0.023590" d="0.760513" tx="283.100006" ty="131.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.577408" b="0.191071" c="-0.023666" d="0.801682" tx="279.450012" ty="134.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.584610" b="0.174362" c="-0.073349" d="0.841110" tx="276.200012" ty="138.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.590317" b="0.156845" c="-0.125137" d="0.878708" tx="272.950012" ty="141.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.594559" b="0.138611" c="-0.178741" d="0.914307" tx="269.750000" ty="145.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.597733" b="0.121323" c="-0.229996" d="0.946960" tx="266.799988" ty="148.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.599594" b="0.103500" c="-0.282379" d="0.977554" tx="263.799988" ty="151.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.600189" b="0.085236" c="-0.335632" d="1.006027" tx="260.950012" ty="154.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.600143" b="0.068283" c="-0.385513" d="1.031784" tx="258.200012" ty="157.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.599030" b="0.051041" c="-0.435715" d="1.055466" tx="255.500000" ty="159.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.596848" b="0.033600" c="-0.486008" d="1.077011" tx="253.050003" ty="162.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.594498" b="0.017731" c="-0.532150" d="1.096283" tx="250.600006" ty="165.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.592194" b="0.003510" c="-0.573959" d="1.113602" tx="248.250000" ty="167.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.588226" b="-0.012466" c="-0.619385" d="1.129105" tx="246.050003" ty="169.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.584473" b="-0.026672" c="-0.660156" d="1.142822" tx="243.850006" ty="171.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.581177" b="-0.039032" c="-0.696167" d="1.155075" tx="241.850006" ty="173.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.577362" b="-0.051300" c="-0.731415" d="1.165802" tx="239.850006" ty="174.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.573074" b="-0.063400" c="-0.765747" d="1.175049" tx="238.100006" ty="176.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.878431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.569534" b="-0.073578" c="-0.795029" d="1.183289" tx="236.399994" ty="177.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.565643" b="-0.083557" c="-0.823349" d="1.190262" tx="234.800003" ty="178.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.631373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.561447" b="-0.093323" c="-0.850571" d="1.195923" tx="233.350006" ty="180.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.558258" b="-0.101059" c="-0.872696" d="1.201126" tx="232.050003" ty="180.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.384314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.554855" b="-0.108566" c="-0.893661" d="1.205185" tx="230.949997" ty="181.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.551270" b="-0.115814" c="-0.913452" d="1.208206" tx="230.000000" ty="182.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.548874" b="-0.120987" c="-0.928085" d="1.211044" tx="229.050003" ty="183.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.546356" b="-0.125885" c="-0.941498" d="1.212936" tx="228.550003" ty="183.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.545166" b="-0.128708" c="-0.949768" d="1.214905" tx="227.850006" ty="183.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.543869" b="-0.131241" c="-0.956741" d="1.216003" tx="227.449997" ty="184.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.543961" b="-0.131668" c="-0.958588" d="1.217194" tx="227.199997" ty="184.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.543854" b="-0.133301" c="-0.963547" d="1.218887" tx="227.800003" ty="181.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.390564" b="0.262878" c="0.363220" d="0.539642" tx="295.500000" ty="97.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.416183" b="0.243210" c="0.350891" d="0.600433" tx="290.950012" ty="102.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.441528" b="0.220917" c="0.331253" d="0.662018" tx="286.649994" ty="106.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.464661" b="0.197952" c="0.307236" d="0.721146" tx="282.399994" ty="111.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.485672" b="0.174683" c="0.279663" d="0.777557" tx="278.149994" ty="115.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.505661" b="0.148117" c="0.243912" d="0.832611" tx="274.350006" ty="120.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.523010" b="0.123352" c="0.208344" d="0.883453" tx="270.299988" ty="124.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.539124" b="0.095566" c="0.165222" d="0.932098" tx="266.500000" ty="128.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.553162" b="0.068359" c="0.120758" d="0.976944" tx="262.850006" ty="132.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.565353" b="0.042038" c="0.075699" d="1.018112" tx="259.149994" ty="135.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.576019" b="0.013031" c="0.023895" d="1.056061" tx="255.649994" ty="139.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.584854" b="-0.012878" c="-0.023972" d="1.090088" tx="252.100006" ty="142.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.592133" b="-0.039261" c="-0.074295" d="1.120575" tx="248.750000" ty="145.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.597916" b="-0.066055" c="-0.126755" d="1.147507" tx="245.399994" ty="149.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.602219" b="-0.093109" c="-0.181061" d="1.170853" tx="242.199997" ty="152.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.605453" b="-0.118408" c="-0.232971" d="1.191284" tx="239.199997" ty="155.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.607315" b="-0.143768" c="-0.286026" d="1.208328" tx="236.199997" ty="158.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.607925" b="-0.169128" c="-0.339966" d="1.222031" tx="233.300003" ty="161.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.607880" b="-0.192413" c="-0.390488" d="1.233627" tx="230.500000" ty="163.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.606750" b="-0.215561" c="-0.441330" d="1.242233" tx="227.750000" ty="166.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.604553" b="-0.238480" c="-0.492279" d="1.247849" tx="225.250000" ty="168.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.602173" b="-0.259186" c="-0.539017" d="1.252319" tx="222.800003" ty="170.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.599838" b="-0.277603" c="-0.581375" d="1.256165" tx="220.350006" ty="172.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.595795" b="-0.297653" c="-0.627380" d="1.255798" tx="218.149994" ty="174.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.592010" b="-0.315399" c="-0.668671" d="1.255203" tx="215.949997" ty="176.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.588654" b="-0.330780" c="-0.705139" d="1.254852" tx="213.899994" ty="177.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.584824" b="-0.345810" c="-0.740829" d="1.252808" tx="211.949997" ty="178.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.580460" b="-0.360428" c="-0.775620" d="1.249115" tx="210.050003" ty="180.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.878431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.576889" b="-0.372696" c="-0.805283" d="1.246506" tx="208.399994" ty="181.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.572937" b="-0.384552" c="-0.833969" d="1.242538" tx="206.699997" ty="182.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.631373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.568680" b="-0.395981" c="-0.861526" d="1.237350" tx="205.350006" ty="183.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.565445" b="-0.405090" c="-0.883957" d="1.233917" tx="204.000000" ty="183.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.384314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.561996" b="-0.413773" c="-0.905167" d="1.229507" tx="202.800003" ty="184.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.558350" b="-0.421997" c="-0.925217" d="1.224228" tx="201.899994" ty="184.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.555954" b="-0.427994" c="-0.940033" d="1.221161" tx="201.000000" ty="185.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.553391" b="-0.433517" c="-0.953644" d="1.217377" tx="200.399994" ty="185.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.552185" b="-0.436813" c="-0.962006" d="1.216110" tx="199.850006" ty="185.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.550888" b="-0.439682" c="-0.969086" d="1.214264" tx="199.350006" ty="185.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.550980" b="-0.440323" c="-0.970947" d="1.215042" tx="199.050003" ty="185.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.550858" b="-0.442505" c="-0.975967" d="1.215012" tx="199.699997" ty="182.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.390564" b="0.262878" c="0.363220" d="0.539642" tx="275.500000" ty="77.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.416183" b="0.243210" c="0.350891" d="0.600433" tx="270.950012" ty="82.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.441528" b="0.220917" c="0.331253" d="0.662018" tx="266.649994" ty="86.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.464661" b="0.197952" c="0.307236" d="0.721146" tx="262.399994" ty="91.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.485672" b="0.174683" c="0.279663" d="0.777557" tx="258.149994" ty="95.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.505661" b="0.148117" c="0.243912" d="0.832611" tx="254.350006" ty="100.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.523010" b="0.123352" c="0.208344" d="0.883453" tx="250.300003" ty="104.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.539124" b="0.095566" c="0.165222" d="0.932098" tx="246.500000" ty="108.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.553162" b="0.068359" c="0.120758" d="0.976944" tx="242.850006" ty="112.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.565353" b="0.042038" c="0.075699" d="1.018112" tx="239.149994" ty="115.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.576019" b="0.013031" c="0.023895" d="1.056061" tx="235.649994" ty="119.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.584854" b="-0.012878" c="-0.023972" d="1.090088" tx="232.100006" ty="122.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.592133" b="-0.039261" c="-0.074295" d="1.120575" tx="228.750000" ty="125.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.597916" b="-0.066055" c="-0.126755" d="1.147507" tx="225.399994" ty="129.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.602219" b="-0.093109" c="-0.181061" d="1.170853" tx="222.199997" ty="132.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.605453" b="-0.118408" c="-0.232971" d="1.191284" tx="219.199997" ty="135.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.607315" b="-0.143768" c="-0.286026" d="1.208328" tx="216.199997" ty="138.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.607925" b="-0.169128" c="-0.339966" d="1.222031" tx="213.300003" ty="141.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.607880" b="-0.192413" c="-0.390488" d="1.233627" tx="210.500000" ty="143.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.606750" b="-0.215561" c="-0.441330" d="1.242233" tx="207.750000" ty="146.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.604553" b="-0.238480" c="-0.492279" d="1.247849" tx="205.250000" ty="148.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.602173" b="-0.259186" c="-0.539017" d="1.252319" tx="202.800003" ty="150.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.599838" b="-0.277603" c="-0.581375" d="1.256165" tx="200.350006" ty="152.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.595795" b="-0.297653" c="-0.627380" d="1.255798" tx="198.149994" ty="154.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.592010" b="-0.315399" c="-0.668671" d="1.255203" tx="195.949997" ty="156.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.588654" b="-0.330780" c="-0.705139" d="1.254852" tx="193.899994" ty="157.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.584824" b="-0.345810" c="-0.740829" d="1.252808" tx="191.949997" ty="158.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.580460" b="-0.360428" c="-0.775620" d="1.249115" tx="190.050003" ty="160.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.878431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.576889" b="-0.372696" c="-0.805283" d="1.246506" tx="188.399994" ty="161.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.572937" b="-0.384552" c="-0.833969" d="1.242538" tx="186.699997" ty="162.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.631373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.568680" b="-0.395981" c="-0.861526" d="1.237350" tx="185.350006" ty="163.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.565445" b="-0.405090" c="-0.883957" d="1.233917" tx="184.000000" ty="163.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.384314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.561996" b="-0.413773" c="-0.905167" d="1.229507" tx="182.800003" ty="164.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.558350" b="-0.421997" c="-0.925217" d="1.224228" tx="181.899994" ty="164.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.555954" b="-0.427994" c="-0.940033" d="1.221161" tx="181.000000" ty="165.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.553391" b="-0.433517" c="-0.953644" d="1.217377" tx="180.399994" ty="165.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.552185" b="-0.436813" c="-0.962006" d="1.216110" tx="179.850006" ty="165.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.550888" b="-0.439682" c="-0.969086" d="1.214264" tx="179.350006" ty="165.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.550980" b="-0.440323" c="-0.970947" d="1.215042" tx="179.050003" ty="165.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.550858" b="-0.442505" c="-0.975967" d="1.215012" tx="179.699997" ty="162.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.386505" b="0.333817" c="0.359436" d="0.232178" tx="288.450012" ty="58.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.411850" b="0.330185" c="0.347244" d="0.279053" tx="283.850006" ty="64.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.436935" b="0.324600" c="0.327805" d="0.329315" tx="279.649994" ty="69.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.459839" b="0.317703" c="0.304031" d="0.379562" tx="275.500000" ty="73.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.480621" b="0.309769" c="0.276749" d="0.429321" tx="271.350006" ty="78.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.500412" b="0.299149" c="0.241364" d="0.481339" tx="267.500000" ty="83.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.517563" b="0.288773" c="0.206192" d="0.530334" tx="263.549988" ty="87.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.533508" b="0.275803" c="0.163498" d="0.580780" tx="259.700012" ty="91.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.547409" b="0.262451" c="0.119492" d="0.629105" tx="256.049988" ty="95.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.559464" b="0.248962" c="0.074905" d="0.675125" tx="252.399994" ty="99.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.570023" b="0.233047" c="0.023636" d="0.721527" tx="249.000000" ty="103.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.578766" b="0.218552" c="-0.023712" d="0.763702" tx="245.449997" ty="107.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.585968" b="0.203110" c="-0.073532" d="0.804367" tx="242.100006" ty="110.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.591705" b="0.186829" c="-0.125427" d="0.843414" tx="238.899994" ty="114.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.595963" b="0.169769" c="-0.179153" d="0.880692" tx="235.699997" ty="117.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.599152" b="0.153534" c="-0.230545" d="0.915009" tx="232.699997" ty="121.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.600998" b="0.136703" c="-0.283051" d="0.947433" tx="229.699997" ty="124.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.601593" b="0.119385" c="-0.336426" d="0.977905" tx="226.850006" ty="127.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.601562" b="0.103256" c="-0.386414" d="1.005585" tx="224.000000" ty="130.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.600433" b="0.086807" c="-0.436737" d="1.031311" tx="221.399994" ty="132.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.598236" b="0.070068" c="-0.487152" d="1.055008" tx="218.949997" ty="135.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.595886" b="0.054825" c="-0.533401" d="1.076279" tx="216.500000" ty="138.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.593582" b="0.041183" c="-0.575317" d="1.095398" tx="214.100006" ty="140.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.589600" b="0.025742" c="-0.620850" d="1.113052" tx="211.949997" ty="142.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.585846" b="0.011978" c="-0.661713" d="1.128693" tx="209.699997" ty="144.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.582520" b="0.000031" c="-0.697800" d="1.142639" tx="207.600006" ty="146.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.578735" b="-0.011887" c="-0.733124" d="1.155106" tx="205.699997" ty="148.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.574417" b="-0.023666" c="-0.767548" d="1.166092" tx="203.899994" ty="149.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.878431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.570877" b="-0.033569" c="-0.796906" d="1.175797" tx="202.199997" ty="150.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.566986" b="-0.043304" c="-0.825287" d="1.184219" tx="200.600006" ty="152.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.631373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.562759" b="-0.052841" c="-0.852570" d="1.191360" tx="199.149994" ty="153.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.559570" b="-0.060425" c="-0.874741" d="1.197693" tx="197.899994" ty="154.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.384314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.556152" b="-0.067780" c="-0.895752" d="1.202896" tx="196.699997" ty="155.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.552551" b="-0.074890" c="-0.915588" d="1.207047" tx="195.800003" ty="156.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.550171" b="-0.079956" c="-0.930252" d="1.210663" tx="194.850006" ty="156.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.547623" b="-0.084793" c="-0.943726" d="1.213348" tx="194.350006" ty="157.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.546448" b="-0.087524" c="-0.951981" d="1.215729" tx="193.750000" ty="157.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.545151" b="-0.090012" c="-0.959015" d="1.217209" tx="193.250000" ty="157.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.545242" b="-0.090424" c="-0.960861" d="1.218460" tx="193.050003" ty="157.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.545120" b="-0.091995" c="-0.965805" d="1.220383" tx="193.600006" ty="155.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.390564" b="0.262878" c="0.363220" d="0.539642" tx="295.500000" ty="97.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.390778" b="0.262161" c="0.362381" d="0.539932" tx="295.450012" ty="97.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.141176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.392014" b="0.263000" c="0.365707" d="0.540436" tx="295.049988" ty="97.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.282353"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.394043" b="0.264343" c="0.370132" d="0.542068" tx="294.500000" ty="97.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.419608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.396896" b="0.266251" c="0.375626" d="0.544754" tx="293.750000" ty="97.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.400574" b="0.268723" c="0.382217" d="0.548523" tx="292.700012" ty="97.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.405075" b="0.271729" c="0.391739" d="0.552078" tx="291.549988" ty="98.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.410385" b="0.275299" c="0.402451" d="0.556580" tx="289.950012" ty="98.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.416519" b="0.279404" c="0.416229" d="0.560684" tx="288.299988" ty="98.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.423447" b="0.284042" c="0.431274" d="0.565567" tx="286.299988" ty="99.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.431213" b="0.289246" c="0.447693" d="0.571182" tx="284.200012" ty="100.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.439758" b="0.294968" c="0.465500" d="0.577484" tx="281.850006" ty="100.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.449173" b="0.301270" c="0.486649" d="0.582809" tx="279.200012" ty="101.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.459412" b="0.308105" c="0.509323" d="0.588531" tx="276.299988" ty="102.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.470413" b="0.315475" c="0.535538" d="0.592819" tx="273.200012" ty="102.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.482254" b="0.323410" c="0.561462" d="0.599045" tx="269.850006" ty="103.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.494919" b="0.331879" c="0.593033" d="0.601456" tx="266.100006" ty="105.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.508392" b="0.340881" c="0.624405" d="0.605560" tx="262.250000" ty="106.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.522690" b="0.350464" c="0.659592" d="0.607178" tx="258.200012" ty="107.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.537811" b="0.360565" c="0.696655" d="0.608139" tx="253.750000" ty="109.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.553741" b="0.371231" c="0.735596" d="0.608246" tx="249.100006" ty="110.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.570480" b="0.382446" c="0.778442" d="0.604797" tx="244.199997" ty="112.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.588821" b="0.395004" c="0.824600" d="0.600693" tx="239.050003" ty="114.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.564255" b="0.378265" c="0.853943" d="0.583008" tx="232.000000" ty="118.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.541901" b="0.363297" c="0.883331" d="0.564682" tx="225.399994" ty="122.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.520981" b="0.349319" c="0.909607" d="0.548065" tx="219.199997" ty="125.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.501511" b="0.336273" c="0.934525" d="0.530411" tx="213.399994" ty="128.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.483475" b="0.324219" c="0.956375" d="0.514969" tx="208.149994" ty="132.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.490196"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.466888" b="0.313126" c="0.976944" d="0.498871" tx="203.250000" ty="134.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.419608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.451752" b="0.302979" c="0.996185" d="0.482193" tx="198.800003" ty="137.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.349020"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.438065" b="0.293808" c="1.012589" d="0.468338" tx="194.850006" ty="140.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.282353"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.425781" b="0.285599" c="1.027710" d="0.454147" tx="191.149994" ty="142.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.211765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.414978" b="0.278366" c="1.040146" d="0.443115" tx="188.100006" ty="144.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.141176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.405594" b="0.272079" c="1.051392" d="0.431992" tx="185.250000" ty="145.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.074510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.397675" b="0.266769" c="1.060059" d="0.424255" tx="183.000000" ty="147.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.391174" b="0.262421" c="1.067612" d="0.416580" tx="181.100006" ty="148.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.386154" b="0.259048" c="1.072723" d="0.412491" tx="179.699997" ty="149.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.382538" b="0.256638" c="1.076736" d="0.408554" tx="178.649994" ty="150.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.380386" b="0.255188" c="1.079666" d="0.404739" tx="178.000000" ty="150.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/anim3_164x116" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.379852" b="0.255661" c="1.081268" d="0.405411" tx="177.949997" ty="150.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.003922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,315 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/idle3" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="idle3">
+            <layers>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="169.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="171.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.200000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="173.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.400000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="175.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.603922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="177.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.803922"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="180.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="181.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.952941"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="182.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.898039"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="183.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.847059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="184.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.792157"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="186.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.741176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="187.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.686275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="188.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.635294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="189.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.580392"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="190.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.529412"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="192.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.474510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="193.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.423529"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="194.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.368627"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="195.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.317647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="196.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.262745"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="198.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.211765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="199.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.156863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="200.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.105882"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="201.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.050980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sand_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="184.100006" ty="202.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

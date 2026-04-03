@@ -1,0 +1,243 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"danger_node_cowboy_101x33": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_101X33",
+			"dimension": {
+				"width": 101,
+				"height": 33
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_50x95": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_50X95",
+			"dimension": {
+				"width": 50,
+				"height": 95
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_254x240": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_254X240",
+			"dimension": {
+				"width": 254,
+				"height": 240
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_23x25": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_23X25",
+			"dimension": {
+				"width": 23,
+				"height": 25
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_18x36": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_18X36",
+			"dimension": {
+				"width": 18,
+				"height": 36
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_30x58": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_30X58",
+			"dimension": {
+				"width": 30,
+				"height": 58
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_175x216": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_175X216",
+			"dimension": {
+				"width": 175,
+				"height": 216
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_111x38": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_111X38",
+			"dimension": {
+				"width": 111,
+				"height": 38
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_412x561": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_412X561",
+			"dimension": {
+				"width": 412,
+				"height": 561
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_290x288": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_290X288",
+			"dimension": {
+				"width": 290,
+				"height": 288
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_149x141": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_149X141",
+			"dimension": {
+				"width": 149,
+				"height": 141
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_116x54": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_116X54",
+			"dimension": {
+				"width": 116,
+				"height": 54
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_118x49": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_118X49",
+			"dimension": {
+				"width": 118,
+				"height": 49
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_97x71": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_97X71",
+			"dimension": {
+				"width": 97,
+				"height": 71
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_38x37": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_38X37",
+			"dimension": {
+				"width": 38,
+				"height": 37
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_106x73": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_106X73",
+			"dimension": {
+				"width": 106,
+				"height": 73
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_79x58": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_79X58",
+			"dimension": {
+				"width": 79,
+				"height": 58
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_30x28": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_30X28",
+			"dimension": {
+				"width": 30,
+				"height": 28
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_31x33": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_31X33",
+			"dimension": {
+				"width": 31,
+				"height": 33
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_97x36": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_97X36",
+			"dimension": {
+				"width": 97,
+				"height": 36
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_118x40": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_118X40",
+			"dimension": {
+				"width": 118,
+				"height": 40
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_58x344": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_58X344",
+			"dimension": {
+				"width": 58,
+				"height": 344
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_241x258": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_241X258",
+			"dimension": {
+				"width": 241,
+				"height": 258
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_26x26": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_26X26",
+			"dimension": {
+				"width": 26,
+				"height": 26
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_31x172": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_31X172",
+			"dimension": {
+				"width": 31,
+				"height": 172
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_58x542": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_58X542",
+			"dimension": {
+				"width": 58,
+				"height": 542
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_31x222": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_31X222",
+			"dimension": {
+				"width": 31,
+				"height": 222
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_138x131": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_138X131",
+			"dimension": {
+				"width": 138,
+				"height": 131
+			},
+			"additional": null
+		},
+		"danger_node_cowboy_65x51": {
+			"id": "IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_65X51",
+			"dimension": {
+				"width": 65,
+				"height": 51
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

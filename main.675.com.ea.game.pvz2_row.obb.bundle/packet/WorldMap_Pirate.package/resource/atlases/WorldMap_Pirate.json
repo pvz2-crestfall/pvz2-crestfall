@@ -1,0 +1,1295 @@
+{
+	"type": "1536",
+	"packet": {
+		"ATLASIMAGE_ATLAS_WORLDMAP_PIRATE_00": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Pirate_00",
+			"dimension": {
+				"width": 4096,
+				"height": 4096
+			},
+			"data": {
+				"IMAGE_WORLDMAP_PIRATE_ISLAND3": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island3",
+					"default": {
+						"ax": 3636,
+						"ay": 1146,
+						"aw": 430,
+						"ah": 389,
+						"x": 1810,
+						"y": 283
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND7": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island7",
+					"default": {
+						"ax": 3933,
+						"ay": 858,
+						"aw": 154,
+						"ah": 144,
+						"x": 2345,
+						"y": 615
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND13": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island13",
+					"default": {
+						"ax": 2169,
+						"ay": 3447,
+						"aw": 1027,
+						"ah": 508,
+						"x": 2739,
+						"y": 1548
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND16": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island16",
+					"default": {
+						"ax": 3856,
+						"ay": 1537,
+						"aw": 114,
+						"ah": 322,
+						"x": 1899,
+						"y": 939
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND17": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island17",
+					"default": {
+						"ax": 3933,
+						"ay": 1,
+						"aw": 132,
+						"ah": 455,
+						"x": 1703,
+						"y": 808
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND19": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island19",
+					"default": {
+						"ax": 1051,
+						"ay": 3479,
+						"aw": 641,
+						"ah": 502,
+						"x": 447,
+						"y": 688
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND22": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island22",
+					"default": {
+						"ax": 2169,
+						"ay": 1,
+						"aw": 1465,
+						"ah": 1583,
+						"x": 2301,
+						"y": 332
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND23": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island23",
+					"default": {
+						"ax": 2169,
+						"ay": 1586,
+						"aw": 1685,
+						"ah": 1239,
+						"x": 563,
+						"y": 485
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND24": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island24",
+					"default": {
+						"ax": 1,
+						"ay": 3479,
+						"aw": 1048,
+						"ah": 366,
+						"x": 178,
+						"y": 1683
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_101X74": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_101x74",
+					"default": {
+						"ax": 3856,
+						"ay": 2201,
+						"aw": 130,
+						"ah": 95,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_103X105": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_103x105",
+					"default": {
+						"ax": 3933,
+						"ay": 1004,
+						"aw": 132,
+						"ah": 135,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_105X18": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_105x18",
+					"default": {
+						"ax": 3933,
+						"ay": 2883,
+						"aw": 135,
+						"ah": 23,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_105X100": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_105x100",
+					"default": {
+						"ax": 3856,
+						"ay": 1995,
+						"aw": 135,
+						"ah": 128,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_108X29": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_108x29",
+					"default": {
+						"ax": 3856,
+						"ay": 2740,
+						"aw": 138,
+						"ah": 37,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_10X36": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_10x36",
+					"default": {
+						"ax": 4067,
+						"ay": 37,
+						"aw": 13,
+						"ah": 46,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_111X59": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_111x59",
+					"default": {
+						"ax": 3856,
+						"ay": 2482,
+						"aw": 142,
+						"ah": 76,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_113X15": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_113x15",
+					"default": {
+						"ax": 3933,
+						"ay": 2946,
+						"aw": 145,
+						"ah": 19,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_114X22": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_114x22",
+					"default": {
+						"ax": 3933,
+						"ay": 2815,
+						"aw": 146,
+						"ah": 28,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_115X26": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_115x26",
+					"default": {
+						"ax": 3856,
+						"ay": 2779,
+						"aw": 147,
+						"ah": 34,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_116X30": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_116x30",
+					"default": {
+						"ax": 3636,
+						"ay": 1537,
+						"aw": 149,
+						"ah": 39,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_123X38": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_123x38",
+					"default": {
+						"ax": 3856,
+						"ay": 2639,
+						"aw": 158,
+						"ah": 49,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_129X17": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_129x17",
+					"default": {
+						"ax": 3792,
+						"ay": 3447,
+						"aw": 165,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_133X103": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_133x103",
+					"default": {
+						"ax": 3856,
+						"ay": 1861,
+						"aw": 170,
+						"ah": 132,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1376X483": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_1376x483",
+					"default": {
+						"ax": 2169,
+						"ay": 2827,
+						"aw": 1762,
+						"ah": 618,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_139X51": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_139x51",
+					"default": {
+						"ax": 3856,
+						"ay": 2298,
+						"aw": 178,
+						"ah": 66,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_155X58": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_155x58",
+					"default": {
+						"ax": 3856,
+						"ay": 2125,
+						"aw": 199,
+						"ah": 74,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1692X1357": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_1692x1357",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 2166,
+						"ah": 1737,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1692X1357_2": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_1692x1357_2",
+					"default": {
+						"ax": 1,
+						"ay": 1740,
+						"aw": 2166,
+						"ah": 1737,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_188X43": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_188x43",
+					"default": {
+						"ax": 2660,
+						"ay": 3957,
+						"aw": 241,
+						"ah": 55,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_18X26": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_18x26",
+					"default": {
+						"ax": 4067,
+						"ay": 1,
+						"aw": 23,
+						"ah": 34,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_198X41": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_198x41",
+					"default": {
+						"ax": 2404,
+						"ay": 3957,
+						"aw": 254,
+						"ah": 53,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_213X63": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_213x63",
+					"default": {
+						"ax": 2129,
+						"ay": 3957,
+						"aw": 273,
+						"ah": 81,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_230X893": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_230x893",
+					"default": {
+						"ax": 3636,
+						"ay": 1,
+						"aw": 295,
+						"ah": 1143,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_231X202": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_231x202",
+					"default": {
+						"ax": 3792,
+						"ay": 3818,
+						"aw": 296,
+						"ah": 259,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_237X263": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_237x263",
+					"default": {
+						"ax": 3792,
+						"ay": 3479,
+						"aw": 304,
+						"ah": 337,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_23X10": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_23x10",
+					"default": {
+						"ax": 4040,
+						"ay": 836,
+						"aw": 30,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_23X16": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_23x16",
+					"default": {
+						"ax": 4040,
+						"ay": 798,
+						"aw": 30,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_240X167": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_240x167",
+					"default": {
+						"ax": 653,
+						"ay": 3847,
+						"aw": 307,
+						"ah": 214,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_246X173": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_246x173",
+					"default": {
+						"ax": 336,
+						"ay": 3847,
+						"aw": 315,
+						"ah": 222,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_260X181": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_260x181",
+					"default": {
+						"ax": 1,
+						"ay": 3847,
+						"aw": 333,
+						"ah": 232,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_27X33": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_27x33",
+					"default": {
+						"ax": 4040,
+						"ay": 697,
+						"aw": 35,
+						"ah": 42,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_30X13": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_30x13",
+					"default": {
+						"ax": 4040,
+						"ay": 779,
+						"aw": 39,
+						"ah": 17,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_31X13": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_31x13",
+					"default": {
+						"ax": 4040,
+						"ay": 760,
+						"aw": 40,
+						"ah": 17,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_32X10": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_32x10",
+					"default": {
+						"ax": 4040,
+						"ay": 821,
+						"aw": 41,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_338X428": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_338x428",
+					"default": {
+						"ax": 1694,
+						"ay": 3479,
+						"aw": 433,
+						"ah": 548,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_36X13": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_36x13",
+					"default": {
+						"ax": 4040,
+						"ay": 741,
+						"aw": 46,
+						"ah": 17,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_38X56": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_38x56",
+					"default": {
+						"ax": 4040,
+						"ay": 534,
+						"aw": 49,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_39X28": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_39x28",
+					"default": {
+						"ax": 4040,
+						"ay": 659,
+						"aw": 50,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_43X38": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_43x38",
+					"default": {
+						"ax": 4040,
+						"ay": 608,
+						"aw": 55,
+						"ah": 49,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_43X58": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_43x58",
+					"default": {
+						"ax": 4040,
+						"ay": 458,
+						"aw": 55,
+						"ah": 74,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_44X39": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_44x39",
+					"default": {
+						"ax": 4028,
+						"ay": 1847,
+						"aw": 57,
+						"ah": 50,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_462X471": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_462x471",
+					"default": {
+						"ax": 3198,
+						"ay": 3447,
+						"aw": 592,
+						"ah": 603,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_47X21": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_47x21",
+					"default": {
+						"ax": 3787,
+						"ay": 1537,
+						"aw": 60,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_59X31": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_59x31",
+					"default": {
+						"ax": 4016,
+						"ay": 2630,
+						"aw": 76,
+						"ah": 40,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_63X16": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_63x16",
+					"default": {
+						"ax": 4005,
+						"ay": 2784,
+						"aw": 81,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_64X21": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_64x21",
+					"default": {
+						"ax": 3988,
+						"ay": 2269,
+						"aw": 82,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_64X34": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_64x34",
+					"default": {
+						"ax": 4005,
+						"ay": 2738,
+						"aw": 82,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_66X28": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_66x28",
+					"default": {
+						"ax": 3933,
+						"ay": 2908,
+						"aw": 85,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_67X44": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_67x44",
+					"default": {
+						"ax": 4000,
+						"ay": 2476,
+						"aw": 86,
+						"ah": 57,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_67X84": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_67x84",
+					"default": {
+						"ax": 3961,
+						"ay": 2366,
+						"aw": 86,
+						"ah": 108,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_68X28": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_68x28",
+					"default": {
+						"ax": 3933,
+						"ay": 2845,
+						"aw": 87,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_69X36": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_69x36",
+					"default": {
+						"ax": 3982,
+						"ay": 2690,
+						"aw": 89,
+						"ah": 46,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_71X17": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_71x17",
+					"default": {
+						"ax": 4000,
+						"ay": 2535,
+						"aw": 91,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_73X176": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_73x176",
+					"default": {
+						"ax": 3972,
+						"ay": 1537,
+						"aw": 94,
+						"ah": 226,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_74X51": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_74x51",
+					"default": {
+						"ax": 3988,
+						"ay": 2201,
+						"aw": 95,
+						"ah": 66,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_75X95": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_75x95",
+					"default": {
+						"ax": 3993,
+						"ay": 1995,
+						"aw": 96,
+						"ah": 122,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_80X89": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_80x89",
+					"default": {
+						"ax": 3856,
+						"ay": 2366,
+						"aw": 103,
+						"ah": 114,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_82X311": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_82x311",
+					"default": {
+						"ax": 3933,
+						"ay": 458,
+						"aw": 105,
+						"ah": 398,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_84X60": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_84x60",
+					"default": {
+						"ax": 3856,
+						"ay": 2560,
+						"aw": 108,
+						"ah": 77,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_87X18": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_87x18",
+					"default": {
+						"ax": 3933,
+						"ay": 2967,
+						"aw": 112,
+						"ah": 23,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_88X62": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_88x62",
+					"default": {
+						"ax": 3972,
+						"ay": 1765,
+						"aw": 113,
+						"ah": 80,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_91X53": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_91x53",
+					"default": {
+						"ax": 3966,
+						"ay": 2560,
+						"aw": 117,
+						"ah": 68,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_97X37": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_97x37",
+					"default": {
+						"ax": 3856,
+						"ay": 2690,
+						"aw": 124,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		},
+		"ATLASIMAGE_ATLAS_WORLDMAP_PIRATE_01": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Pirate_01",
+			"dimension": {
+				"width": 4096,
+				"height": 4096
+			},
+			"data": {
+				"IMAGE_WORLDMAP_PIRATE_ISLAND4": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island4",
+					"default": {
+						"ax": 2155,
+						"ay": 1852,
+						"aw": 402,
+						"ah": 366,
+						"x": 1402,
+						"y": 244
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND5": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island5",
+					"default": {
+						"ax": 707,
+						"ay": 3653,
+						"aw": 306,
+						"ah": 259,
+						"x": 2262,
+						"y": 307
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND8": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island8",
+					"default": {
+						"ax": 3760,
+						"ay": 2037,
+						"aw": 281,
+						"ah": 197,
+						"x": 2422,
+						"y": 482
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND11": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island11",
+					"default": {
+						"ax": 2169,
+						"ay": 1,
+						"aw": 670,
+						"ah": 1524,
+						"x": 3491,
+						"y": 427
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND14": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island14",
+					"default": {
+						"ax": 3020,
+						"ay": 3247,
+						"aw": 891,
+						"ah": 729,
+						"x": 1176,
+						"y": 1406
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND15": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island15",
+					"default": {
+						"ax": 3442,
+						"ay": 793,
+						"aw": 627,
+						"ah": 929,
+						"x": 2079,
+						"y": 1156
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND18": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island18",
+					"default": {
+						"ax": 3442,
+						"ay": 1724,
+						"aw": 316,
+						"ah": 504,
+						"x": 1226,
+						"y": 808
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ISLAND25": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/island25",
+					"default": {
+						"ax": 2841,
+						"ay": 1,
+						"aw": 1215,
+						"ah": 790,
+						"x": 1972,
+						"y": 1371
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1681X1248": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_1681x1248",
+					"default": {
+						"ax": 1,
+						"ay": 1740,
+						"aw": 2152,
+						"ah": 1598,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1692X1357_3": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_1692x1357_3",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 2166,
+						"ah": 1737,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_190X190": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_190x190",
+					"default": {
+						"ax": 1,
+						"ay": 3694,
+						"aw": 243,
+						"ah": 243,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_206X118": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_206x118",
+					"default": {
+						"ax": 1415,
+						"ay": 3869,
+						"aw": 264,
+						"ah": 151,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_208X171": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_208x171",
+					"default": {
+						"ax": 246,
+						"ay": 3694,
+						"aw": 266,
+						"ah": 219,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_209X189": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_209x189",
+					"default": {
+						"ax": 2559,
+						"ay": 1852,
+						"aw": 268,
+						"ah": 242,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_217X171": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_217x171",
+					"default": {
+						"ax": 1767,
+						"ay": 3658,
+						"aw": 278,
+						"ah": 219,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_222X247": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_222x247",
+					"default": {
+						"ax": 1793,
+						"ay": 3340,
+						"aw": 284,
+						"ah": 316,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_223X231": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_223x231",
+					"default": {
+						"ax": 2079,
+						"ay": 3629,
+						"aw": 286,
+						"ah": 296,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_241X212": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_241x212",
+					"default": {
+						"ax": 2367,
+						"ay": 3629,
+						"aw": 309,
+						"ah": 272,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_245X243": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_245x243",
+					"default": {
+						"ax": 3760,
+						"ay": 1724,
+						"aw": 314,
+						"ah": 311,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_250X202": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_250x202",
+					"default": {
+						"ax": 2678,
+						"ay": 3629,
+						"aw": 320,
+						"ah": 259,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_254X195": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_254x195",
+					"default": {
+						"ax": 1088,
+						"ay": 3646,
+						"aw": 325,
+						"ah": 250,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_260X204": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_260x204",
+					"default": {
+						"ax": 1432,
+						"ay": 3606,
+						"aw": 333,
+						"ah": 261,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_267X237": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_267x237",
+					"default": {
+						"ax": 1088,
+						"ay": 3340,
+						"aw": 342,
+						"ah": 304,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_280X206": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_280x206",
+					"default": {
+						"ax": 1432,
+						"ay": 3340,
+						"aw": 359,
+						"ah": 264,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_296X243": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_296x243",
+					"default": {
+						"ax": 707,
+						"ay": 3340,
+						"aw": 379,
+						"ah": 311,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_468X1135": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_468x1135",
+					"default": {
+						"ax": 2841,
+						"ay": 793,
+						"aw": 599,
+						"ah": 1453,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_476X252": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_476x252",
+					"default": {
+						"ax": 2169,
+						"ay": 1527,
+						"aw": 610,
+						"ah": 323,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_550X275": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_550x275",
+					"default": {
+						"ax": 1,
+						"ay": 3340,
+						"aw": 704,
+						"ah": 352,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_575X293": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_575x293",
+					"default": {
+						"ax": 2155,
+						"ay": 3252,
+						"aw": 736,
+						"ah": 375,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_669X779": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_669x779",
+					"default": {
+						"ax": 3020,
+						"ay": 2248,
+						"aw": 857,
+						"ah": 997,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_674X783": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_674x783",
+					"default": {
+						"ax": 2155,
+						"ay": 2248,
+						"aw": 863,
+						"ah": 1002,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		},
+		"ATLASIMAGE_ATLAS_WORLDMAP_PIRATE_02": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Pirate_02",
+			"dimension": {
+				"width": 1024,
+				"height": 1024
+			},
+			"data": {
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_677X766": {
+					"type": "Image",
+					"path": "images/full/worldmap/zomboss_node_pirate/zomboss_node_pirate_677x766",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 867,
+						"ah": 981,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

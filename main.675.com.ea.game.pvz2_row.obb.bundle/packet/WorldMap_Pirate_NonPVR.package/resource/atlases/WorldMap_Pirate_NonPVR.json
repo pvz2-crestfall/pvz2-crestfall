@@ -1,0 +1,1383 @@
+{
+	"type": "1536",
+	"packet": {
+		"ATLASIMAGE_ATLAS_WORLDMAP_PIRATE_NONPVR_00": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Pirate_NonPVR_00",
+			"dimension": {
+				"width": 4096,
+				"height": 4096
+			},
+			"data": {
+				"IMAGE_WORLDMAP_DANGER_LEVEL_PIRATE": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_level_pirate",
+					"default": {
+						"ax": 2527,
+						"ay": 2923,
+						"aw": 119,
+						"ah": 114,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_108X75": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_108x75",
+					"default": {
+						"ax": 3814,
+						"ay": 2297,
+						"aw": 138,
+						"ah": 96,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_116X54": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_116x54",
+					"default": {
+						"ax": 3493,
+						"ay": 3016,
+						"aw": 149,
+						"ah": 69,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_118X40": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_118x40",
+					"default": {
+						"ax": 1738,
+						"ay": 3034,
+						"aw": 151,
+						"ah": 51,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_118X49": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_118x49",
+					"default": {
+						"ax": 1585,
+						"ay": 3017,
+						"aw": 151,
+						"ah": 63,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_120X32": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_120x32",
+					"default": {
+						"ax": 3139,
+						"ay": 1359,
+						"aw": 154,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_144X66": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_144x66",
+					"default": {
+						"ax": 1178,
+						"ay": 1951,
+						"aw": 185,
+						"ah": 85,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_148X126": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_148x126",
+					"default": {
+						"ax": 103,
+						"ay": 2873,
+						"aw": 190,
+						"ah": 162,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_14X12": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_14x12",
+					"default": {
+						"ax": 4039,
+						"ay": 677,
+						"aw": 18,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_14X23": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_14x23",
+					"default": {
+						"ax": 4046,
+						"ay": 1510,
+						"aw": 18,
+						"ah": 30,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_152X68": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_152x68",
+					"default": {
+						"ax": 3139,
+						"ay": 1270,
+						"aw": 195,
+						"ah": 87,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_223X169": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_223x169",
+					"default": {
+						"ax": 497,
+						"ay": 2692,
+						"aw": 286,
+						"ah": 217,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_228X414": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_228x414",
+					"default": {
+						"ax": 3270,
+						"ay": 2405,
+						"aw": 292,
+						"ah": 530,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_234X150": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_234x150",
+					"default": {
+						"ax": 1079,
+						"ay": 2692,
+						"aw": 300,
+						"ah": 192,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_255X274": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_255x274",
+					"default": {
+						"ax": 2930,
+						"ay": 2556,
+						"aw": 327,
+						"ah": 351,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_264X376": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_264x376",
+					"default": {
+						"ax": 2930,
+						"ay": 2072,
+						"aw": 338,
+						"ah": 482,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_264X412": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_264x412",
+					"default": {
+						"ax": 2590,
+						"ay": 2072,
+						"aw": 338,
+						"ah": 528,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_274X271": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_274x271",
+					"default": {
+						"ax": 1765,
+						"ay": 2585,
+						"aw": 351,
+						"ah": 347,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_281X140": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_281x140",
+					"default": {
+						"ax": 2529,
+						"ay": 2602,
+						"aw": 360,
+						"ah": 179,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_30X28": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_30x28",
+					"default": {
+						"ax": 4046,
+						"ay": 1404,
+						"aw": 39,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_30X30": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_30x30",
+					"default": {
+						"ax": 4046,
+						"ay": 1363,
+						"aw": 39,
+						"ah": 39,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_31X33": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_31x33",
+					"default": {
+						"ax": 3295,
+						"ay": 1359,
+						"aw": 40,
+						"ah": 42,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_31X172": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_31x172",
+					"default": {
+						"ax": 4039,
+						"ay": 287,
+						"aw": 40,
+						"ah": 220,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_31X222": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_31x222",
+					"default": {
+						"ax": 4039,
+						"ay": 1,
+						"aw": 40,
+						"ah": 284,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_329X278": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_329x278",
+					"default": {
+						"ax": 3564,
+						"ay": 2405,
+						"aw": 421,
+						"ah": 356,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_32X32": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_32x32",
+					"default": {
+						"ax": 4046,
+						"ay": 1320,
+						"aw": 41,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_38X37": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_38x37",
+					"default": {
+						"ax": 4046,
+						"ay": 1270,
+						"aw": 49,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_43X27": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_43x27",
+					"default": {
+						"ax": 3270,
+						"ay": 2072,
+						"aw": 55,
+						"ah": 35,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_43X39": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_43x39",
+					"default": {
+						"ax": 103,
+						"ay": 3037,
+						"aw": 55,
+						"ah": 50,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_56X72": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_56x72",
+					"default": {
+						"ax": 2648,
+						"ay": 3025,
+						"aw": 72,
+						"ah": 92,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_58X344": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_58x344",
+					"default": {
+						"ax": 3987,
+						"ay": 2697,
+						"aw": 74,
+						"ah": 441,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_58X542": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_58x542",
+					"default": {
+						"ax": 3963,
+						"ay": 1,
+						"aw": 74,
+						"ah": 694,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_77X137": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_77x137",
+					"default": {
+						"ax": 589,
+						"ay": 2911,
+						"aw": 99,
+						"ah": 176,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_79X58": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_79x58",
+					"default": {
+						"ax": 3832,
+						"ay": 1670,
+						"aw": 101,
+						"ah": 74,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_97X71": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_97x71",
+					"default": {
+						"ax": 3367,
+						"ay": 2937,
+						"aw": 124,
+						"ah": 91,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_99X37": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_99x37",
+					"default": {
+						"ax": 3963,
+						"ay": 697,
+						"aw": 127,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_PIRATE_DANGER_NODE_PIRATE_9X9": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_pirate/danger_node_pirate_9x9",
+					"default": {
+						"ax": 4081,
+						"ay": 1,
+						"aw": 12,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM1_ANIM1_104X33": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim1/anim1_104x33",
+					"default": {
+						"ax": 1365,
+						"ay": 2026,
+						"aw": 133,
+						"ah": 42,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM1_ANIM1_90X34": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim1/anim1_90x34",
+					"default": {
+						"ax": 1996,
+						"ay": 3027,
+						"aw": 115,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM2_ANIM2_55X10": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim2/anim2_55x10",
+					"default": {
+						"ax": 119,
+						"ay": 2045,
+						"aw": 71,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM2_ANIM2_55X10_2": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim2/anim2_55x10_2",
+					"default": {
+						"ax": 192,
+						"ay": 2045,
+						"aw": 71,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM3_ANIM3_23X23": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim3/anim3_23x23",
+					"default": {
+						"ax": 4046,
+						"ay": 1478,
+						"aw": 30,
+						"ah": 30,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM3_ANIM3_74X75": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim3/anim3_74x75",
+					"default": {
+						"ax": 3644,
+						"ay": 3016,
+						"aw": 95,
+						"ah": 96,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM5_ANIM5_73X176": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim5/anim5_73x176",
+					"default": {
+						"ax": 3148,
+						"ay": 2909,
+						"aw": 94,
+						"ah": 226,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM5_ANIM5_82X311": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim5/anim5_82x311",
+					"default": {
+						"ax": 3939,
+						"ay": 1270,
+						"aw": 105,
+						"ah": 398,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM5_ANIM5_83X234": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim5/anim5_83x234",
+					"default": {
+						"ax": 3763,
+						"ay": 2763,
+						"aw": 106,
+						"ah": 300,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM5_ANIM5_83X234_2": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim5/anim5_83x234_2",
+					"default": {
+						"ax": 3871,
+						"ay": 2763,
+						"aw": 106,
+						"ah": 300,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_1232X1522": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_1232x1522",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 1577,
+						"ah": 1948,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_135X50": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_135x50",
+					"default": {
+						"ax": 3493,
+						"ay": 2950,
+						"aw": 173,
+						"ah": 64,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_149X57": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_149x57",
+					"default": {
+						"ax": 1365,
+						"ay": 1951,
+						"aw": 191,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_158X74": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_158x74",
+					"default": {
+						"ax": 726,
+						"ay": 1951,
+						"aw": 202,
+						"ah": 95,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_177X108": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_177x108",
+					"default": {
+						"ax": 2529,
+						"ay": 2783,
+						"aw": 227,
+						"ah": 138,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_192X51": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_192x51",
+					"default": {
+						"ax": 930,
+						"ay": 1951,
+						"aw": 246,
+						"ah": 66,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_27X26": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_27x26",
+					"default": {
+						"ax": 4046,
+						"ay": 1442,
+						"aw": 35,
+						"ah": 34,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_30X56": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_30x56",
+					"default": {
+						"ax": 4039,
+						"ay": 603,
+						"aw": 39,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_43X72": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_43x72",
+					"default": {
+						"ax": 4039,
+						"ay": 509,
+						"aw": 55,
+						"ah": 92,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_50X17": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_50x17",
+					"default": {
+						"ax": 1,
+						"ay": 2045,
+						"aw": 64,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_50X24": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_50x24",
+					"default": {
+						"ax": 1500,
+						"ay": 2026,
+						"aw": 64,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_50X48": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_50x48",
+					"default": {
+						"ax": 2860,
+						"ay": 2783,
+						"aw": 64,
+						"ah": 62,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_51X22": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_51x22",
+					"default": {
+						"ax": 1249,
+						"ay": 2038,
+						"aw": 66,
+						"ah": 28,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_58X41": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_58x41",
+					"default": {
+						"ax": 3668,
+						"ay": 2950,
+						"aw": 74,
+						"ah": 53,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_61X27": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_61x27",
+					"default": {
+						"ax": 160,
+						"ay": 3037,
+						"aw": 78,
+						"ah": 35,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_61X32": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_61x32",
+					"default": {
+						"ax": 1891,
+						"ay": 3034,
+						"aw": 78,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_735X403": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_735x403",
+					"default": {
+						"ax": 3139,
+						"ay": 752,
+						"aw": 941,
+						"ah": 516,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_73X176": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_73x176",
+					"default": {
+						"ax": 493,
+						"ay": 2911,
+						"aw": 94,
+						"ah": 226,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_78X234": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_78x234",
+					"default": {
+						"ax": 2220,
+						"ay": 2879,
+						"aw": 100,
+						"ah": 300,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_78X234_2": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_78x234_2",
+					"default": {
+						"ax": 2322,
+						"ay": 2879,
+						"aw": 100,
+						"ah": 300,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_78X311": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_78x311",
+					"default": {
+						"ax": 1483,
+						"ay": 2692,
+						"aw": 100,
+						"ah": 398,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_87X33": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_87x33",
+					"default": {
+						"ax": 3244,
+						"ay": 3035,
+						"aw": 112,
+						"ah": 42,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_89X25": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_89x25",
+					"default": {
+						"ax": 1133,
+						"ay": 2038,
+						"aw": 114,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_94X75": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_94x75",
+					"default": {
+						"ax": 3244,
+						"ay": 2937,
+						"aw": 121,
+						"ah": 96,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_96X35": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_96x35",
+					"default": {
+						"ax": 3367,
+						"ay": 3030,
+						"aw": 123,
+						"ah": 45,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM6_ANIM6_99X42": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim6/anim6_99x42",
+					"default": {
+						"ax": 1585,
+						"ay": 2952,
+						"aw": 127,
+						"ah": 54,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM8_ANIM8_126X135": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim8/anim8_126x135",
+					"default": {
+						"ax": 785,
+						"ay": 2903,
+						"aw": 162,
+						"ah": 173,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM8_ANIM8_73X253": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim8/anim8_73x253",
+					"default": {
+						"ax": 295,
+						"ay": 2873,
+						"aw": 94,
+						"ah": 324,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM9_ANIM9_154X144": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim9/anim9_154x144",
+					"default": {
+						"ax": 3564,
+						"ay": 2763,
+						"aw": 197,
+						"ah": 185,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM10_ANIM10_73X176": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim10/anim10_73x176",
+					"default": {
+						"ax": 2860,
+						"ay": 2909,
+						"aw": 94,
+						"ah": 226,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM10_ANIM10_82X311": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim10/anim10_82x311",
+					"default": {
+						"ax": 3832,
+						"ay": 1270,
+						"aw": 105,
+						"ah": 398,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_118X63": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_118x63",
+					"default": {
+						"ax": 1722,
+						"ay": 2934,
+						"aw": 151,
+						"ah": 81,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_1216X1098": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_1216x1098",
+					"default": {
+						"ax": 1580,
+						"ay": 1,
+						"aw": 1557,
+						"ah": 1406,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_178X142": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_178x142",
+					"default": {
+						"ax": 3814,
+						"ay": 2113,
+						"aw": 228,
+						"ah": 182,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_228X163": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_228x163",
+					"default": {
+						"ax": 785,
+						"ay": 2692,
+						"aw": 292,
+						"ah": 209,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_339X72": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_339x72",
+					"default": {
+						"ax": 1,
+						"ay": 1951,
+						"aw": 434,
+						"ah": 92,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_39X18": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_39x18",
+					"default": {
+						"ax": 67,
+						"ay": 2045,
+						"aw": 50,
+						"ah": 23,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_423X226": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_423x226",
+					"default": {
+						"ax": 3270,
+						"ay": 2113,
+						"aw": 542,
+						"ah": 290,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_498X274": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_498x274",
+					"default": {
+						"ax": 3342,
+						"ay": 1760,
+						"aw": 638,
+						"ah": 351,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_62X121": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_62x121",
+					"default": {
+						"ax": 690,
+						"ay": 2911,
+						"aw": 80,
+						"ah": 155,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_642X585": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_642x585",
+					"default": {
+						"ax": 3139,
+						"ay": 1,
+						"aw": 822,
+						"ah": 749,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_66X198": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_66x198",
+					"default": {
+						"ax": 949,
+						"ay": 2903,
+						"aw": 85,
+						"ah": 254,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_73X176": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_73x176",
+					"default": {
+						"ax": 2956,
+						"ay": 2909,
+						"aw": 94,
+						"ah": 226,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_78X234": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_78x234",
+					"default": {
+						"ax": 391,
+						"ay": 2873,
+						"aw": 100,
+						"ah": 300,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_78X234_2": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_78x234_2",
+					"default": {
+						"ax": 2118,
+						"ay": 2879,
+						"aw": 100,
+						"ah": 300,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_78X311": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_78x311",
+					"default": {
+						"ax": 3987,
+						"ay": 2297,
+						"aw": 100,
+						"ah": 398,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_85X71": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_85x71",
+					"default": {
+						"ax": 1996,
+						"ay": 2934,
+						"aw": 109,
+						"ah": 91,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM11_ANIM11_93X76": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim11/anim11_93x76",
+					"default": {
+						"ax": 1875,
+						"ay": 2934,
+						"aw": 119,
+						"ah": 98,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_134X128": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_134x128",
+					"default": {
+						"ax": 1182,
+						"ay": 2886,
+						"aw": 172,
+						"ah": 164,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_157X34": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_157x34",
+					"default": {
+						"ax": 930,
+						"ay": 2019,
+						"aw": 201,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_224X78": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_224x78",
+					"default": {
+						"ax": 437,
+						"ay": 1951,
+						"aw": 287,
+						"ah": 100,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_319X228": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_319x228",
+					"default": {
+						"ax": 2118,
+						"ay": 2585,
+						"aw": 409,
+						"ah": 292,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_386X140": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_386x140",
+					"default": {
+						"ax": 1,
+						"ay": 2692,
+						"aw": 494,
+						"ah": 179,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_643X399": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_643x399",
+					"default": {
+						"ax": 1765,
+						"ay": 2072,
+						"aw": 823,
+						"ah": 511,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_73X176": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_73x176",
+					"default": {
+						"ax": 3052,
+						"ay": 2909,
+						"aw": 94,
+						"ah": 226,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_78X243": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_78x243",
+					"default": {
+						"ax": 2758,
+						"ay": 2783,
+						"aw": 100,
+						"ah": 311,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_78X243_2": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_78x243_2",
+					"default": {
+						"ax": 1,
+						"ay": 2873,
+						"aw": 100,
+						"ah": 311,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_78X311": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_78x311",
+					"default": {
+						"ax": 1381,
+						"ay": 2692,
+						"aw": 100,
+						"ah": 398,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_78X317": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_78x317",
+					"default": {
+						"ax": 3982,
+						"ay": 1670,
+						"aw": 100,
+						"ah": 406,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_79X227": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_79x227",
+					"default": {
+						"ax": 2424,
+						"ay": 2879,
+						"aw": 101,
+						"ah": 291,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_79X227_2": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_79x227_2",
+					"default": {
+						"ax": 1079,
+						"ay": 2886,
+						"aw": 101,
+						"ah": 291,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM12_ANIM12_81X78": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim12/anim12_81x78",
+					"default": {
+						"ax": 2648,
+						"ay": 2923,
+						"aw": 104,
+						"ah": 100,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM14_ANIM14_105X201": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim14/anim14_105x201",
+					"default": {
+						"ax": 1585,
+						"ay": 2692,
+						"aw": 135,
+						"ah": 258,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM14_ANIM14_1375X516": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim14/anim14_1375x516",
+					"default": {
+						"ax": 1580,
+						"ay": 1409,
+						"aw": 1760,
+						"ah": 661,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM14_ANIM14_1376X483": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim14/anim14_1376x483",
+					"default": {
+						"ax": 1,
+						"ay": 2072,
+						"aw": 1762,
+						"ah": 618,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM14_ANIM14_381X381": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim14/anim14_381x381",
+					"default": {
+						"ax": 3342,
+						"ay": 1270,
+						"aw": 488,
+						"ah": 488,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_PIRATE_ANIM14_ANIM14_47X47": {
+					"type": "Image",
+					"path": "images/full/worldmap/pirate/anim14/anim14_47x47",
+					"default": {
+						"ax": 2860,
+						"ay": 2847,
+						"aw": 60,
+						"ah": 60,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

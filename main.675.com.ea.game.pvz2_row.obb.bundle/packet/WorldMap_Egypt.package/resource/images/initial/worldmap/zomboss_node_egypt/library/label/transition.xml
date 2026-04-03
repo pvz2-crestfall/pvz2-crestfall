@@ -1,0 +1,1249 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/transition" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="transition">
+            <layers>
+                <DOMLayer name="23">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_468x1135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.362869" b="0.000000" c="0.000000" d="2.008423" tx="213.899994" ty="-1716.949951"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_468x1135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="2.008423" tx="107.750000" ty="-1716.949951"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_468x1135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.647552" b="0.000000" c="0.000000" d="2.008423" tx="343.700012" ty="-1716.949951"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_468x1135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.851166" b="0.000000" c="0.000000" d="2.026047" tx="364.299988" ty="-1725.650024"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.674510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_468x1135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-2.054764" b="0.000000" c="0.000000" d="2.043640" tx="384.850006" ty="-1734.400024"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_468x1135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-2.258347" b="0.000000" c="0.000000" d="2.061203" tx="405.450012" ty="-1743.150024"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="22">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_76x62" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="944.349976" ty="154.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_76x62" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="944.349976" ty="154.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_76x62" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="944.349976" ty="154.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_76x62" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="944.349976" ty="154.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="21">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_146x126" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="606.150024" ty="330.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_146x126" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="606.150024" ty="330.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_146x126" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="606.150024" ty="330.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_146x126" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="606.150024" ty="330.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="20">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_73x67" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="535.700012" ty="371.450012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_73x67" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="535.700012" ty="371.450012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_73x67" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="535.700012" ty="371.450012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_73x67" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="535.700012" ty="371.450012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="19">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_111x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-398.799988" ty="249.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_111x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-398.799988" ty="249.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_111x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-398.799988" ty="249.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_111x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-398.799988" ty="249.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="18">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_106x91" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-505.200012" ty="196.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_106x91" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-505.200012" ty="196.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_106x91" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-505.200012" ty="196.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_106x91" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-505.200012" ty="196.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="17">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781_2" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-91.599998" ty="-244.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781_2" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-91.599998" ty="-244.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781_2" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-91.599998" ty="-244.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781_2" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-91.599998" ty="-244.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="16">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1288" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1288" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1288" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1288" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="15">
+                    <frames>
+                        <DOMFrame index="0" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_230x893" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-1.450119" b="0.000000" c="0.000000" d="1.086716" tx="271.600006" ty="-1149.050049"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_230x893" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="2.008423" tx="108.400002" ty="-1150.199951"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="14">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_48x38" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="216.350006" ty="-329.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_48x38" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="216.350006" ty="-329.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_48x38" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="216.350006" ty="-329.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_48x38" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="216.350006" ty="-329.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="13">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-91.599998" ty="-244.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-91.599998" ty="-244.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-91.599998" ty="-244.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-91.599998" ty="-244.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="12">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_89x79" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="46.150002" ty="-221.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_89x79" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="46.150002" ty="-221.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_89x79" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="46.150002" ty="-221.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_89x79" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="46.150002" ty="-221.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="11">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_80x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="944.349976" ty="154.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_80x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="944.349976" ty="154.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_80x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="944.349976" ty="154.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_80x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999992" b="-0.004000" c="0.004000" d="0.999992" tx="944.349976" ty="154.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="10">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_43x46" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="15.700000" ty="-180.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_43x46" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="15.700000" ty="-180.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_43x46" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="15.700000" ty="-180.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_43x46" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="15.700000" ty="-180.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="9">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_146x124" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="606.150024" ty="330.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_146x124" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="606.150024" ty="330.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_146x124" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="606.150024" ty="330.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_146x124" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999662" b="0.025997" c="-0.025997" d="0.999662" tx="606.150024" ty="330.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="8">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_67x59" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-482.799988" ty="-262.799988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_67x59" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-482.799988" ty="-262.799988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_67x59" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-482.799988" ty="-262.799988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_67x59" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-482.799988" ty="-262.799988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="7">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_67x69" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="535.700012" ty="371.450012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_67x69" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="535.700012" ty="371.450012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_67x69" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="535.700012" ty="371.450012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_67x69" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.999252" b="-0.035950" c="0.033447" d="0.929565" tx="535.700012" ty="371.450012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="6">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_61x57" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-529.200012" ty="-299.950012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_61x57" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-529.200012" ty="-299.950012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_61x57" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-529.200012" ty="-299.950012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_61x57" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-529.200012" ty="-299.950012"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_115x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-398.799988" ty="249.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_115x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-398.799988" ty="249.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_115x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-398.799988" ty="249.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_115x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-398.799988" ty="249.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781_2" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-323.600006" ty="-524.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781_2" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-323.600006" ty="-524.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781_2" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-323.600006" ty="-524.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_574x781_2" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-323.600006" ty="-524.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_105x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-505.200012" ty="196.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_105x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-505.200012" ty="196.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_105x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-505.200012" ty="196.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_105x87" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-505.200012" ty="196.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1288" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1288" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1288" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1288" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1289" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1289" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1289" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_egypt_1575x1289" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-562.799988" ty="-834.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

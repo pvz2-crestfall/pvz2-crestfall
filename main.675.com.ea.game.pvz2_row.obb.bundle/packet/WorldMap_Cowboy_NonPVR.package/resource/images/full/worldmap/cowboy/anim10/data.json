@@ -1,0 +1,27 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"anim10_23x23": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM10_ANIM10_23X23",
+			"dimension": {
+				"width": 23,
+				"height": 23
+			},
+			"additional": null
+		},
+		"anim10_74x75": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM10_ANIM10_74X75",
+			"dimension": {
+				"width": 74,
+				"height": 75
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

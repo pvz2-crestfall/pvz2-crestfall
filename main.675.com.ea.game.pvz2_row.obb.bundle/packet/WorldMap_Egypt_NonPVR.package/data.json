@@ -1,0 +1,72 @@
+{
+	"#expand_method": "simple",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"WorldMap_Egypt_NonPVR": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"WorldMap_Egypt_NonPVR": {
+					"type": "ImageData",
+					"path": "atlases/WorldMap_Egypt_NonPVR.json"
+				},
+				"POPANIM_WORLDMAP_DANGER_NODE_EGYPT": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/danger_node_egypt.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM1": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim1.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM2": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim2.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM3": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim3.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM4": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim4.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM5": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim5.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM6": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim6.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM7": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim7.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM8": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim8.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM9": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim9.pam"
+				},
+				"POPANIM_WORLDMAP_EGYPT_ANIM10": {
+					"type": "PopAnim",
+					"path": "images/initial/worldmap/egypt/anim10.pam"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/danger_node_egypt_26x27" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="danger_node_egypt_26x27">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/danger_node_egypt_26x27">
+                                    <matrix>
+                                        <Matrix a="0.638667" b="0.000000" c="0.000000" d="0.638667" tx="-8.500000" ty="-8.550000"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

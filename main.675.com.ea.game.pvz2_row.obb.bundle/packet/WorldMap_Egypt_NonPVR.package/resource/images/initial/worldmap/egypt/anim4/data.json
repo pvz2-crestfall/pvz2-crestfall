@@ -1,0 +1,67 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"anim4_67x75": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM4_ANIM4_67X75",
+			"dimension": {
+				"width": 67,
+				"height": 75
+			},
+			"additional": null
+		},
+		"anim4_27x35": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM4_ANIM4_27X35",
+			"dimension": {
+				"width": 27,
+				"height": 35
+			},
+			"additional": null
+		},
+		"anim4_54x41": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM4_ANIM4_54X41",
+			"dimension": {
+				"width": 54,
+				"height": 41
+			},
+			"additional": null
+		},
+		"anim4_68x70": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM4_ANIM4_68X70",
+			"dimension": {
+				"width": 68,
+				"height": 70
+			},
+			"additional": null
+		},
+		"anim4_41x34": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM4_ANIM4_41X34",
+			"dimension": {
+				"width": 41,
+				"height": 34
+			},
+			"additional": null
+		},
+		"anim4_78x88": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM4_ANIM4_78X88",
+			"dimension": {
+				"width": 78,
+				"height": 88
+			},
+			"additional": null
+		},
+		"anim4_80x82": {
+			"id": "IMAGE_WORLDMAP_EGYPT_ANIM4_ANIM4_80X82",
+			"dimension": {
+				"width": 80,
+				"height": 82
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

@@ -1,0 +1,52 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/anim4_25x67" href="media/anim4_25x67.png"/>
+        <DOMBitmapItem name="media/anim4_58x36" href="media/anim4_58x36.png"/>
+    </media>
+    <symbols>
+        <Include href="image/anim4_25x67.xml"/>
+        <Include href="image/anim4_58x36.xml"/>
+        <Include href="label/idle.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="402" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="401">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="401">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="402">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

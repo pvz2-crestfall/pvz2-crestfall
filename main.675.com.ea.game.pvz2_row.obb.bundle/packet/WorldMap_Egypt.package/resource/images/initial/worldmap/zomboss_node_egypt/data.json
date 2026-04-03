@@ -1,0 +1,323 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zomboss_node_egypt_1575x1289": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_1575X1289",
+			"dimension": {
+				"width": 1575,
+				"height": 1289
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_105x87": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_105X87",
+			"dimension": {
+				"width": 105,
+				"height": 87
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_115x87": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_115X87",
+			"dimension": {
+				"width": 115,
+				"height": 87
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_67x69": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_67X69",
+			"dimension": {
+				"width": 67,
+				"height": 69
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_146x124": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_146X124",
+			"dimension": {
+				"width": 146,
+				"height": 124
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_80x65": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_80X65",
+			"dimension": {
+				"width": 80,
+				"height": 65
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_574x781": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_574X781",
+			"dimension": {
+				"width": 574,
+				"height": 781
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_230x893": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_230X893",
+			"dimension": {
+				"width": 230,
+				"height": 893
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_468x1135": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_468X1135",
+			"dimension": {
+				"width": 468,
+				"height": 1135
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_1575x1288": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_1575X1288",
+			"dimension": {
+				"width": 1575,
+				"height": 1288
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_574x781_2": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_574X781_2",
+			"dimension": {
+				"width": 574,
+				"height": 781
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_61x57": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_61X57",
+			"dimension": {
+				"width": 61,
+				"height": 57
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_67x59": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_67X59",
+			"dimension": {
+				"width": 67,
+				"height": 59
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_43x46": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_43X46",
+			"dimension": {
+				"width": 43,
+				"height": 46
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_89x79": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_89X79",
+			"dimension": {
+				"width": 89,
+				"height": 79
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_48x38": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_48X38",
+			"dimension": {
+				"width": 48,
+				"height": 38
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_106x91": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_106X91",
+			"dimension": {
+				"width": 106,
+				"height": 91
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_111x87": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_111X87",
+			"dimension": {
+				"width": 111,
+				"height": 87
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_73x67": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_73X67",
+			"dimension": {
+				"width": 73,
+				"height": 67
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_146x126": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_146X126",
+			"dimension": {
+				"width": 146,
+				"height": 126
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_76x62": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_76X62",
+			"dimension": {
+				"width": 76,
+				"height": 62
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_185x400": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_185X400",
+			"dimension": {
+				"width": 185,
+				"height": 400
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_122x384": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_122X384",
+			"dimension": {
+				"width": 122,
+				"height": 384
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_34x28": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_34X28",
+			"dimension": {
+				"width": 34,
+				"height": 28
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_11x55": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_11X55",
+			"dimension": {
+				"width": 11,
+				"height": 55
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_1512x1185": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_1512X1185",
+			"dimension": {
+				"width": 1512,
+				"height": 1185
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_547x287": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_547X287",
+			"dimension": {
+				"width": 547,
+				"height": 287
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_80x89": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_80X89",
+			"dimension": {
+				"width": 80,
+				"height": 89
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_190x190": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_190X190",
+			"dimension": {
+				"width": 190,
+				"height": 190
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_626x310": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_626X310",
+			"dimension": {
+				"width": 626,
+				"height": 310
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_105x100": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_105X100",
+			"dimension": {
+				"width": 105,
+				"height": 100
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_649x329": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_649X329",
+			"dimension": {
+				"width": 649,
+				"height": 329
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_101x74": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_101X74",
+			"dimension": {
+				"width": 101,
+				"height": 74
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_22x22": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_22X22",
+			"dimension": {
+				"width": 22,
+				"height": 22
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_111x59": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_111X59",
+			"dimension": {
+				"width": 111,
+				"height": 59
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_84x60": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_84X60",
+			"dimension": {
+				"width": 84,
+				"height": 60
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_1574x1288": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_1574X1288",
+			"dimension": {
+				"width": 1574,
+				"height": 1288
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_572x721": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_572X721",
+			"dimension": {
+				"width": 572,
+				"height": 721
+			},
+			"additional": null
+		},
+		"zomboss_node_egypt_196x128": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_196X128",
+			"dimension": {
+				"width": 196,
+				"height": 128
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

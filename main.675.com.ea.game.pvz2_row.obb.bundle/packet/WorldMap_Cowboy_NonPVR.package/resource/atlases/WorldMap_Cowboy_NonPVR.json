@@ -1,0 +1,603 @@
+{
+	"type": "1536",
+	"packet": {
+		"ATLASIMAGE_ATLAS_WORLDMAP_COWBOY_NONPVR_00": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Cowboy_NonPVR_00",
+			"dimension": {
+				"width": 1024,
+				"height": 2048
+			},
+			"data": {
+				"IMAGE_WORLDMAP_DANGER_LEVEL_COWBOY": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_level_cowboy",
+					"default": {
+						"ax": 904,
+						"ay": 509,
+						"aw": 116,
+						"ah": 112,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_101X33": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_101x33",
+					"default": {
+						"ax": 493,
+						"ay": 1725,
+						"aw": 130,
+						"ah": 42,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_106X73": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_106x73",
+					"default": {
+						"ax": 305,
+						"ay": 1570,
+						"aw": 136,
+						"ah": 94,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_111X38": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_111x38",
+					"default": {
+						"ax": 152,
+						"ay": 1610,
+						"aw": 142,
+						"ah": 49,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_116X54": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_116x54",
+					"default": {
+						"ax": 1,
+						"ay": 1608,
+						"aw": 149,
+						"ah": 69,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_118X40": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_118x40",
+					"default": {
+						"ax": 451,
+						"ay": 1359,
+						"aw": 151,
+						"ah": 51,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_118X49": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_118x49",
+					"default": {
+						"ax": 152,
+						"ay": 1666,
+						"aw": 151,
+						"ah": 63,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_138X131": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_138x131",
+					"default": {
+						"ax": 451,
+						"ay": 1189,
+						"aw": 177,
+						"ah": 168,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_149X141": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_149x141",
+					"default": {
+						"ax": 663,
+						"ay": 1412,
+						"aw": 191,
+						"ah": 181,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_175X216": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_175x216",
+					"default": {
+						"ax": 639,
+						"ay": 1133,
+						"aw": 224,
+						"ah": 277,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_18X36": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_18x36",
+					"default": {
+						"ax": 604,
+						"ay": 1359,
+						"aw": 23,
+						"ah": 46,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_23X25": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_23x25",
+					"default": {
+						"ax": 170,
+						"ay": 1731,
+						"aw": 30,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_241X258": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_241x258",
+					"default": {
+						"ax": 1,
+						"ay": 721,
+						"aw": 309,
+						"ah": 330,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_254X240": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_254x240",
+					"default": {
+						"ax": 312,
+						"ay": 880,
+						"aw": 325,
+						"ah": 307,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_26X26": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_26x26",
+					"default": {
+						"ax": 625,
+						"ay": 1725,
+						"aw": 34,
+						"ah": 34,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_290X288": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_290x288",
+					"default": {
+						"ax": 531,
+						"ay": 509,
+						"aw": 371,
+						"ah": 369,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_30X28": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_30x28",
+					"default": {
+						"ax": 259,
+						"ay": 1151,
+						"aw": 39,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_30X58": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_30x58",
+					"default": {
+						"ax": 814,
+						"ay": 1595,
+						"aw": 39,
+						"ah": 74,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_31X33": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_31x33",
+					"default": {
+						"ax": 128,
+						"ay": 1731,
+						"aw": 40,
+						"ah": 42,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_31X172": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_31x172",
+					"default": {
+						"ax": 983,
+						"ay": 1576,
+						"aw": 40,
+						"ah": 220,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_31X222": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_31x222",
+					"default": {
+						"ax": 941,
+						"ay": 1576,
+						"aw": 40,
+						"ah": 284,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_38X37": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_38x37",
+					"default": {
+						"ax": 77,
+						"ay": 1727,
+						"aw": 49,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_412X561": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_412x561",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 528,
+						"ah": 718,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_50X95": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_50x95",
+					"default": {
+						"ax": 569,
+						"ay": 1601,
+						"aw": 64,
+						"ah": 122,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_58X344": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_58x344",
+					"default": {
+						"ax": 941,
+						"ay": 1133,
+						"aw": 74,
+						"ah": 441,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_58X542": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_58x542",
+					"default": {
+						"ax": 865,
+						"ay": 1133,
+						"aw": 74,
+						"ah": 694,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_65X51": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_65x51",
+					"default": {
+						"ax": 408,
+						"ay": 1694,
+						"aw": 83,
+						"ah": 66,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_79X58": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_79x58",
+					"default": {
+						"ax": 305,
+						"ay": 1666,
+						"aw": 101,
+						"ah": 74,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_97X36": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_97x36",
+					"default": {
+						"ax": 1,
+						"ay": 1679,
+						"aw": 124,
+						"ah": 46,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_97X71": {
+					"type": "Image",
+					"path": "images/full/worldmap/danger_node_cowboy/danger_node_cowboy_97x71",
+					"default": {
+						"ax": 443,
+						"ay": 1601,
+						"aw": 124,
+						"ah": 91,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM1_ANIM1_22X22": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim1/anim1_22x22",
+					"default": {
+						"ax": 992,
+						"ay": 847,
+						"aw": 28,
+						"ah": 28,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM1_ANIM1_34X28": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim1/anim1_34x28",
+					"default": {
+						"ax": 213,
+						"ay": 1151,
+						"aw": 44,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM2_ANIM2_116X108": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim2/anim2_116x108",
+					"default": {
+						"ax": 663,
+						"ay": 1595,
+						"aw": 149,
+						"ah": 138,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM3_ANIM3_164X116": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim3/anim3_164x116",
+					"default": {
+						"ax": 312,
+						"ay": 721,
+						"aw": 210,
+						"ah": 149,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM4_ANIM4_25X67": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim4/anim4_25x67",
+					"default": {
+						"ax": 814,
+						"ay": 1671,
+						"aw": 32,
+						"ah": 86,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM4_ANIM4_58X36": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim4/anim4_58x36",
+					"default": {
+						"ax": 1,
+						"ay": 1727,
+						"aw": 74,
+						"ah": 46,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM5_ANIM5_42X23": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim5/anim5_42x23",
+					"default": {
+						"ax": 904,
+						"ay": 847,
+						"aw": 54,
+						"ah": 30,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM7_ANIM7_164X298": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim7/anim7_164x298",
+					"default": {
+						"ax": 1,
+						"ay": 1053,
+						"aw": 210,
+						"ah": 382,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM8_ANIM8_112X126": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim8/anim8_112x126",
+					"default": {
+						"ax": 159,
+						"ay": 1446,
+						"aw": 144,
+						"ah": 162,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM9_ANIM9_88X86": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim9/anim9_88x86",
+					"default": {
+						"ax": 904,
+						"ay": 623,
+						"aw": 113,
+						"ah": 110,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM10_ANIM10_23X23": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim10/anim10_23x23",
+					"default": {
+						"ax": 960,
+						"ay": 847,
+						"aw": 30,
+						"ah": 30,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM10_ANIM10_74X75": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim10/anim10_74x75",
+					"default": {
+						"ax": 213,
+						"ay": 1053,
+						"aw": 95,
+						"ah": 96,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_104X95": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim11/anim11_104x95",
+					"default": {
+						"ax": 305,
+						"ay": 1446,
+						"aw": 133,
+						"ah": 122,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_122X132": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim11/anim11_122x132",
+					"default": {
+						"ax": 1,
+						"ay": 1437,
+						"aw": 156,
+						"ah": 169,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_164X146": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim11/anim11_164x146",
+					"default": {
+						"ax": 451,
+						"ay": 1412,
+						"aw": 210,
+						"ah": 187,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_184X199": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim11/anim11_184x199",
+					"default": {
+						"ax": 213,
+						"ay": 1189,
+						"aw": 236,
+						"ah": 255,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_285X196": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim11/anim11_285x196",
+					"default": {
+						"ax": 639,
+						"ay": 880,
+						"aw": 365,
+						"ah": 251,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_371X395": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim11/anim11_371x395",
+					"default": {
+						"ax": 531,
+						"ay": 1,
+						"aw": 475,
+						"ah": 506,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_84X86": {
+					"type": "Image",
+					"path": "images/full/worldmap/cowboy/anim11/anim11_84x86",
+					"default": {
+						"ax": 904,
+						"ay": 735,
+						"aw": 108,
+						"ah": 110,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

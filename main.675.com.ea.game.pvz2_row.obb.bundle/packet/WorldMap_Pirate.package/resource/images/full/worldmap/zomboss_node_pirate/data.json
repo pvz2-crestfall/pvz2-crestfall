@@ -1,0 +1,715 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zomboss_node_pirate_1692x1357": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1692X1357",
+			"dimension": {
+				"width": 1692,
+				"height": 1357
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_237x263": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_237X263",
+			"dimension": {
+				"width": 237,
+				"height": 263
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_250x202": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_250X202",
+			"dimension": {
+				"width": 250,
+				"height": 202
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_198x41": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_198X41",
+			"dimension": {
+				"width": 198,
+				"height": 41
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_115x26": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_115X26",
+			"dimension": {
+				"width": 115,
+				"height": 26
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_64x34": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_64X34",
+			"dimension": {
+				"width": 64,
+				"height": 34
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_91x53": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_91X53",
+			"dimension": {
+				"width": 91,
+				"height": 53
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_30x13": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_30X13",
+			"dimension": {
+				"width": 30,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_64x21": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_64X21",
+			"dimension": {
+				"width": 64,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_23x10": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_23X10",
+			"dimension": {
+				"width": 23,
+				"height": 10
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_39x28": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_39X28",
+			"dimension": {
+				"width": 39,
+				"height": 28
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_31x13": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_31X13",
+			"dimension": {
+				"width": 31,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_59x31": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_59X31",
+			"dimension": {
+				"width": 59,
+				"height": 31
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_108x29": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_108X29",
+			"dimension": {
+				"width": 108,
+				"height": 29
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_10x36": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_10X36",
+			"dimension": {
+				"width": 10,
+				"height": 36
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_82x311": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_82X311",
+			"dimension": {
+				"width": 82,
+				"height": 311
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_73x176": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_73X176",
+			"dimension": {
+				"width": 73,
+				"height": 176
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_674x783": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_674X783",
+			"dimension": {
+				"width": 674,
+				"height": 783
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_27x33": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_27X33",
+			"dimension": {
+				"width": 27,
+				"height": 33
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_18x26": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_18X26",
+			"dimension": {
+				"width": 18,
+				"height": 26
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_74x51": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_74X51",
+			"dimension": {
+				"width": 74,
+				"height": 51
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_245x243": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_245X243",
+			"dimension": {
+				"width": 245,
+				"height": 243
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_254x195": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_254X195",
+			"dimension": {
+				"width": 254,
+				"height": 195
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_116x30": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_116X30",
+			"dimension": {
+				"width": 116,
+				"height": 30
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_38x56": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_38X56",
+			"dimension": {
+				"width": 38,
+				"height": 56
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_133x103": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_133X103",
+			"dimension": {
+				"width": 133,
+				"height": 103
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_267x237": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_267X237",
+			"dimension": {
+				"width": 267,
+				"height": 237
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_260x181": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_260X181",
+			"dimension": {
+				"width": 260,
+				"height": 181
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_123x38": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_123X38",
+			"dimension": {
+				"width": 123,
+				"height": 38
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_67x44": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_67X44",
+			"dimension": {
+				"width": 67,
+				"height": 44
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_296x243": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_296X243",
+			"dimension": {
+				"width": 296,
+				"height": 243
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_246x173": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_246X173",
+			"dimension": {
+				"width": 246,
+				"height": 173
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_69x36": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_69X36",
+			"dimension": {
+				"width": 69,
+				"height": 36
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_114x22": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_114X22",
+			"dimension": {
+				"width": 114,
+				"height": 22
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_280x206": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_280X206",
+			"dimension": {
+				"width": 280,
+				"height": 206
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_240x167": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_240X167",
+			"dimension": {
+				"width": 240,
+				"height": 167
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_71x17": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_71X17",
+			"dimension": {
+				"width": 71,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_88x62": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_88X62",
+			"dimension": {
+				"width": 88,
+				"height": 62
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_213x63": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_213X63",
+			"dimension": {
+				"width": 213,
+				"height": 63
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_260x204": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_260X204",
+			"dimension": {
+				"width": 260,
+				"height": 204
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_217x171": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_217X171",
+			"dimension": {
+				"width": 217,
+				"height": 171
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_36x13": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_36X13",
+			"dimension": {
+				"width": 36,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_241x212": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_241X212",
+			"dimension": {
+				"width": 241,
+				"height": 212
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_208x171": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_208X171",
+			"dimension": {
+				"width": 208,
+				"height": 171
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_66x28": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_66X28",
+			"dimension": {
+				"width": 66,
+				"height": 28
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_188x43": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_188X43",
+			"dimension": {
+				"width": 188,
+				"height": 43
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_68x28": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_68X28",
+			"dimension": {
+				"width": 68,
+				"height": 28
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_223x231": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_223X231",
+			"dimension": {
+				"width": 223,
+				"height": 231
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_209x189": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_209X189",
+			"dimension": {
+				"width": 209,
+				"height": 189
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_75x95": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_75X95",
+			"dimension": {
+				"width": 75,
+				"height": 95
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_222x247": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_222X247",
+			"dimension": {
+				"width": 222,
+				"height": 247
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_231x202": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_231X202",
+			"dimension": {
+				"width": 231,
+				"height": 202
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_103x105": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_103X105",
+			"dimension": {
+				"width": 103,
+				"height": 105
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_23x16": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_23X16",
+			"dimension": {
+				"width": 23,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_139x51": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_139X51",
+			"dimension": {
+				"width": 139,
+				"height": 51
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_105x18": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_105X18",
+			"dimension": {
+				"width": 105,
+				"height": 18
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_32x10": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_32X10",
+			"dimension": {
+				"width": 32,
+				"height": 10
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_63x16": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_63X16",
+			"dimension": {
+				"width": 63,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_155x58": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_155X58",
+			"dimension": {
+				"width": 155,
+				"height": 58
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_206x118": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_206X118",
+			"dimension": {
+				"width": 206,
+				"height": 118
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_47x21": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_47X21",
+			"dimension": {
+				"width": 47,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_43x38": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_43X38",
+			"dimension": {
+				"width": 43,
+				"height": 38
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_87x18": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_87X18",
+			"dimension": {
+				"width": 87,
+				"height": 18
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_129x17": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_129X17",
+			"dimension": {
+				"width": 129,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_44x39": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_44X39",
+			"dimension": {
+				"width": 44,
+				"height": 39
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_113x15": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_113X15",
+			"dimension": {
+				"width": 113,
+				"height": 15
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_43x58": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_43X58",
+			"dimension": {
+				"width": 43,
+				"height": 58
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_67x84": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_67X84",
+			"dimension": {
+				"width": 67,
+				"height": 84
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_97x37": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_97X37",
+			"dimension": {
+				"width": 97,
+				"height": 37
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_230x893": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_230X893",
+			"dimension": {
+				"width": 230,
+				"height": 893
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_468x1135": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_468X1135",
+			"dimension": {
+				"width": 468,
+				"height": 1135
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_1692x1357_2": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1692X1357_2",
+			"dimension": {
+				"width": 1692,
+				"height": 1357
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_669x779": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_669X779",
+			"dimension": {
+				"width": 669,
+				"height": 779
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_462x471": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_462X471",
+			"dimension": {
+				"width": 462,
+				"height": 471
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_338x428": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_338X428",
+			"dimension": {
+				"width": 338,
+				"height": 428
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_1681x1248": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1681X1248",
+			"dimension": {
+				"width": 1681,
+				"height": 1248
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_476x252": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_476X252",
+			"dimension": {
+				"width": 476,
+				"height": 252
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_80x89": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_80X89",
+			"dimension": {
+				"width": 80,
+				"height": 89
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_190x190": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_190X190",
+			"dimension": {
+				"width": 190,
+				"height": 190
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_550x275": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_550X275",
+			"dimension": {
+				"width": 550,
+				"height": 275
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_105x100": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_105X100",
+			"dimension": {
+				"width": 105,
+				"height": 100
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_575x293": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_575X293",
+			"dimension": {
+				"width": 575,
+				"height": 293
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_101x74": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_101X74",
+			"dimension": {
+				"width": 101,
+				"height": 74
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_111x59": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_111X59",
+			"dimension": {
+				"width": 111,
+				"height": 59
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_84x60": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_84X60",
+			"dimension": {
+				"width": 84,
+				"height": 60
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_1692x1357_3": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1692X1357_3",
+			"dimension": {
+				"width": 1692,
+				"height": 1357
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_677x766": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_677X766",
+			"dimension": {
+				"width": 677,
+				"height": 766
+			},
+			"additional": null
+		},
+		"zomboss_node_pirate_1376x483": {
+			"id": "IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_1376X483",
+			"dimension": {
+				"width": 1376,
+				"height": 483
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

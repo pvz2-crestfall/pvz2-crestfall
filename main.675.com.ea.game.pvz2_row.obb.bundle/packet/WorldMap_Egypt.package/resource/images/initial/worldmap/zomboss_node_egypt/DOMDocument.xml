@@ -1,0 +1,211 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zomboss_node_egypt_1575x1289" href="media/zomboss_node_egypt_1575x1289.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_105x87" href="media/zomboss_node_egypt_105x87.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_115x87" href="media/zomboss_node_egypt_115x87.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_67x69" href="media/zomboss_node_egypt_67x69.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_146x124" href="media/zomboss_node_egypt_146x124.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_80x65" href="media/zomboss_node_egypt_80x65.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_574x781" href="media/zomboss_node_egypt_574x781.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_230x893" href="media/zomboss_node_egypt_230x893.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_468x1135" href="media/zomboss_node_egypt_468x1135.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_1575x1288" href="media/zomboss_node_egypt_1575x1288.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_574x781_2" href="media/zomboss_node_egypt_574x781_2.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_61x57" href="media/zomboss_node_egypt_61x57.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_67x59" href="media/zomboss_node_egypt_67x59.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_43x46" href="media/zomboss_node_egypt_43x46.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_89x79" href="media/zomboss_node_egypt_89x79.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_48x38" href="media/zomboss_node_egypt_48x38.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_106x91" href="media/zomboss_node_egypt_106x91.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_111x87" href="media/zomboss_node_egypt_111x87.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_73x67" href="media/zomboss_node_egypt_73x67.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_146x126" href="media/zomboss_node_egypt_146x126.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_76x62" href="media/zomboss_node_egypt_76x62.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_185x400" href="media/zomboss_node_egypt_185x400.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_122x384" href="media/zomboss_node_egypt_122x384.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_34x28" href="media/zomboss_node_egypt_34x28.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_11x55" href="media/zomboss_node_egypt_11x55.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_1512x1185" href="media/zomboss_node_egypt_1512x1185.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_547x287" href="media/zomboss_node_egypt_547x287.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_80x89" href="media/zomboss_node_egypt_80x89.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_190x190" href="media/zomboss_node_egypt_190x190.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_626x310" href="media/zomboss_node_egypt_626x310.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_105x100" href="media/zomboss_node_egypt_105x100.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_649x329" href="media/zomboss_node_egypt_649x329.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_101x74" href="media/zomboss_node_egypt_101x74.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_22x22" href="media/zomboss_node_egypt_22x22.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_111x59" href="media/zomboss_node_egypt_111x59.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_84x60" href="media/zomboss_node_egypt_84x60.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_1574x1288" href="media/zomboss_node_egypt_1574x1288.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_572x721" href="media/zomboss_node_egypt_572x721.png"/>
+        <DOMBitmapItem name="media/zomboss_node_egypt_196x128" href="media/zomboss_node_egypt_196x128.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zomboss_node_egypt_1575x1289.xml"/>
+        <Include href="image/zomboss_node_egypt_105x87.xml"/>
+        <Include href="image/zomboss_node_egypt_115x87.xml"/>
+        <Include href="image/zomboss_node_egypt_67x69.xml"/>
+        <Include href="image/zomboss_node_egypt_146x124.xml"/>
+        <Include href="image/zomboss_node_egypt_80x65.xml"/>
+        <Include href="image/zomboss_node_egypt_574x781.xml"/>
+        <Include href="image/zomboss_node_egypt_230x893.xml"/>
+        <Include href="image/zomboss_node_egypt_468x1135.xml"/>
+        <Include href="image/zomboss_node_egypt_1575x1288.xml"/>
+        <Include href="image/zomboss_node_egypt_574x781_2.xml"/>
+        <Include href="image/zomboss_node_egypt_61x57.xml"/>
+        <Include href="image/zomboss_node_egypt_67x59.xml"/>
+        <Include href="image/zomboss_node_egypt_43x46.xml"/>
+        <Include href="image/zomboss_node_egypt_89x79.xml"/>
+        <Include href="image/zomboss_node_egypt_48x38.xml"/>
+        <Include href="image/zomboss_node_egypt_106x91.xml"/>
+        <Include href="image/zomboss_node_egypt_111x87.xml"/>
+        <Include href="image/zomboss_node_egypt_73x67.xml"/>
+        <Include href="image/zomboss_node_egypt_146x126.xml"/>
+        <Include href="image/zomboss_node_egypt_76x62.xml"/>
+        <Include href="image/zomboss_node_egypt_185x400.xml"/>
+        <Include href="image/zomboss_node_egypt_122x384.xml"/>
+        <Include href="image/zomboss_node_egypt_34x28.xml"/>
+        <Include href="image/zomboss_node_egypt_11x55.xml"/>
+        <Include href="image/zomboss_node_egypt_1512x1185.xml"/>
+        <Include href="image/zomboss_node_egypt_547x287.xml"/>
+        <Include href="image/zomboss_node_egypt_80x89.xml"/>
+        <Include href="image/zomboss_node_egypt_190x190.xml"/>
+        <Include href="image/zomboss_node_egypt_626x310.xml"/>
+        <Include href="image/zomboss_node_egypt_105x100.xml"/>
+        <Include href="image/zomboss_node_egypt_649x329.xml"/>
+        <Include href="image/zomboss_node_egypt_101x74.xml"/>
+        <Include href="image/zomboss_node_egypt_22x22.xml"/>
+        <Include href="image/zomboss_node_egypt_111x59.xml"/>
+        <Include href="image/zomboss_node_egypt_84x60.xml"/>
+        <Include href="image/zomboss_node_egypt_1574x1288.xml"/>
+        <Include href="image/zomboss_node_egypt_572x721.xml"/>
+        <Include href="image/zomboss_node_egypt_196x128.xml"/>
+        <Include href="sprite/sand_02.xml"/>
+        <Include href="sprite/sand_03.xml"/>
+        <Include href="sprite/Zomboss_Island_Lightning_Ball_Base2.xml"/>
+        <Include href="sprite/sand_01.xml"/>
+        <Include href="label/inactive.xml"/>
+        <Include href="label/transition.xml"/>
+        <Include href="label/active.xml"/>
+        <Include href="label/defeated.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="140" name="inactive" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="16" name="transition" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="156" duration="141" name="active" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="297" duration="141" name="defeated" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="139">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="139">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="142">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_UI_Map_ZombossBattle_Reveal_Egypt");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="143" duration="12">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="155">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="156" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="157">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_UI_Map_ZombossBattle_Reveal_Egypt_Loop");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="158" duration="138">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="296">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="297" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="298">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Stop_UI_Map_ZombossBattle_Reveal_Egypt_Loop");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="299" duration="138">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="437">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="140">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/inactive" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="16">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/transition" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="156" duration="141">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/active" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="297" duration="141">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/defeated" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

@@ -1,0 +1,72 @@
+{
+	"#expand_method": "simple",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"WorldMap_Cowboy_NonPVR": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"WorldMap_Cowboy_NonPVR": {
+					"type": "ImageData",
+					"path": "atlases/WorldMap_Cowboy_NonPVR.json"
+				},
+				"POPANIM_WORLDMAP_DANGER_NODE_COWBOY": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/danger_node_cowboy.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM1": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim1.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM2": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim2.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM3": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim3.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM4": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim4.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM5": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim5.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM7": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim7.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM8": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim8.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM9": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim9.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM10": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim10.pam"
+				},
+				"POPANIM_WORLDMAP_COWBOY_ANIM11": {
+					"type": "PopAnim",
+					"path": "images/full/worldmap/cowboy/anim11.pam"
+				}
+			}
+		}
+	}
+}

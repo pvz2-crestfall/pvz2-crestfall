@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/zomboss_node_egypt_649x329" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="zomboss_node_egypt_649x329">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/zomboss_node_egypt_649x329">
+                                    <matrix>
+                                        <Matrix a="0.422235" b="0.000000" c="0.000000" d="0.422235" tx="-35.150002" ty="867.650024"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

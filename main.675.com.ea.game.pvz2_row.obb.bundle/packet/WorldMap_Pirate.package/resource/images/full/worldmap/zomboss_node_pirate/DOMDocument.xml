@@ -1,0 +1,324 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zomboss_node_pirate_1692x1357" href="media/zomboss_node_pirate_1692x1357.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_237x263" href="media/zomboss_node_pirate_237x263.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_250x202" href="media/zomboss_node_pirate_250x202.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_198x41" href="media/zomboss_node_pirate_198x41.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_115x26" href="media/zomboss_node_pirate_115x26.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_64x34" href="media/zomboss_node_pirate_64x34.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_91x53" href="media/zomboss_node_pirate_91x53.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_30x13" href="media/zomboss_node_pirate_30x13.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_64x21" href="media/zomboss_node_pirate_64x21.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_23x10" href="media/zomboss_node_pirate_23x10.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_39x28" href="media/zomboss_node_pirate_39x28.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_31x13" href="media/zomboss_node_pirate_31x13.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_59x31" href="media/zomboss_node_pirate_59x31.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_108x29" href="media/zomboss_node_pirate_108x29.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_10x36" href="media/zomboss_node_pirate_10x36.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_82x311" href="media/zomboss_node_pirate_82x311.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_73x176" href="media/zomboss_node_pirate_73x176.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_674x783" href="media/zomboss_node_pirate_674x783.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_27x33" href="media/zomboss_node_pirate_27x33.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_18x26" href="media/zomboss_node_pirate_18x26.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_74x51" href="media/zomboss_node_pirate_74x51.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_245x243" href="media/zomboss_node_pirate_245x243.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_254x195" href="media/zomboss_node_pirate_254x195.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_116x30" href="media/zomboss_node_pirate_116x30.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_38x56" href="media/zomboss_node_pirate_38x56.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_133x103" href="media/zomboss_node_pirate_133x103.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_267x237" href="media/zomboss_node_pirate_267x237.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_260x181" href="media/zomboss_node_pirate_260x181.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_123x38" href="media/zomboss_node_pirate_123x38.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_67x44" href="media/zomboss_node_pirate_67x44.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_296x243" href="media/zomboss_node_pirate_296x243.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_246x173" href="media/zomboss_node_pirate_246x173.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_69x36" href="media/zomboss_node_pirate_69x36.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_114x22" href="media/zomboss_node_pirate_114x22.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_280x206" href="media/zomboss_node_pirate_280x206.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_240x167" href="media/zomboss_node_pirate_240x167.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_71x17" href="media/zomboss_node_pirate_71x17.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_88x62" href="media/zomboss_node_pirate_88x62.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_213x63" href="media/zomboss_node_pirate_213x63.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_260x204" href="media/zomboss_node_pirate_260x204.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_217x171" href="media/zomboss_node_pirate_217x171.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_36x13" href="media/zomboss_node_pirate_36x13.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_241x212" href="media/zomboss_node_pirate_241x212.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_208x171" href="media/zomboss_node_pirate_208x171.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_66x28" href="media/zomboss_node_pirate_66x28.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_188x43" href="media/zomboss_node_pirate_188x43.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_68x28" href="media/zomboss_node_pirate_68x28.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_223x231" href="media/zomboss_node_pirate_223x231.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_209x189" href="media/zomboss_node_pirate_209x189.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_75x95" href="media/zomboss_node_pirate_75x95.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_222x247" href="media/zomboss_node_pirate_222x247.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_231x202" href="media/zomboss_node_pirate_231x202.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_103x105" href="media/zomboss_node_pirate_103x105.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_23x16" href="media/zomboss_node_pirate_23x16.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_139x51" href="media/zomboss_node_pirate_139x51.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_105x18" href="media/zomboss_node_pirate_105x18.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_32x10" href="media/zomboss_node_pirate_32x10.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_63x16" href="media/zomboss_node_pirate_63x16.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_155x58" href="media/zomboss_node_pirate_155x58.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_206x118" href="media/zomboss_node_pirate_206x118.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_47x21" href="media/zomboss_node_pirate_47x21.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_43x38" href="media/zomboss_node_pirate_43x38.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_87x18" href="media/zomboss_node_pirate_87x18.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_129x17" href="media/zomboss_node_pirate_129x17.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_44x39" href="media/zomboss_node_pirate_44x39.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_113x15" href="media/zomboss_node_pirate_113x15.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_43x58" href="media/zomboss_node_pirate_43x58.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_67x84" href="media/zomboss_node_pirate_67x84.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_97x37" href="media/zomboss_node_pirate_97x37.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_230x893" href="media/zomboss_node_pirate_230x893.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_468x1135" href="media/zomboss_node_pirate_468x1135.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_1692x1357_2" href="media/zomboss_node_pirate_1692x1357_2.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_669x779" href="media/zomboss_node_pirate_669x779.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_462x471" href="media/zomboss_node_pirate_462x471.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_338x428" href="media/zomboss_node_pirate_338x428.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_1681x1248" href="media/zomboss_node_pirate_1681x1248.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_476x252" href="media/zomboss_node_pirate_476x252.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_80x89" href="media/zomboss_node_pirate_80x89.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_190x190" href="media/zomboss_node_pirate_190x190.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_550x275" href="media/zomboss_node_pirate_550x275.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_105x100" href="media/zomboss_node_pirate_105x100.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_575x293" href="media/zomboss_node_pirate_575x293.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_101x74" href="media/zomboss_node_pirate_101x74.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_111x59" href="media/zomboss_node_pirate_111x59.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_84x60" href="media/zomboss_node_pirate_84x60.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_1692x1357_3" href="media/zomboss_node_pirate_1692x1357_3.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_677x766" href="media/zomboss_node_pirate_677x766.png"/>
+        <DOMBitmapItem name="media/zomboss_node_pirate_1376x483" href="media/zomboss_node_pirate_1376x483.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zomboss_node_pirate_1692x1357.xml"/>
+        <Include href="image/zomboss_node_pirate_237x263.xml"/>
+        <Include href="image/zomboss_node_pirate_250x202.xml"/>
+        <Include href="image/zomboss_node_pirate_198x41.xml"/>
+        <Include href="image/zomboss_node_pirate_115x26.xml"/>
+        <Include href="image/zomboss_node_pirate_64x34.xml"/>
+        <Include href="image/zomboss_node_pirate_91x53.xml"/>
+        <Include href="image/zomboss_node_pirate_30x13.xml"/>
+        <Include href="image/zomboss_node_pirate_64x21.xml"/>
+        <Include href="image/zomboss_node_pirate_23x10.xml"/>
+        <Include href="image/zomboss_node_pirate_39x28.xml"/>
+        <Include href="image/zomboss_node_pirate_31x13.xml"/>
+        <Include href="image/zomboss_node_pirate_59x31.xml"/>
+        <Include href="image/zomboss_node_pirate_108x29.xml"/>
+        <Include href="image/zomboss_node_pirate_10x36.xml"/>
+        <Include href="image/zomboss_node_pirate_82x311.xml"/>
+        <Include href="image/zomboss_node_pirate_73x176.xml"/>
+        <Include href="image/zomboss_node_pirate_674x783.xml"/>
+        <Include href="image/zomboss_node_pirate_27x33.xml"/>
+        <Include href="image/zomboss_node_pirate_18x26.xml"/>
+        <Include href="image/zomboss_node_pirate_74x51.xml"/>
+        <Include href="image/zomboss_node_pirate_245x243.xml"/>
+        <Include href="image/zomboss_node_pirate_254x195.xml"/>
+        <Include href="image/zomboss_node_pirate_116x30.xml"/>
+        <Include href="image/zomboss_node_pirate_38x56.xml"/>
+        <Include href="image/zomboss_node_pirate_133x103.xml"/>
+        <Include href="image/zomboss_node_pirate_267x237.xml"/>
+        <Include href="image/zomboss_node_pirate_260x181.xml"/>
+        <Include href="image/zomboss_node_pirate_123x38.xml"/>
+        <Include href="image/zomboss_node_pirate_67x44.xml"/>
+        <Include href="image/zomboss_node_pirate_296x243.xml"/>
+        <Include href="image/zomboss_node_pirate_246x173.xml"/>
+        <Include href="image/zomboss_node_pirate_69x36.xml"/>
+        <Include href="image/zomboss_node_pirate_114x22.xml"/>
+        <Include href="image/zomboss_node_pirate_280x206.xml"/>
+        <Include href="image/zomboss_node_pirate_240x167.xml"/>
+        <Include href="image/zomboss_node_pirate_71x17.xml"/>
+        <Include href="image/zomboss_node_pirate_88x62.xml"/>
+        <Include href="image/zomboss_node_pirate_213x63.xml"/>
+        <Include href="image/zomboss_node_pirate_260x204.xml"/>
+        <Include href="image/zomboss_node_pirate_217x171.xml"/>
+        <Include href="image/zomboss_node_pirate_36x13.xml"/>
+        <Include href="image/zomboss_node_pirate_241x212.xml"/>
+        <Include href="image/zomboss_node_pirate_208x171.xml"/>
+        <Include href="image/zomboss_node_pirate_66x28.xml"/>
+        <Include href="image/zomboss_node_pirate_188x43.xml"/>
+        <Include href="image/zomboss_node_pirate_68x28.xml"/>
+        <Include href="image/zomboss_node_pirate_223x231.xml"/>
+        <Include href="image/zomboss_node_pirate_209x189.xml"/>
+        <Include href="image/zomboss_node_pirate_75x95.xml"/>
+        <Include href="image/zomboss_node_pirate_222x247.xml"/>
+        <Include href="image/zomboss_node_pirate_231x202.xml"/>
+        <Include href="image/zomboss_node_pirate_103x105.xml"/>
+        <Include href="image/zomboss_node_pirate_23x16.xml"/>
+        <Include href="image/zomboss_node_pirate_139x51.xml"/>
+        <Include href="image/zomboss_node_pirate_105x18.xml"/>
+        <Include href="image/zomboss_node_pirate_32x10.xml"/>
+        <Include href="image/zomboss_node_pirate_63x16.xml"/>
+        <Include href="image/zomboss_node_pirate_155x58.xml"/>
+        <Include href="image/zomboss_node_pirate_206x118.xml"/>
+        <Include href="image/zomboss_node_pirate_47x21.xml"/>
+        <Include href="image/zomboss_node_pirate_43x38.xml"/>
+        <Include href="image/zomboss_node_pirate_87x18.xml"/>
+        <Include href="image/zomboss_node_pirate_129x17.xml"/>
+        <Include href="image/zomboss_node_pirate_44x39.xml"/>
+        <Include href="image/zomboss_node_pirate_113x15.xml"/>
+        <Include href="image/zomboss_node_pirate_43x58.xml"/>
+        <Include href="image/zomboss_node_pirate_67x84.xml"/>
+        <Include href="image/zomboss_node_pirate_97x37.xml"/>
+        <Include href="image/zomboss_node_pirate_230x893.xml"/>
+        <Include href="image/zomboss_node_pirate_468x1135.xml"/>
+        <Include href="image/zomboss_node_pirate_1692x1357_2.xml"/>
+        <Include href="image/zomboss_node_pirate_669x779.xml"/>
+        <Include href="image/zomboss_node_pirate_462x471.xml"/>
+        <Include href="image/zomboss_node_pirate_338x428.xml"/>
+        <Include href="image/zomboss_node_pirate_1681x1248.xml"/>
+        <Include href="image/zomboss_node_pirate_476x252.xml"/>
+        <Include href="image/zomboss_node_pirate_80x89.xml"/>
+        <Include href="image/zomboss_node_pirate_190x190.xml"/>
+        <Include href="image/zomboss_node_pirate_550x275.xml"/>
+        <Include href="image/zomboss_node_pirate_105x100.xml"/>
+        <Include href="image/zomboss_node_pirate_575x293.xml"/>
+        <Include href="image/zomboss_node_pirate_101x74.xml"/>
+        <Include href="image/zomboss_node_pirate_111x59.xml"/>
+        <Include href="image/zomboss_node_pirate_84x60.xml"/>
+        <Include href="image/zomboss_node_pirate_1692x1357_3.xml"/>
+        <Include href="image/zomboss_node_pirate_677x766.xml"/>
+        <Include href="image/zomboss_node_pirate_1376x483.xml"/>
+        <Include href="sprite/Ripped_Sail_Left_Anim1.xml"/>
+        <Include href="sprite/Ripped_Sail_Right_Anim1.xml"/>
+        <Include href="sprite/Ripped_Sail_Left_Anim2.xml"/>
+        <Include href="sprite/Ripped_Sail_Right_Anim2.xml"/>
+        <Include href="sprite/Ripped_Sail_Left_Anim3.xml"/>
+        <Include href="sprite/Ripped_Sail_Right_Anim3.xml"/>
+        <Include href="sprite/Ripped_Sail_Left_Anim4.xml"/>
+        <Include href="sprite/Ripped_Sail_Right_Anim4.xml"/>
+        <Include href="sprite/Ripped_Sail_Left_Anim5.xml"/>
+        <Include href="sprite/Ripped_Sail_Right_Anim5.xml"/>
+        <Include href="sprite/Ripped_Sail_Left_Anim6.xml"/>
+        <Include href="sprite/Ripped_Sail_Right_Anim6.xml"/>
+        <Include href="sprite/Ripped_Sail_Left_Anim7.xml"/>
+        <Include href="sprite/Ripped_Sail_Right_Anim7.xml"/>
+        <Include href="sprite/Ripped_Sail_Left_Anim8.xml"/>
+        <Include href="sprite/Ripped_Sail_Right_Anim8.xml"/>
+        <Include href="sprite/Ripped_Sail_Left_Anim9.xml"/>
+        <Include href="sprite/Ripped_Sail_Right_Anim9.xml"/>
+        <Include href="sprite/Zomboss_Island_Lightning_Ball_Base2.xml"/>
+        <Include href="label/inactive.xml"/>
+        <Include href="label/transition.xml"/>
+        <Include href="label/active.xml"/>
+        <Include href="label/defeated.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="140" name="inactive" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="16" name="transition" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="156" duration="141" name="active" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="297" duration="141" name="defeated" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="139">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="139">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="142">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_UI_Map_ZombossBattle_Reveal_Pirate");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="143" duration="12">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="155">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="156" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="157">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_UI_Map_ZombossBattle_Reveal_Pirate_Loop");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="158" duration="138">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="296">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="297" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="299">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Stop_UI_Map_ZombossBattle_Reveal_Pirate_Loop");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="300" duration="137">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="437">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="140">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/inactive" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="16">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/transition" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="156" duration="141">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/active" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="297" duration="141">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/defeated" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

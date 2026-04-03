@@ -1,0 +1,67 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"anim11_104x95": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_104X95",
+			"dimension": {
+				"width": 104,
+				"height": 95
+			},
+			"additional": null
+		},
+		"anim11_84x86": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_84X86",
+			"dimension": {
+				"width": 84,
+				"height": 86
+			},
+			"additional": null
+		},
+		"anim11_122x132": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_122X132",
+			"dimension": {
+				"width": 122,
+				"height": 132
+			},
+			"additional": null
+		},
+		"anim11_285x196": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_285X196",
+			"dimension": {
+				"width": 285,
+				"height": 196
+			},
+			"additional": null
+		},
+		"anim11_184x199": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_184X199",
+			"dimension": {
+				"width": 184,
+				"height": 199
+			},
+			"additional": null
+		},
+		"anim11_164x146": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_164X146",
+			"dimension": {
+				"width": 164,
+				"height": 146
+			},
+			"additional": null
+		},
+		"anim11_371x395": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_371X395",
+			"dimension": {
+				"width": 371,
+				"height": 395
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

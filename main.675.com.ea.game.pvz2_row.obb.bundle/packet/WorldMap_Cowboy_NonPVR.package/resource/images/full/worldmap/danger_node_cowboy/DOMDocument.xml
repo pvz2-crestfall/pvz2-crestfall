@@ -1,0 +1,170 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/danger_node_cowboy_101x33" href="media/danger_node_cowboy_101x33.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_50x95" href="media/danger_node_cowboy_50x95.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_254x240" href="media/danger_node_cowboy_254x240.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_23x25" href="media/danger_node_cowboy_23x25.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_18x36" href="media/danger_node_cowboy_18x36.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_30x58" href="media/danger_node_cowboy_30x58.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_175x216" href="media/danger_node_cowboy_175x216.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_111x38" href="media/danger_node_cowboy_111x38.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_412x561" href="media/danger_node_cowboy_412x561.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_290x288" href="media/danger_node_cowboy_290x288.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_149x141" href="media/danger_node_cowboy_149x141.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_116x54" href="media/danger_node_cowboy_116x54.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_118x49" href="media/danger_node_cowboy_118x49.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_97x71" href="media/danger_node_cowboy_97x71.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_38x37" href="media/danger_node_cowboy_38x37.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_106x73" href="media/danger_node_cowboy_106x73.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_79x58" href="media/danger_node_cowboy_79x58.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_30x28" href="media/danger_node_cowboy_30x28.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_31x33" href="media/danger_node_cowboy_31x33.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_97x36" href="media/danger_node_cowboy_97x36.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_118x40" href="media/danger_node_cowboy_118x40.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_58x344" href="media/danger_node_cowboy_58x344.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_241x258" href="media/danger_node_cowboy_241x258.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_26x26" href="media/danger_node_cowboy_26x26.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_31x172" href="media/danger_node_cowboy_31x172.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_58x542" href="media/danger_node_cowboy_58x542.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_31x222" href="media/danger_node_cowboy_31x222.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_138x131" href="media/danger_node_cowboy_138x131.png"/>
+        <DOMBitmapItem name="media/danger_node_cowboy_65x51" href="media/danger_node_cowboy_65x51.png"/>
+    </media>
+    <symbols>
+        <Include href="image/danger_node_cowboy_101x33.xml"/>
+        <Include href="image/danger_node_cowboy_50x95.xml"/>
+        <Include href="image/danger_node_cowboy_254x240.xml"/>
+        <Include href="image/danger_node_cowboy_23x25.xml"/>
+        <Include href="image/danger_node_cowboy_18x36.xml"/>
+        <Include href="image/danger_node_cowboy_30x58.xml"/>
+        <Include href="image/danger_node_cowboy_175x216.xml"/>
+        <Include href="image/danger_node_cowboy_111x38.xml"/>
+        <Include href="image/danger_node_cowboy_412x561.xml"/>
+        <Include href="image/danger_node_cowboy_290x288.xml"/>
+        <Include href="image/danger_node_cowboy_149x141.xml"/>
+        <Include href="image/danger_node_cowboy_116x54.xml"/>
+        <Include href="image/danger_node_cowboy_118x49.xml"/>
+        <Include href="image/danger_node_cowboy_97x71.xml"/>
+        <Include href="image/danger_node_cowboy_38x37.xml"/>
+        <Include href="image/danger_node_cowboy_106x73.xml"/>
+        <Include href="image/danger_node_cowboy_79x58.xml"/>
+        <Include href="image/danger_node_cowboy_30x28.xml"/>
+        <Include href="image/danger_node_cowboy_31x33.xml"/>
+        <Include href="image/danger_node_cowboy_97x36.xml"/>
+        <Include href="image/danger_node_cowboy_118x40.xml"/>
+        <Include href="image/danger_node_cowboy_58x344.xml"/>
+        <Include href="image/danger_node_cowboy_241x258.xml"/>
+        <Include href="image/danger_node_cowboy_26x26.xml"/>
+        <Include href="image/danger_node_cowboy_31x172.xml"/>
+        <Include href="image/danger_node_cowboy_58x542.xml"/>
+        <Include href="image/danger_node_cowboy_31x222.xml"/>
+        <Include href="image/danger_node_cowboy_138x131.xml"/>
+        <Include href="image/danger_node_cowboy_65x51.xml"/>
+        <Include href="sprite/node_danger_cowboy_detonator_back.xml"/>
+        <Include href="sprite/node_danger_cowboy_detonator_plunger.xml"/>
+        <Include href="sprite/node_danger_cowboy_rock_front.xml"/>
+        <Include href="sprite/node_danger_cowboy_idle_00.xml"/>
+        <Include href="sprite/node_danger_cowboy_explosion_01.xml"/>
+        <Include href="sprite/node_danger_cowboy_rock_01.xml"/>
+        <Include href="sprite/node_danger_cowboy_rock_02.xml"/>
+        <Include href="sprite/blast_sparks.xml"/>
+        <Include href="sprite/node_danger_cowboy_rock_back.xml"/>
+        <Include href="sprite/node_danger_cowboy_rock_core.xml"/>
+        <Include href="sprite/blast_cloud_back.xml"/>
+        <Include href="sprite/node_danger_bottom.xml"/>
+        <Include href="sprite/node_danger_back.xml"/>
+        <Include href="sprite/node_danger_bubble_back.xml"/>
+        <Include href="sprite/node_danger_sparkle_light.xml"/>
+        <Include href="sprite/node_danger_bubble_highlight_strip.xml"/>
+        <Include href="sprite/node_completed_bubble_highlight_round.xml"/>
+        <Include href="sprite/node_danger_bubble_front.xml"/>
+        <Include href="sprite/node_danger_side_shadow.xml"/>
+        <Include href="sprite/node_completed_bottom_shadow.xml"/>
+        <Include href="sprite/node_danger_front.xml"/>
+        <Include href="sprite/node_green_rays_outer.xml"/>
+        <Include href="sprite/node_green_glow.xml"/>
+        <Include href="sprite/node_particle.xml"/>
+        <Include href="sprite/laserbean_particle.xml"/>
+        <Include href="sprite/node_green_rays_center.xml"/>
+        <Include href="sprite/node_danger_cowboy_node_cover.xml"/>
+        <Include href="sprite/node_danger_rays_outer.xml"/>
+        <Include href="sprite/node_danger_rays_center.xml"/>
+        <Include href="sprite/blast_cloud_front.xml"/>
+        <Include href="sprite/node_egypt_sandstorm_cloud.xml"/>
+        <Include href="label/locked_idle.xml"/>
+        <Include href="label/unlocked_animation.xml"/>
+        <Include href="label/unlocked_idle.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="1" name="locked_idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="154" name="unlocked_animation" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="155" duration="21" name="unlocked_idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="153">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="154">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="155" duration="20">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="175">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/locked_idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="154">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/unlocked_animation" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="155" duration="21">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/unlocked_idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

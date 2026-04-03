@@ -1,0 +1,19 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"anim3_164x116": {
+			"id": "IMAGE_WORLDMAP_COWBOY_ANIM3_ANIM3_164X116",
+			"dimension": {
+				"width": 164,
+				"height": 116
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

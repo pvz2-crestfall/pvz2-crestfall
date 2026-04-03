@@ -1,0 +1,2323 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/defeated" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="defeated">
+            <layers>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="280">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_678x728" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-115.599998" ty="-246.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="123">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="123" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.020218" b="-0.390289" c="-0.452911" d="0.017426" tx="-319.899994" ty="-2.800000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="124" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.006348" b="-0.430832" c="-0.460190" d="-0.005936" tx="-318.149994" ty="-2.650000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.074510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="125" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.036377" b="-0.442795" c="-0.460999" d="-0.034943" tx="-316.950012" ty="-0.450000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="126" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.065292" b="-0.435806" c="-0.461685" d="-0.061630" tx="-315.700012" ty="1.600000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.196078"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="127" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.095840" b="-0.427338" c="-0.459824" d="-0.089081" tx="-314.600006" ty="3.600000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="128" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.124847" b="-0.417938" c="-0.455933" d="-0.114441" tx="-313.549988" ty="5.550000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.321569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="129" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.155075" b="-0.406998" c="-0.449326" d="-0.140472" tx="-312.700012" ty="7.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.384314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="130" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.183395" b="-0.395370" c="-0.440933" d="-0.164444" tx="-311.899994" ty="9.400000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.447059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="131" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.212494" b="-0.382111" c="-0.429672" d="-0.188980" tx="-311.250000" ty="11.300000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="132" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.239334" b="-0.368393" c="-0.416916" d="-0.211487" tx="-310.549988" ty="13.150000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.568627"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="133" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.266510" b="-0.352951" c="-0.401260" d="-0.234421" tx="-310.000000" ty="15.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.631373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="134" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.292435" b="-0.336426" c="-0.383545" d="-0.256516" tx="-309.500000" ty="16.900000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.694118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="135" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.315720" b="-0.319748" c="-0.364868" d="-0.276672" tx="-308.850006" ty="18.650000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="136" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.338379" b="-0.301529" c="-0.343094" d="-0.297379" tx="-308.450012" ty="20.400000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.819608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="137" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.357574" b="-0.283890" c="-0.320282" d="-0.316940" tx="-307.850006" ty="22.350000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.878431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="138" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.375290" b="-0.264740" c="-0.294449" d="-0.337418" tx="-307.299988" ty="24.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.941176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="139" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.389252" b="-0.246033" c="-0.268250" d="-0.357025" tx="-306.600006" ty="26.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.401199" b="-0.225372" c="-0.239532" d="-0.377502" tx="-305.899994" ty="28.350000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="141" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.409317" b="-0.205017" c="-0.211212" d="-0.397278" tx="-304.950012" ty="30.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="142" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.414948" b="-0.182236" c="-0.180984" d="-0.417847" tx="-304.000000" ty="32.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="143" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.416748" b="-0.159546" c="-0.151871" d="-0.437805" tx="-302.799988" ty="34.799999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="144" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.415833" b="-0.133942" c="-0.121552" d="-0.458267" tx="-301.399994" ty="36.950001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="145" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.411575" b="-0.106674" c="-0.091736" d="-0.478546" tx="-299.850006" ty="39.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="146" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.432053" b="-0.069107" c="-0.068649" d="-0.434998" tx="-299.299988" ty="39.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="147" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.451355" b="-0.036102" c="-0.041901" d="-0.388931" tx="-298.950012" ty="39.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="148" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.453171" b="-0.013504" c="-0.013977" d="-0.437485" tx="-297.600006" ty="38.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="149" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.453171" b="0.013977" c="0.013977" d="-0.453171" tx="-296.200012" ty="37.950001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="150" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.454453" b="0.041321" c="0.042175" d="-0.445145" tx="-294.899994" ty="36.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="151" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.453430" b="0.069244" c="0.072037" d="-0.435883" tx="-293.549988" ty="35.700001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="152" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.450485" b="0.094910" c="0.100418" d="-0.425781" tx="-292.000000" ty="34.700001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="153" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.445068" b="0.121124" c="0.130081" d="-0.414383" tx="-290.399994" ty="33.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="154" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.437393" b="0.146469" c="0.159393" d="-0.401947" tx="-288.600006" ty="32.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="155" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.428146" b="0.169693" c="0.186737" d="-0.389084" tx="-286.649994" ty="32.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="156" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.416199" b="0.193405" c="0.214767" d="-0.374786" tx="-284.600006" ty="31.400000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="157" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.402985" b="0.215118" c="0.240601" d="-0.360306" tx="-282.299988" ty="30.850000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="158" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.387024" b="0.237259" c="0.266708" d="-0.344284" tx="-280.000000" ty="30.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="159" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.370132" b="0.257538" c="0.290405" d="-0.328232" tx="-277.399994" ty="29.850000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="160" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.350525" b="0.278152" c="0.313965" d="-0.310547" tx="-274.700012" ty="29.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="161" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.330093" b="0.297348" c="0.334686" d="-0.293259" tx="-271.750000" ty="29.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="162" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.306625" b="0.317474" c="0.354355" d="-0.274704" tx="-268.600006" ty="29.049999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="163" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.282639" b="0.336777" c="0.370697" d="-0.256775" tx="-265.250000" ty="29.100000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="164" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.256027" b="0.357040" c="0.385468" d="-0.237137" tx="-261.649994" ty="28.950001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="165" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.228195" b="0.377457" c="0.397507" d="-0.216690" tx="-257.950012" ty="29.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="166" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.200806" b="0.397354" c="0.406036" d="-0.196518" tx="-254.000000" ty="29.100000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="167" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.171524" b="0.418121" c="0.412369" d="-0.173904" tx="-249.850006" ty="29.100000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="168" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.143326" b="0.438477" c="0.415253" d="-0.151337" tx="-245.550003" ty="29.350000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="169" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.113831" b="0.459427" c="0.415680" d="-0.125809" tx="-241.050003" ty="29.450001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="170" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.086044" b="0.479996" c="0.412811" d="-0.100052" tx="-236.500000" ty="29.650000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="171" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.061264" b="0.436142" c="0.433197" d="-0.061676" tx="-233.350006" ty="34.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="172" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.035660" b="0.389420" c="0.451904" d="-0.030731" tx="-230.050003" ty="40.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="173" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.006241" b="0.437683" c="0.453354" d="-0.006027" tx="-225.649994" ty="33.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="174" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.020218" b="0.452911" c="0.452911" d="0.020218" tx="-221.300003" ty="31.799999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="175" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.050369" b="0.445404" c="0.457764" d="0.049011" tx="-217.000000" ty="31.150000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="176" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.079620" b="0.436829" c="0.460159" d="0.075592" tx="-212.699997" ty="30.650000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="177" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.110718" b="0.426834" c="0.459625" d="0.102814" tx="-208.050003" ty="30.400000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="178" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.141876" b="0.415634" c="0.456314" d="0.129227" tx="-203.300003" ty="30.350000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="179" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.171356" b="0.403824" c="0.450806" d="0.153503" tx="-198.500000" ty="30.700001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="180" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.201874" b="0.390457" c="0.442093" d="0.178299" tx="-193.500000" ty="31.100000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="181" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.230255" b="0.376678" c="0.431458" d="0.201019" tx="-188.550003" ty="31.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="182" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.259079" b="0.361282" c="0.417557" d="0.224167" tx="-183.350006" ty="32.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="183" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.285385" b="0.345718" c="0.402130" d="0.245361" tx="-178.199997" ty="33.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="184" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.311600" b="0.328415" c="0.383469" d="0.266861" tx="-172.949997" ty="35.200001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="185" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.334946" b="0.311081" c="0.363708" d="0.286484" tx="-167.750000" ty="36.799999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="186" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.357376" b="0.292236" c="0.340622" d="0.306625" tx="-162.449997" ty="38.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="187" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.376083" b="0.274002" c="0.316452" d="0.325638" tx="-157.350006" ty="40.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="188" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.392975" b="0.254227" c="0.289139" d="0.345520" tx="-152.100006" ty="42.799999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="189" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.406693" b="0.233719" c="0.260208" d="0.365295" tx="-146.949997" ty="45.200001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="190" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.416260" b="0.213638" c="0.231369" d="0.384354" tx="-142.100006" ty="47.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="191" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.423233" b="0.191345" c="0.200394" d="0.404144" tx="-137.250000" ty="50.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="192" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.426041" b="0.169266" c="0.170349" d="0.423340" tx="-132.699997" ty="53.450001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="193" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.425827" b="0.144501" c="0.138885" d="0.443069" tx="-128.199997" ty="56.700001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="194" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.421616" b="0.119751" c="0.109222" d="0.462250" tx="-124.000000" ty="60.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="195" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.414246" b="0.091858" c="0.078995" d="0.481659" tx="-120.000000" ty="63.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="196" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.434006" b="0.055649" c="0.055283" d="0.436966" tx="-114.750000" ty="72.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="197" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.452469" b="0.024094" c="0.027954" d="0.389908" tx="-109.550003" ty="81.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="198" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.453430" b="0.000000" c="0.000000" d="0.437744" tx="-105.199997" ty="77.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="199" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.453430" b="0.000000" c="0.000000" d="0.453430" tx="-102.300003" ty="77.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="200" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.452469" b="-0.027954" c="-0.027954" d="0.452469" tx="-98.050003" ty="79.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="201" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.449615" b="-0.057266" c="-0.057266" d="0.449615" tx="-93.849998" ty="82.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="202" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.445129" b="-0.084885" c="-0.084885" d="0.445129" tx="-89.800003" ty="85.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="203" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.438583" b="-0.113617" c="-0.113617" d="0.438583" tx="-85.800003" ty="89.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="204" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.430664" b="-0.140457" c="-0.140457" d="0.430664" tx="-82.000000" ty="92.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="205" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.420547" b="-0.168152" c="-0.168152" d="0.420547" tx="-78.300003" ty="95.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="206" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.409302" b="-0.193787" c="-0.193787" d="0.409302" tx="-74.750000" ty="99.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="207" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.395767" b="-0.219986" c="-0.219986" d="0.395767" tx="-71.199997" ty="102.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="208" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.381378" b="-0.244003" c="-0.244003" d="0.381378" tx="-67.949997" ty="106.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="209" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.364655" b="-0.268295" c="-0.268295" d="0.364655" tx="-64.750000" ty="110.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="210" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.346390" b="-0.291458" c="-0.291458" d="0.346390" tx="-61.750000" ty="114.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.929412"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="211" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.327469" b="-0.312576" c="-0.312119" d="0.327957" tx="-58.849998" ty="117.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.850980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="212" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.305801" b="-0.334076" c="-0.332062" d="0.307663" tx="-56.150002" ty="122.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.776471"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="213" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.283707" b="-0.353928" c="-0.349152" d="0.287598" tx="-53.599998" ty="126.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.698039"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="214" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.259109" b="-0.374039" c="-0.365097" d="0.265457" tx="-51.250000" ty="130.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.623529"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="215" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.234573" b="-0.392609" c="-0.378036" d="0.243607" tx="-49.150002" ty="134.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.545098"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="216" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.207870" b="-0.411285" c="-0.389511" d="0.219482" tx="-47.200001" ty="139.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.470588"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.033630" b="-0.649124" c="0.753296" d="0.028992" tx="706.099976" ty="-20.049999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.010544" b="-0.716583" c="0.765427" d="-0.009872" tx="703.150024" ty="-19.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.074510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.060501" b="-0.736481" c="0.766754" d="-0.058121" tx="701.099976" ty="-16.100000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.108582" b="-0.724869" c="0.767883" d="-0.102509" tx="699.049988" ty="-12.800000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.196078"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.159409" b="-0.710785" c="0.764801" d="-0.148148" tx="697.250000" ty="-9.400000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.258824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.207657" b="-0.695145" c="0.758347" d="-0.190353" tx="695.500000" ty="-6.150000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.321569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.257935" b="-0.676941" c="0.747314" d="-0.233643" tx="694.099976" ty="-2.950000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.384314"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.305023" b="-0.657623" c="0.733353" d="-0.273529" tx="692.750000" ty="0.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.447059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.353424" b="-0.635544" c="0.714630" d="-0.314301" tx="691.650024" ty="3.400000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.509804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.398087" b="-0.612732" c="0.693436" d="-0.351746" tx="690.450012" ty="6.450000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.568627"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.443283" b="-0.587036" c="0.667419" d="-0.389908" tx="689.549988" ty="9.600000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.631373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.486389" b="-0.559555" c="0.637924" d="-0.426636" tx="688.750000" ty="12.650000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.694118"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.525101" b="-0.531815" c="0.606857" d="-0.460175" tx="687.750000" ty="15.600000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.756863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.562790" b="-0.501511" c="0.570633" d="-0.494614" tx="687.049988" ty="18.600000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.819608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.594727" b="-0.472183" c="0.532700" d="-0.527176" tx="686.049988" ty="21.700001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.878431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.624176" b="-0.440308" c="0.489716" d="-0.561188" tx="685.150024" ty="24.900000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.941176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.647430" b="-0.409225" c="0.446167" d="-0.593826" tx="683.900024" ty="28.350000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.667297" b="-0.374863" c="0.398407" d="-0.627884" tx="682.799988" ty="31.799999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.680786" b="-0.340988" c="0.351303" d="-0.660797" tx="681.200012" ty="35.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.690155" b="-0.303101" c="0.301010" d="-0.694962" tx="679.599976" ty="38.799999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.693176" b="-0.265350" c="0.252594" d="-0.728165" tx="677.549988" ty="42.450001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.691620" b="-0.222794" c="0.202164" d="-0.762222" tx="675.349976" ty="46.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.684555" b="-0.177414" c="0.152588" d="-0.795914" tx="672.700012" ty="49.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.718628" b="-0.114944" c="0.114182" d="-0.723526" tx="671.799988" ty="50.049999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.750702" b="-0.060043" c="0.069672" d="-0.646881" tx="671.200012" ty="50.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.753723" b="-0.022446" c="0.023254" d="-0.727646" tx="669.000000" ty="48.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.753723" b="0.023254" c="-0.023254" d="-0.753723" tx="666.750000" ty="47.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.755844" b="0.068726" c="-0.070160" d="-0.740402" tx="664.500000" ty="45.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.754166" b="0.115189" c="-0.119827" d="-0.724976" tx="662.250000" ty="44.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.749268" b="0.157852" c="-0.167007" d="-0.708176" tx="659.650024" ty="42.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.740234" b="0.201447" c="-0.216370" d="-0.689209" tx="656.950012" ty="40.700001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.727478" b="0.243622" c="-0.265106" d="-0.668533" tx="654.049988" ty="39.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.712097" b="0.282242" c="-0.310577" d="-0.647141" tx="650.799988" ty="38.049999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.692245" b="0.321686" c="-0.357224" d="-0.623383" tx="647.349976" ty="36.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.670258" b="0.357803" c="-0.400162" d="-0.599289" tx="643.549988" ty="35.950001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.643723" b="0.394623" c="-0.443619" d="-0.572647" tx="639.650024" ty="35.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.615601" b="0.428345" c="-0.483002" d="-0.545944" tx="635.349976" ty="34.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.583008" b="0.462646" c="-0.522202" d="-0.516510" tx="630.849976" ty="33.700001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.549026" b="0.494568" c="-0.556671" d="-0.487762" tx="626.049988" ty="33.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.509995" b="0.528015" c="-0.589401" d="-0.456894" tx="620.750000" ty="33.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.470108" b="0.560120" c="-0.616577" d="-0.427063" tx="615.200012" ty="33.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.425827" b="0.593842" c="-0.641129" d="-0.394424" tx="609.250000" ty="32.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.379547" b="0.627792" c="-0.661148" d="-0.360397" tx="603.000000" ty="32.799999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="43" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.333984" b="0.660904" c="-0.675354" d="-0.326843" tx="596.450012" ty="33.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.285278" b="0.695435" c="-0.685883" d="-0.289261" tx="589.549988" ty="33.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="45" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.238373" b="0.729294" c="-0.690659" d="-0.251709" tx="582.400024" ty="33.450001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="46" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.189316" b="0.764145" c="-0.691376" d="-0.209244" tx="574.950012" ty="33.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="47" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.143112" b="0.798325" c="-0.686630" d="-0.166397" tx="567.400024" ty="34.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="48" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.101883" b="0.725418" c="-0.720520" d="-0.102585" tx="562.099976" ty="42.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="49" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.059311" b="0.647690" c="-0.751633" d="-0.051102" tx="556.650024" ty="51.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="50" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.010391" b="0.727966" c="-0.754044" d="-0.010025" tx="549.299988" ty="40.700001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="51" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.033630" b="0.753296" c="-0.753296" d="0.033630" tx="542.099976" ty="37.549999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="52" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.083786" b="0.740814" c="-0.761353" d="0.081528" tx="534.950012" ty="36.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="53" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.132431" b="0.726547" c="-0.765350" d="0.125717" tx="527.750000" ty="35.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="54" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.184143" b="0.709930" c="-0.764465" d="0.171005" tx="520.099976" ty="35.200001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="55" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.235977" b="0.691315" c="-0.758957" d="0.214951" tx="512.150024" ty="35.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="56" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.285019" b="0.671646" c="-0.749802" d="0.255310" tx="504.200012" ty="35.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="57" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.335770" b="0.649414" c="-0.735306" d="0.296555" tx="495.850006" ty="36.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="58" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.382965" b="0.626511" c="-0.717636" d="0.334335" tx="487.549988" ty="37.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="59" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.430923" b="0.600922" c="-0.694504" d="0.372864" tx="478.950012" ty="39.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.474670" b="0.575012" c="-0.668823" d="0.408081" tx="470.350006" ty="40.950001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="61" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.518265" b="0.546234" c="-0.637802" d="0.443863" tx="461.600006" ty="43.200001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="62" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.557098" b="0.517410" c="-0.604935" d="0.476501" tx="452.950012" ty="45.799999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="63" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.594421" b="0.486053" c="-0.566528" d="0.509979" tx="444.149994" ty="48.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="64" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.625534" b="0.455734" c="-0.526337" d="0.541626" tx="435.649994" ty="52.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="65" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.653625" b="0.422821" c="-0.480911" d="0.574677" tx="426.899994" ty="55.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="66" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.676422" b="0.388733" c="-0.432770" d="0.607590" tx="418.450012" ty="59.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="67" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.692352" b="0.355331" c="-0.384842" d="0.639282" tx="410.299988" ty="63.950001"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="68" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.703918" b="0.318268" c="-0.333282" d="0.672211" tx="402.149994" ty="68.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="69" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.708603" b="0.281525" c="-0.283325" d="0.704132" tx="394.649994" ty="73.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="70" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.708282" b="0.240341" c="-0.231003" d="0.736938" tx="387.200012" ty="78.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="71" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.701263" b="0.199173" c="-0.181671" d="0.768829" tx="380.250000" ty="84.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="72" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.688995" b="0.152771" c="-0.131393" d="0.801102" tx="373.549988" ty="90.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="73" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.721878" b="0.092575" c="-0.091949" d="0.726791" tx="364.899994" ty="105.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="74" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.752579" b="0.040054" c="-0.046494" d="0.648499" tx="356.200012" ty="120.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="75" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.754166" b="0.000000" c="0.000000" d="0.728073" tx="348.950012" ty="114.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="76" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.754166" b="0.000000" c="0.000000" d="0.754166" tx="344.200012" ty="113.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="77" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.752579" b="-0.046494" c="0.046494" d="0.752579" tx="337.100006" ty="117.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="78" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.747818" b="-0.095245" c="0.095245" d="0.747818" tx="330.100006" ty="122.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="79" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.740372" b="-0.141190" c="0.141190" d="0.740372" tx="323.399994" ty="127.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="80" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.729477" b="-0.188980" c="0.188980" d="0.729477" tx="316.750000" ty="132.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="81" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.716293" b="-0.233612" c="0.233612" d="0.716293" tx="310.399994" ty="137.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="82" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.699463" b="-0.279663" c="0.279663" d="0.699463" tx="304.250000" ty="143.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="83" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.680756" b="-0.322311" c="0.322311" d="0.680756" tx="298.299988" ty="149.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="84" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.658264" b="-0.365891" c="0.365891" d="0.658264" tx="292.500000" ty="155.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="85" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.634323" b="-0.405838" c="0.405838" d="0.634323" tx="287.049988" ty="161.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="86" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.606506" b="-0.446243" c="0.446243" d="0.606506" tx="281.700012" ty="167.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="87" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.576126" b="-0.484772" c="0.484772" d="0.576126" tx="276.649994" ty="174.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.929412"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="88" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.544662" b="-0.519897" c="0.519104" d="0.545486" tx="271.850006" ty="180.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.850980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="89" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.508636" b="-0.555664" c="0.552322" d="0.511719" tx="267.399994" ty="187.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.776471"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="90" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.471878" b="-0.588669" c="0.580719" d="0.478348" tx="263.200012" ty="194.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.698039"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="91" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.430969" b="-0.622131" c="0.607269" d="0.441528" tx="259.350006" ty="201.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.623529"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="92" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.390152" b="-0.653015" c="0.628784" d="0.405182" tx="255.750000" ty="208.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.545098"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="93" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_116x108" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.345718" b="-0.684067" c="0.647842" d="0.365051" tx="252.449997" ty="215.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.470588"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="280">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zomboss_node_cowboy_1725x1382_3" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-586.799988" ty="-676.349976"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="280">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/sprite" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-728.400024" ty="-819.150024"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,863 @@
+{
+	"type": "1536",
+	"packet": {
+		"ATLASIMAGE_ATLAS_WORLDMAP_EGYPT_00": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Egypt_00",
+			"dimension": {
+				"width": 4096,
+				"height": 4096
+			},
+			"data": {
+				"IMAGE_WORLDMAP_EGYPT_ISLAND7": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island7",
+					"default": {
+						"ax": 388,
+						"ay": 3924,
+						"aw": 203,
+						"ah": 134,
+						"x": 1540,
+						"y": 527
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND9": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island9",
+					"default": {
+						"ax": 2148,
+						"ay": 3837,
+						"aw": 288,
+						"ah": 190,
+						"x": 1202,
+						"y": 301
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND10": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island10",
+					"default": {
+						"ax": 2701,
+						"ay": 3837,
+						"aw": 295,
+						"ah": 148,
+						"x": 1137,
+						"y": 247
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND11": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island11",
+					"default": {
+						"ax": 190,
+						"ay": 3924,
+						"aw": 196,
+						"ah": 142,
+						"x": 1119,
+						"y": 450
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND12": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island12",
+					"default": {
+						"ax": 2701,
+						"ay": 3987,
+						"aw": 141,
+						"ah": 93,
+						"x": 1394,
+						"y": 439
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND16": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island16",
+					"default": {
+						"ax": 3137,
+						"ay": 3303,
+						"aw": 601,
+						"ah": 589,
+						"x": 2931,
+						"y": 1441
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND18": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island18",
+					"default": {
+						"ax": 3251,
+						"ay": 3894,
+						"aw": 233,
+						"ah": 157,
+						"x": 475,
+						"y": 1408
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND19": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island19",
+					"default": {
+						"ax": 2438,
+						"ay": 3837,
+						"aw": 261,
+						"ah": 207,
+						"x": 344,
+						"y": 1565
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND20": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island20",
+					"default": {
+						"ax": 3979,
+						"ay": 3303,
+						"aw": 114,
+						"ah": 274,
+						"x": 96,
+						"y": 1521
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND24": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island24",
+					"default": {
+						"ax": 1903,
+						"ay": 3303,
+						"aw": 1232,
+						"ah": 532,
+						"x": 3363,
+						"y": 129
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND26": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island26",
+					"default": {
+						"ax": 1,
+						"ay": 3172,
+						"aw": 1166,
+						"ah": 750,
+						"x": 2197,
+						"y": 64
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND34": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island34",
+					"default": {
+						"ax": 3740,
+						"ay": 3817,
+						"aw": 280,
+						"ah": 215,
+						"x": 1948,
+						"y": 661
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND36": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island36",
+					"default": {
+						"ax": 2844,
+						"ay": 3987,
+						"aw": 122,
+						"ah": 102,
+						"x": 1833,
+						"y": 643
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_105X100": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_105x100",
+					"default": {
+						"ax": 593,
+						"ay": 3924,
+						"aw": 135,
+						"ah": 128,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_106X91": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_106x91",
+					"default": {
+						"ax": 879,
+						"ay": 3924,
+						"aw": 136,
+						"ah": 117,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_111X87": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_111x87",
+					"default": {
+						"ax": 1017,
+						"ay": 3924,
+						"aw": 142,
+						"ah": 112,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_115X87": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_115x87",
+					"default": {
+						"ax": 730,
+						"ay": 3924,
+						"aw": 147,
+						"ah": 112,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_11X55": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_11x55",
+					"default": {
+						"ax": 4037,
+						"ay": 100,
+						"aw": 14,
+						"ah": 71,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_146X124": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_146x124",
+					"default": {
+						"ax": 1,
+						"ay": 3924,
+						"aw": 187,
+						"ah": 159,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_146X126": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_146x126",
+					"default": {
+						"ax": 3486,
+						"ay": 3894,
+						"aw": 187,
+						"ah": 162,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_1512X1185": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_1512x1185",
+					"default": {
+						"ax": 1,
+						"ay": 1653,
+						"aw": 1936,
+						"ah": 1517,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_1574X1288": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_1574x1288",
+					"default": {
+						"ax": 2019,
+						"ay": 1652,
+						"aw": 2015,
+						"ah": 1649,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_1575X1288": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_1575x1288",
+					"default": {
+						"ax": 2019,
+						"ay": 1,
+						"aw": 2016,
+						"ah": 1649,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_1575X1289": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_1575x1289",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 2016,
+						"ah": 1650,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_185X400": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_185x400",
+					"default": {
+						"ax": 3740,
+						"ay": 3303,
+						"aw": 237,
+						"ah": 512,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_190X190": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_190x190",
+					"default": {
+						"ax": 1903,
+						"ay": 3837,
+						"aw": 243,
+						"ah": 243,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_196X128": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_196x128",
+					"default": {
+						"ax": 2998,
+						"ay": 3894,
+						"aw": 251,
+						"ah": 164,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_22X22": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_22x22",
+					"default": {
+						"ax": 4053,
+						"ay": 100,
+						"aw": 28,
+						"ah": 28,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_34X28": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_34x28",
+					"default": {
+						"ax": 4037,
+						"ay": 62,
+						"aw": 44,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_43X46": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_43x46",
+					"default": {
+						"ax": 4037,
+						"ay": 1,
+						"aw": 55,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_48X38": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_48x38",
+					"default": {
+						"ax": 1939,
+						"ay": 1653,
+						"aw": 62,
+						"ah": 49,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_572X721": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_572x721",
+					"default": {
+						"ax": 1169,
+						"ay": 3172,
+						"aw": 732,
+						"ah": 923,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_80X65": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_80x65",
+					"default": {
+						"ax": 3979,
+						"ay": 3682,
+						"aw": 103,
+						"ah": 83,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_80X89": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_80x89",
+					"default": {
+						"ax": 1903,
+						"ay": 3172,
+						"aw": 103,
+						"ah": 114,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_89X79": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_89x79",
+					"default": {
+						"ax": 3979,
+						"ay": 3579,
+						"aw": 114,
+						"ah": 101,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		},
+		"ATLASIMAGE_ATLAS_WORLDMAP_EGYPT_01": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Egypt_01",
+			"dimension": {
+				"width": 4096,
+				"height": 4096
+			},
+			"data": {
+				"IMAGE_WORLDMAP_EGYPT_ISLAND1": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island1",
+					"default": {
+						"ax": 3155,
+						"ay": 1,
+						"aw": 834,
+						"ah": 1008,
+						"x": 175,
+						"y": 120
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND3": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island3",
+					"default": {
+						"ax": 3000,
+						"ay": 1242,
+						"aw": 1039,
+						"ah": 1078,
+						"x": 2102,
+						"y": 1095
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND4": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island4",
+					"default": {
+						"ax": 1289,
+						"ay": 3613,
+						"aw": 286,
+						"ah": 314,
+						"x": 1942,
+						"y": 305
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND5": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island5",
+					"default": {
+						"ax": 1577,
+						"ay": 3613,
+						"aw": 286,
+						"ah": 298,
+						"x": 1540,
+						"y": 320
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND6": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island6",
+					"default": {
+						"ax": 3424,
+						"ay": 1011,
+						"aw": 132,
+						"ah": 90,
+						"x": 1797,
+						"y": 439
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND8": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island8",
+					"default": {
+						"ax": 3812,
+						"ay": 1011,
+						"aw": 111,
+						"ah": 71,
+						"x": 1721,
+						"y": 527
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND14": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island14",
+					"default": {
+						"ax": 1,
+						"ay": 1586,
+						"aw": 800,
+						"ah": 1371,
+						"x": 1743,
+						"y": 1888
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND17": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island17",
+					"default": {
+						"ax": 3584,
+						"ay": 3297,
+						"aw": 412,
+						"ah": 473,
+						"x": 63,
+						"y": 1111
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND21": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island21",
+					"default": {
+						"ax": 415,
+						"ay": 3390,
+						"aw": 479,
+						"ah": 380,
+						"x": 2088,
+						"y": 780
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND22": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island22",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 1465,
+						"ah": 1583,
+						"x": 1372,
+						"y": 1656
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND23": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island23",
+					"default": {
+						"ax": 1468,
+						"ay": 1,
+						"aw": 1685,
+						"ah": 1239,
+						"x": 263,
+						"y": 1852
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND25": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island25",
+					"default": {
+						"ax": 1468,
+						"ay": 1242,
+						"aw": 1530,
+						"ah": 944,
+						"x": 2889,
+						"y": 577
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND27": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island27",
+					"default": {
+						"ax": 2878,
+						"ay": 2322,
+						"aw": 1168,
+						"ah": 540,
+						"x": 2588,
+						"y": 3052
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND28": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island28",
+					"default": {
+						"ax": 1,
+						"ay": 3041,
+						"aw": 1242,
+						"ah": 347,
+						"x": 2488,
+						"y": 2706
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND29": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island29",
+					"default": {
+						"ax": 2878,
+						"ay": 2864,
+						"aw": 1149,
+						"ah": 431,
+						"x": 2535,
+						"y": 2246
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND35": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island35",
+					"default": {
+						"ax": 896,
+						"ay": 3613,
+						"aw": 391,
+						"ah": 311,
+						"x": 2197,
+						"y": 469
+					}
+				},
+				"IMAGE_WORLDMAP_EGYPT_ISLAND37": {
+					"type": "Image",
+					"path": "images/initial/worldmap/egypt/island37",
+					"default": {
+						"ax": 1,
+						"ay": 3390,
+						"aw": 412,
+						"ah": 473,
+						"x": 96,
+						"y": 1795
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_101X74": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_101x74",
+					"default": {
+						"ax": 3292,
+						"ay": 1011,
+						"aw": 130,
+						"ah": 95,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_105X87": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_105x87",
+					"default": {
+						"ax": 3155,
+						"ay": 1011,
+						"aw": 135,
+						"ah": 112,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_111X59": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_111x59",
+					"default": {
+						"ax": 3558,
+						"ay": 1011,
+						"aw": 142,
+						"ah": 76,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_468X1135": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_468x1135",
+					"default": {
+						"ax": 803,
+						"ay": 1586,
+						"aw": 599,
+						"ah": 1453,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_547X287": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_547x287",
+					"default": {
+						"ax": 2882,
+						"ay": 3297,
+						"aw": 700,
+						"ah": 368,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_574X781": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_574x781",
+					"default": {
+						"ax": 1404,
+						"ay": 2188,
+						"aw": 735,
+						"ah": 1000,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_574X781_2": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_574x781_2",
+					"default": {
+						"ax": 2141,
+						"ay": 2188,
+						"aw": 735,
+						"ah": 1000,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_61X57": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_61x57",
+					"default": {
+						"ax": 3991,
+						"ay": 340,
+						"aw": 78,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_626X310": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_626x310",
+					"default": {
+						"ax": 2078,
+						"ay": 3297,
+						"aw": 802,
+						"ah": 397,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_649X329": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_649x329",
+					"default": {
+						"ax": 1245,
+						"ay": 3190,
+						"aw": 831,
+						"ah": 421,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_67X59": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_67x59",
+					"default": {
+						"ax": 3991,
+						"ay": 262,
+						"aw": 86,
+						"ah": 76,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_67X69": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_67x69",
+					"default": {
+						"ax": 3991,
+						"ay": 171,
+						"aw": 86,
+						"ah": 89,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_73X67": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_73x67",
+					"default": {
+						"ax": 3991,
+						"ay": 1,
+						"aw": 94,
+						"ah": 86,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_76X62": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_76x62",
+					"default": {
+						"ax": 3991,
+						"ay": 89,
+						"aw": 98,
+						"ah": 80,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_84X60": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_84x60",
+					"default": {
+						"ax": 3702,
+						"ay": 1011,
+						"aw": 108,
+						"ah": 77,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		},
+		"ATLASIMAGE_ATLAS_WORLDMAP_EGYPT_02": {
+			"type": "Image",
+			"path": "atlases/WorldMap_Egypt_02",
+			"dimension": {
+				"width": 1024,
+				"height": 2048
+			},
+			"data": {
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_122X384": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_122x384",
+					"default": {
+						"ax": 298,
+						"ay": 1,
+						"aw": 156,
+						"ah": 492,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_230X893": {
+					"type": "Image",
+					"path": "images/initial/worldmap/zomboss_node_egypt/zomboss_node_egypt_230x893",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 295,
+						"ah": 1143,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

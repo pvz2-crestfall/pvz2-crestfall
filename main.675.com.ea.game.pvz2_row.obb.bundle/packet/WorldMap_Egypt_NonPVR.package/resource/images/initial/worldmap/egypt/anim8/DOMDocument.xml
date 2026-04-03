@@ -1,0 +1,91 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/anim8_135x135" href="media/anim8_135x135.png"/>
+        <DOMBitmapItem name="media/anim8_28x33" href="media/anim8_28x33.png"/>
+        <DOMBitmapItem name="media/anim8_22x40" href="media/anim8_22x40.png"/>
+        <DOMBitmapItem name="media/anim8_53x62" href="media/anim8_53x62.png"/>
+        <DOMBitmapItem name="media/anim8_52x31" href="media/anim8_52x31.png"/>
+        <DOMBitmapItem name="media/anim8_78x69" href="media/anim8_78x69.png"/>
+        <DOMBitmapItem name="media/anim8_7x7" href="media/anim8_7x7.png"/>
+        <DOMBitmapItem name="media/anim8_17x20" href="media/anim8_17x20.png"/>
+        <DOMBitmapItem name="media/anim8_23x20" href="media/anim8_23x20.png"/>
+        <DOMBitmapItem name="media/anim8_23x16" href="media/anim8_23x16.png"/>
+        <DOMBitmapItem name="media/anim8_76x79" href="media/anim8_76x79.png"/>
+        <DOMBitmapItem name="media/anim8_18x32" href="media/anim8_18x32.png"/>
+        <DOMBitmapItem name="media/anim8_21x22" href="media/anim8_21x22.png"/>
+        <DOMBitmapItem name="media/anim8_77x64" href="media/anim8_77x64.png"/>
+        <DOMBitmapItem name="media/anim8_135x135_2" href="media/anim8_135x135_2.png"/>
+        <DOMBitmapItem name="media/anim8_135x135_3" href="media/anim8_135x135_3.png"/>
+    </media>
+    <symbols>
+        <Include href="image/anim8_135x135.xml"/>
+        <Include href="image/anim8_28x33.xml"/>
+        <Include href="image/anim8_22x40.xml"/>
+        <Include href="image/anim8_53x62.xml"/>
+        <Include href="image/anim8_52x31.xml"/>
+        <Include href="image/anim8_78x69.xml"/>
+        <Include href="image/anim8_7x7.xml"/>
+        <Include href="image/anim8_17x20.xml"/>
+        <Include href="image/anim8_23x20.xml"/>
+        <Include href="image/anim8_23x16.xml"/>
+        <Include href="image/anim8_76x79.xml"/>
+        <Include href="image/anim8_18x32.xml"/>
+        <Include href="image/anim8_21x22.xml"/>
+        <Include href="image/anim8_77x64.xml"/>
+        <Include href="image/anim8_135x135_2.xml"/>
+        <Include href="image/anim8_135x135_3.xml"/>
+        <Include href="sprite/zombie_hand_inner_01.xml"/>
+        <Include href="sprite/zombie_arm_inner_lower.xml"/>
+        <Include href="sprite/zombie_torso copy.xml"/>
+        <Include href="sprite/zombie_jaw.xml"/>
+        <Include href="sprite/zombie_pupil.xml"/>
+        <Include href="sprite/zombie_skull copy.xml"/>
+        <Include href="sprite/zombie_arms_outer_upper copy.xml"/>
+        <Include href="sprite/zombie_arm_outer_lower copy.xml"/>
+        <Include href="sprite/zombie_hand_inner_01 copy.xml"/>
+        <Include href="sprite/zombie_arms_outer_upper copy 2.xml"/>
+        <Include href="sprite/zombie_arm_outer_lower copy 2.xml"/>
+        <Include href="label/idle.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="428" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="427">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="427">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="428">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

@@ -1,0 +1,129 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/anim1_34x28" href="media/anim1_34x28.png"/>
+        <DOMBitmapItem name="media/anim1_11x55" href="media/anim1_11x55.png"/>
+        <DOMBitmapItem name="media/anim1_22x22" href="media/anim1_22x22.png"/>
+    </media>
+    <symbols>
+        <Include href="image/anim1_34x28.xml"/>
+        <Include href="image/anim1_11x55.xml"/>
+        <Include href="image/anim1_22x22.xml"/>
+        <Include href="sprite/sand_02.xml"/>
+        <Include href="sprite/sand_03.xml"/>
+        <Include href="sprite/sand_01.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/idle2.xml"/>
+        <Include href="label/idle3.xml"/>
+        <Include href="label/idle4.xml"/>
+        <Include href="label/idle5.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="42" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="41" name="idle2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="83" duration="27" name="idle3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="110" duration="39" name="idle4" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="149" duration="51" name="idle5" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="41">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="40">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="82">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="83" duration="26">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="109">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="110" duration="38">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="148">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="149" duration="50">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="199">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="42">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42" duration="41">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="83" duration="27">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="110" duration="39">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle4" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="149" duration="51">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle5" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>
