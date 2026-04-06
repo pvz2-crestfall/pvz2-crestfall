@@ -125,7 +125,8 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(pirate_captain@ZombieTypes)"
+                        "Type": "RTID(pirate_captain@ZombieTypes)",
+						"Row": 1
                     }
                 ],
                 "AdditionalPlantfood": 1
