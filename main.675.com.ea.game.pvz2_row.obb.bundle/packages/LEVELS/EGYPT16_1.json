@@ -23,7 +23,8 @@
                     "RTID(EgyptMowers@LevelModules)"
                 ],
                 "StartingSun": 100,
-                "AddBonusStartingSun": false
+                "AddBonusStartingSun": false,
+                "FirstRewardType": "giftbox"
             }
         },
         {

@@ -671,7 +671,7 @@
                     },
                     {
                         "Key": "EnableQuestRecycling",
-                        "Enabled": false,
+                        "Enabled": true,
                         "DisplayName": "Enable Quest Recycling",
                         "Category": "live"
                     },
@@ -707,7 +707,7 @@
                     },
                     {
                         "Key": "EnablePinataHuntQuests",
-                        "Enabled": false,
+                        "Enabled": true,
                         "DisplayName": "Pinata Hunt",
                         "Category": "live"
                     },

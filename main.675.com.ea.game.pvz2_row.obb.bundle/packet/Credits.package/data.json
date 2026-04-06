@@ -1,0 +1,55 @@
+{
+	"#split_label": true,
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768,
+			384
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"Credits": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"RESFILE_PROPERTIES_CREDITS": {
+					"type": "File",
+					"path": "properties/credits.txt"
+				},
+				"IMAGE_CREDITS_SPACE_DEBRIS_CLOCK": {
+					"type": "Image",
+					"path": "images/initial/credits/space_debris_clock.png",
+					"additional": null
+				},
+				"IMAGE_CREDITS_SPACE_DEBRIS_HEAD_01": {
+					"type": "Image",
+					"path": "images/initial/credits/space_debris_head_01.png",
+					"additional": null
+				},
+				"IMAGE_CREDITS_SPACE_DEBRIS_HEAD_02": {
+					"type": "Image",
+					"path": "images/initial/credits/space_debris_head_02.png",
+					"additional": null
+				},
+				"IMAGE_CREDITS_SPACE_DEBRIS_HOURGLASS": {
+					"type": "Image",
+					"path": "images/initial/credits/space_debris_hourglass.png",
+					"additional": null
+				},
+				"IMAGE_CREDITS_SPACE_DEBRIS_PYRAMID": {
+					"type": "Image",
+					"path": "images/initial/credits/space_debris_pyramid.png",
+					"additional": null
+				}
+			}
+		}
+	}
+}

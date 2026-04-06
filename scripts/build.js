@@ -134,6 +134,9 @@ async function buildproject() {
     }
 }
 
-await buildPackets();
-await updateDataFile();
+if (!process.argv.includes('--nopack')) {
+    await buildPackets();
+    await updateDataFile();
+}
+
 await buildproject();
