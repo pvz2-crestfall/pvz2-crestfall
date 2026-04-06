@@ -1219,7 +1219,7 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [300]
+                        "Values": [200]
                     },
                     {
                         "Name": "ActionDamage",
