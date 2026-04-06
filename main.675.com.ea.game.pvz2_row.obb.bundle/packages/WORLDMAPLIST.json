@@ -43,7 +43,7 @@
                         "UnlockedFrom": "",
                         "EntryPoint": "egypt_level_1",
                         "Difficulty": 2,
-                        "LastLevel": ["egypt25"],
+                        "LastLevel": ["egypt20"],
                         "ComingSoon": false,
                         "Hidden": false,
                         "UniverseIconOffset": {
@@ -111,7 +111,7 @@
                         "UnlockedFrom": "pirate_stargate_start",
                         "EntryPoint": "pirate_level_1",
                         "Difficulty": 2,
-                        "LastLevel": ["pirate25"],
+                        "LastLevel": ["pirate20"],
                         "ComingSoon": false,
                         "Hidden": false,
                         "UniverseIconOffset": {

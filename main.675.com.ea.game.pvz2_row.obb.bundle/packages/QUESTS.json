@@ -138,7 +138,7 @@
                             "Slot": "Epic",
                             "QuestCategory": "Epic",
                             "OverrideQuestTheme": "Egypt",
-                            "UniqueID": "FINISH_EGYPT_16_BONUS",
+                            "UniqueID": "FINISH_EGYPT_16_1",
                             "QuestName": "Beat Bonus Level AE-16-1!",
                             "Description": "Beat Bonus Level AE-16-1!\nAre you prepared to beat the original version of AE-16?",
                             "LevelName": "egypt16_1",
@@ -205,6 +205,392 @@
                             },
                             "Prerequisites": {
                                 "SpineLevelCompletions": ["egypt18"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_1",
+                            "QuestName": "Unlock the Kernelpult!",
+                            "Description": "Unlock the Kernelpult!\nCan Kernelpult deal damage AND stun zombies? You'd butter believe it!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate1",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["egypt20"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_3",
+                            "QuestName": "Unlock the Snapdragon!",
+                            "Description": "Unlock the Snapdragon!\nHeat things up with Snapdragon's fiery attacks that hit multiple lanes at a time!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate3",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate1"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_5",
+                            "QuestName": "Unlock the Spikeweed!",
+                            "Description": "Unlock the Spikeweed!\nDamage zombies and bust barrels with the indomitable Spikeweed!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate5",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate3"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "ChallengeLevelQuestData": {
+                            "Slot": "Epic",
+                            "QuestCategory": "Epic",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_6_1",
+                            "QuestName": "Beat Bonus Level PS-6-1!",
+                            "Description": "Beat Bonus Level PS-6-1!\nWhy not try PS-6 again but with more packages?",
+                            "LevelName": "pirate6_1",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "giftbox",
+                                        "SubType": "",
+                                        "Amount": 1
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate6"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_7",
+                            "QuestName": "Unlock the Spring Bean!",
+                            "Description": "Unlock the Spring Bean!\nSwashbuckler got you on the ropes? Use Spring Bean to knock 'em back to Davy Jones' locker!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate7",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate5"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_9",
+                            "QuestName": "Unlock the Coconut Cannon!",
+                            "Description": "Unlock the Coconut Cannon!\nBOOM! Clear entire groups of zombies with each explosive shot from Coconut Cannon!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate9",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate7"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_10",
+                            "QuestName": "Half-way reward!",
+                            "Description": "Half-way reward!\nKeep it up champ, here's a few gems to keep you going",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate10",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 10
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate9"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_13",
+                            "QuestName": "Unlock the Threepeater!",
+                            "Description": "Unlock the Threepeater!\nThreepeater shoots down three lanes at once to triple your offensive firepower!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate13",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate9"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_15",
+                            "QuestName": "Unlock the Squash!",
+                            "Description": "Unlock the Squash!\nHave you ever wanted to turn zombies into pancakes?",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate15",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate13"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "ChallengeLevelQuestData": {
+                            "Slot": "Epic",
+                            "QuestCategory": "Epic",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_15_1",
+                            "QuestName": "Beat Bonus Level PS-15-1!",
+                            "Description": "Beat Bonus Level PS-15-1!\nWhat if there were more airborne zombies...",
+                            "LevelName": "pirate15_1",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "giftbox",
+                                        "SubType": "",
+                                        "Amount": 1
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate15"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_17",
+                            "QuestName": "Unlock Melon-pult!",
+                            "Description": "Unlock Melon-pult!\nMelon-Pult flings heavy damage melons down a lane, hitting groups of zombies!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate17",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate15"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "ChallengeLevelQuestData": {
+                            "Slot": "Epic",
+                            "QuestCategory": "Epic",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_17_1",
+                            "QuestName": "Beat Bonus Level PS-17-1!",
+                            "Description": "Beat Bonus Level PS-17-1!\nIs this the same level..? Try out an unsodded-themed challenge!",
+                            "LevelName": "pirate17_1",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "giftbox",
+                                        "SubType": "",
+                                        "Amount": 1
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate17"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "ChallengeLevelQuestData": {
+                            "Slot": "Epic",
+                            "QuestCategory": "Epic",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_17_2",
+                            "QuestName": "Beat Bonus Level PS-17-2!",
+                            "Description": "Beat Bonus Level PS-17-2!\nTry out an unsodded-themed challenge! Wait, I'm getting deja vu...",
+                            "LevelName": "pirate17_2",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "giftbox",
+                                        "SubType": "",
+                                        "Amount": 1
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate17_1"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Pirate",
+                            "UniqueID": "FINISH_PIRATE_19",
+                            "QuestName": "Unlock Cherry Bomb!",
+                            "Description": "Unlock Cherry Bomb!\nCherry Bomb's overwhelming blast fries whole groups of foes across lanes!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate19",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate17"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Pirate",
+                            "QuestCategory": "Pirate",
+                            "OverrideQuestTheme": "Zomboss",
+                            "UniqueID": "FINISH_PIRATE_20",
+                            "QuestName": "Fight Dr. Zomboss!",
+                            "Description": "Fight Dr. Zomboss!\nHammer the hateful Dr. Zomboss in this saltwater scrap of Pirate Seas",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
+                            "LevelName": "pirate20",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 15
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate19"]
                             },
                             "Priority": "Primary",
                             "Disabled": false
