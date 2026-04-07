@@ -248,7 +248,7 @@
                             "mX": 17,
                             "mY": 0
                         },
-                        "Disabled": true,
+                        "Disabled": false,
                         "UseNightSpiral": false,
                         "DrawWorldName": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_FUTURE_TEMP_TEXTURE",
@@ -328,7 +328,7 @@
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": true,
+                        "Disabled": false,
                         "UseNightSpiral": true,
                         "DrawWorldName": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_DARK_TEXTURE",
@@ -432,7 +432,7 @@
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": true,
+                        "Disabled": false,
                         "UseNightSpiral": false,
                         "DrawWorldName": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_BEACH_TEXTURE",
@@ -614,7 +614,7 @@
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": true,
+                        "Disabled": false,
                         "UseNightSpiral": false,
                         "DrawWorldName": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_ICEAGE_TEXTURE",
@@ -761,7 +761,7 @@
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": true,
+                        "Disabled": false,
                         "UseNightSpiral": false,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_LOSTCITY_TEXTURE",
                         "PreviewResGroup": "DelayLoad_Background_LostCity_Compressed",
@@ -907,7 +907,7 @@
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": true,
+                        "Disabled": false,
                         "UseNightSpiral": true,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_EIGHTIES_TEXTURE",
                         "PreviewResGroup": "DelayLoad_Background_Eighties_Compressed",
@@ -1053,7 +1053,7 @@
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": true,
+                        "Disabled": false,
                         "UseNightSpiral": false,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_DINO_TEXTURE",
                         "PreviewResGroup": "DelayLoad_Background_Dino_Compressed",
@@ -1193,7 +1193,7 @@
                             "mX": 0,
                             "mY": 0
                         },
-                        "Disabled": true,
+                        "Disabled": false,
                         "UseNightSpiral": false,
                         "PreviewEventPanel": "IMAGE_BACKGROUNDS_FRONTLAWN_ROW_05",
                         "PreviewResGroup": "DelayLoad_Background_FrontLawn",
