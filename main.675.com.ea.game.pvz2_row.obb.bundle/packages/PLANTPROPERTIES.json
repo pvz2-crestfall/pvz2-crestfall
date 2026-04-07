@@ -161,6 +161,65 @@
             }
         },
         {
+            "objclass": "PowerLilyProps",
+            "aliases": ["FastLilyDefault"],
+            "objdata": {
+                "Cost": 175,
+                "Hitpoints": 300.0,
+                "PacketCooldown": 60.0,
+                "StartingCooldown": 60.0,
+                "PlantGridType": "ground",
+                "PlantFoodPlayCount": 1,
+                "PlantFoodActivationSound": "Play_Plant_PowerLilly_Nitro",
+                "Actions": [
+                    {
+                        "Type": "sun",
+                        "CooldownTimeMin": 0.0,
+                        "CooldownTimeMax": 0.0,
+                        "SpawnOffset": {
+                            "x": 0.0,
+                            "y": -60.0
+                        }
+                    },
+                    {
+                        "Type": "special",
+                        "SpawnOffset": {
+                            "x": -20.0,
+                            "y": -60.0
+                        }
+                    },
+                    {
+                        "Type": "special",
+                        "SpawnOffset": {
+                            "x": 20.0,
+                            "y": -60.0
+                        }
+                    }
+                ],
+                "ArtCenter": {
+                    "x": 99,
+                    "y": 115
+                },
+                "PlantStats": [
+                    {
+                        "Type": "armor",
+                        "Value": "armor0"
+                    },
+                    {
+                        "Type": "recharge",
+                        "Value": "recharge0"
+                    }
+                ],
+                "ScaledProps": [],
+                "ZenGardenSproutWeight": 0,
+                "ZenGardenBoostCost": 12,
+                "ZenGardenDurationOverrideSeconds": 18000,
+                "IsConsumable": true,
+                "IsInstant": true,
+                "SuggestionAlts": ["jalapeno", "cherry_bomb", "potatomine"]
+            }
+        },
+        {
             "objclass": "SunflowerProps",
             "aliases": ["SunflowerDefault"],
             "objdata": {
@@ -8831,6 +8890,7 @@
                     "List": [
                         "gravebuster",
                         "powerlily",
+                        "fastlily",
                         "cherry_bomb",
                         "jalapeno",
                         "imitater",

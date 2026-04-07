@@ -628,6 +628,21 @@
         },
         {
             "objclass": "PlantType",
+            "aliases": ["fastlily"],
+            "objdata": {
+                "TypeName": "fastlily",
+                "PlantFramework": "PlantPowerLily",
+                "PlantResourceGroups": ["PlantPowerLily", "PlantPowerLilyAudio"],
+                "Properties": "RTID(FastLilyDefault@PlantProperties)",
+                "AnimRigClass": "PlantAnimRig_PowerLily",
+                "SeedChooserBigVerticalOffset": 0.3,
+                "PopAnim": "POPANIM_PLANT_POWERLILY",
+                "Premium": true,
+                "AlmanacBackdropName": "warp"
+            }
+        },
+        {
+            "objclass": "PlantType",
             "aliases": ["powerlily"],
             "objdata": {
                 "TypeName": "powerlily",
