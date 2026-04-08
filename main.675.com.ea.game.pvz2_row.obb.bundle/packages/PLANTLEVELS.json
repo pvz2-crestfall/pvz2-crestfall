@@ -1211,7 +1211,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [75]
+                        "Values": [100]
                     },
                     {
                         "Name": "PacketCooldown",
@@ -1228,7 +1228,7 @@
                     },
                     {
                         "Name": "LightningReed_NumShotBounces",
-                        "Values": [3]
+                        "Values": [4]
                     },
                     {
                         "Name": "PlantTier",
