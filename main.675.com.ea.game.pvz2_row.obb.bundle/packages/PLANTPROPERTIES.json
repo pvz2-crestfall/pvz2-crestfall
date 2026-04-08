@@ -2141,7 +2141,7 @@
                 "PlantStats": [
                     {
                         "Type": "area",
-                        "Value": "1by1"
+                        "Value": "single"
                     },
                     {
                         "Type": "range",

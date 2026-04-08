@@ -475,7 +475,7 @@
                     {
                         "Name": "ActionExplodeRadius",
                         "SubType": "0",
-                        "Values": [1]
+                        "Values": [0.25]
                     },
                     {
                         "Name": "PlantTier",
