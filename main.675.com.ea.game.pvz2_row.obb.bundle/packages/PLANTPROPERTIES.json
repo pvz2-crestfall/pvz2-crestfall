@@ -2082,9 +2082,8 @@
                 ],
                 "IsConsumable": true,
                 "IsInstant": true,
-                "ValidStages": ["iceage"],
                 "ProximityDPS": 0,
-                "CanRemoveOctopus": 0,
+                "CanRemoveOctopus": 1,
                 "SuggestionAlts": ["coconutcannon", "repeater", "peashooter"]
             }
         },
