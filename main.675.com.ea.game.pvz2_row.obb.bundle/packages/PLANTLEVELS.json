@@ -7819,7 +7819,7 @@
                     },
                     {
                         "Name": "Tumbleweed_KnockbackChance",
-                        "Values": [0.4]
+                        "Values": [0.6]
                     }
                 ],
                 "LevelCap": 1,
