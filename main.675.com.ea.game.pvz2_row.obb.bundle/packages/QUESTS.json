@@ -1034,7 +1034,9 @@
                                 "Slot": "Tutorial",
                                 "LimitingGroup": "TutorialPickingGroup"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "UnlockWorld",
@@ -1044,7 +1046,9 @@
                             {
                                 "Slot": "UnlockWorld"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Egypt",
@@ -1058,7 +1062,9 @@
                             {
                                 "Slot": "EgyptElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Pirate",
@@ -1070,7 +1076,9 @@
                             {
                                 "Slot": "PirateElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Cowboy",
@@ -1082,7 +1090,9 @@
                             {
                                 "Slot": "CowboyElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Future",
@@ -1094,7 +1104,9 @@
                             {
                                 "Slot": "FutureElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Dark",
@@ -1106,7 +1118,9 @@
                             {
                                 "Slot": "DarkElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Beach",
@@ -1118,7 +1132,9 @@
                             {
                                 "Slot": "BeachElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "IceAge",
@@ -1130,7 +1146,9 @@
                             {
                                 "Slot": "IceAgeElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "LostCity",
@@ -1142,7 +1160,9 @@
                             {
                                 "Slot": "LostCityElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Eighties",
@@ -1154,7 +1174,9 @@
                             {
                                 "Slot": "EightiesElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Dino",
@@ -1166,7 +1188,9 @@
                             {
                                 "Slot": "DinoElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Modern",
@@ -1178,7 +1202,9 @@
                             {
                                 "Slot": "ModernElder"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Generic",
@@ -1188,9 +1214,8 @@
                                 "Slot": "Generic"
                             }
                         ],
-                        "MaxPicks": 4,
-                        "MinPicks": 1,
-                        "ReducePicksByVisibleQuests": true
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Currency",
@@ -1200,7 +1225,8 @@
                                 "Slot": "Currency"
                             }
                         ],
-                        "ReducePicksByVisibleQuests": true
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "PremiumPlant",
@@ -1209,7 +1235,9 @@
                             {
                                 "Slot": "PremiumPlant"
                             }
-                        ]
+                        ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999
                     },
                     {
                         "GroupID": "Epic",
@@ -1219,6 +1247,8 @@
                                 "Slot": "Epic"
                             }
                         ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999,
                         "RequiredToggle": "EnableEpicQuests"
                     },
                     {
@@ -1229,6 +1259,8 @@
                                 "Slot": "DailyPinataHunt"
                             }
                         ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999,
                         "RequiredToggle": "EnablePinataHuntQuests"
                     },
                     {
@@ -1239,6 +1271,8 @@
                                 "Slot": "Scheduled"
                             }
                         ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999,
                         "RequiredToggle": "EnableScheduledQuests"
                     },
                     {
@@ -1249,6 +1283,8 @@
                                 "Slot": "DailyActivities"
                             }
                         ],
+                        "MaxPicks": 9999,
+                        "MinPicks": 9999,
                         "RequiredToggle": "EnableScheduledQuests"
                     }
                 ]
@@ -1276,7 +1312,7 @@
                     },
                     {
                         "ID": "EpicPickingGroup",
-                        "NumToPickTotal": 1,
+                        "NumToPickTotal": 9999,
                         "NumberOfMinutesTillNextPick": 0
                     },
                     {
