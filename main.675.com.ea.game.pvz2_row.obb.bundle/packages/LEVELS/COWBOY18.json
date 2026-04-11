@@ -1,0 +1,748 @@
+{
+    "objects": [
+        {
+            "objclass": "LevelDefinition",
+            "objdata": {
+                "Name": "WW-18 - Sunshine Express",
+                "Description": "[PLAYERS_TRIP_TO_WEST]",
+                "LevelNumber": 1,
+                "Loot": "RTID(DefaultLoot@LevelModules)",
+                "StageModule": "RTID(WestStage@LevelModules)",
+                "NormalPresentTable": "egypt_normal_01",
+                "ShinyPresentTable": "egypt_shiny_01",
+                "Modules": [
+                    "RTID(StandardIntro@LevelModules)",
+                    "RTID(ZombiesDeadWinCon@LevelModules)",
+                    "RTID(DefaultZombieWinCondition@LevelModules)",
+                    "RTID(Railcarts@CurrentLevel)",
+                    "RTID(SeedBank@CurrentLevel)",
+                    "RTID(ChallengeModule@CurrentLevel)",
+                    "RTID(Gravestones@CurrentLevel)",
+                    "RTID(EndangeredPlants@CurrentLevel)",
+                    "RTID(NewWaves@CurrentLevel)",
+                    "RTID(FastSunDropper@LevelModules)"
+                ],
+                "StartingSun": 50,
+                "AddBonusStartingSun": true,
+                "LevelPowerupSet": "LevelPowerupsDefault"
+            }
+        },
+        {
+            "aliases": [
+                "Railcarts"
+            ],
+            "objclass": "RailcartProperties",
+            "objdata": {
+                "RailcartType": "railcart_cowboy",
+                "Railcarts": [
+                    {
+                        "Column": 4,
+                        "Row": 0
+                    },
+                    {
+                        "Column": 3,
+                        "Row": 1
+                    },
+                    {
+                        "Column": 4,
+                        "Row": 3
+                    },
+                    {
+                        "Column": 3,
+                        "Row": 4
+                    }
+                ],
+                "Rails": [
+                    {
+                        "Column": 3,
+                        "RowStart": 0,
+                        "RowEnd": 4
+                    },
+                    {
+                        "Column": 4,
+                        "RowStart": 0,
+                        "RowEnd": 4
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "SeedBank"
+            ],
+            "objclass": "SeedBankProperties",
+            "objdata": {
+                "SelectionMethod": "chooser",
+                "ExcludeListSunProducers": true
+            }
+        },
+        {
+            "aliases": [
+                "BeatTheLevelChallenge"
+            ],
+            "objclass": "StarChallengeBeatTheLevelProps",
+            "objdata": {
+                "Description": "Survive and protect the endangered plants",
+                "DescriptiveName": ""
+            }
+        },
+        {
+            "aliases": [
+                "ChallengeModule"
+            ],
+            "objclass": "StarChallengeModuleProperties",
+            "objdata": {
+                "Challenges": [
+                    [
+                        "RTID(BeatTheLevelChallenge@CurrentLevel)"
+                    ]
+                ],
+                "ChallengesAlwaysAvailable": true
+            }
+        },
+        {
+            "aliases": [
+                "Gravestones"
+            ],
+            "objclass": "GravestoneProperties",
+            "objdata": {
+                "ForceSpawnData": [
+                    {
+                        "GridX": 6,
+                        "GridY": 0
+                    },
+                    {
+                        "GridX": 6,
+                        "GridY": 1
+                    },
+                    {
+                        "GridX": 6,
+                        "GridY": 2
+                    },
+                    {
+                        "GridX": 6,
+                        "GridY": 3
+                    },
+                    {
+                        "GridX": 6,
+                        "GridY": 4
+                    },
+                    {
+                        "GridX": 8,
+                        "GridY": 0
+                    },
+                    {
+                        "GridX": 8,
+                        "GridY": 1
+                    },
+                    {
+                        "GridX": 8,
+                        "GridY": 2
+                    },
+                    {
+                        "GridX": 8,
+                        "GridY": 3
+                    },
+                    {
+                        "GridX": 8,
+                        "GridY": 4
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "EndangeredPlants"
+            ],
+            "objclass": "ProtectThePlantChallengeProperties",
+            "objdata": {
+                "MustProtectCount": 4,
+                "Plants": [
+                    {
+                        "GridX": 3,
+                        "GridY": 1,
+                        "PlantType": "twinsunflower"
+                    },
+                    {
+                        "GridX": 3,
+                        "GridY": 4,
+                        "PlantType": "twinsunflower"
+                    },
+                    {
+                        "GridX": 4,
+                        "GridY": 0,
+                        "PlantType": "twinsunflower"
+                    },
+                    {
+                        "GridX": 4,
+                        "GridY": 3,
+                        "PlantType": "twinsunflower"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "WaveManagerProps"
+            ],
+            "objclass": "WaveManagerProperties",
+            "objdata": {
+                "FlagWaveInterval": 6,
+                "WaveCount": 12,
+                "Waves": [
+                    [
+                        "RTID(Wave1Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave2Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave3Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave4Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave5Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave6Action0@CurrentLevel)",
+                        "RTID(Wave6Action1@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave7Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave8Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave9Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave10Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave11Action0@CurrentLevel)"
+                    ],
+                    [
+                        "RTID(Wave12Action0@CurrentLevel)",
+                        "RTID(Wave12Action1@CurrentLevel)"
+                    ]
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "NewWaves"
+            ],
+            "objclass": "WaveManagerModuleProperties",
+            "objdata": {
+                "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
+            }
+        },
+        {
+            "aliases": [
+                "Wave1Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave2Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(prospector@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave3Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave4Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave5Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(piano@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    }
+                ],
+                "AdditionalPlantfood": 1
+            }
+        },
+        {
+            "aliases": [
+                "Wave6Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(west_bull@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor4@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave6Action1"
+            ],
+            "objclass": "SpawnGravestonesWaveActionProps",
+            "objdata": {
+                "GravestonePool": [
+                    {
+                        "Count": 10,
+                        "Type": "RTID(gravestone_cowboy@GridItemTypes)"
+                    }
+                ],
+                "SpawnPositionsPool": [
+                    {
+                        "mX": 8,
+                        "mY": 0
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 0
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 1
+                    },
+                    {
+                        "mX": 8,
+                        "mY": 1
+                    },
+                    {
+                        "mX": 8,
+                        "mY": 2
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 2
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 3
+                    },
+                    {
+                        "mX": 8,
+                        "mY": 4
+                    },
+                    {
+                        "mX": 8,
+                        "mY": 3
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 4
+                    }
+                ],
+                "SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
+                "SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
+                "DisplacePlants": true,
+                "RandomPlacement": true
+            }
+        },
+        {
+            "aliases": [
+                "Wave7Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(prospector@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave8Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(piano@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor4@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave9Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(west_bull@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(west_bull@ZombieTypes)",
+                        "Row": 3
+                    },
+                    {
+                        "Type": "RTID(west_bull@ZombieTypes)",
+                        "Row": 4
+                    },
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor4@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(prospector@ZombieTypes)"
+                    }
+                ],
+                "AdditionalPlantfood": 1
+            }
+        },
+        {
+            "aliases": [
+                "Wave10Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(piano@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(west_bull@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor4@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor4@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave11Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor4@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(piano@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave12Action0"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(cowboy_gargantuar@ZombieTypes)",
+                        "Row": 2
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(piano@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(piano@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(west_bull@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(chicken_farmer@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor4@ZombieTypes)",
+                        "Row": 1
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor4@ZombieTypes)",
+                        "Row": 3
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor4@ZombieTypes)",
+                        "Row": 5
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(cowboy_gargantuar@ZombieTypes)",
+                        "Row": 4
+                    },
+                    {
+                        "Type": "RTID(piano@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(prospector@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wave12Action1"
+            ],
+            "objclass": "SpawnGravestonesWaveActionProps",
+            "objdata": {
+                "GravestonePool": [
+                    {
+                        "Count": 10,
+                        "Type": "RTID(gravestone_cowboy@GridItemTypes)"
+                    }
+                ],
+                "SpawnPositionsPool": [
+                    {
+                        "mX": 8,
+                        "mY": 0
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 0
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 1
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 1
+                    },
+                    {
+                        "mX": 8,
+                        "mY": 2
+                    },
+                    {
+                        "mX": 8,
+                        "mY": 1
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 2
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 3
+                    },
+                    {
+                        "mX": 8,
+                        "mY": 3
+                    },
+                    {
+                        "mX": 7,
+                        "mY": 4
+                    },
+                    {
+                        "mX": 8,
+                        "mY": 4
+                    }
+                ],
+                "SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
+                "SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
+                "RandomPlacement": true,
+                "DisplacePlants": true
+            }
+        }
+    ],
+    "version": 1
+}
