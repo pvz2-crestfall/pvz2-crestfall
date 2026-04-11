@@ -731,6 +731,32 @@
                             "Slot": "Cowboy",
                             "QuestCategory": "Cowboy",
                             "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_12",
+                            "QuestName": "Half-way reward!",
+                            "Description": "Half-way reward!\nKeep it up champ, here's a few gems to keep you going",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy12",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 10
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy11"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
                             "UniqueID": "FINISH_COWBOY_15",
                             "QuestName": "Unlock Tall Nut!",
                             "Description": "Unlock Tall Nut!\nTall-Nut totally frustrates flying and hopping zombies! Serves 'em right!",
@@ -747,6 +773,32 @@
                             },
                             "Prerequisites": {
                                 "SpineLevelCompletions": ["cowboy11"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "ChallengeLevelQuestData": {
+                            "Slot": "Epic",
+                            "QuestCategory": "Epic",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_15_1",
+                            "QuestName": "Beat Bonus Level WW-15-1!",
+                            "Description": "Beat Bonus Level WW-15-1!\nBut what if the entire animal ranch was released...",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy15_1",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 25
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy15"]
                             },
                             "Priority": "Primary",
                             "Disabled": false
@@ -773,6 +825,32 @@
                             },
                             "Prerequisites": {
                                 "SpineLevelCompletions": ["cowboy15"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "ChallengeLevelQuestData": {
+                            "Slot": "Epic",
+                            "QuestCategory": "Epic",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_18_1",
+                            "QuestName": "Beat Bonus Level WW-18-1!",
+                            "Description": "Beat Bonus Level WW-18-1!\nThis time, there's more raiders from beyond! Can you still protect the Sun Train?",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy18_1",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 25
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy18"]
                             },
                             "Priority": "Primary",
                             "Disabled": false
@@ -825,6 +903,32 @@
                             },
                             "Prerequisites": {
                                 "SpineLevelCompletions": ["cowboy21"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "ChallengeLevelQuestData": {
+                            "Slot": "Epic",
+                            "QuestCategory": "Epic",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_23_1",
+                            "QuestName": "Beat Bonus Level WW-23-1!",
+                            "Description": "Beat Bonus Level WW-23-1!\nPsst, you should try luring zombies into the middle lanes...",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy23_1",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "giftbox",
+                                        "SubType": "",
+                                        "Amount": 1
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy23"]
                             },
                             "Priority": "Primary",
                             "Disabled": false
