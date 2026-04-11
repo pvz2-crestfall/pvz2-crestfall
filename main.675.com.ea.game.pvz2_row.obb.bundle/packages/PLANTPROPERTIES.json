@@ -4810,6 +4810,13 @@
                 "ZenGardenSproutWeight": 0,
                 "ZenGardenBoostCost": 12,
                 "ZenGardenDurationOverrideSeconds": 18000,
+                "Boosts": [
+                    {
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.2,
+                        "CooldownDurationSeconds": 28800
+                    }
+                ],
                 "IsConsumable": true,
                 "IsInstant": true,
                 "SuggestionAlts": ["ghostpepper", "cherry_bomb", "potatomine"]
@@ -6472,8 +6479,8 @@
                 "ZenGardenDurationOverrideSeconds": 27000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.25,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
