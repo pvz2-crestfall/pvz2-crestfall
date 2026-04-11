@@ -112,39 +112,6 @@
                                 ]
                             },
                             {
-                                "Comment": "Missile Toe",
-                                "Category": "Plants",
-                                "Priority": "",
-                                "ABTest": "",
-                                "PromotionGroup": "",
-                                "AdditionalSegment": "",
-                                "SmartKey": "",
-                                "SoftCurrency": "",
-                                "SoftCost": -1,
-                                "MaxPurchase": -1,
-                                "SoftCostPerPurchase": -1,
-                                "Visuals": "RTID(0)",
-                                "Sku": ["com.popcap.pvz2.missiletoe.gemium.50g", "com.popcap.pvz2.android.missiletoe.gemium.50g"]
-                            },
-                            {
-                                "Comment": "Holly Barrier",
-                                "Category": "Plants",
-                                "Priority": "",
-                                "ABTest": "",
-                                "PromotionGroup": "",
-                                "AdditionalSegment": "",
-                                "SmartKey": "",
-                                "SoftCurrency": "",
-                                "SoftCost": -1,
-                                "MaxPurchase": -1,
-                                "SoftCostPerPurchase": -1,
-                                "Visuals": "RTID(0)",
-                                "Sku": [
-                                    "com.popcap.pvz2.hollyknight.gemium.50g",
-                                    "com.popcap.pvz2.android.hollyknight.gemium.50g"
-                                ]
-                            },
-                            {
                                 "Comment": "Jalapeno",
                                 "Category": "Plants",
                                 "Priority": "",
@@ -175,6 +142,39 @@
                                 "Sku": [
                                     "com.popcap.pvz2.ghostpepper.gemium.50g",
                                     "com.popcap.pvz2.android.ghostpepper.gemium.50g"
+                                ]
+                            },
+                            {
+                                "Comment": "Missile Toe",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": ["com.popcap.pvz2.missiletoe.gemium.50g", "com.popcap.pvz2.android.missiletoe.gemium.50g"]
+                            },
+                            {
+                                "Comment": "Holly Barrier",
+                                "Category": "Plants",
+                                "Priority": "",
+                                "ABTest": "",
+                                "PromotionGroup": "",
+                                "AdditionalSegment": "",
+                                "SmartKey": "",
+                                "SoftCurrency": "",
+                                "SoftCost": -1,
+                                "MaxPurchase": -1,
+                                "SoftCostPerPurchase": -1,
+                                "Visuals": "RTID(0)",
+                                "Sku": [
+                                    "com.popcap.pvz2.hollyknight.gemium.50g",
+                                    "com.popcap.pvz2.android.hollyknight.gemium.50g"
                                 ]
                             },
                             {
