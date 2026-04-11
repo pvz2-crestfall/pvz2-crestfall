@@ -5685,7 +5685,7 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [15]
+                        "Values": [20]
                     },
                     {
                         "Name": "StartingCooldown",
@@ -5731,7 +5731,7 @@
                     },
                     {
                         "Name": "Electricitea_ElectricBurstNumBounces",
-                        "Values": [2]
+                        "Values": [1]
                     },
                     {
                         "Name": "Electricitea_ElectricBurstBoltCount",
