@@ -216,8 +216,8 @@
                             "QuestCategory": "Pirate",
                             "OverrideQuestTheme": "Pirate",
                             "UniqueID": "FINISH_PIRATE_1",
-                            "QuestName": "Unlock the Kernelpult!",
-                            "Description": "Unlock the Kernelpult!\nCan Kernelpult deal damage AND stun zombies? You'd butter believe it!",
+                            "QuestName": "Unlock Kernelpult!",
+                            "Description": "Unlock Kernelpult!\nCan Kernelpult deal damage AND stun zombies? You'd butter believe it!",
                             "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
                             "LevelName": "pirate1",
                             "CompletionAwards": {
@@ -242,8 +242,8 @@
                             "QuestCategory": "Pirate",
                             "OverrideQuestTheme": "Pirate",
                             "UniqueID": "FINISH_PIRATE_3",
-                            "QuestName": "Unlock the Snapdragon!",
-                            "Description": "Unlock the Snapdragon!\nHeat things up with Snapdragon's fiery attacks that hit multiple lanes at a time!",
+                            "QuestName": "Unlock Snapdragon!",
+                            "Description": "Unlock Snapdragon!\nHeat things up with Snapdragon's fiery attacks that hit multiple lanes at a time!",
                             "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
                             "LevelName": "pirate3",
                             "CompletionAwards": {
@@ -268,8 +268,8 @@
                             "QuestCategory": "Pirate",
                             "OverrideQuestTheme": "Pirate",
                             "UniqueID": "FINISH_PIRATE_5",
-                            "QuestName": "Unlock the Spikeweed!",
-                            "Description": "Unlock the Spikeweed!\nDamage zombies and bust barrels with the indomitable Spikeweed!",
+                            "QuestName": "Unlock Spikeweed!",
+                            "Description": "Unlock Spikeweed!\nDamage zombies and bust barrels with the indomitable Spikeweed!",
                             "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
                             "LevelName": "pirate5",
                             "CompletionAwards": {
@@ -319,8 +319,8 @@
                             "QuestCategory": "Pirate",
                             "OverrideQuestTheme": "Pirate",
                             "UniqueID": "FINISH_PIRATE_7",
-                            "QuestName": "Unlock the Spring Bean!",
-                            "Description": "Unlock the Spring Bean!\nSwashbuckler got you on the ropes? Use Spring Bean to knock 'em back to Davy Jones' locker!",
+                            "QuestName": "Unlock Spring Bean!",
+                            "Description": "Unlock Spring Bean!\nSwashbuckler got you on the ropes? Use Spring Bean to knock 'em back to Davy Jones' locker!",
                             "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
                             "LevelName": "pirate7",
                             "CompletionAwards": {
@@ -345,8 +345,8 @@
                             "QuestCategory": "Pirate",
                             "OverrideQuestTheme": "Pirate",
                             "UniqueID": "FINISH_PIRATE_9",
-                            "QuestName": "Unlock the Coconut Cannon!",
-                            "Description": "Unlock the Coconut Cannon!\nBOOM! Clear entire groups of zombies with each explosive shot from Coconut Cannon!",
+                            "QuestName": "Unlock Coconut Cannon!",
+                            "Description": "Unlock Coconut Cannon!\nBOOM! Clear entire groups of zombies with each explosive shot from Coconut Cannon!",
                             "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
                             "LevelName": "pirate9",
                             "CompletionAwards": {
@@ -397,8 +397,8 @@
                             "QuestCategory": "Pirate",
                             "OverrideQuestTheme": "Pirate",
                             "UniqueID": "FINISH_PIRATE_13",
-                            "QuestName": "Unlock the Threepeater!",
-                            "Description": "Unlock the Threepeater!\nThreepeater shoots down three lanes at once to triple your offensive firepower!",
+                            "QuestName": "Unlock Threepeater!",
+                            "Description": "Unlock Threepeater!\nThreepeater shoots down three lanes at once to triple your offensive firepower!",
                             "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
                             "LevelName": "pirate13",
                             "CompletionAwards": {
@@ -423,8 +423,8 @@
                             "QuestCategory": "Pirate",
                             "OverrideQuestTheme": "Pirate",
                             "UniqueID": "FINISH_PIRATE_15",
-                            "QuestName": "Unlock the Squash!",
-                            "Description": "Unlock the Squash!\nHave you ever wanted to turn zombies into pancakes?",
+                            "QuestName": "Unlock Squash!",
+                            "Description": "Unlock Squash!\nHave you ever wanted to turn zombies into pancakes?",
                             "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_PIRATE",
                             "LevelName": "pirate15",
                             "CompletionAwards": {
@@ -591,6 +591,266 @@
                             },
                             "Prerequisites": {
                                 "SpineLevelCompletions": ["pirate19"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_1",
+                            "QuestName": "Unlock Split Pea!",
+                            "Description": "Unlock Split Pea!\nSneaky zombies creeping up from behind? Split Pea shoots forward AND back!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy1",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["pirate20"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_3",
+                            "QuestName": "Unlock Chili Bean!",
+                            "Description": "Unlock Chili Bean!\nChili bean destroys a foe and stuns the group behind it!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy3",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy1"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_5",
+                            "QuestName": "Unlock Pea Pod!",
+                            "Description": "Unlock Pea Pod!\nPile up Pea Pods for massive firepower!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy5",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy3"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_7",
+                            "QuestName": "Unlock Lightning Reed!",
+                            "Description": "Unlock Lightning Reed!\nLightning Reed shocks multiple foes at high speeds and adjacent lanes!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy7",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy5"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_11",
+                            "QuestName": "Unlock Spikerock!",
+                            "Description": "Unlock Spikerock!\nStrong enough to stand up to a Gargantuar, sharp enough to de-feet zombies!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy11",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy7"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_15",
+                            "QuestName": "Unlock Tall Nut!",
+                            "Description": "Unlock Tall Nut!\nTall-Nut totally frustrates flying and hopping zombies! Serves 'em right!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy15",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy11"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_18",
+                            "QuestName": "Unlock Tumblweed!",
+                            "Description": "Unlock Tumblweed!\nTumbleweeds roar off down the lane, bouncing off zombies and knocking them back!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy18",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy15"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_21",
+                            "QuestName": "Unlock Winter Melon!",
+                            "Description": "Unlock Winter Melon!\nWinter-Melon hits groups of zombies, deals heavy damage AND chills them out!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy21",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy18"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Cowboy",
+                            "UniqueID": "FINISH_COWBOY_23",
+                            "QuestName": "Unlock Electricitea!",
+                            "Description": "Unlock Electricitea!\nShock and electrocute zombies with Electrici-tea's herbal discharge!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy23",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 5
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy21"]
+                            },
+                            "Priority": "Primary",
+                            "Disabled": false
+                        }
+                    },
+                    {
+                        "LevelQuestData": {
+                            "Slot": "Cowboy",
+                            "QuestCategory": "Cowboy",
+                            "OverrideQuestTheme": "Zomboss",
+                            "UniqueID": "FINISH_COWBOY_25",
+                            "QuestName": "Fight Dr. Zomboss",
+                            "Description": "Fight Dr. Zomboss\nAttack the awful Dr. Zomboss in this desert duel of Wild West!",
+                            "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
+                            "LevelName": "cowboy25",
+                            "CompletionAwards": {
+                                "Awards": [
+                                    {
+                                        "Type": "gems",
+                                        "SubType": "",
+                                        "Amount": 15
+                                    }
+                                ]
+                            },
+                            "Prerequisites": {
+                                "SpineLevelCompletions": ["cowboy23"]
                             },
                             "Priority": "Primary",
                             "Disabled": false
