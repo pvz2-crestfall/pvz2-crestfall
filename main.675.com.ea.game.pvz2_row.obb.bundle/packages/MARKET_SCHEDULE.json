@@ -40,7 +40,7 @@
                                 "MaxPurchase": -1,
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
-                                "Sku": ["com.popcap.pvz2.strawburst.gemium.50g", "com.popcap.pvz2.android.strawburst.gemium.50g"]
+                                "Sku": ["com.popcap.pvz2.strawburst.gemium.100g", "com.popcap.pvz2.android.strawburst.gemium.100g"]
                             },
                             {
                                 "Comment": "Jack o' Lantern",
@@ -56,8 +56,8 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.jackolantern.gemium.50g",
-                                    "com.popcap.pvz2.android.jackolantern.gemium.50g"
+                                    "com.popcap.pvz2.jackolantern.gemium.100g",
+                                    "com.popcap.pvz2.android.jackolantern.gemium.100g"
                                 ]
                             },
                             {
@@ -89,8 +89,8 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.coldsnapdragon.gemium.50g",
-                                    "com.popcap.pvz2.android.coldsnapdragon.gemium.50g"
+                                    "com.popcap.pvz2.coldsnapdragon.gemium.100g",
+                                    "com.popcap.pvz2.android.coldsnapdragon.gemium.100g"
                                 ]
                             },
                             {
@@ -107,8 +107,8 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.applemortar.gemium.50g",
-                                    "com.popcap.pvz2.android.applemortar.gemium.50g"
+                                    "com.popcap.pvz2.applemortar.gemium.100g",
+                                    "com.popcap.pvz2.android.applemortar.gemium.100g"
                                 ]
                             },
                             {
@@ -140,8 +140,8 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.ghostpepper.gemium.50g",
-                                    "com.popcap.pvz2.android.ghostpepper.gemium.50g"
+                                    "com.popcap.pvz2.ghostpepper.gemium.100g",
+                                    "com.popcap.pvz2.android.ghostpepper.gemium.100g"
                                 ]
                             },
                             {
@@ -157,7 +157,7 @@
                                 "MaxPurchase": -1,
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
-                                "Sku": ["com.popcap.pvz2.missiletoe.gemium.50g", "com.popcap.pvz2.android.missiletoe.gemium.50g"]
+                                "Sku": ["com.popcap.pvz2.missiletoe.gemium.100g", "com.popcap.pvz2.android.missiletoe.gemium.100g"]
                             },
                             {
                                 "Comment": "Holly Barrier",
@@ -173,8 +173,8 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.hollyknight.gemium.50g",
-                                    "com.popcap.pvz2.android.hollyknight.gemium.50g"
+                                    "com.popcap.pvz2.hollyknight.gemium.100g",
+                                    "com.popcap.pvz2.android.hollyknight.gemium.100g"
                                 ]
                             },
                             {
@@ -209,8 +209,8 @@
                                 "SoftCostPerPurchase": -1,
                                 "Visuals": "RTID(0)",
                                 "Sku": [
-                                    "com.popcap.pvz2.shrinkingviolet.gemium.50g",
-                                    "com.popcap.pvz2.android.shrinkingviolet.gemium.50g"
+                                    "com.popcap.pvz2.shrinkingviolet.gemium.100g",
+                                    "com.popcap.pvz2.android.shrinkingviolet.gemium.100g"
                                 ]
                             },
                             {
