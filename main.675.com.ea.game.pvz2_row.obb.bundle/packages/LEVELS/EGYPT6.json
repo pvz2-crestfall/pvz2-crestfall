@@ -7,6 +7,7 @@
                 "Description": "[PLAYERS_TRIP_TO_EGYPT]",
                 "FirstRewardParam": "gravebuster",
                 "FirstRewardType": "unlock_plant",
+                "ForceToWorldMap": true,
                 "LevelNumber": 1,
                 "Loot": "RTID(DefaultLoot@LevelModules)",
                 "StageModule": "RTID(EgyptStage@LevelModules)",
