@@ -4379,7 +4379,11 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [10]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [45]
                     },
                     {
                         "Name": "ActionXVelocity",

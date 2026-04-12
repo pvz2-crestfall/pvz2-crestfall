@@ -4093,7 +4093,7 @@
             "objclass": "PowerPropsStrawburstGrowth",
             "objdata": {
                 "TypeName": "StrawburstGrowthLvl1",
-                "GrowthTimes": [10.0, 15.0, 15.0]
+                "GrowthTimes": [5.0, 10.0, 20.0]
             }
         },
         {

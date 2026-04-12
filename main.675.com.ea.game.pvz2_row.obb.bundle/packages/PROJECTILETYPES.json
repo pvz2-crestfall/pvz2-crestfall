@@ -4339,9 +4339,7 @@
             "objclass": "ProjectilePropertySheet",
             "aliases": ["StrawburstProjectileSmall"],
             "objdata": {
-                "BaseDamage": 0,
-                "SplashDamage": 200,
-                "SplashRadius": 1.0736,
+                "BaseDamage": 150,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies", "ground"],
                 "DamageFlags": ["lobbed", "catapult"],
                 "RotateToMatchVelocity": true,
@@ -4418,7 +4416,7 @@
                 "ClassName": "StrawburstProjectile",
                 "BaseDamage": 0,
                 "SplashDamage": 400,
-                "SplashRadius": 2.0736,
+                "SplashRadius": 0.75,
                 "CollisionFlags": ["ground"],
                 "DamageFlags": ["lobbed", "catapult"],
                 "RotateToMatchVelocity": true,
@@ -4494,7 +4492,7 @@
             "objdata": {
                 "ClassName": "StrawburstProjectile",
                 "BaseDamage": 0,
-                "SplashDamage": 900,
+                "SplashDamage": 840,
                 "SplashRadius": 2.0736,
                 "CollisionFlags": ["ground"],
                 "DamageFlags": ["lobbed", "catapult"],
