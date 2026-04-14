@@ -862,8 +862,8 @@
                             "QuestCategory": "Cowboy",
                             "OverrideQuestTheme": "Cowboy",
                             "UniqueID": "FINISH_COWBOY_21",
-                            "QuestName": "Unlock Winter Melon!",
-                            "Description": "Unlock Winter Melon!\nWinter-Melon hits groups of zombies, deals heavy damage AND chills them out!",
+                            "QuestName": "Unlock Electricitea!",
+                            "Description": "Unlock Electricitea!\nShock and electrocute zombies with Electricitea's herbal discharge!",
                             "OverridePanelImage": "IMAGE_UI_EVENT_PANELS_WEST",
                             "LevelName": "cowboy21",
                             "CompletionAwards": {
