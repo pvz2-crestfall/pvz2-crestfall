@@ -22,7 +22,7 @@
                 ],
                 "StartingSun": 50,
                 "AddBonusStartingSun": true,
-                "LevelPowerupSet": "LevelPowerupsDefault",
+                "LevelPowerupSet": "LevelPowerupsDisabled",
                 "MusicType": "MiniGame_B"
             }
         },
