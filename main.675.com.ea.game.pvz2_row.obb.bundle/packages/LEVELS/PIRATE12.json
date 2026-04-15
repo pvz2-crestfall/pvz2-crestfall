@@ -4,7 +4,7 @@
             "objclass": "LevelDefinition",
             "objdata": {
                 "Name": "PS-12 - Watery Graves",
-                "Description": "[PLAYERS_TRIP_TO_EGYPT]",
+                "Description": "[PLAYERS_TRIP_TO_PIRATE_SHIP]",
                 "LevelNumber": 1,
                 "Loot": "RTID(DefaultLoot@LevelModules)",
                 "StageModule": "RTID(PirateStage@LevelModules)",
@@ -23,7 +23,8 @@
                     "RTID(PirateMowers@LevelModules)"
                 ],
                 "StartingSun": 50,
-                "AddBonusStartingSun": true
+                "AddBonusStartingSun": true,
+                "LevelPowerupSet": "LevelPowerupsDefault"
             }
         },
         {
@@ -59,48 +60,44 @@
                         "GridY": 0
                     },
                     {
+                        "GridX": 3,
+                        "GridY": 1
+                    },
+                    {
+                        "GridX": 3,
+                        "GridY": 2
+                    },
+                    {
+                        "GridX": 3,
+                        "GridY": 3
+                    },
+                    {
+                        "GridX": 3,
+                        "GridY": 4
+                    },
+                    {
                         "GridX": 4,
                         "GridY": 0
                     },
                     {
-                        "GridX": 3,
-                        "GridY": 1
-                    },
-                    {
                         "GridX": 4,
                         "GridY": 1
                     },
                     {
-                        "GridX": 3,
+                        "GridX": 4,
                         "GridY": 2
                     },
                     {
                         "GridX": 4,
-                        "GridY": 2
+                        "GridY": 3
+                    },
+                    {
+                        "GridX": 4,
+                        "GridY": 4
                     },
                     {
                         "GridX": 5,
                         "GridY": 2
-                    },
-                    {
-                        "GridX": 6,
-                        "GridY": 2
-                    },
-                    {
-                        "GridX": 7,
-                        "GridY": 2
-                    },
-                    {
-                        "GridX": 8,
-                        "GridY": 2
-                    },
-                    {
-                        "GridX": 3,
-                        "GridY": 3
-                    },
-                    {
-                        "GridX": 4,
-                        "GridY": 3
                     },
                     {
                         "GridX": 5,
@@ -108,7 +105,15 @@
                     },
                     {
                         "GridX": 6,
+                        "GridY": 2
+                    },
+                    {
+                        "GridX": 6,
                         "GridY": 3
+                    },
+                    {
+                        "GridX": 7,
+                        "GridY": 2
                     },
                     {
                         "GridX": 7,
@@ -116,15 +121,11 @@
                     },
                     {
                         "GridX": 8,
+                        "GridY": 2
+                    },
+                    {
+                        "GridX": 8,
                         "GridY": 3
-                    },
-                    {
-                        "GridX": 3,
-                        "GridY": 4
-                    },
-                    {
-                        "GridX": 4,
-                        "GridY": 4
                     }
                 ]
             }

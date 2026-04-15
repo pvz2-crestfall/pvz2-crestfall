@@ -8,7 +8,7 @@
                 "LevelNumber": 1,
                 "Loot": "RTID(DefaultLoot@LevelModules)",
                 "StageModule": "RTID(WestStage@LevelModules)",
-				"LevelPowerupSet": "LevelPowerupsDisabled",
+                "LevelPowerupSet": "LevelPowerupsDisabled",
                 "NormalPresentTable": "egypt_normal_01",
                 "ShinyPresentTable": "egypt_shiny_01",
                 "Modules": [
@@ -83,11 +83,6 @@
                     {
                         "Column": 7,
                         "RowStart": 0,
-                        "RowEnd": 1
-                    },
-                    {
-                        "Column": 7,
-                        "RowStart": 3,
                         "RowEnd": 4
                     }
                 ]
@@ -195,11 +190,11 @@
             "objdata": {
                 "Zombies": [
                     {
-                        "Type": "RTID(cowboy_armor1@ZombieTypes)",
+                        "Type": "RTID(cowboy_armor2@ZombieTypes)",
                         "Row": 4
                     },
                     {
-                        "Type": "RTID(cowboy_armor2@ZombieTypes)",
+                        "Type": "RTID(cowboy@ZombieTypes)",
                         "Row": 5
                     }
                 ]
@@ -233,12 +228,12 @@
                         "Row": 2
                     },
                     {
-                        "Type": "RTID(poncho_plate@ZombieTypes)",
-                        "Row": 5
-                    },
-                    {
                         "Type": "RTID(cowboy@ZombieTypes)",
                         "Row": 3
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)",
+                        "Row": 5
                     }
                 ]
             }
@@ -325,7 +320,7 @@
                         "Row": 4
                     },
                     {
-                        "Type": "RTID(cowboy_armor1@ZombieTypes)",
+                        "Type": "RTID(cowboy@ZombieTypes)",
                         "Row": 5
                     }
                 ]
@@ -371,10 +366,6 @@
                         "Row": 3
                     },
                     {
-                        "Type": "RTID(cowboy_armor1@ZombieTypes)",
-                        "Row": 5
-                    },
-                    {
                         "Type": "RTID(prospector@ZombieTypes)",
                         "Row": 2
                     }
@@ -406,10 +397,6 @@
                 "Zombies": [
                     {
                         "Type": "RTID(cowboy_armor2@ZombieTypes)",
-                        "Row": 1
-                    },
-                    {
-                        "Type": "RTID(cowboy_armor2@ZombieTypes)",
                         "Row": 3
                     },
                     {
@@ -431,6 +418,10 @@
                     {
                         "Type": "RTID(cowboy_flag@ZombieTypes)",
                         "Row": 3
+                    },
+                    {
+                        "Type": "RTID(cowboy_armor1@ZombieTypes)",
+                        "Row": 1
                     }
                 ]
             }
