@@ -1901,7 +1901,7 @@
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [10]
+                        "Values": [15]
                     },
                     {
                         "Name": "ActionDamagePF",
