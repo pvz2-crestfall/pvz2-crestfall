@@ -768,7 +768,7 @@
                     "List": [
                         {
                             "Type": "Shield",
-                            "Props": "Shield3000"
+                            "Props": "Shield3600"
                         },
                         {
                             "Type": "DamageRadius",

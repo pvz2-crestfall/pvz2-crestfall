@@ -348,6 +348,13 @@
         {
             "objclass": "PowerPropsShield",
             "objdata": {
+                "TypeName": "Shield3600",
+                "Health": 3600
+            }
+        },
+        {
+            "objclass": "PowerPropsShield",
+            "objdata": {
                 "TypeName": "Shield4000",
                 "Health": 4000
             }
@@ -1070,7 +1077,7 @@
                     },
                     "RenderAtEffectLayer": true,
                     "DamageProps": {
-                        "BaseDamage": 1800,
+                        "BaseDamage": 900,
                         "DamageFlags": ["hits_shield_and_body", "fire", "ash_death"]
                     },
                     "TargetProps": {

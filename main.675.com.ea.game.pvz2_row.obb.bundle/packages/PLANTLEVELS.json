@@ -5080,19 +5080,19 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [50]
+                        "Values": [200]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [10]
+                        "Values": [40]
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [5]
+                        "Values": [15]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [3000]
+                        "Values": [3600]
                     },
                     {
                         "Name": "PlantTier",
@@ -5112,7 +5112,7 @@
                         "Name": "ExplodeONutShield",
                         "SubType": "Shield",
                         "Type": "Power",
-                        "Values": ["Shield3000"]
+                        "Values": ["Shield3600"]
                     },
                     {
                         "Name": "ExplodeONutExplosion",
