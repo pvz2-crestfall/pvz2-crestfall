@@ -21,7 +21,10 @@
                     "RTID(DefaultSunDropper@LevelModules)"
                 ],
                 "StartingSun": 50,
-                "AddBonusStartingSun": true
+                "AddBonusStartingSun": true,
+                "FirstRewardType": "unlock_plant",
+                "FirstRewardParam": "melonpult",
+                "LevelPowerupSet": "LevelPowerupsDefault"
             }
         },
         {
