@@ -10421,7 +10421,7 @@
                         "CooldownDurationSeconds": 28800
                     }
                 ],
-                "StartingNumCharges": 3,
+                "StartingNumCharges": 5,
                 "PlantfoodMinTargets": 5,
                 "PlantfoodUnaimedRepeatCount": 5,
                 "PlantfoodUnaimedOffsetStart": -8,

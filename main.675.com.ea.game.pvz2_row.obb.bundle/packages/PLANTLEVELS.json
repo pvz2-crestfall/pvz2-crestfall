@@ -5769,15 +5769,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [300]
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [3000]
+                        "Values": [3600]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [15]
+                        "Values": [25]
                     },
                     {
                         "Name": "StartingCooldown",
@@ -5785,19 +5785,20 @@
                     },
                     {
                         "Name": "Holly_AttackDamage",
-                        "Values": [20]
+                        "Values": [40]
                     },
                     {
                         "Name": "Holly_ProjectileDamage",
-                        "Values": [50]
+                        "Values": [60]
                     },
                     {
                         "Name": "Holly_ProjectileDamagePF",
-                        "Values": [200]
+                        "Values": [180]
                     },
                     {
                         "Name": "Holly_Knockback",
-                        "Values": [64]
+                        "Values": [38],
+                        "# comment": "64 = full tile, 38 = ~0.6 tiles"
                     },
                     {
                         "Name": "Holly_KnockbackPF",
@@ -5805,11 +5806,11 @@
                     },
                     {
                         "Name": "Holly_BarrierLeafHitpoints",
-                        "Values": [1500]
+                        "Values": [1000]
                     },
                     {
                         "Name": "Holly_BarrierLeafDamage",
-                        "Values": [20]
+                        "Values": [30]
                     },
                     {
                         "Name": "Holly_BarrierLeafHitpointsPF",
@@ -5817,7 +5818,7 @@
                     },
                     {
                         "Name": "Holly_BarrierLeafDamagePF",
-                        "Values": [40]
+                        "Values": [60]
                     },
                     {
                         "Name": "PlantTier",
@@ -5849,7 +5850,7 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [3000]
+                        "Values": [1000]
                     },
                     {
                         "Name": "PacketCooldown",
@@ -5889,7 +5890,7 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [3000]
+                        "Values": [2500]
                     },
                     {
                         "Name": "PacketCooldown",
