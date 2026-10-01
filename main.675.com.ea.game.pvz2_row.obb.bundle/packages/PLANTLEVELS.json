@@ -4677,11 +4677,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [50]
+                        "Values": [100]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [15]
+                        "Values": [30]
                     },
                     {
                         "Name": "StartingCooldown",
@@ -4689,7 +4689,7 @@
                     },
                     {
                         "Name": "ShrinkingViolet_DamageMultiplier",
-                        "Values": [2]
+                        "Values": [1.75]
                     },
                     {
                         "Name": "PlantTier",
