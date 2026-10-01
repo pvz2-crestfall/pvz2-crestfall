@@ -5193,11 +5193,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [175]
+                        "Values": [250]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [15]
+                        "Values": [25]
                     },
                     {
                         "Name": "StartingCooldown",
@@ -5205,7 +5205,7 @@
                     },
                     {
                         "Name": "Hitpoints",
-                        "Values": [2000]
+                        "Values": [2200]
                     },
                     {
                         "Name": "KiwiBeast_GrowthStageOneDamage",
