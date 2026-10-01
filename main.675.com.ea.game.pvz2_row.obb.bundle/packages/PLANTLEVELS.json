@@ -4020,7 +4020,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [125]
                     },
                     {
                         "Name": "Hitpoints",
@@ -4032,7 +4032,7 @@
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [15]
+                        "Values": [20]
                     },
                     {
                         "Name": "PlantTier",
