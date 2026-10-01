@@ -2197,7 +2197,7 @@
                 },
                 "ExplosionDamage": 200.0,
                 "ExplosionRadius": 2.0,
-                "PlantFoodDurationSeconds": 10.0,
+                "PlantFoodDurationSeconds": 12.0,
                 "# Crack duration in number of seconds": 0,
                 "CrackLengthInNumTiles": 9,
                 "# Crack length in number of tiles": 0,
@@ -2217,7 +2217,7 @@
                         "Type": "special",
                         "Damage": 25,
                         "# Crack damage per pulse": 0,
-                        "CooldownTimeMax": 0.25,
+                        "CooldownTimeMax": 0.333332,
                         "# Crack time between damage ticks": 0
                     }
                 ],
