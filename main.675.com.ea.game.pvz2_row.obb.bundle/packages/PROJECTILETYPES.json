@@ -3862,9 +3862,9 @@
                 "DriftDecayZPeriod": 2,
                 "DriftDecayXPeriod": 10,
                 "DriftDecayXTargetVelocity": 30,
-                "BaseDamage": 50,
+                "BaseDamage": 70,
                 "DamageFlags": ["shooter"],
-                "SplashDamage": 50,
+                "SplashDamage": 60,
                 "SplashRadius": 1.1,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies"],
                 "InitialVelocity": [
@@ -4004,9 +4004,9 @@
                 "DriftDecayZPeriod": 2,
                 "DriftDecayXPeriod": 3,
                 "DriftDecayXTargetVelocity": 40,
-                "BaseDamage": 40,
+                "BaseDamage": 70,
                 "DamageFlags": ["shooter"],
-                "SplashDamage": 40,
+                "SplashDamage": 70,
                 "SplashRadius": 1.1,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies"],
                 "InitialVelocity": [

@@ -4226,7 +4226,7 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [275]
+                        "Values": [325]
                     },
                     {
                         "Name": "Hitpoints",
@@ -4237,10 +4237,14 @@
                         "Values": [15]
                     },
                     {
+                        "Name": "StartingCooldown",
+                        "Values": [5]
+                    },
+                    {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [50]
+                        "Values": [70]
                     },
                     {
                         "Name": "ActionXVelocity",
