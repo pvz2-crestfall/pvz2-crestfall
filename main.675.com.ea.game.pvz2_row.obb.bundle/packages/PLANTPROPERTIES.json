@@ -8191,8 +8191,8 @@
                 "ZenGardenDurationOverrideSeconds": 27000,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-                        "Value": -0.25,
+                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
+                        "Value": -50,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
