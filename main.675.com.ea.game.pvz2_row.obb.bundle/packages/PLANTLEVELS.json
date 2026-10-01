@@ -5253,11 +5253,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [500]
+                        "Values": [300]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [25]
                     },
                     {
                         "Name": "Hitpoints",
@@ -5266,7 +5266,7 @@
                     {
                         "Name": "ActionSplashDamage",
                         "SubType": "0",
-                        "Values": [1200]
+                        "Values": [180]
                     },
                     {
                         "Name": "MissileToe_ChillDuration",
@@ -5288,7 +5288,7 @@
                     },
                     {
                         "Name": "MissileToe_NumPlantFoodRockets",
-                        "Values": [4]
+                        "Values": [10]
                     },
                     {
                         "Name": "PlantTier",

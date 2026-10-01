@@ -9693,8 +9693,8 @@
                     {
                         "Type": "projectile",
                         "Projectile": "RTID(MissileToeDefault@ProjectileTypes)",
-                        "CooldownTimeMin": 20.0,
-                        "CooldownTimeMax": 20.0,
+                        "CooldownTimeMin": 30.0,
+                        "CooldownTimeMax": 30.0,
                         "SpawnOffset": {
                             "x": 0.0,
                             "y": -600.0

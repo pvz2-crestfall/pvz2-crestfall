@@ -6131,8 +6131,8 @@
             "aliases": ["MissileToeDefault"],
             "objdata": {
                 "BaseDamage": 0,
-                "SplashDamage": 1200,
-                "SplashRadius": 2.0,
+                "SplashDamage": 180,
+                "SplashRadius": 2.0736,
                 "SplashRadiusBaseDamageCutoff": 1.0,
                 "CollisionFlags": ["ground"],
                 "DamageFlags": ["lobbed"],
@@ -6191,15 +6191,15 @@
                     {
                         "Condition": "chill",
                         "Duration": {
-                            "Min": 10.0,
-                            "Max": 10.0
+                            "Min": 20.0,
+                            "Max": 20.0
                         }
                     },
                     {
                         "Condition": "freeze",
                         "Duration": {
-                            "Min": 0,
-                            "Max": 0
+                            "Min": 5,
+                            "Max": 5
                         }
                     }
                 ],
