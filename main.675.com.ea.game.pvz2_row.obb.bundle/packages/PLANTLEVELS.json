@@ -3179,7 +3179,7 @@
                     },
                     {
                         "Name": "ShadowShroom_PoisonDuration",
-                        "Values": [30]
+                        "Values": [9999]
                     },
                     {
                         "Name": "PlantTier",
