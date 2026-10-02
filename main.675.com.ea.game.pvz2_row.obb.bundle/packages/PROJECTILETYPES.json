@@ -5605,8 +5605,8 @@
             "objdata": {
                 "ClassName": "BloomingHeartsProjectile",
                 "BaseDamage": 40,
-                "AdditionalDamagePerStack": 10,
-                "MaximumStacks": 5,
+                "AdditionalDamagePerStack": 15,
+                "MaximumStacks": 7,
                 "StacksToAdd": 1,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies", "ground"],
                 "DamageFlags": ["lobbed", "catapult"],
@@ -5683,7 +5683,7 @@
             "objdata": {
                 "ClassName": "BloomingHeartsProjectile",
                 "BaseDamage": 200,
-                "MaximumStacks": 5,
+                "MaximumStacks": 7,
                 "AdditionalDamagePerStack": 20,
                 "StacksToAdd": 2,
                 "CollisionFlags": ["griditems", "ground_zombies", "off_ground_zombies", "ground"],

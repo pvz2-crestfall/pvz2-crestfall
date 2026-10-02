@@ -4721,21 +4721,25 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [100]
                     },
                     {
                         "Name": "Hitpoints",
                         "Values": [300]
                     },
                     {
-                        "Name": "PacketCooldown",
+                        "Name": "StartingCooldown",
                         "Values": [5]
+                    },
+                    {
+                        "Name": "PacketCooldown",
+                        "Values": [8]
                     },
                     {
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [40]
+                        "Values": [45]
                     },
                     {
                         "Name": "ActionXVelocity",
