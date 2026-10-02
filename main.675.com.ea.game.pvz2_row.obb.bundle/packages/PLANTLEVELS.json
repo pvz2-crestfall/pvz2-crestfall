@@ -6866,11 +6866,11 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [200]
+                        "Values": [300]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [10]
+                        "Values": [15]
                     },
                     {
                         "Name": "Hitpoints",
@@ -6880,7 +6880,7 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "1",
                         "Type": "ActionDamage",
-                        "Values": [30]
+                        "Values": [120]
                     },
                     {
                         "Name": "ActionXVelocity",
@@ -6889,7 +6889,7 @@
                     },
                     {
                         "Name": "SnapPea_ChewTimeSeconds",
-                        "Values": [20]
+                        "Values": [12]
                     },
                     {
                         "Name": "ActionDamageZombieHead",

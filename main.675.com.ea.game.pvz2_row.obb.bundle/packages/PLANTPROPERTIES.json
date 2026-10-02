@@ -11771,8 +11771,8 @@
                 "PlantGridType": "ground",
                 "PlantFoodActivationSound": "Play_Peashooter_Food",
                 "ChewTimeSeconds": 20.0,
-                "FiredZombieHeadAttackCooldownSeconds": 1.5,
-                "CouldNotEatAttackCooldownSeconds": 4.0,
+                "FiredZombieHeadAttackCooldownSeconds": 2.0,
+                "CouldNotEatAttackCooldownSeconds": 5.0,
                 "PlantfoodTargetCount": 5,
                 "ZombieEatExcludelist": {
                     "ListType": "includelist",
@@ -11873,8 +11873,8 @@
                 "ZenGardenDurationOverrideSeconds": 12600,
                 "Boosts": [
                     {
-                        "PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
-                        "Value": 1,
+                        "PlantBoostProps": "RTID(BoostSunDiscount@PropertySheets)",
+                        "Value": -75,
                         "CooldownDurationSeconds": 28800
                     }
                 ],
