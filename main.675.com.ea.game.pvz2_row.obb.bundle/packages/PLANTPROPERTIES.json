@@ -9640,7 +9640,16 @@
                         "Arg1": 0.01
                     }
                 ],
-                "ZenGardenSproutWeight": 0,
+                "ZenGardenSproutWeight": 25,
+                "ZenGardenBoostCost": 15,
+                "ZenGardenDurationOverrideSeconds": 27000,
+                "Boosts": [
+                    {
+                        "PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
+                        "Value": -0.384,
+                        "CooldownDurationSeconds": 28800
+                    }
+                ],
                 "IsConsumable": true,
                 "IsInstant": true,
                 "GridItemDamage": 200.0,

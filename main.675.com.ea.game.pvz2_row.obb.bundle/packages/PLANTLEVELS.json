@@ -4917,20 +4917,24 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [150]
+                        "Values": [250]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [35]
+                        "Values": [52]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [52]
                     },
                     {
                         "Name": "ActionDamage",
                         "SubType": "0",
-                        "Values": [1800]
+                        "Values": [900]
                     },
                     {
                         "Name": "GridItemDamage",
-                        "Values": [200]
+                        "Values": [600]
                     },
                     {
                         "Name": "PlantTier",
