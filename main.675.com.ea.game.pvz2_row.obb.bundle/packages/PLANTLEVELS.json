@@ -6587,11 +6587,15 @@
                 "FloatStats": [
                     {
                         "Name": "Cost",
-                        "Values": [125]
+                        "Values": [225]
                     },
                     {
                         "Name": "PacketCooldown",
-                        "Values": [5]
+                        "Values": [8]
+                    },
+                    {
+                        "Name": "StartingCooldown",
+                        "Values": [20]
                     },
                     {
                         "Name": "Hitpoints",
@@ -6601,23 +6605,23 @@
                         "Name": "ActionDamageNormal",
                         "SubType": "0",
                         "Type": "ActionDamage",
-                        "Values": [30]
+                        "Values": [20]
                     },
                     {
                         "Name": "PoisonPeashooter_MaxStacks",
-                        "Values": [25]
+                        "Values": [12]
                     },
                     {
                         "Name": "PoisonPeashooter_PoisonDPSPerStack",
-                        "Values": [3]
+                        "Values": [9]
                     },
                     {
                         "Name": "PoisonPeashooter_SpeedPercentDecreasePerStack",
-                        "Values": [2]
+                        "Values": [3.5]
                     },
                     {
                         "Name": "PoisonPeashooter_PoisonAndSlowDuration",
-                        "Values": [2]
+                        "Values": [7]
                     },
                     {
                         "Name": "PoisonPeashooter_PlantfoodPoisonDPS",
@@ -6625,11 +6629,11 @@
                     },
                     {
                         "Name": "PoisonPeashooter_PlantfoodSpeedPercentDecrease",
-                        "Values": [10]
+                        "Values": [90]
                     },
                     {
                         "Name": "PoisonPeashooter_PlantfoodPoisonAndSlowDuration",
-                        "Values": [2]
+                        "Values": [3]
                     },
                     {
                         "Name": "PoisonPeashooter_PlantfoodKnockBackDistance",
@@ -6653,11 +6657,11 @@
                     },
                     {
                         "Name": "PoisonPeashooter_GridItemSpeedPercentDebuff",
-                        "Values": [10]
+                        "Values": [50]
                     },
                     {
                         "Name": "PoisonPeashooter_GridItemPoisonDPS",
-                        "Values": [20]
+                        "Values": [50]
                     },
                     {
                         "Name": "ActionXVelocity",
