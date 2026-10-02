@@ -10158,7 +10158,7 @@
                     "List": [
                         {
                             "Type": "SunProducer",
-                            "Props": "SunProducer50"
+                            "Props": "SunProducer25"
                         }
                     ]
                 },

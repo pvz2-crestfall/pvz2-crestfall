@@ -5559,7 +5559,7 @@
                     },
                     {
                         "Name": "StartingCooldown",
-                        "Values": [20]
+                        "Values": [15]
                     },
                     {
                         "Name": "Hitpoints",
@@ -5567,7 +5567,7 @@
                     },
                     {
                         "Name": "SolarTomato_SolarFlareStunDuration",
-                        "Values": [8]
+                        "Values": [5]
                     },
                     {
                         "Name": "SolarTomato_SolarFlareDamage",
@@ -5591,7 +5591,7 @@
                         "Name": "SolarTomatoSunProduction",
                         "SubType": "SunProducer",
                         "Type": "Power",
-                        "Values": ["SunProducer50"]
+                        "Values": ["SunProducer25"]
                     }
                 ],
                 "TypeName": "solartomato",
