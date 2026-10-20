@@ -242,8 +242,8 @@
                         "EntryPoint": "future_level_1",
                         "Difficulty": 3,
                         "LastLevel": ["future25"],
-                        "ComingSoon": true,
-                        "Hidden": true,
+                        "ComingSoon": false,
+                        "Hidden": false,
                         "UniverseIconOffset": {
                             "mX": 17,
                             "mY": 0
